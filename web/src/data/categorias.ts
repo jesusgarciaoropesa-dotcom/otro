@@ -67,5 +67,5 @@ export function getCategoria(slug: string): Categoria | undefined {
 }
 
 export function getCategoriaImagen(slug: string): string {
-  return `/images/categorias/${slug}.svg`;
+  return `/images/categorias/${slug}.jpg`;
 }
