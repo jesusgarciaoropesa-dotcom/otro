@@ -5,8 +5,16 @@
       <stop offset="100%" stop-color="#dcebd3" />
     </linearGradient>
   </defs>
+  <style>
+    .spin { animation: spin 3.5s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 50%; }
+    @keyframes spin {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(50deg); }
+    }
+    @media (prefers-reduced-motion: reduce) { .spin { animation: none; } }
+  </style>
   <rect width="400" height="225" fill="url(#sky)" />
-  
+
   
     <rect x="0" y="195" width="400" height="30" fill="#c17a4f" opacity="0.35" />
     <rect x="0" y="193" width="400" height="4" fill="#a8562f" opacity="0.4" />
@@ -15,7 +23,9 @@
   <rect x="112" y="104" width="176" height="24" rx="8" fill="#a8562f" />
   <ellipse cx="160" cy="112" rx="16" ry="10" fill="#3f6b3a" transform="rotate(-10 160 112)" />
   <ellipse cx="200" cy="108" rx="14" ry="9" fill="#5c8e56" transform="rotate(8 200 108)" />
-  <path d="M255 60 a34 34 0 1 1 -14 -27" fill="none" stroke="#3f6b3a" stroke-width="7" stroke-linecap="round" />
-  <path d="M232 22 l14 8 l-4 16 Z" fill="#3f6b3a" />
+  <g class="spin">
+    <path d="M255 60 a34 34 0 1 1 -14 -27" fill="none" stroke="#3f6b3a" stroke-width="7" stroke-linecap="round" />
+    <path d="M232 22 l14 8 l-4 16 Z" fill="#3f6b3a" />
+  </g>
 
 </svg>

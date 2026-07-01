@@ -39,11 +39,17 @@ const recientes = [...articulos]
         <dl class="mt-8 flex flex-wrap gap-x-8 gap-y-2 border-t border-stone-300/60 pt-5 text-sm text-stone-600">
           <div>
             <dt class="sr-only">Categorías</dt>
-            <dd><span class="font-(--font-display) text-lg font-semibold text-(--color-tierra)">9</span> categorías</dd>
+            <dd>
+              <span class="counter font-(--font-display) text-lg font-semibold text-(--color-tierra)" data-count-to="9">0</span>
+              categorías
+            </dd>
           </div>
           <div>
             <dt class="sr-only">Guías</dt>
-            <dd><span class="font-(--font-display) text-lg font-semibold text-(--color-tierra)">80+</span> guías prácticas</dd>
+            <dd>
+              <span class="counter font-(--font-display) text-lg font-semibold text-(--color-tierra)" data-count-to="80" data-suffix="+">0</span>
+              guías prácticas
+            </dd>
           </div>
           <div>
             <dt class="sr-only">Actualización</dt>
@@ -63,10 +69,11 @@ const recientes = [...articulos]
         </div>
       </div>
       <div class="mt-6 grid gap-6 sm:grid-cols-3">
-        {pilares.map((a) => (
+        {pilares.map((a, i) => (
           <a
             href={withBase(`/articulos/${a.id}/`)}
-            class="group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
+            class="reveal group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
+            style={`transition-delay: ${i * 90}ms`}
           >
             <div class="relative h-40 overflow-hidden">
               <img
@@ -93,10 +100,11 @@ const recientes = [...articulos]
     <span class="text-xs font-semibold uppercase tracking-widest text-(--color-tierra)">El mapa del sitio</span>
     <h2 class="mt-1 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro) sm:text-3xl">Explora por categoría</h2>
     <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {categorias.map((cat) => (
+      {categorias.map((cat, i) => (
         <a
           href={withBase(`/categorias/${cat.slug}/`)}
-          class="group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
+          class="reveal group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
+          style={`transition-delay: ${(i % 3) * 90}ms`}
         >
           <div class="relative h-32 overflow-hidden">
             <img
@@ -122,8 +130,8 @@ const recientes = [...articulos]
         <span class="text-xs font-semibold uppercase tracking-widest text-(--color-tierra)">Recién publicado</span>
         <h2 class="mt-1 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro) sm:text-3xl">Últimos artículos</h2>
         <ul class="mt-6 divide-y divide-stone-200 overflow-hidden rounded-2xl ring-1 ring-stone-200">
-          {recientes.map((a) => (
-            <li>
+          {recientes.map((a, i) => (
+            <li class="reveal" style={`transition-delay: ${i * 70}ms`}>
               <a href={withBase(`/articulos/${a.id}/`)} class="flex items-center gap-4 px-5 py-4 transition hover:bg-(--color-crema)">
                 <img
                   src={withBase(getCategoriaImagen(a.data.categoria))}
@@ -142,4 +150,31 @@ const recientes = [...articulos]
       </div>
     </section>
   )}
+
+  <script>
+    // Cuenta de 0 al valor final cada .counter del hero, salvo que el usuario
+    // prefiera menos movimiento (en cuyo caso se muestra el valor final ya).
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    document.querySelectorAll<HTMLElement>('.counter').forEach((el) => {
+      const target = Number(el.dataset.countTo ?? '0');
+      const suffix = el.dataset.suffix ?? '';
+
+      if (reduceMotion) {
+        el.textContent = `${target}${suffix}`;
+        return;
+      }
+
+      const duration = 900;
+      const start = performance.now();
+
+      function tick(now: number) {
+        const progress = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        el.textContent = `${Math.round(eased * target)}${suffix}`;
+        if (progress < 1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    });
+  </script>
 </BaseLayout>

@@ -33,3 +33,21 @@ body {
 @utility btn-secondary {
   @apply btn bg-white text-(--color-hoja-oscuro) ring-1 ring-inset ring-stone-300 hover:ring-(--color-hoja);
 }
+
+/* Scroll-reveal: aplicado por src/scripts/reveal.ts vía IntersectionObserver */
+.reveal {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

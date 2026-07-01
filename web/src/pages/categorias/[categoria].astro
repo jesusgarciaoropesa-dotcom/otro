@@ -48,8 +48,8 @@ const articulos = todos
     <p class="mt-8 text-stone-500">Próximamente publicaremos artículos en esta categoría.</p>
   ) : (
     <ul class="mt-4 grid gap-6 sm:grid-cols-2">
-      {articulos.map((a) => (
-        <li>
+      {articulos.map((a, i) => (
+        <li class="reveal" style={`transition-delay: ${(i % 4) * 90}ms`}>
           <a
             href={withBase(`/articulos/${a.id}/`)}
             class="flex h-full gap-4 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl"
