@@ -46,6 +46,6 @@ Las gamas más avanzadas incluyen una entrada para conectar directamente una lí
 - **Estás empezando con pocas macetas**: opción 1 (autorregante clásica).
 - **Cultivas tomates o pimientos**: opción 2 (gran capacidad).
 - **Ya tienes macetas bonitas que no quieres cambiar**: opción 3 (kit de conversión).
-- **Tienes un huerto grande o viajas a menudo**: opción 4, combinada con un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/).
+- **Tienes un huerto grande o viajas a menudo**: opción 4, combinada con un [sistema de riego automático](../mejor-sistema-riego-automatico-macetas-balcon/).
 
 En cualquier caso, una maceta autorregante no sustituye por completo la necesidad de revisar el depósito periódicamente, pero sí multiplica el margen de error antes de que una planta sufra por falta de agua.

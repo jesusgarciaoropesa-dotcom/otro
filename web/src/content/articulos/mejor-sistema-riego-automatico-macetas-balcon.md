@@ -45,4 +45,4 @@ Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados
 
 Para un huerto de balcón de tamaño medio (10-20 macetas), la combinación **goteo por gravedad o presión de red + programador a pilas con goteros regulables** ofrece la mejor relación fiabilidad-precio. Reserva las soluciones con app y sensores para cuando quieras un control más fino o tengas muchas macetas con necesidades de riego muy distintas.
 
-Consulta también nuestra guía de [instalación de riego por goteo casero](/categorias/riego-automatico/) para el paso a paso completo.
+Consulta también nuestra guía de [instalación de riego por goteo casero](../../categorias/riego-automatico/) para el paso a paso completo.

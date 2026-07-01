@@ -51,4 +51,4 @@ Las primeras 2-3 semanas tras la siembra o el trasplante son las más delicadas.
 
 ## Siguientes pasos
 
-Una vez tengas tu huerto en marcha, te recomendamos revisar nuestra guía de [riego automático](/categorias/riego-automatico/) para automatizar el mantenimiento, y nuestro [calendario de siembra](/categorias/calendario-de-siembra/) para saber qué plantar cada mes del año.
+Una vez tengas tu huerto en marcha, te recomendamos revisar nuestra guía de [riego automático](../../categorias/riego-automatico/) para automatizar el mantenimiento, y nuestro [calendario de siembra](../../categorias/calendario-de-siembra/) para saber qué plantar cada mes del año.

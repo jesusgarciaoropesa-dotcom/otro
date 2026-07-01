@@ -37,4 +37,4 @@ Corta siempre por encima de un par de hojas, nunca arranques hojas sueltas de la
 
 Cuando la albahaca empieza a formar flores, las hojas pierden sabor y la planta reduce su crecimiento vegetativo. Poda las puntas florales en cuanto las veas aparecer para prolongar la producción de hojas.
 
-Si buscas automatizar el riego para evitar estos altibajos, revisa nuestra comparativa de [sistemas de riego automático para macetas](/articulos/mejor-sistema-riego-automatico-macetas-balcon/).
+Si buscas automatizar el riego para evitar estos altibajos, revisa nuestra comparativa de [sistemas de riego automático para macetas](../mejor-sistema-riego-automatico-macetas-balcon/).

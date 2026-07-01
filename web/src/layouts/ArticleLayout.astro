@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { getCategoria } from '../data/categorias';
+import { withBase } from '../lib/url';
 
 interface Props {
   title: string;
@@ -24,10 +25,10 @@ const etiquetaIntencion: Record<typeof intencion, string> = {
 
 <BaseLayout title={title} description={description}>
   <nav class="mb-4 text-sm text-stone-500" aria-label="breadcrumb">
-    <a href="/" class="hover:underline">Inicio</a>
+    <a href={withBase('/')} class="hover:underline">Inicio</a>
     <span class="mx-1">/</span>
     {cat && (
-      <a href={`/categorias/${cat.slug}/`} class="hover:underline">{cat.nombre}</a>
+      <a href={withBase(`/categorias/${cat.slug}/`)} class="hover:underline">{cat.nombre}</a>
     )}
     <span class="mx-1">/</span>
     <span class="text-stone-700">{title}</span>

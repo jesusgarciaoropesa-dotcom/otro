@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/url';
 ---
 
 <BaseLayout
@@ -21,7 +22,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       herramientas y sistemas de riego automático.
     </p>
     <p>
-      Puedes contactar con nosotros a través de nuestra <a href="/contacto/">página de contacto</a>.
+      Puedes contactar con nosotros a través de nuestra <a href={withBase('/contacto/')}>página de contacto</a>.
     </p>
   </article>
 </BaseLayout>

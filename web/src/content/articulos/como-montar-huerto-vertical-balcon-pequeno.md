@@ -44,7 +44,7 @@ Evita colocar hortalizas de porte grande o raíz profunda (tomates, berenjenas) 
 
 ## Riego en huertos verticales
 
-Al haber varios niveles, el riego manual se vuelve poco práctico. Te recomendamos combinar la estructura vertical con un [sistema de riego automático por goteo](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) con una línea independiente para cada nivel, asegurando que el agua sobrante de los niveles superiores no ahogue los inferiores.
+Al haber varios niveles, el riego manual se vuelve poco práctico. Te recomendamos combinar la estructura vertical con un [sistema de riego automático por goteo](../mejor-sistema-riego-automatico-macetas-balcon/) con una línea independiente para cada nivel, asegurando que el agua sobrante de los niveles superiores no ahogue los inferiores.
 
 ## Consejos de mantenimiento
 

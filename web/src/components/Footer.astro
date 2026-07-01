@@ -1,12 +1,16 @@
+---
+import { withBase } from '../lib/url';
+---
+
 <footer class="mt-16 border-t border-stone-200 bg-white">
   <div class="mx-auto max-w-5xl px-4 py-8 text-sm text-stone-500">
     <div class="flex flex-wrap justify-between gap-4">
       <p>&copy; {new Date().getFullYear()} Mi Balcón Verde. Todos los derechos reservados.</p>
       <nav class="flex gap-4">
-        <a href="/sobre-nosotros/" class="hover:underline">Sobre nosotros</a>
-        <a href="/contacto/" class="hover:underline">Contacto</a>
-        <a href="/politica-de-privacidad/" class="hover:underline">Privacidad</a>
-        <a href="/politica-de-cookies/" class="hover:underline">Cookies</a>
+        <a href={withBase('/sobre-nosotros/')} class="hover:underline">Sobre nosotros</a>
+        <a href={withBase('/contacto/')} class="hover:underline">Contacto</a>
+        <a href={withBase('/politica-de-privacidad/')} class="hover:underline">Privacidad</a>
+        <a href={withBase('/politica-de-cookies/')} class="hover:underline">Cookies</a>
       </nav>
     </div>
     <p class="mt-4 text-xs text-stone-400">

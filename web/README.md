@@ -87,3 +87,30 @@ Al ser un sitio 100% estático, se despliega gratis en **Vercel** o **Netlify**:
 conecta el repositorio, indica `web/` como directorio raíz del proyecto, comando de
 build `npm run build` y directorio de salida `dist/`. También funciona en
 cualquier hosting estático (Cloudflare Pages, GitHub Pages, etc.).
+
+### GitHub Pages (configuración actual del repo)
+
+El repo está configurado para GitHub Pages en modo **"Deploy from a branch"**,
+que sirve archivos tal cual sin ejecutar ningún build. Como Astro necesita
+`npm run build`, el workflow `.github/workflows/deploy-web.yml` compila el sitio
+en cada push a `web/` y publica el contenido de `web/dist/` en una rama `gh-pages`
+(usando `peaceiris/actions-gh-pages`).
+
+**Pasos para activarlo:**
+1. Haz push de estos cambios (el workflow se ejecuta automáticamente y crea/actualiza
+   la rama `gh-pages`).
+2. En el repo, ve a **Settings → Pages**.
+3. En **Source**, selecciona **Deploy from a branch**.
+4. En **Branch**, elige `gh-pages` y la carpeta `/ (root)`. Guarda.
+5. El sitio quedará publicado en `https://jesusgarciaoropesa-dotcom.github.io/otro/`.
+
+Como es un *project site* (no `usuario.github.io`), Astro necesita `base: '/otro'`
+en `astro.config.mjs` para que todos los enlaces y assets funcionen bajo esa
+subruta — ya está configurado. Todos los enlaces internos usan el helper
+`src/lib/url.ts` (`withBase()`) precisamente para no depender de rutas absolutas
+hardcodeadas, que romperían bajo un `base` distinto de `/`.
+
+Si en el futuro pasas a un dominio propio (ej. `milbalconverde.com`), cambia en
+`astro.config.mjs`: `site` al dominio real y `base: '/'` (o elimínalo), añade un
+archivo `public/CNAME` con el dominio, y actualiza el DNS según la
+[documentación de GitHub Pages](https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site).

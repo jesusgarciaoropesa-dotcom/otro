@@ -39,7 +39,7 @@ Estos cultivos conviene empezarlos en semillero protegido (interior o mini inver
 
 - Vigila el pronóstico de heladas tardías, especialmente en zonas de interior o de montaña: una helada nocturna puede matar plántulas recién trasplantadas.
 - Si el balcón todavía recibe vientos fríos, protege las plántulas jóvenes con un pequeño túnel o tela de protección durante la noche.
-- Empieza ya a revisar o instalar tu [sistema de riego automático](/categorias/riego-automatico/): a partir de abril el consumo de agua empieza a subir con fuerza.
+- Empieza ya a revisar o instalar tu [sistema de riego automático](../../categorias/riego-automatico/): a partir de abril el consumo de agua empieza a subir con fuerza.
 
 ## Qué NO sembrar todavía en marzo
 
@@ -51,4 +51,4 @@ Evita todavía la siembra directa en exterior (sin protección) de:
 
 Espera a que las temperaturas nocturnas superen de forma estable los 10-12°C, normalmente entre finales de abril y mayo según la zona climática.
 
-Consulta el resto de nuestro [calendario de siembra mes a mes](/categorias/calendario-de-siembra/) para planificar toda la temporada.
+Consulta el resto de nuestro [calendario de siembra mes a mes](../../categorias/calendario-de-siembra/) para planificar toda la temporada.
