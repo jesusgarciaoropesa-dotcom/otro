@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-hoja: #2f6b3c;
+  --color-hoja-oscuro: #204a29;
+  --color-tierra: #6b4a2f;
+  --color-crema: #faf7f0;
+}
+
+body {
+  @apply bg-[--color-crema] text-stone-800;
+}
