@@ -1,13 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225" role="img" aria-label="calendario-de-siembra">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
   <defs>
-    <linearGradient id="g-calendario-de-siembra" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f6ded0" />
-      <stop offset="100%" stop-color="#e3ad84" />
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdeee0" />
+      <stop offset="100%" stop-color="#f2d3b8" />
     </linearGradient>
   </defs>
-  <rect width="400" height="225" fill="url(#g-calendario-de-siembra)" />
-  <circle cx="330" cy="30" r="70" fill="#a8562f" opacity="0.12" />
-  <circle cx="40" cy="200" r="90" fill="#a8562f" opacity="0.10" />
-  <circle cx="200" cy="112" r="72" fill="#ffffff" opacity="0.35" />
-  <text x="200" y="128" font-size="88" text-anchor="middle" dominant-baseline="middle">📅</text>
+  <rect width="400" height="225" fill="url(#sky)" />
+  
+  
+    <rect x="0" y="195" width="400" height="30" fill="#c17a4f" opacity="0.35" />
+    <rect x="0" y="193" width="400" height="4" fill="#a8562f" opacity="0.4" />
+  
+  <rect x="110" y="55" width="180" height="140" rx="14" fill="#ffffff" />
+  <rect x="110" y="55" width="180" height="34" rx="14" fill="#a8562f" />
+  <rect x="110" y="75" width="180" height="14" fill="#a8562f" />
+  <circle cx="150" cy="55" r="7" fill="#7a3d20" />
+  <circle cx="250" cy="55" r="7" fill="#7a3d20" />
+  <rect x="132" y="104" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="132" y="134" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="132" y="164" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="182" y="104" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="182" y="134" width="38" height="22" rx="5" fill="#d9a441" /><rect x="182" y="164" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="232" y="104" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="232" y="134" width="38" height="22" rx="5" fill="#f0e2c8" /><rect x="232" y="164" width="38" height="22" rx="5" fill="#f0e2c8" />
+  <path d="M200 118 v-14" stroke="#24401f" stroke-width="4" stroke-linecap="round" />
+  <ellipse cx="194" cy="101" rx="8" ry="6" fill="#3f6b3a" transform="rotate(-20 194 101)" />
+  <ellipse cx="206" cy="101" rx="8" ry="6" fill="#3f6b3a" transform="rotate(20 206 101)" />
+
 </svg>
