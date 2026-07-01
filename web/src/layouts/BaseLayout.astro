@@ -20,7 +20,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
     <link rel="canonical" href={canonicalURL} />
-    <title>{title} · Mi Balcón Verde</title>
+    <title>{title} · MiHuertoUrbano</title>
     <meta name="description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
@@ -36,7 +36,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   </head>
   <body class="flex min-h-screen flex-col">
     <Header />
-    <main class="mx-auto w-full max-w-5xl flex-1 px-4 py-8">
+    <main class="mx-auto w-full max-w-5xl flex-1 px-4 py-10 sm:py-12">
       <slot />
     </main>
     <Footer />

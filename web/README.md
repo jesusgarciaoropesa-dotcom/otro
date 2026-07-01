@@ -1,4 +1,4 @@
-# Mi Balcón Verde — web del nicho "huerto urbano en balcón/terraza"
+# MiHuertoUrbano — web del nicho "huerto urbano en balcón/terraza"
 
 Sitio estático construido con [Astro](https://astro.build) + Tailwind CSS, siguiendo
 el plan de negocio de `../plan-nicho-huerto-urbano-balcon.md`. Pensado para SEO y
@@ -110,7 +110,7 @@ subruta — ya está configurado. Todos los enlaces internos usan el helper
 `src/lib/url.ts` (`withBase()`) precisamente para no depender de rutas absolutas
 hardcodeadas, que romperían bajo un `base` distinto de `/`.
 
-Si en el futuro pasas a un dominio propio (ej. `milbalconverde.com`), cambia en
+Si en el futuro pasas a un dominio propio (ej. `mihuertourbano.com`), cambia en
 `astro.config.mjs`: `site` al dominio real y `base: '/'` (o elimínalo), añade un
 archivo `public/CNAME` con el dominio, y actualiza el DNS según la
 [documentación de GitHub Pages](https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site).

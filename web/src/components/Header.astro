@@ -3,21 +3,52 @@ import { categorias } from '../data/categorias';
 import { withBase } from '../lib/url';
 ---
 
-<header class="border-b border-stone-200 bg-white">
-  <div class="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-4">
+<header class="sticky top-0 z-40 border-b border-stone-200 bg-white/90 backdrop-blur">
+  <div class="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-4">
     <a href={withBase('/')} class="flex items-center gap-2 font-[--font-display] text-xl font-semibold text-[--color-hoja-oscuro]">
       <span aria-hidden="true">🌿</span>
-      Mi Balcón Verde
+      MiHuertoUrbano
     </a>
-    <nav class="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-      {categorias.map((cat) => (
-        <a
-          href={withBase(`/categorias/${cat.slug}/`)}
-          class="whitespace-nowrap text-stone-600 hover:text-[--color-tierra] hover:underline"
+
+    <details class="categorias-menu group relative">
+      <summary class="flex cursor-pointer list-none items-center gap-1.5 rounded-full border border-stone-200 px-4 py-2 text-sm font-medium text-stone-700 transition hover:border-[--color-tierra] hover:text-[--color-tierra]">
+        Categorías
+        <svg
+          class="h-3 w-3 transition-transform duration-200 group-open:rotate-180"
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
         >
-          {cat.nombre}
-        </a>
-      ))}
-    </nav>
+          <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+        </svg>
+      </summary>
+      <div class="absolute right-0 z-50 mt-2 grid w-[min(92vw,36rem)] grid-cols-2 gap-1 rounded-xl border border-stone-200 bg-white p-3 shadow-lg sm:grid-cols-3">
+        {categorias.map((cat) => (
+          <a
+            href={withBase(`/categorias/${cat.slug}/`)}
+            class="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-stone-700 transition hover:bg-[--color-crema] hover:text-[--color-tierra]"
+          >
+            <span class="text-lg" aria-hidden="true">{cat.emoji}</span>
+            {cat.nombre}
+          </a>
+        ))}
+      </div>
+    </details>
   </div>
 </header>
+
+<script>
+  // Cierra el desplegable de categorías al pulsar fuera, al elegir un enlace,
+  // o al pulsar Escape. <details>/<summary> no lo hace por sí solo.
+  document.querySelectorAll<HTMLDetailsElement>('details.categorias-menu').forEach((menu) => {
+    document.addEventListener('click', (event) => {
+      if (!menu.contains(event.target as Node)) menu.open = false;
+    });
+    menu.addEventListener('click', (event) => {
+      if ((event.target as HTMLElement).tagName === 'A') menu.open = false;
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') menu.open = false;
+    });
+  });
+</script>
