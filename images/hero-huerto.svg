@@ -11,13 +11,13 @@
   </defs>
 
   <style>
-    .sway { transform-box: fill-box; transform-origin: 50% 100%; animation: sway 4.5s ease-in-out infinite; }
+    .sway { transform-box: fill-box; transform-origin: 50% 100%; animation: sway 2.6s ease-in-out infinite; }
     .sway.d1 { animation-delay: -0.6s; }
-    .sway.d2 { animation-delay: -2.1s; }
-    .sway.d3 { animation-delay: -3.3s; }
+    .sway.d2 { animation-delay: -1.3s; }
+    .sway.d3 { animation-delay: -1.9s; }
     @keyframes sway {
-      0%, 100% { transform: rotate(-2.2deg); }
-      50% { transform: rotate(2.2deg); }
+      0%, 100% { transform: rotate(-7deg); }
+      50% { transform: rotate(7deg); }
     }
     @media (prefers-reduced-motion: reduce) {
       .sway { animation: none; }
