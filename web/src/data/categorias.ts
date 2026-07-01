@@ -65,3 +65,7 @@ export const categorias: Categoria[] = [
 export function getCategoria(slug: string): Categoria | undefined {
   return categorias.find((c) => c.slug === slug);
 }
+
+export function getCategoriaImagen(slug: string): string {
+  return `/images/categorias/${slug}.svg`;
+}

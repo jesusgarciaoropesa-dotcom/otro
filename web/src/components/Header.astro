@@ -5,7 +5,7 @@ import { withBase } from '../lib/url';
 
 <header class="border-b border-stone-200 bg-white">
   <div class="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-4">
-    <a href={withBase('/')} class="flex items-center gap-2 text-xl font-bold text-[--color-hoja-oscuro]">
+    <a href={withBase('/')} class="flex items-center gap-2 font-[--font-display] text-xl font-semibold text-[--color-hoja-oscuro]">
       <span aria-hidden="true">🌿</span>
       Mi Balcón Verde
     </a>
@@ -13,7 +13,7 @@ import { withBase } from '../lib/url';
       {categorias.map((cat) => (
         <a
           href={withBase(`/categorias/${cat.slug}/`)}
-          class="whitespace-nowrap text-stone-600 hover:text-[--color-hoja-oscuro] hover:underline"
+          class="whitespace-nowrap text-stone-600 hover:text-[--color-tierra] hover:underline"
         >
           {cat.nombre}
         </a>

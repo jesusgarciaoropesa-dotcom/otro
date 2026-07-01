@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225" role="img" aria-label="compostaje-sostenibilidad">
+  <defs>
+    <linearGradient id="g-compostaje-sostenibilidad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0e2c8" />
+      <stop offset="100%" stop-color="#c9dcc0" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#g-compostaje-sostenibilidad)" />
+  <circle cx="330" cy="30" r="70" fill="#3f6b3a" opacity="0.12" />
+  <circle cx="40" cy="200" r="90" fill="#3f6b3a" opacity="0.10" />
+  <circle cx="200" cy="112" r="72" fill="#ffffff" opacity="0.35" />
+  <text x="200" y="128" font-size="88" text-anchor="middle" dominant-baseline="middle">♻️</text>
+</svg>

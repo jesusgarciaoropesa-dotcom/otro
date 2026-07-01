@@ -1,13 +1,25 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* Self-hosted variable fonts (no external requests at runtime) */
+@import "@fontsource-variable/fraunces/standard.css";
+@import "@fontsource-variable/inter";
+
 @theme {
-  --color-hoja: #2f6b3c;
-  --color-hoja-oscuro: #204a29;
-  --color-tierra: #6b4a2f;
-  --color-crema: #faf7f0;
+  /* Paleta cálida "tierra/mostaza": verde de hoja + terracota de maceta + mostaza de acento */
+  --color-hoja: #3f6b3a;
+  --color-hoja-oscuro: #24401f;
+  --color-tierra: #a8562f;
+  --color-tierra-oscuro: #7a3d20;
+  --color-mostaza: #d9a441;
+  --color-mostaza-oscuro: #b3811f;
+  --color-crema: #faf3e6;
+  --color-crema-oscuro: #f0e2c8;
+
+  --font-display: "Fraunces Variable", ui-serif, Georgia, serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
-  @apply bg-[--color-crema] text-stone-800;
+  @apply bg-[--color-crema] text-stone-800 font-[--font-sans];
 }
