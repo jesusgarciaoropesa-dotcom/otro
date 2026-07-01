@@ -73,7 +73,7 @@ const recientes = [...articulos]
           <a
             href={withBase(`/articulos/${a.id}/`)}
             class="reveal group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
-            style={`transition-delay: ${i * 90}ms`}
+            style={`transition-delay: ${i * 160}ms`}
           >
             <div class="relative h-40 overflow-hidden">
               <img
@@ -104,7 +104,7 @@ const recientes = [...articulos]
         <a
           href={withBase(`/categorias/${cat.slug}/`)}
           class="reveal group overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-2xl"
-          style={`transition-delay: ${(i % 3) * 90}ms`}
+          style={`transition-delay: ${(i % 3) * 160}ms`}
         >
           <div class="relative h-32 overflow-hidden">
             <img
@@ -131,7 +131,7 @@ const recientes = [...articulos]
         <h2 class="mt-1 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro) sm:text-3xl">Últimos artículos</h2>
         <ul class="mt-6 divide-y divide-stone-200 overflow-hidden rounded-2xl ring-1 ring-stone-200">
           {recientes.map((a, i) => (
-            <li class="reveal" style={`transition-delay: ${i * 70}ms`}>
+            <li class="reveal" style={`transition-delay: ${i * 120}ms`}>
               <a href={withBase(`/articulos/${a.id}/`)} class="flex items-center gap-4 px-5 py-4 transition hover:bg-(--color-crema)">
                 <img
                   src={withBase(getCategoriaImagen(a.data.categoria))}
@@ -165,7 +165,7 @@ const recientes = [...articulos]
         return;
       }
 
-      const duration = 900;
+      const duration = 2000;
       const start = performance.now();
 
       function tick(now: number) {
