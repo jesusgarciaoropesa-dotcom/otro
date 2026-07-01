@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import CookieBanner from '../components/CookieBanner.astro';
 import { withBase } from '../lib/url';
 import '../styles/global.css';
 
@@ -16,6 +17,20 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 <!doctype html>
 <html lang="es">
   <head>
+    <script is:inline>
+      // Google Consent Mode v2: por defecto se deniega todo lo no esencial
+      // hasta que el usuario elija en el banner de cookies. Debe ejecutarse
+      // ANTES de cualquier script de AdSense/Analytics que se añada después.
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+      });
+      window.gtagConsent = gtag;
+    </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href={withBase('/favicon.png')} />
@@ -41,6 +56,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
       <slot />
     </main>
     <Footer />
+    <CookieBanner />
 
     <script>
       // Revela con fade+slide los elementos .reveal según entran en pantalla.

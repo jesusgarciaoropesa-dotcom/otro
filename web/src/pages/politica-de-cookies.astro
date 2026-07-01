@@ -10,10 +10,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <h1>Política de cookies</h1>
     <p>
       <em>
-        Plantilla de partida. Antes de publicar el sitio, sustituye este texto por una
-        política de cookies completa e instala un banner de consentimiento (CMP)
-        compatible con el marco de consentimiento de Google (Consent Mode) si vas a
-        mostrar anuncios a usuarios de la Unión Europea.
+        El texto legal de esta página es una plantilla de partida; antes de publicar el
+        sitio en producción, revísalo con un profesional. El banner de consentimiento
+        (con Google Consent Mode v2) ya está implementado y funcionando: por defecto se
+        deniegan las cookies de publicidad y analítica hasta que el usuario acepta.
       </em>
     </p>
     <h2>Qué son las cookies</h2>
@@ -23,15 +23,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </p>
     <h2>Cookies que utilizamos</h2>
     <ul>
-      <li><strong>Cookies técnicas:</strong> necesarias para el funcionamiento básico del sitio.</li>
-      <li><strong>Cookies analíticas:</strong> para medir el tráfico y uso del sitio de forma agregada.</li>
-      <li><strong>Cookies publicitarias (Google AdSense):</strong> utilizadas para mostrar anuncios relevantes y medir su rendimiento.</li>
+      <li><strong>Cookies técnicas:</strong> necesarias para el funcionamiento básico del sitio (por ejemplo, recordar tu elección sobre cookies).</li>
+      <li><strong>Cookies analíticas:</strong> para medir el tráfico y uso del sitio de forma agregada. Solo se activan si aceptas.</li>
+      <li><strong>Cookies publicitarias (Google AdSense):</strong> utilizadas para mostrar anuncios relevantes y medir su rendimiento. Solo se activan si aceptas; si rechazas, seguirás viendo anuncios, pero no personalizados según tu navegación.</li>
     </ul>
-    <h2>Cómo gestionar las cookies</h2>
+    <h2>Cómo gestionar tu consentimiento</h2>
     <p>
-      Puedes configurar tu navegador para rechazar todas las cookies o para que te
-      avise cuando se envíe una cookie. Consulta la sección de ayuda de tu navegador
-      para más información.
+      Al entrar por primera vez verás un banner donde puedes <strong>aceptar todas</strong> las
+      cookies o <strong>rechazar</strong> las no esenciales. Tu elección se guarda en tu
+      navegador (localStorage) y no se te volverá a preguntar salvo que borres los datos de
+      navegación de este sitio. También puedes configurar tu propio navegador para bloquear
+      cookies de forma más general desde su sección de ajustes de privacidad.
     </p>
   </article>
 </BaseLayout>

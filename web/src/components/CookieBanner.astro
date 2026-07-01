@@ -1,0 +1,65 @@
+---
+import { withBase } from '../lib/url';
+---
+
+<div
+  id="cookie-banner"
+  class="fixed inset-x-0 bottom-0 z-50 hidden border-t border-(--color-crema-oscuro) bg-white p-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)] sm:p-5"
+  role="dialog"
+  aria-live="polite"
+  aria-label="Aviso de cookies"
+>
+  <div class="mx-auto flex max-w-5xl flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+    <p class="text-sm text-stone-700">
+      Usamos cookies propias y de terceros (incluida publicidad) para mejorar tu experiencia y,
+      si aceptas, para personalizar anuncios. Puedes aceptar todas, rechazar las no esenciales, o
+      leer más en nuestra{' '}
+      <a href={withBase('/politica-de-cookies/')} class="underline hover:text-(--color-tierra)">política de cookies</a>.
+    </p>
+    <div class="flex shrink-0 gap-3">
+      <button id="cookie-reject" type="button" class="btn-secondary whitespace-nowrap px-4 py-2 text-sm">
+        Rechazar
+      </button>
+      <button id="cookie-accept" type="button" class="btn-primary whitespace-nowrap px-4 py-2 text-sm">
+        Aceptar todo
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const STORAGE_KEY = 'cookie-consent';
+  const banner = document.getElementById('cookie-banner');
+  const acceptBtn = document.getElementById('cookie-accept');
+  const rejectBtn = document.getElementById('cookie-reject');
+
+  type ConsentChoice = 'granted' | 'denied';
+
+  function applyConsent(choice: ConsentChoice) {
+    const gtag = (window as any).gtagConsent;
+    if (typeof gtag === 'function') {
+      gtag('consent', 'update', {
+        ad_storage: choice,
+        ad_user_data: choice,
+        ad_personalization: choice,
+        analytics_storage: choice,
+      });
+    }
+  }
+
+  const saved = localStorage.getItem(STORAGE_KEY) as ConsentChoice | null;
+  if (saved === 'granted' || saved === 'denied') {
+    applyConsent(saved);
+  } else if (banner) {
+    banner.classList.remove('hidden');
+  }
+
+  function choose(choice: ConsentChoice) {
+    localStorage.setItem(STORAGE_KEY, choice);
+    applyConsent(choice);
+    banner?.classList.add('hidden');
+  }
+
+  acceptBtn?.addEventListener('click', () => choose('granted'));
+  rejectBtn?.addEventListener('click', () => choose('denied'));
+</script>

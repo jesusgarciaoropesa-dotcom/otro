@@ -62,15 +62,41 @@ Ya están escritos 8 artículos de muestra como referencia de formato y tono.
   puedes añadir un remark/rehype plugin que inyecte `<AdSlot />` tras el segundo o
   tercer párrafo — no incluido en este scaffold inicial para mantenerlo simple.
 
+## Cookies y consentimiento
+
+- `src/components/CookieBanner.astro` muestra un banner de aceptar/rechazar en la
+  primera visita y guarda la elección en `localStorage`. Ya implementa
+  [Google Consent Mode v2](https://support.google.com/google-ads/answer/10000067):
+  el `<script>` al principio del `<head>` de `BaseLayout.astro` deniega
+  `ad_storage`/`analytics_storage` por defecto, y el banner los actualiza a
+  `granted` solo si el usuario acepta.
+- Cuando añadas el script real de AdSense/Analytics, no hace falta tocar nada
+  más: Consent Mode ya está inicializado antes de que esos scripts se carguen.
+
+## Enlaces de afiliado
+
+- El tag de Amazon Afiliados se configura en un único sitio:
+  `src/data/afiliados.ts` (`AMAZON_TAG`). Sustituye `'TU-TAG-AQUI-21'` por tu tag
+  real de Amazon Associates en cuanto tengas la cuenta aprobada — no hace falta
+  tocar los artículos, ya que los botones ya escritos usan ese mismo placeholder
+  en su URL (busca `TU-TAG-AQUI-21` en `src/content/articulos/` para localizarlos
+  todos).
+- Para añadir un nuevo botón de afiliado en un artículo, inserta directamente
+  HTML dentro del Markdown (Astro lo renderiza tal cual):
+  ```html
+  <a href="https://www.amazon.es/s?k=TU+BUSQUEDA&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+  ```
+- Los artículos de tipo comparativa ya incluyen un aviso de afiliación justo debajo
+  de la introducción; mantenlo si añades más enlaces (es una buena práctica legal,
+  además del aviso general que ya existe en el footer del sitio).
+
 ## Antes de publicar en producción
 
 1. Sustituye el contenido de `politica-de-privacidad.astro` y
    `politica-de-cookies.astro` por texto legal revisado (son plantillas de partida).
-2. Añade un banner de consentimiento de cookies (CMP) compatible con Google Consent
-   Mode si vas a tener tráfico de la UE.
-3. Cambia el dominio en `astro.config.mjs` (`site: '...'`) por el dominio real.
-4. Sustituye los enlaces de afiliado de ejemplo por tus enlaces reales (Amazon
-   Afiliados, etc.) cuando los añadas al contenido.
+2. Cambia el dominio en `astro.config.mjs` (`site: '...'`) por el dominio real.
+3. Sustituye `AMAZON_TAG` en `src/data/afiliados.ts` por tu tag real de Amazon
+   Afiliados en cuanto tengas la cuenta.
 
 ## Comandos
 

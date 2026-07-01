@@ -9,6 +9,8 @@ pubDate: 2026-06-27
 
 Elegir un buen sustrato es una de las decisiones que más impacto tiene en el éxito de un huerto urbano, y sin embargo se le presta mucha menos atención que a las macetas o el riego.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Por qué no sirve la tierra de jardín
 
 La tierra de jardín normal se compacta en una maceta, reteniendo mal el agua y el aire. Un sustrato para maceta está formulado específicamente para mantener una buena aireación y drenaje en un volumen reducido.
@@ -19,11 +21,15 @@ La opción más versátil y recomendable para empezar. Un buen sustrato universa
 
 **Recomendado para**: principiantes, aromáticas, hortalizas de hoja.
 
+<a href="https://www.amazon.es/s?k=sustrato+universal+con+perlita&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## 2. Sustrato específico para hortalizas
 
 Formulado con más materia orgánica y nutrientes de base, pensado para cultivos más exigentes como el tomate o el pimiento, que agotan antes los nutrientes del sustrato.
 
 **Recomendado para**: tomates, pimientos, berenjenas y otras hortalizas de fruto.
+
+<a href="https://www.amazon.es/s?k=sustrato+para+hortalizas+y+tomates&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Sustrato para cítricos y frutales
 
@@ -31,17 +37,23 @@ Con un pH ligeramente más ácido y mayor proporción de materia orgánica de li
 
 **Recomendado para**: frutales en maceta como el limonero.
 
+<a href="https://www.amazon.es/s?k=sustrato+para+citricos+y+frutales&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## 4. Sustrato para plantas acidófilas
 
 Necesario para cultivos como el arándano, que requieren un pH bajo que la mayoría de sustratos universales no ofrecen.
 
 **Recomendado para**: arándanos y otras plantas de suelo ácido.
 
+<a href="https://www.amazon.es/s?k=sustrato+plantas+acidofilas+arandanos&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## 5. Mezclas caseras con perlita o fibra de coco
 
 Muchos huertos urbanos avanzados mezclan su propio sustrato: sustrato universal + un 20-30% de perlita (para aireación) + un 10-20% de fibra de coco (para retener humedad de forma más equilibrada que la turba sola).
 
 **Recomendado para**: quien ya tiene experiencia y quiere ajustar la mezcla a cada cultivo.
+
+<a href="https://www.amazon.es/s?k=perlita+y+fibra+de+coco+para+sustrato&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo elegir si solo vas a comprar un tipo
 

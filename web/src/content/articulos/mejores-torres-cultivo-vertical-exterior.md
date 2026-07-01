@@ -9,6 +9,8 @@ pubDate: 2026-04-25
 
 Las torres de cultivo vertical son la forma más rápida de multiplicar la superficie de cultivo de un balcón sin ocupar más suelo. No todas sirven igual para exterior: estas son las características que marcan la diferencia.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué debe tener una buena torre de cultivo para exterior
 
 - **Resistencia a la intemperie**: plástico resistente a rayos UV o materiales tratados, para que no se degraden con el sol.
@@ -21,11 +23,15 @@ Varias macetas del mismo diámetro que se apilan una encima de otra, cada una co
 
 **Ideal para**: fresas, lechugas y aromáticas de porte bajo.
 
+<a href="https://www.amazon.es/s?k=torre+de+macetas+apilables+exterior&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## 2. Torres tipo "jardinera vertical" con bolsillos
 
 Estructuras de tela resistente con bolsillos en varias filas, que se cuelgan de la pared o barandilla. Muy ligeras, aunque requieren riego más frecuente porque retienen menos sustrato que una maceta rígida.
 
 **Ideal para**: aromáticas y hojas verdes de ciclo corto.
+
+<a href="https://www.amazon.es/s?k=jardinera+vertical+de+bolsillos+colgante&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Torres con sistema de riego integrado
 
@@ -33,11 +39,15 @@ Las gamas más completas incluyen un canal central por el que circula el agua, r
 
 **Ideal para**: quien quiera automatizar el riego desde el primer día, especialmente si la torre tiene 4 o más niveles.
 
+<a href="https://www.amazon.es/s?k=torre+cultivo+vertical+riego+integrado&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## 4. Torres de cultivo hidropónico vertical
 
 Sin sustrato: las raíces reciben agua con nutrientes disueltos directamente. Producción más rápida y limpia, pero requieren una bomba de agua y más inversión inicial.
 
 **Ideal para**: usuarios con experiencia previa que buscan maximizar producción en poco espacio.
+
+<a href="https://www.amazon.es/s?k=torre+hidroponica+vertical+exterior&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Nuestra recomendación según perfil
 
