@@ -12,15 +12,23 @@ export async function getStaticPaths() {
 
 const { articulo } = Astro.props;
 const { Content } = await render(articulo);
+
+const todos = await getCollection('articulos');
+const relacionados = todos
+  .filter((a) => a.data.categoria === articulo.data.categoria && a.id !== articulo.id)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
 ---
 
 <ArticleLayout
+  slug={articulo.id}
   title={articulo.data.title}
   description={articulo.data.description}
   categoria={articulo.data.categoria}
   intencion={articulo.data.intencion}
   pubDate={articulo.data.pubDate}
   updatedDate={articulo.data.updatedDate}
+  relacionados={relacionados}
 >
   <Content />
 </ArticleLayout>

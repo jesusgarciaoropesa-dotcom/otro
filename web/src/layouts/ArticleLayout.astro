@@ -4,26 +4,51 @@ import AdSlot from '../components/AdSlot.astro';
 import { getCategoria, getCategoriaImagen } from '../data/categorias';
 import { withBase } from '../lib/url';
 
+interface ArticuloRelacionado {
+  id: string;
+  data: { title: string; description: string };
+}
+
 interface Props {
+  slug: string;
   title: string;
   description: string;
   categoria: string;
   intencion: 'informativa' | 'transaccional' | 'comparativa';
   pubDate: Date;
   updatedDate?: Date;
+  relacionados?: ArticuloRelacionado[];
 }
 
-const { title, description, categoria, intencion, pubDate, updatedDate } = Astro.props;
+const { slug, title, description, categoria, intencion, pubDate, updatedDate, relacionados = [] } =
+  Astro.props;
 const cat = getCategoria(categoria);
+const imagenCategoria = cat ? getCategoriaImagen(cat.slug) : undefined;
 
 const etiquetaIntencion: Record<typeof intencion, string> = {
   informativa: 'Guía informativa',
   transaccional: 'Guía de compra',
   comparativa: 'Comparativa',
 };
+
+const articleURL = new URL(withBase(`/articulos/${slug}/`), Astro.site);
+const imageURL = imagenCategoria ? new URL(withBase(imagenCategoria), Astro.site) : undefined;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate ?? pubDate).toISOString(),
+  ...(imageURL && { image: imageURL.toString() }),
+  mainEntityOfPage: articleURL.toString(),
+  author: { '@type': 'Organization', name: 'MiHuertoUrbano' },
+  publisher: { '@type': 'Organization', name: 'MiHuertoUrbano' },
+};
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} image={imagenCategoria}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
   <nav class="mb-4 text-sm text-stone-500" aria-label="breadcrumb">
     <a href={withBase('/')} class="hover:underline">Inicio</a>
     <span class="mx-1">/</span>
@@ -66,4 +91,33 @@ const etiquetaIntencion: Record<typeof intencion, string> = {
 
     <AdSlot adId="article-bottom" label="Publicidad" />
   </article>
+
+  {relacionados.length > 0 && (
+    <aside class="mt-12 border-t border-stone-200 pt-8">
+      <h2 class="font-(--font-display) text-xl font-semibold text-(--color-hoja-oscuro)">
+        También te puede interesar
+      </h2>
+      <ul class="mt-4 grid gap-6 sm:grid-cols-3">
+        {relacionados.map((a) => (
+          <li>
+            <a
+              href={withBase(`/articulos/${a.id}/`)}
+              class="flex h-full flex-col gap-2 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl"
+            >
+              {imagenCategoria && (
+                <img
+                  src={withBase(imagenCategoria)}
+                  alt=""
+                  loading="lazy"
+                  class="h-28 w-full rounded-xl object-cover"
+                />
+              )}
+              <h3 class="font-semibold text-stone-900">{a.data.title}</h3>
+              <p class="text-sm text-stone-600">{a.data.description}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  )}
 </BaseLayout>
