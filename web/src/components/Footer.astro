@@ -20,7 +20,7 @@ import { withBase } from '../lib/url';
       <div>
         <h3 class="text-sm font-semibold uppercase tracking-wide text-white">Categorías</h3>
         <ul class="mt-3 space-y-2 text-sm">
-          {categorias.slice(0, 6).map((cat) => (
+          {categorias.map((cat) => (
             <li>
               <a href={withBase(`/categorias/${cat.slug}/`)} class="transition hover:text-white hover:underline">
                 {cat.nombre}
@@ -33,6 +33,7 @@ import { withBase } from '../lib/url';
       <div>
         <h3 class="text-sm font-semibold uppercase tracking-wide text-white">Sobre el sitio</h3>
         <ul class="mt-3 space-y-2 text-sm">
+          <li><a href={withBase('/articulos/')} class="transition hover:text-white hover:underline">Todos los artículos</a></li>
           <li><a href={withBase('/sobre-nosotros/')} class="transition hover:text-white hover:underline">Sobre nosotros</a></li>
           <li><a href={withBase('/contacto/')} class="transition hover:text-white hover:underline">Contacto</a></li>
           <li><a href={withBase('/politica-de-privacidad/')} class="transition hover:text-white hover:underline">Privacidad</a></li>

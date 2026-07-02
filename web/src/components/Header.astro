@@ -24,16 +24,24 @@ import { withBase } from '../lib/url';
           <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
         </svg>
       </summary>
-      <div class="absolute right-0 z-50 mt-3 grid w-[min(92vw,36rem)] grid-cols-2 gap-1 rounded-2xl bg-white p-3 shadow-xl ring-1 ring-black/5 sm:grid-cols-3">
-        {categorias.map((cat) => (
-          <a
-            href={withBase(`/categorias/${cat.slug}/`)}
-            class="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-stone-700 transition hover:bg-(--color-crema) hover:text-(--color-tierra)"
-          >
-            <span class="text-lg" aria-hidden="true">{cat.emoji}</span>
-            {cat.nombre}
-          </a>
-        ))}
+      <div class="absolute right-0 z-50 mt-3 w-[min(92vw,36rem)] rounded-2xl bg-white p-3 shadow-xl ring-1 ring-black/5">
+        <div class="grid grid-cols-2 gap-1 sm:grid-cols-3">
+          {categorias.map((cat) => (
+            <a
+              href={withBase(`/categorias/${cat.slug}/`)}
+              class="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-stone-700 transition hover:bg-(--color-crema) hover:text-(--color-tierra)"
+            >
+              <span class="text-lg" aria-hidden="true">{cat.emoji}</span>
+              {cat.nombre}
+            </a>
+          ))}
+        </div>
+        <a
+          href={withBase('/articulos/')}
+          class="mt-1 flex items-center justify-center gap-1.5 rounded-lg border-t border-stone-100 px-3 py-2.5 text-sm font-semibold text-(--color-tierra) transition hover:bg-(--color-crema)"
+        >
+          Ver todos los artículos →
+        </a>
       </div>
     </details>
   </div>

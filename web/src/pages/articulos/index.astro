@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categorias } from '../../data/categorias';
+import { withBase } from '../../lib/url';
+import { getCollection } from 'astro:content';
+
+const todos = await getCollection('articulos');
+
+const porCategoria = categorias.map((cat) => ({
+  cat,
+  articulos: todos
+    .filter((a) => a.data.categoria === cat.slug)
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+}));
+---
+
+<BaseLayout
+  title="Todos los artículos"
+  description={`Listado completo de las ${todos.length} guías prácticas de MiHuertoUrbano, organizadas por categoría: riego automático, cultivo vertical, qué plantar y mucho más.`}
+>
+  <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
+    <a href={withBase('/')} class="hover:underline">Inicio</a>
+    <span class="mx-1">/</span>
+    <span class="text-stone-700">Todos los artículos</span>
+  </nav>
+
+  <header>
+    <h1 class="font-(--font-display) text-3xl font-semibold text-(--color-hoja-oscuro) sm:text-4xl">
+      Todos los artículos
+    </h1>
+    <p class="mt-3 max-w-2xl text-stone-600">
+      Las {todos.length} guías del sitio, organizadas por categoría y ordenadas de la más
+      reciente a la más antigua. Si prefieres explorar visualmente, visita las{' '}
+      <a href={withBase('/#categorias')} class="text-(--color-tierra) underline">páginas de categoría</a>.
+    </p>
+  </header>
+
+  <nav aria-label="Saltar a categoría" class="mt-6 flex flex-wrap gap-2">
+    {porCategoria.map(({ cat }) => (
+      <a
+        href={`#${cat.slug}`}
+        class="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-stone-700 shadow-sm ring-1 ring-black/5 transition hover:text-(--color-tierra) hover:shadow-md"
+      >
+        <span aria-hidden="true">{cat.emoji}</span> {cat.nombre}
+      </a>
+    ))}
+  </nav>
+
+  <div class="mt-10 space-y-12">
+    {porCategoria.map(({ cat, articulos }) => (
+      <section id={cat.slug} class="scroll-mt-24">
+        <div class="flex items-baseline justify-between gap-4 border-b border-stone-200 pb-2">
+          <h2 class="font-(--font-display) text-xl font-semibold text-(--color-hoja-oscuro)">
+            <span aria-hidden="true">{cat.emoji}</span> {cat.nombre}
+          </h2>
+          <a
+            href={withBase(`/categorias/${cat.slug}/`)}
+            class="whitespace-nowrap text-sm font-semibold text-(--color-tierra) hover:underline"
+          >
+            Ver categoría →
+          </a>
+        </div>
+        <ul class="mt-4 divide-y divide-stone-200 overflow-hidden rounded-2xl bg-white ring-1 ring-black/5">
+          {articulos.map((a) => (
+            <li>
+              <a
+                href={withBase(`/articulos/${a.id}/`)}
+                class="flex items-center justify-between gap-4 px-5 py-3.5 transition hover:bg-(--color-crema)"
+              >
+                <span class="font-medium text-stone-800">{a.data.title}</span>
+                <time datetime={a.data.pubDate.toISOString()} class="shrink-0 whitespace-nowrap text-xs text-stone-600">
+                  {a.data.pubDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' })}
+                </time>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
