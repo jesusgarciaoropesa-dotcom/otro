@@ -4,13 +4,9 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
-// Configurado para GitHub Pages (proyecto, no dominio propio):
-// https://jesusgarciaoropesa-dotcom.github.io/otro/
-// Cuando se pase a un dominio propio, cambia `site` por el dominio y
-// elimina `base` (o ponlo a '/').
+// Dominio propio servido vía GitHub Pages con public/CNAME.
 export default defineConfig({
-  site: 'https://jesusgarciaoropesa-dotcom.github.io',
-  base: '/otro',
+  site: 'https://mihuertourbano.xyz',
   integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()],

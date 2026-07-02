@@ -122,21 +122,42 @@ que sirve archivos tal cual sin ejecutar ningún build. Como Astro necesita
 en cada push a `web/` y publica el contenido de `web/dist/` en una rama `gh-pages`
 (usando `peaceiris/actions-gh-pages`).
 
-**Pasos para activarlo:**
+El sitio usa el dominio propio **`mihuertourbano.xyz`**, configurado en
+`astro.config.mjs` (`site`) y en `public/CNAME` (Astro copia este archivo a la
+raíz de `dist/` en cada build, y GitHub Pages lo lee para saber a qué dominio
+debe responder). No hay `base` configurado (sirve desde la raíz `/`), así que
+todos los enlaces internos usan el helper `src/lib/url.ts` (`withBase()`) que
+sigue funcionando igual: con `base` vacío simplemente no añade ningún prefijo.
+
+**Pasos para activarlo (una sola vez):**
 1. Haz push de estos cambios (el workflow se ejecuta automáticamente y crea/actualiza
-   la rama `gh-pages`).
+   la rama `gh-pages`, con el `CNAME` incluido).
 2. En el repo, ve a **Settings → Pages**.
 3. En **Source**, selecciona **Deploy from a branch**.
 4. En **Branch**, elige `gh-pages` y la carpeta `/ (root)`. Guarda.
-5. El sitio quedará publicado en `https://jesusgarciaoropesa-dotcom.github.io/otro/`.
+5. En **Custom domain**, escribe `mihuertourbano.xyz` y guarda (si el campo ya
+   se rellenó solo al detectar el `CNAME`, simplemente confírmalo).
+6. Configura el DNS del dominio en tu proveedor/registrador (ver abajo).
+7. Cuando GitHub verifique el DNS (puede tardar bastante, hasta 24 h), marca
+   **Enforce HTTPS** en la misma pantalla — el certificado también tarda un
+   rato en emitirse la primera vez.
 
-Como es un *project site* (no `usuario.github.io`), Astro necesita `base: '/otro'`
-en `astro.config.mjs` para que todos los enlaces y assets funcionen bajo esa
-subruta — ya está configurado. Todos los enlaces internos usan el helper
-`src/lib/url.ts` (`withBase()`) precisamente para no depender de rutas absolutas
-hardcodeadas, que romperían bajo un `base` distinto de `/`.
+**Configuración DNS necesaria** (`mihuertourbano.xyz` es un dominio raíz/apex,
+no un subdominio como `www.`, así que usa registros **A**, no CNAME, apuntando
+a las IPs de GitHub Pages):
 
-Si en el futuro pasas a un dominio propio (ej. `mihuertourbano.com`), cambia en
-`astro.config.mjs`: `site` al dominio real y `base: '/'` (o elimínalo), añade un
-archivo `public/CNAME` con el dominio, y actualiza el DNS según la
-[documentación de GitHub Pages](https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site).
+| Tipo | Nombre/Host | Valor |
+| :--- | :---------- | :---- |
+| A | @ (o vacío, según el proveedor) | `185.199.108.153` |
+| A | @ | `185.199.109.153` |
+| A | @ | `185.199.110.153` |
+| A | @ | `185.199.111.153` |
+
+Añade los 4 registros A (algunos proveedores solo dejan poner un valor por
+registro; en ese caso crea 4 registros A idénticos en nombre, cada uno con una
+IP distinta). Si más adelante quieres que `www.mihuertourbano.xyz` también
+funcione, añade además un registro `CNAME` con nombre `www` apuntando a
+`jesusgarciaoropesa-dotcom.github.io`.
+
+Más detalle en la
+[documentación de GitHub Pages sobre dominios personalizados](https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site).
