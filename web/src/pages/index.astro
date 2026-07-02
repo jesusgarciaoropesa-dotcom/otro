@@ -10,10 +10,15 @@ const pilares = articulos.filter((a) => a.data.pilar);
 const recientes = [...articulos]
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
+
+// Redondeado hacia abajo al múltiplo de 5 más cercano para un "80+" que
+// siga siendo cierto según crezca el contenido, sin tener que acordarse de
+// actualizar un número fijo cada vez que se publican artículos nuevos.
+const guiasRedondeadas = Math.floor(articulos.length / 5) * 5;
 ---
 
 <BaseLayout
-  title="Huerto urbano en balcón y terraza: guías, riego automático y cultivo vertical"
+  title="Guías de huerto urbano en balcón y terraza"
   description="Aprende a cultivar tu propio huerto en un balcón o terraza pequeña: riego automático, cultivo vertical, qué plantar cada mes y las mejores herramientas."
 >
   <link
@@ -50,14 +55,14 @@ const recientes = [...articulos]
             <div>
               <dt class="sr-only">Categorías</dt>
               <dd>
-                <span class="counter font-(--font-display) text-lg font-semibold text-(--color-mostaza)" data-count-to="9">0</span>
+                <span class="counter font-(--font-display) text-lg font-semibold text-(--color-mostaza)" data-count-to={categorias.length}>0</span>
                 categorías
               </dd>
             </div>
             <div>
               <dt class="sr-only">Guías</dt>
               <dd>
-                <span class="counter font-(--font-display) text-lg font-semibold text-(--color-mostaza)" data-count-to="80" data-suffix="+">0</span>
+                <span class="counter font-(--font-display) text-lg font-semibold text-(--color-mostaza)" data-count-to={guiasRedondeadas} data-suffix="+">0</span>
                 guías prácticas
               </dd>
             </div>
