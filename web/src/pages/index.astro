@@ -16,6 +16,13 @@ const recientes = [...articulos]
   title="Huerto urbano en balcón y terraza: guías, riego automático y cultivo vertical"
   description="Aprende a cultivar tu propio huerto en un balcón o terraza pequeña: riego automático, cultivo vertical, qué plantar cada mes y las mejores herramientas."
 >
+  <link
+    rel="preload"
+    as="image"
+    fetchpriority="high"
+    href={withBase('/images/hero-huerto.jpg')}
+    slot="head"
+  />
   <section class="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden">
     <div class="relative min-h-[460px] sm:min-h-[600px]">
       <div
