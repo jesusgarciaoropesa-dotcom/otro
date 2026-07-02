@@ -66,6 +66,17 @@ const jsonLd = {
 
 <BaseLayout title={title} description={description} image={imagenCategoria}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
+
+  {/* El estado inicial va como transform inline (no scale-x-0): en Tailwind v4
+      las utilidades scale-* usan la propiedad CSS `scale`, que se compone con
+      el `transform` que actualiza el script y dejaría la barra siempre a 0. */}
+  <div
+    id="reading-progress"
+    aria-hidden="true"
+    style="transform: scaleX(0)"
+    class="fixed inset-x-0 top-0 z-50 h-1 origin-left bg-gradient-to-r from-(--color-mostaza) to-(--color-tierra)"
+  />
+
   <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
     <a href={withBase('/')} class="hover:underline">Inicio</a>
     <span class="mx-1">/</span>
@@ -167,4 +178,39 @@ const jsonLd = {
       </ul>
     </aside>
   )}
+
+  <button
+    id="back-to-top"
+    type="button"
+    aria-label="Volver arriba"
+    class="fixed bottom-6 right-6 z-40 hidden h-11 w-11 items-center justify-center rounded-full bg-(--color-hoja-oscuro) text-white shadow-lg ring-1 ring-black/10 transition hover:-translate-y-0.5 hover:bg-(--color-hoja)"
+  >
+    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-5 w-5">
+      <path fill-rule="evenodd" d="M10 17a.75.75 0 01-.75-.75V5.612L5.29 9.77a.75.75 0 01-1.08-1.04l5.25-5.5a.75.75 0 011.08 0l5.25 5.5a.75.75 0 11-1.08 1.04l-3.96-4.158V16.25A.75.75 0 0110 17z" clip-rule="evenodd" />
+    </svg>
+  </button>
+
+  <script>
+    // Barra de progreso de lectura + botón "volver arriba" a partir de una pantalla de scroll.
+    const progress = document.getElementById('reading-progress');
+    const backToTop = document.getElementById('back-to-top');
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    function onScroll() {
+      const total = document.documentElement.scrollHeight - window.innerHeight;
+      const ratio = total > 0 ? Math.min(window.scrollY / total, 1) : 0;
+      if (progress) progress.style.transform = `scaleX(${ratio})`;
+      if (backToTop) {
+        backToTop.classList.toggle('hidden', window.scrollY < window.innerHeight);
+        backToTop.classList.toggle('flex', window.scrollY >= window.innerHeight);
+      }
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+
+    backToTop?.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+    });
+  </script>
 </BaseLayout>

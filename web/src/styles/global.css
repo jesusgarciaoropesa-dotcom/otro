@@ -34,6 +34,53 @@ body {
   @apply btn bg-white text-(--color-hoja-oscuro) ring-1 ring-inset ring-stone-300 hover:ring-(--color-hoja);
 }
 
+/* --- Experiencia de lectura en artículos (.prose) --- */
+
+/* Letra capital en el primer párrafo del artículo */
+.prose > p:first-of-type::first-letter {
+  float: left;
+  margin: 0.05em 0.12em 0 0;
+  font-family: var(--font-display);
+  font-size: 3.4em;
+  line-height: 0.85;
+  font-weight: 600;
+  color: var(--color-tierra);
+}
+
+/* Acento decorativo bajo cada título de sección */
+.prose h2 {
+  position: relative;
+  padding-bottom: 0.35em;
+}
+.prose h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 2.5rem;
+  height: 3px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, var(--color-mostaza), var(--color-tierra));
+}
+
+/* Viñetas y números de lista en colores de marca */
+.prose ul li::marker {
+  color: var(--color-mostaza-oscuro);
+}
+.prose ol li::marker {
+  color: var(--color-tierra);
+  font-weight: 600;
+}
+
+/* Citas con fondo cálido */
+.prose blockquote {
+  border-left-color: var(--color-mostaza);
+  background: var(--color-crema);
+  border-radius: 0 1rem 1rem 0;
+  padding: 0.6em 1.2em;
+  font-style: normal;
+}
+
 /* Scroll-reveal: aplicado por src/scripts/reveal.ts vía IntersectionObserver */
 .reveal {
   opacity: 0;
