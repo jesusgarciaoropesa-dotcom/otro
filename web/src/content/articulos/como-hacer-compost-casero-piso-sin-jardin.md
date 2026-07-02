@@ -5,6 +5,7 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["compost casero en piso", "cómo hacer compost sin jardín", "compostaje en balcón"]
 pubDate: 2026-06-30
+pilar: true
 ---
 
 No hace falta tener jardín ni un gran terreno para compostar: con un compostador compacto y unos hábitos sencillos, puedes convertir tus restos de cocina en abono de calidad para tu huerto urbano.

@@ -5,6 +5,7 @@ categoria: "que-plantar"
 intencion: "comparativa"
 keywords: ["mejores hortalizas para balcón pequeño", "qué hortalizas plantar en balcón", "hortalizas para espacio reducido"]
 pubDate: 2026-08-15
+pilar: true
 ---
 
 Cuando el espacio es realmente limitado, no todas las hortalizas son igual de rentables. Estas son las que ofrecen mejor relación entre espacio ocupado y cosecha obtenida.

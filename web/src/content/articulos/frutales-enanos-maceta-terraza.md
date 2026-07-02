@@ -5,6 +5,7 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["frutales enanos para maceta", "árboles frutales para terraza", "frutales para balcón"]
 pubDate: 2026-06-06
+pilar: true
 ---
 
 No hace falta tener un jardín para disfrutar de fruta propia. Existen variedades enanas de muchos frutales clásicos, desarrolladas específicamente para vivir toda su vida en una maceta grande.
