@@ -11,13 +11,17 @@ export async function getStaticPaths() {
 }
 
 const { articulo } = Astro.props;
-const { Content } = await render(articulo);
+const { Content, headings } = await render(articulo);
 
 const todos = await getCollection('articulos');
 const relacionados = todos
   .filter((a) => a.data.categoria === articulo.data.categoria && a.id !== articulo.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
+
+// ~200 palabras/minuto de lectura, mínimo 1 minuto
+const palabras = articulo.body?.split(/\s+/).length ?? 0;
+const minutosLectura = Math.max(1, Math.round(palabras / 200));
 ---
 
 <ArticleLayout
@@ -29,6 +33,8 @@ const relacionados = todos
   pubDate={articulo.data.pubDate}
   updatedDate={articulo.data.updatedDate}
   relacionados={relacionados}
+  headings={headings.filter((h) => h.depth === 2)}
+  minutosLectura={minutosLectura}
 >
   <Content />
 </ArticleLayout>

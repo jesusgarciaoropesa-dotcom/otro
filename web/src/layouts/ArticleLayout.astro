@@ -9,6 +9,11 @@ interface ArticuloRelacionado {
   data: { title: string; description: string };
 }
 
+interface Heading {
+  slug: string;
+  text: string;
+}
+
 interface Props {
   slug: string;
   title: string;
@@ -18,10 +23,22 @@ interface Props {
   pubDate: Date;
   updatedDate?: Date;
   relacionados?: ArticuloRelacionado[];
+  headings?: Heading[];
+  minutosLectura?: number;
 }
 
-const { slug, title, description, categoria, intencion, pubDate, updatedDate, relacionados = [] } =
-  Astro.props;
+const {
+  slug,
+  title,
+  description,
+  categoria,
+  intencion,
+  pubDate,
+  updatedDate,
+  relacionados = [],
+  headings = [],
+  minutosLectura,
+} = Astro.props;
 const cat = getCategoria(categoria);
 const imagenCategoria = cat ? getCategoriaImagen(cat.slug) : undefined;
 
@@ -82,6 +99,7 @@ const jsonLd = {
               {updatedDate && (
                 <> · Actualizado el {updatedDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}</>
               )}
+              {minutosLectura && <> · {minutosLectura} min de lectura</>}
             </p>
           </div>
         </div>
@@ -89,7 +107,31 @@ const jsonLd = {
     </header>
   )}
 
-  <article class="prose prose-stone max-w-none prose-headings:font-(--font-display) prose-headings:text-(--color-hoja-oscuro) prose-a:text-(--color-tierra) prose-a:no-underline hover:prose-a:underline">
+  {headings.length >= 3 && (
+    <nav
+      aria-label="Índice de contenidos"
+      class="mb-8 rounded-2xl bg-white p-5 shadow-md ring-1 ring-black/5 sm:p-6"
+    >
+      <h2 class="font-(--font-display) text-lg font-semibold text-(--color-hoja-oscuro)">
+        En este artículo
+      </h2>
+      <ol class="mt-3 grid gap-x-8 gap-y-1.5 text-sm sm:grid-cols-2">
+        {headings.map((h) => (
+          <li>
+            <a
+              href={`#${h.slug}`}
+              class="flex items-baseline gap-2 text-stone-700 transition hover:text-(--color-tierra) hover:underline"
+            >
+              <span aria-hidden="true" class="text-(--color-mostaza-oscuro)">›</span>
+              {h.text}
+            </a>
+          </li>
+        ))}
+      </ol>
+    </nav>
+  )}
+
+  <article class="prose prose-stone max-w-none prose-headings:scroll-mt-24 prose-headings:font-(--font-display) prose-headings:text-(--color-hoja-oscuro) prose-a:text-(--color-tierra) prose-a:no-underline hover:prose-a:underline">
     <AdSlot adId="article-top" label="Publicidad" />
 
     <slot />
