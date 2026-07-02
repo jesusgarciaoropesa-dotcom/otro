@@ -4,7 +4,7 @@ description: "Métodos para secar y conservar las hierbas aromáticas de tu huer
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cómo secar hierbas aromáticas", "conservar aromáticas del huerto", "secar romero albahaca en casa"]
-pubDate: 2027-01-02
+pubDate: 2026-04-28
 ---
 
 Cuando tus aromáticas producen más de lo que puedes consumir fresco, secarlas o conservarlas de otra forma permite aprovechar toda la cosecha sin desperdiciar nada, incluso meses después.

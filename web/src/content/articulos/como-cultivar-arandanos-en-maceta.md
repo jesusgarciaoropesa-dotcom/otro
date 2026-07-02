@@ -4,7 +4,7 @@ description: "Guía para cultivar arándanos en maceta en un balcón: sustrato �
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["cultivar arándanos en maceta", "arándanos en balcón cuidados", "arándanos en maceta pH sustrato"]
-pubDate: 2027-01-09
+pubDate: 2026-04-30
 ---
 
 Los arándanos son uno de los frutales de maceta más exigentes en cuanto a tipo de sustrato, pero con las condiciones adecuadas ofrecen una de las cosechas más satisfactorias de un huerto de balcón.

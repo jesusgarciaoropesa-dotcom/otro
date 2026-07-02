@@ -4,7 +4,7 @@ description: "Qué hortalizas y aromáticas resisten mejor el calor del verano e
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en verano en balcón", "cultivos que resisten el calor", "huerto urbano verano cuidados"]
-pubDate: 2026-09-19
+pubDate: 2026-04-02
 ---
 
 El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo.

@@ -4,7 +4,7 @@ description: "Los fallos más frecuentes al montar un huerto urbano por primera 
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["errores huerto urbano", "fallos huerto urbano principiantes", "por qué se muere mi huerto"]
-pubDate: 2026-04-04
+pubDate: 2026-02-18
 ---
 
 Casi todos los huertos urbanos que fracasan en las primeras semanas comparten los mismos errores. Conocerlos de antemano te ahorrará disgustos y plantas muertas.

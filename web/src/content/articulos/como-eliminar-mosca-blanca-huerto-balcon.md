@@ -4,7 +4,7 @@ description: "Cómo identificar y eliminar la mosca blanca en un huerto urbano d
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["mosca blanca en plantas", "eliminar mosca blanca huerto urbano", "mosca blanca en tomateras remedio"]
-pubDate: 2027-02-06
+pubDate: 2026-05-06
 ---
 
 La mosca blanca es una de las plagas más frecuentes en huertos urbanos, especialmente en tomateras y otras hortalizas de fruto durante los meses más cálidos. Se identifica fácilmente: pequeños insectos blancos que salen volando en nube al mover la planta.

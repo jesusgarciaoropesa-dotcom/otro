@@ -4,7 +4,7 @@ description: "Comparativa de estructuras de cultivo vertical para fijar en la pa
 categoria: "cultivo-vertical"
 intencion: "comparativa"
 keywords: ["estructuras cultivo vertical pared", "jardín vertical de pared terraza", "panel vegetal para pared exterior"]
-pubDate: 2027-04-24
+pubDate: 2026-05-25
 ---
 
 Cuando el objetivo es cubrir una pared de terraza en lugar de ocupar suelo, existen varios tipos de estructura con muy distinto coste, peso y mantenimiento.

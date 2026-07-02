@@ -4,7 +4,7 @@ description: "Comparativa de las mejores luces LED de cultivo para huerto interi
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores luces LED de cultivo", "luz de cultivo para interior", "lámpara LED para plantas de interior"]
-pubDate: 2027-08-14
+pubDate: 2026-06-22
 ---
 
 Una luz de cultivo adecuada puede ser la diferencia entre unas aromáticas débiles y estiradas y un huerto de interior realmente productivo. Estas son las opciones más recomendables según el uso que le vayas a dar.

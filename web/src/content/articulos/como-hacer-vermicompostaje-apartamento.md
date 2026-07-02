@@ -4,7 +4,7 @@ description: "Guía paso a paso para hacer vermicompostaje (compost con lombrice
 categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["vermicompostaje en apartamento", "compost con lombrices en piso", "cómo hacer humus de lombriz en casa"]
-pubDate: 2027-09-11
+pubDate: 2026-06-29
 ---
 
 El vermicompostaje utiliza lombrices rojas californianas para procesar restos orgánicos de forma mucho más rápida y controlada que un compostaje tradicional, con la ventaja añadida de que, bien gestionado, apenas genera olor y ocupa muy poco espacio.

@@ -4,7 +4,7 @@ description: "Consejos para montar un huerto urbano en una vivienda de alquiler:
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto urbano en alquiler", "huerto en piso alquilado", "jardinería en vivienda de alquiler"]
-pubDate: 2026-10-31
+pubDate: 2026-04-13
 ---
 
 Vivir de alquiler no debería ser un obstáculo para tener un huerto urbano, pero sí conviene tomar algunas precauciones para no perder la fianza ni tu inversión si te mudas antes de lo previsto.

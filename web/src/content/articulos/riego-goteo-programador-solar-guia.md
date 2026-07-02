@@ -4,7 +4,7 @@ description: "Cómo funciona un sistema de riego por goteo con programador solar
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["programador riego solar", "riego por goteo con panel solar", "temporizador riego solar balcón"]
-pubDate: 2027-04-03
+pubDate: 2026-05-20
 ---
 
 Un programador de riego solar resuelve un problema muy concreto: automatizar el riego en balcones sin acceso a enchufe cercano y sin depender del cambio frecuente de pilas de los modelos tradicionales.

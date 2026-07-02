@@ -4,7 +4,7 @@ description: "Paso a paso para instalar un sistema de riego por goteo casero en 
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["instalar riego por goteo balcón", "riego por goteo casero", "montar sistema de riego terraza"]
-pubDate: 2026-04-11
+pubDate: 2026-02-20
 ---
 
 Instalar un sistema de riego por goteo en un balcón es más sencillo de lo que parece, y no requiere obra ni conocimientos de fontanería. Con un kit básico y una tarde libre puedes tenerlo funcionando.

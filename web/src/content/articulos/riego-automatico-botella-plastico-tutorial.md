@@ -4,7 +4,7 @@ description: "Cómo hacer un sistema de riego automático casero con una botella
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["riego automático con botella de plástico", "riego casero con botella", "gotero casero para macetas"]
-pubDate: 2026-11-14
+pubDate: 2026-04-16
 ---
 
 Es la solución de riego automático más económica que existe: aprovecha una botella de plástico que normalmente tirarías para dar de beber a tus plantas durante varios días sin intervención manual.

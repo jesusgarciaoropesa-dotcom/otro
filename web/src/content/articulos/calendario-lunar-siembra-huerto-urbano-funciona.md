@@ -4,7 +4,7 @@ description: "Qué dice la evidencia científica sobre el calendario lunar de si
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["calendario lunar siembra huerto urbano", "sembrar según la luna funciona", "influencia de la luna en las plantas"]
-pubDate: 2027-07-17
+pubDate: 2026-06-15
 ---
 
 El calendario lunar de siembra es una práctica tradicional muy extendida, que propone sembrar, trasplantar o cosechar según la fase lunar. Vale la pena revisar qué hay de cierto detrás de esta creencia tan arraigada.

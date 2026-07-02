@@ -4,7 +4,7 @@ description: "Guía de compra para elegir la mejor maceta para un frutal de balc
 categoria: "frutales-en-maceta"
 intencion: "transaccional"
 keywords: ["mejor maceta para frutales", "maceta para limonero balcón", "maceta grande para árbol frutal terraza"]
-pubDate: 2027-06-12
+pubDate: 2026-06-06
 ---
 
 Un frutal en maceta vive muchos años en el mismo contenedor, así que acertar con la maceta desde el principio (o saber cuándo cambiarla) tiene un impacto directo en su salud y producción a largo plazo.

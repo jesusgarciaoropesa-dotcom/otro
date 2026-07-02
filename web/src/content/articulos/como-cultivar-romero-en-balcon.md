@@ -4,7 +4,7 @@ description: "Cuidados básicos para cultivar romero en maceta en un balcón: ri
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar romero en maceta", "romero en balcón cuidados", "cómo plantar romero en maceta"]
-pubDate: 2026-05-23
+pubDate: 2026-03-02
 ---
 
 El romero es una de las aromáticas más agradecidas para un balcón: resiste bien la sequía puntual, apenas tiene plagas y, una vez establecido, requiere muy poco mantenimiento.

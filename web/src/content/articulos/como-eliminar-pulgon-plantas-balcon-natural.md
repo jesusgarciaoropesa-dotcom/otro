@@ -4,7 +4,7 @@ description: "Métodos naturales y caseros para eliminar el pulgón de las plant
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["eliminar pulgón plantas", "pulgón huerto urbano remedio casero", "pulgón balcón solución natural"]
-pubDate: 2026-03-17
+pubDate: 2026-02-13
 ---
 
 El pulgón es, con diferencia, la plaga más común en huertos urbanos, especialmente en primavera. Por suerte, en la mayoría de los casos se puede controlar sin recurrir a insecticidas químicos.

@@ -4,7 +4,7 @@ description: "Comparativa de mini invernaderos para balcón según tamaño y uso
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mini invernadero para balcón", "invernadero pequeño terraza", "mejor mini invernadero precio"]
-pubDate: 2027-08-28
+pubDate: 2026-06-25
 ---
 
 Un mini invernadero de balcón permite adelantar la siembra de primavera y proteger plantas sensibles durante los meses más fríos, sin necesitar el espacio de un invernadero de jardín tradicional.

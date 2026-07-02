@@ -4,7 +4,7 @@ description: "Las causas más comunes de la caída de hojas en plantas de huerto
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["por qué se caen las hojas de mis plantas", "hojas caídas huerto urbano", "planta pierde hojas maceta"]
-pubDate: 2026-06-20
+pubDate: 2026-03-09
 ---
 
 La caída de hojas es uno de los síntomas más comunes —y más inespecíficos— en plantas de maceta. Antes de alarmarte, conviene identificar la causa exacta observando cómo y cuándo se caen.

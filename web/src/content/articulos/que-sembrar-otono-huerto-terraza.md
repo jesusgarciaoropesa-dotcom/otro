@@ -4,7 +4,7 @@ description: "Guía de siembra de otoño para un huerto urbano en terraza o balc
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué sembrar en otoño huerto urbano", "siembra de otoño balcón", "cultivos de otoño en maceta"]
-pubDate: 2027-01-23
+pubDate: 2026-05-03
 ---
 
 El otoño es la segunda gran ventana de siembra del año, después de la primavera, y suele estar algo más olvidada por quienes empiezan un huerto urbano. Aprovecharla bien permite mantener producción durante el otoño e invierno en lugar de dejar el huerto parado varios meses.

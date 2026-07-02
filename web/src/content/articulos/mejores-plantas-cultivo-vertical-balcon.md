@@ -4,7 +4,7 @@ description: "Qué plantas rinden mejor en una estructura de cultivo vertical de
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["mejores plantas para cultivo vertical", "qué plantar en huerto vertical", "plantas para torre de cultivo balcón"]
-pubDate: 2026-08-01
+pubDate: 2026-03-21
 ---
 
 No todas las plantas se adaptan igual de bien a una estructura de cultivo vertical. El factor clave es el volumen de sustrato disponible por planta, que suele ser menor que en una maceta tradicional, y la posición (los niveles superiores reciben más sol y se secan antes que los inferiores).

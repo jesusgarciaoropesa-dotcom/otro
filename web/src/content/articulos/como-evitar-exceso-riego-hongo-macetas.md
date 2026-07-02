@@ -4,7 +4,7 @@ description: "Cómo identificar y corregir el exceso de riego en macetas de un h
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["exceso de riego en macetas", "hongo en macetas huerto urbano", "encharcamiento plantas maceta"]
-pubDate: 2026-10-10
+pubDate: 2026-04-07
 ---
 
 El exceso de riego es, junto con la falta de él, una de las causas más comunes de plantas enfermas en un huerto de balcón, y a menudo se confunde con falta de agua porque los síntomas visuales (hojas caídas, amarillas) son similares.

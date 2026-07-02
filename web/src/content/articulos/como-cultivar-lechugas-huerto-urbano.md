@@ -4,7 +4,7 @@ description: "Guía completa para cultivar lechugas en maceta en un balcón: var
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar lechugas en maceta", "lechuga en balcón", "cómo plantar lechuga en maceta"]
-pubDate: 2026-05-09
+pubDate: 2026-02-27
 ---
 
 La lechuga es uno de los cultivos más agradecidos para empezar un huerto urbano: crece rápido, ocupa poco y se puede sembrar de forma escalonada para tener cosecha casi todo el año.

@@ -4,7 +4,7 @@ description: "Guía práctica para aprovechar el espacio vertical de un balcón 
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical balcón", "jardín vertical pequeño", "cultivo vertical terraza"]
-pubDate: 2026-02-17
+pubDate: 2026-02-06
 pilar: true
 ---
 

@@ -4,7 +4,7 @@ description: "Guía práctica para instalar y programar un temporizador de riego
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["instalar temporizador de riego", "programador de riego para macetas", "temporizador riego balcón"]
-pubDate: 2026-04-18
+pubDate: 2026-02-22
 ---
 
 El temporizador (o programador) de riego es la pieza clave de cualquier sistema de riego automático: decide cuándo y cuánto tiempo riega tu instalación. Instalarlo correctamente evita tanto la sequía como el encharcamiento.

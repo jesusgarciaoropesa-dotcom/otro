@@ -4,7 +4,7 @@ description: "Los errores más comunes al instalar y configurar un sistema de ri
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["errores riego automático huerto urbano", "problemas riego por goteo balcón", "fallos sistema de riego automático"]
-pubDate: 2026-11-21
+pubDate: 2026-04-18
 ---
 
 Instalar un sistema de riego automático reduce mucho el riesgo de perder plantas por olvido, pero solo si se configura correctamente. Estos son los errores más frecuentes que vemos en huertos urbanos de balcón.

@@ -4,7 +4,7 @@ description: "Guía para cultivar berenjenas en maceta en una terraza: tamaño d
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar berenjenas en maceta", "berenjena en terraza cuidados", "cómo plantar berenjenas en balcón"]
-pubDate: 2027-05-15
+pubDate: 2026-05-30
 ---
 
 La berenjena es uno de los cultivos de fruto más exigentes en calor y espacio de un huerto de balcón, pero recompensa con una producción abundante si se cubren bien sus necesidades básicas.

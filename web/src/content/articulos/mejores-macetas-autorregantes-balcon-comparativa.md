@@ -4,7 +4,7 @@ description: "Comparamos los tipos de macetas autorregantes más recomendables p
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["macetas autorregantes", "mejores macetas autorregantes balcón", "maceta con depósito de agua"]
-pubDate: 2026-03-24
+pubDate: 2026-02-15
 ---
 
 Las macetas autorregantes (con depósito de agua incorporado) son una de las mejoras más rentables para un huerto de balcón: reducen drásticamente el riesgo de sequía y facilitan mantener un riego constante, clave para hortalizas como el tomate.

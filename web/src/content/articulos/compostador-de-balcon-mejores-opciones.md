@@ -4,7 +4,7 @@ description: "Comparativa de compostadores para balcón que no generan malos olo
 categoria: "compostaje-sostenibilidad"
 intencion: "comparativa"
 keywords: ["compostador de balcón", "compostador sin olor para piso", "mejor compostador para apartamento"]
-pubDate: 2026-10-24
+pubDate: 2026-04-11
 ---
 
 El miedo a los malos olores es la principal razón por la que mucha gente descarta compostar en un piso sin jardín. Con el sistema adecuado, ese problema prácticamente desaparece.

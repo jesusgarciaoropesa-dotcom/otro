@@ -4,7 +4,7 @@ description: "Cómo cultivar menta en maceta en un balcón controlando su crecim
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar menta en maceta", "menta en balcón cuidados", "menta invasiva maceta"]
-pubDate: 2026-08-29
+pubDate: 2026-03-28
 ---
 
 La menta es una de las aromáticas más fáciles de cultivar, hasta el punto de que su verdadero reto no es conseguir que crezca, sino evitar que invada el resto de macetas cercanas.

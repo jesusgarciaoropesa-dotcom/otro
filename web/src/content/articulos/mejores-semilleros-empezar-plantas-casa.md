@@ -4,7 +4,7 @@ description: "Comparativa de los tipos de semillero más recomendables para empe
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores semilleros para plantas", "semillero para empezar plantas en casa", "bandeja de semillero huerto urbano"]
-pubDate: 2027-08-07
+pubDate: 2026-06-20
 ---
 
 Empezar los cultivos en semillero, en lugar de sembrar directamente en la maceta definitiva, da más control sobre la germinación y permite adelantar la siembra antes de que las condiciones exteriores sean óptimas para el trasplante.

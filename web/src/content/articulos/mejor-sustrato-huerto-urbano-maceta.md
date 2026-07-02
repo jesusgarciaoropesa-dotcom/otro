@@ -4,7 +4,7 @@ description: "Comparativa de los tipos de sustrato más recomendables para un hu
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejor sustrato para huerto urbano", "sustrato para macetas hortalizas", "tierra para huerto en maceta"]
-pubDate: 2026-06-27
+pubDate: 2026-03-11
 ---
 
 Elegir un buen sustrato es una de las decisiones que más impacto tiene en el éxito de un huerto urbano, y sin embargo se le presta mucha menos atención que a las macetas o el riego.

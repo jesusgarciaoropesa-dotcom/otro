@@ -4,7 +4,7 @@ description: "Las causas más comunes de que las hojas de una tomatera en maceta
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["tomatera hojas amarillas", "por qué se amarillean los tomates", "tomatera enferma maceta"]
-pubDate: 2026-09-26
+pubDate: 2026-04-04
 ---
 
 El amarilleo de las hojas es uno de los síntomas más comunes en tomateras de maceta, y puede deberse a varias causas distintas. El patrón exacto (qué hojas, en qué orden) ayuda mucho a identificar la causa real.

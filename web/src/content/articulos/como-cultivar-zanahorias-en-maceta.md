@@ -4,7 +4,7 @@ description: "Guía para cultivar zanahorias en maceta profunda en un balcón: e
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar zanahorias en maceta", "zanahorias en balcón maceta profunda", "cómo sembrar zanahorias en terraza"]
-pubDate: 2027-05-08
+pubDate: 2026-05-29
 ---
 
 Las zanahorias tienen fama de ser complicadas en maceta, pero el problema casi siempre se reduce a dos factores: profundidad insuficiente y sustrato demasiado compacto o con piedras.

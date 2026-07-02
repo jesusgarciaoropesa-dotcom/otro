@@ -4,7 +4,7 @@ description: "Qué plantar en un huerto urbano de balcón orientado al norte, co
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto balcón orientado al norte", "qué plantar balcón norte", "cultivo en balcón sin sol"]
-pubDate: 2027-03-13
+pubDate: 2026-05-15
 ---
 
 Un balcón orientado al norte recibe muy poca luz solar directa durante todo el año, lo que condiciona bastante qué se puede cultivar con éxito. No significa que no puedas tener huerto, pero sí que hay que elegir bien.

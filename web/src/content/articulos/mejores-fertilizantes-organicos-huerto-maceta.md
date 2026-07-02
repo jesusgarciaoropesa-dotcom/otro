@@ -4,7 +4,7 @@ description: "Comparativa de los fertilizantes orgánicos más recomendables par
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores fertilizantes orgánicos", "abono orgánico para macetas", "fertilizante natural huerto urbano"]
-pubDate: 2027-02-13
+pubDate: 2026-05-08
 ---
 
 El sustrato de una maceta se agota de nutrientes mucho antes que la tierra de un huerto tradicional, así que un buen fertilizante orgánico es casi imprescindible para mantener la producción durante toda la temporada.

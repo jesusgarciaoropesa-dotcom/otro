@@ -4,7 +4,7 @@ description: "Presupuesto real para montar un huerto urbano en balcón o terraza
 categoria: "primeros-pasos"
 intencion: "comparativa"
 keywords: ["cuánto cuesta un huerto urbano", "presupuesto huerto urbano balcón", "montar huerto urbano precio"]
-pubDate: 2026-07-11
+pubDate: 2026-03-16
 ---
 
 Uno de los frenos más habituales para empezar un huerto urbano es no saber cuánto va a costar realmente. Aquí tienes un desglose honesto por partidas, para un huerto de tamaño pequeño-medio (5-8 macetas).

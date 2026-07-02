@@ -4,7 +4,7 @@ description: "Cuánto tiempo tarda cada tipo de frutal en maceta en empezar a da
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["cuánto tarda en dar fruto un frutal", "frutal en maceta cuándo produce", "años para que un limonero dé fruto"]
-pubDate: 2027-06-19
+pubDate: 2026-06-08
 ---
 
 Uno de los aspectos que más suele sorprender a quien empieza con frutales de maceta es la paciencia que requieren: a diferencia de una hortaliza anual, un frutal necesita varios años antes de dar una producción significativa.

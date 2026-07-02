@@ -4,7 +4,7 @@ description: "Cómo montar un pequeño jardín de hierbas aromáticas en la coci
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["jardín de hierbas aromáticas en cocina", "aromáticas en la ventana de la cocina", "huerto de cocina en casa"]
-pubDate: 2027-05-29
+pubDate: 2026-06-03
 ---
 
 Si no tienes balcón ni terraza, un pequeño jardín de aromáticas en la ventana de la cocina es la forma más accesible de tener plantas comestibles frescas en casa, con la ventaja añadida de tenerlas literalmente a mano mientras cocinas.

@@ -4,7 +4,7 @@ description: "Comparativa de los kits de huerto urbano más recomendables para e
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores kits de huerto urbano", "kit huerto urbano principiantes", "kit para empezar huerto en balcón"]
-pubDate: 2026-10-17
+pubDate: 2026-04-09
 pilar: true
 ---
 

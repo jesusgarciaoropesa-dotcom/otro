@@ -4,7 +4,7 @@ description: "Guía para cultivar espinacas en maceta en un balcón durante todo
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar espinacas en maceta", "espinacas en balcón", "espinacas todo el año en maceta"]
-pubDate: 2026-12-05
+pubDate: 2026-04-21
 ---
 
 Las espinacas son una de las hojas verdes más agradecidas para un huerto de balcón, con la ventaja de que, eligiendo bien la variedad y la época, se pueden mantener en producción prácticamente todo el año.

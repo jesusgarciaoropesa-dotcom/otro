@@ -4,7 +4,7 @@ description: "Guía de siembra para enero en huertos de balcón: qué cultivos a
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en enero", "siembra enero huerto urbano", "calendario siembra invierno balcón"]
-pubDate: 2026-06-13
+pubDate: 2026-03-08
 ---
 
 Enero es un mes de transición: todavía hace frío en la mayor parte de España, pero es el momento de preparar en semillero protegido los cultivos que ocuparán el balcón en primavera.

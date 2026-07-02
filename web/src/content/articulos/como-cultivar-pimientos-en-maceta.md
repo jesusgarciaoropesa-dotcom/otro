@@ -4,7 +4,7 @@ description: "Guía práctica para cultivar pimientos en maceta en un balcón: v
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar pimientos en maceta", "pimiento en balcón", "cómo plantar pimientos en maceta"]
-pubDate: 2026-05-16
+pubDate: 2026-03-01
 ---
 
 El pimiento es un cultivo agradecido para balcón siempre que le des suficiente sol y una maceta con espacio suficiente. Con los cuidados adecuados, una sola planta puede dar decenas de pimientos en una temporada.

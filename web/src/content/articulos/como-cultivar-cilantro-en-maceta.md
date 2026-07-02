@@ -4,7 +4,7 @@ description: "Guía paso a paso para cultivar cilantro en maceta en un balcón: 
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar cilantro en maceta", "cilantro en balcón cuidados", "cómo sembrar cilantro en maceta"]
-pubDate: 2026-12-26
+pubDate: 2026-04-26
 ---
 
 El cilantro es una de las aromáticas más utilizadas en cocina, pero también una de las que más rápido se "sube a flor" si no se maneja bien el riego y la temperatura, dejando de producir hojas aprovechables.

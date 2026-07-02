@@ -4,7 +4,7 @@ description: "Qué hortalizas se pueden cultivar con éxito en un balcón con po
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["hortalizas para balcón con sombra", "cultivo en balcón poca luz", "qué plantar en balcón orientado al norte"]
-pubDate: 2026-12-19
+pubDate: 2026-04-24
 ---
 
 No todos los balcones reciben las 6 horas de sol directo que necesitan tomates o pimientos para producir bien. Con menos luz (2-4 horas directas, o luz indirecta constante) sigue siendo posible cultivar, eligiendo bien las especies.

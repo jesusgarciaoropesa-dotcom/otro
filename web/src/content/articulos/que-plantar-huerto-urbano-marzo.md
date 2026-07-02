@@ -4,7 +4,7 @@ description: "Guía de siembra para marzo en huertos de balcón: hortalizas y ar
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en marzo", "siembra marzo huerto urbano", "calendario siembra primavera balcón"]
-pubDate: 2026-03-10
+pubDate: 2026-02-12
 ---
 
 Marzo marca el inicio real de la temporada de siembra de primavera en la mayor parte de España. Con el riesgo de heladas fuertes ya bajando, es el momento de preparar el balcón para los meses de mayor producción.

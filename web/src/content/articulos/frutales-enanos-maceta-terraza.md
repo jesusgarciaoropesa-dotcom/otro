@@ -4,7 +4,7 @@ description: "Selección de frutales enanos aptos para maceta en terraza o balc�
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["frutales enanos para maceta", "árboles frutales para terraza", "frutales para balcón"]
-pubDate: 2026-06-06
+pubDate: 2026-03-06
 pilar: true
 ---
 

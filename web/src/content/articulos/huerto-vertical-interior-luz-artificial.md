@@ -4,7 +4,7 @@ description: "Cómo montar un huerto vertical en interior usando luz artificial 
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical interior con luz artificial", "cultivar en interior sin luz natural", "torre de cultivo con luz LED"]
-pubDate: 2027-05-01
+pubDate: 2026-05-27
 ---
 
 Cultivar en interior sin depender de una ventana bien orientada es posible gracias a las luces de cultivo LED, que permiten montar un huerto vertical en cualquier habitación de la casa, todo el año, independientemente de la estación.

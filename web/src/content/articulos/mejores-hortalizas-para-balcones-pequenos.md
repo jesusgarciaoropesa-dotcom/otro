@@ -4,7 +4,7 @@ description: "Qué hortalizas rinden mejor en un balcón pequeño según espacio
 categoria: "que-plantar"
 intencion: "comparativa"
 keywords: ["mejores hortalizas para balcón pequeño", "qué hortalizas plantar en balcón", "hortalizas para espacio reducido"]
-pubDate: 2026-08-15
+pubDate: 2026-03-25
 pilar: true
 ---
 

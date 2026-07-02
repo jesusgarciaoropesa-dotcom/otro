@@ -4,7 +4,7 @@ description: "Descubre cuánto espacio necesitas realmente para montar un huerto
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["espacio mínimo huerto balcón", "huerto urbano poco espacio", "cuánto espacio necesito para un huerto"]
-pubDate: 2026-03-28
+pubDate: 2026-02-17
 ---
 
 Uno de los mitos más extendidos sobre el huerto urbano es que hace falta mucho espacio para que merezca la pena. En realidad, con menos de un metro cuadrado ya se puede tener una producción constante de aromáticas y hortalizas de hoja.

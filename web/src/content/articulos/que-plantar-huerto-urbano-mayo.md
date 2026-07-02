@@ -4,7 +4,7 @@ description: "Guía de siembra y trasplante para mayo en un huerto urbano de bal
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en mayo en balcón", "siembra de mayo huerto urbano", "qué sembrar en mayo en maceta"]
-pubDate: 2027-06-26
+pubDate: 2026-06-10
 ---
 
 Mayo es uno de los meses más activos del calendario de siembra: las temperaturas ya son suficientemente cálidas para trasplantar al exterior sin riesgo de heladas tardías, y todavía queda tiempo de sobra para sembrar directamente muchos cultivos de ciclo medio.

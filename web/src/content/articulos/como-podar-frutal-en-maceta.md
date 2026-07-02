@@ -4,7 +4,7 @@ description: "Principios básicos para podar correctamente un frutal en maceta: 
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["cómo podar un frutal en maceta", "poda de frutales en maceta", "poda frutales balcón"]
-pubDate: 2027-01-16
+pubDate: 2026-05-01
 ---
 
 La poda de un frutal en maceta cumple una función distinta a la de un árbol en tierra: además de dar forma y favorecer la producción, ayuda a mantener un tamaño manejable dentro de las limitaciones de espacio de un balcón.

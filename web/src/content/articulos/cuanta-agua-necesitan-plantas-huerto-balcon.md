@@ -4,7 +4,7 @@ description: "Guía práctica para calcular cuánta agua necesitan realmente las
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["cuánta agua necesitan las plantas en maceta", "cuánto regar huerto urbano", "frecuencia de riego macetas balcón"]
-pubDate: 2026-07-25
+pubDate: 2026-03-20
 ---
 
 No existe una cantidad universal de agua para todas las plantas de un huerto de balcón: depende del tamaño de la maceta, el cultivo, la estación del año y la exposición al sol. Pero sí hay reglas prácticas que funcionan en la mayoría de casos.

@@ -4,7 +4,7 @@ description: "Guía completa de prevención de plagas en un huerto urbano de bal
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["prevenir plagas huerto urbano", "control de plagas sin pesticidas", "plagas balcón prevención natural"]
-pubDate: 2026-10-03
+pubDate: 2026-04-06
 pilar: true
 ---
 

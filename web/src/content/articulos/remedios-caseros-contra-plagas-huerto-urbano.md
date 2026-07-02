@@ -4,7 +4,7 @@ description: "Remedios caseros más efectivos contra las plagas comunes de un hu
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["remedios caseros contra plagas", "insecticida casero para plantas", "tratamiento natural plagas huerto urbano"]
-pubDate: 2027-07-31
+pubDate: 2026-06-18
 ---
 
 Antes de recurrir a productos comerciales, muchos remedios caseros elaborados con ingredientes de cocina o del propio huerto son suficientemente efectivos para las plagas más comunes de un huerto urbano.

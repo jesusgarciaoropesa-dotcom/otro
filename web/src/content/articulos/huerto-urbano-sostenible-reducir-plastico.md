@@ -4,7 +4,7 @@ description: "Consejos prácticos para reducir el uso de plástico en un huerto 
 categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["huerto urbano sostenible", "reducir plástico en macetas", "alternativas al plástico jardinería"]
-pubDate: 2027-09-18
+pubDate: 2026-06-30
 ---
 
 Un huerto urbano nace con una vocación sostenible, pero irónicamente suele depender de bastante plástico: macetas, bandejas de semillero, mangueras de riego. Reducirlo es posible sin renunciar a la funcionalidad.

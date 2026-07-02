@@ -4,7 +4,7 @@ description: "Guía para cultivar rabanitos en maceta en un balcón: el cultivo 
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar rabanitos en maceta", "rabanitos en balcón", "cultivo rápido huerto urbano"]
-pubDate: 2026-08-22
+pubDate: 2026-03-26
 ---
 
 Si buscas resultados rápidos para coger confianza con tu huerto urbano, los rabanitos son probablemente el cultivo más agradecido: de la siembra a la cosecha pasan solo 3-4 semanas.

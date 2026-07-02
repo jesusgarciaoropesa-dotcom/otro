@@ -4,7 +4,7 @@ description: "Cómo cultivar calabacines en maceta en un espacio de balcón redu
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar calabacines en maceta", "calabacín en espacio reducido", "calabacín en balcón cuidados"]
-pubDate: 2027-05-22
+pubDate: 2026-06-01
 ---
 
 El calabacín tiene fama de necesitar mucho espacio, y es cierto para las variedades tradicionales de huerto en tierra, pero existen variedades compactas que hacen viable su cultivo incluso en un balcón con espacio limitado.

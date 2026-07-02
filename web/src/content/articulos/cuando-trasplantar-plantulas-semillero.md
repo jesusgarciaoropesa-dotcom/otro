@@ -4,7 +4,7 @@ description: "Cómo saber cuándo trasplantar plántulas de semillero a su macet
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["cuándo trasplantar plántulas", "trasplante de semillero a maceta", "cómo trasplantar plántulas sin dañarlas"]
-pubDate: 2027-01-30
+pubDate: 2026-05-05
 ---
 
 Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado.

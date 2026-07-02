@@ -4,7 +4,7 @@ description: "Lista completa de lo que necesitas para montar un huerto urbano en
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["qué necesito para un huerto en terraza", "montar huerto terraza pequeña", "lista básica huerto urbano"]
-pubDate: 2027-03-06
+pubDate: 2026-05-13
 ---
 
 Antes de comprar nada, conviene tener claro qué elementos son realmente imprescindibles para montar un huerto en una terraza pequeña y cuáles pueden esperar a una fase posterior.

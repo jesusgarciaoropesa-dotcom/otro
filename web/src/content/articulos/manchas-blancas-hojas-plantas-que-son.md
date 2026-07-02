@@ -4,7 +4,7 @@ description: "Las causas más comunes de manchas blancas en las hojas de plantas
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["manchas blancas en las hojas de las plantas", "polvo blanco en hojas plantas", "oídio en huerto urbano tratamiento"]
-pubDate: 2027-07-24
+pubDate: 2026-06-17
 ---
 
 No todas las manchas blancas en las hojas tienen la misma causa. Distinguir el patrón exacto es clave para aplicar el tratamiento correcto en lugar de uno genérico que puede no ser efectivo.

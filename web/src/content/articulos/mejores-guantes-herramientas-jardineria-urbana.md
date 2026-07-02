@@ -4,7 +4,7 @@ description: "Comparativa de los guantes y herramientas básicas más recomendab
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores guantes de jardinería", "herramientas básicas huerto urbano", "kit de herramientas para balcón"]
-pubDate: 2027-08-21
+pubDate: 2026-06-23
 ---
 
 No hace falta un arsenal de herramientas de jardinería profesional para mantener un huerto urbano de balcón: un pequeño conjunto básico bien elegido cubre prácticamente todas las tareas habituales.

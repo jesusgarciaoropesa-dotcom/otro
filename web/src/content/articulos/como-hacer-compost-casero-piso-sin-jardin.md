@@ -4,7 +4,7 @@ description: "Guía práctica para hacer compost casero en un piso o balcón sin
 categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["compost casero en piso", "cómo hacer compost sin jardín", "compostaje en balcón"]
-pubDate: 2026-06-30
+pubDate: 2026-03-13
 pilar: true
 ---
 

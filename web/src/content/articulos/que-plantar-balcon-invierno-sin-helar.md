@@ -4,7 +4,7 @@ description: "Qué se puede plantar en un balcón durante el invierno, y cómo p
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en invierno en balcón", "cultivos resistentes al frío maceta", "proteger plantas de heladas en balcón"]
-pubDate: 2027-07-10
+pubDate: 2026-06-13
 ---
 
 El invierno no tiene por qué ser un parón total del huerto urbano. Con las especies adecuadas y algunas medidas de protección sencillas, es posible mantener cultivo activo incluso en zonas con heladas moderadas.

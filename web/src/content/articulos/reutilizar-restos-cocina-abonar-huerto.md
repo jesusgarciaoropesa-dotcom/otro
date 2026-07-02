@@ -4,7 +4,7 @@ description: "Qué restos de cocina puedes reutilizar directamente para abonar u
 categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["reutilizar restos de cocina huerto urbano", "abonar plantas con restos de cocina", "aprovechar restos orgánicos maceta"]
-pubDate: 2027-02-27
+pubDate: 2026-05-12
 ---
 
 No hace falta tener un compostador para aprovechar algunos restos de cocina en tu huerto de balcón. Estos son los que puedes reutilizar de forma directa o casi directa, sin un proceso de compostaje completo.

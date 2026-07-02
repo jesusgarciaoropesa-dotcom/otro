@@ -4,7 +4,7 @@ description: "Qué beneficios ambientales reales aporta tener un huerto urbano e
 categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["beneficios ambientales huerto urbano", "por qué tener un huerto en casa", "impacto ambiental huerto en balcón"]
-pubDate: 2027-09-25
+pubDate: 2026-07-02
 ---
 
 Un huerto urbano en un balcón no va a compensar por sí solo la huella ambiental de toda una vivienda, pero sus beneficios acumulados son más significativos de lo que suele pensarse, especialmente si se multiplican por muchos hogares de una misma ciudad.

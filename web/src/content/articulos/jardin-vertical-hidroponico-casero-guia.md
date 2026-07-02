@@ -4,7 +4,7 @@ description: "Cómo montar un pequeño jardín vertical hidropónico casero en e
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["jardín vertical hidropónico casero", "hidroponía balcón principiantes", "cómo montar hidroponía vertical"]
-pubDate: 2026-05-02
+pubDate: 2026-02-25
 ---
 
 La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho más simple de lo que parece: en esencia, sustituyes la tierra por agua con nutrientes disueltos, circulando por una estructura vertical de tubos.

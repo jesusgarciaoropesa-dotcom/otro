@@ -4,7 +4,7 @@ description: "Cómo construir un huerto vertical con un palet de madera reciclad
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical con palets", "jardín vertical palet reciclado", "tutorial huerto vertical DIY"]
-pubDate: 2026-11-28
+pubDate: 2026-04-19
 ---
 
 Un palet de madera reciclado es una de las formas más económicas de montar un huerto vertical, aprovechando un material que muchas veces se puede conseguir gratis o a muy bajo coste.

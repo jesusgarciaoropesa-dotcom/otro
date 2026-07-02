@@ -4,7 +4,7 @@ description: "Guía completa para cultivar fresas en maceta en un balcón: varie
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar fresas en balcón", "fresas en maceta cuidados", "cómo plantar fresas en terraza"]
-pubDate: 2026-08-08
+pubDate: 2026-03-23
 ---
 
 Las fresas son uno de los cultivos más satisfactorios para un huerto de balcón: ocupan poco espacio, dan fruto varias veces en la temporada y se adaptan muy bien a estructuras colgantes o verticales.

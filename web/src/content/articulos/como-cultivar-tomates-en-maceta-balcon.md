@@ -4,7 +4,7 @@ description: "Todo lo que necesitas saber para cultivar tomates en maceta en un 
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar tomates en maceta", "tomates en balcón", "tomatera en maceta cuidados"]
-pubDate: 2026-02-24
+pubDate: 2026-02-08
 ---
 
 El tomate es, junto con la albahaca, el cultivo estrella de cualquier huerto de balcón. Con la variedad y el cuidado adecuados, es perfectamente posible obtener una buena cosecha incluso en un espacio reducido.

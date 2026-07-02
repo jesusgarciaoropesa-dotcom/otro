@@ -4,7 +4,7 @@ description: "Consejos prácticos para que tu albahaca en maceta no se marchite:
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar albahaca en maceta", "albahaca se seca", "cuidados albahaca maceta"]
-pubDate: 2026-03-03
+pubDate: 2026-02-10
 ---
 
 La albahaca es una de las aromáticas más cultivadas en balcones y cocinas, pero también una de las que más se marchita si no se entienden bien sus necesidades. Aquí tienes las claves para mantenerla sana todo el verano.

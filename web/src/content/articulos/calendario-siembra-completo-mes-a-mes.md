@@ -4,7 +4,7 @@ description: "Calendario de siembra mes a mes para un huerto urbano en balcón o
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["calendario de siembra huerto urbano", "calendario siembra balcón mes a mes", "qué sembrar cada mes en maceta"]
-pubDate: 2026-09-12
+pubDate: 2026-04-01
 pilar: true
 ---
 

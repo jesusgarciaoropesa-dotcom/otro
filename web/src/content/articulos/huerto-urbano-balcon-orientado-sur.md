@@ -4,7 +4,7 @@ description: "Qué plantar en un huerto urbano de balcón orientado al sur, con 
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto balcón orientado al sur", "qué plantar balcón sur", "cultivo en balcón con mucho sol"]
-pubDate: 2027-03-20
+pubDate: 2026-05-17
 ---
 
 Un balcón orientado al sur es, en principio, el mejor escenario posible para un huerto urbano: recibe sol directo durante buena parte del día en la mayoría de estaciones. El reto aquí no es la falta de luz, sino gestionar bien el calor y el riego que esa exposición exige.

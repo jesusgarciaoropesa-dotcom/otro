@@ -4,7 +4,7 @@ description: "Guía de compra para elegir la tierra o sustrato adecuado para mac
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejor tierra para macetas de hortalizas", "qué tierra comprar para macetas", "cómo elegir sustrato para hortalizas"]
-pubDate: 2027-09-04
+pubDate: 2026-06-27
 ---
 
 Con tantas opciones disponibles en cualquier tienda de jardinería, elegir bien la tierra (en realidad, sustrato) para las macetas de hortalizas puede resultar confuso. Esta guía se centra en qué mirar exactamente antes de comprar.

@@ -4,7 +4,7 @@ description: "Qué aromáticas cultivar en interior cuando la luz natural es esc
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["aromáticas en interior con poca luz", "hierbas aromáticas sin sol", "cultivar aromáticas en piso oscuro"]
-pubDate: 2027-06-05
+pubDate: 2026-06-05
 ---
 
 Cuando la luz natural disponible en interior es realmente escasa (ventana pequeña, orientación norte, patio interior), no todas las aromáticas son viables, y en muchos casos hace falta una ayuda de luz artificial para obtener resultados decentes.

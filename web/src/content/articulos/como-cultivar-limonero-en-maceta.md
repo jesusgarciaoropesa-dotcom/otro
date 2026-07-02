@@ -4,7 +4,7 @@ description: "Guía completa para cultivar un limonero enano en maceta en un bal
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["limonero en maceta", "cultivar limonero en balcón", "limonero enano cuidados"]
-pubDate: 2026-05-30
+pubDate: 2026-03-04
 ---
 
 El limonero es, junto con el naranjo enano, el frutal más popular para cultivar en maceta en un balcón. Con la variedad correcta y unos cuidados constantes, es perfectamente posible cosechar tus propios limones en pleno centro de la ciudad.

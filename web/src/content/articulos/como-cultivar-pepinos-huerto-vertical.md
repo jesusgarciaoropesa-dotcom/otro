@@ -4,7 +4,7 @@ description: "Guía para cultivar pepinos en maceta aprovechando el cultivo vert
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar pepinos en maceta", "pepinos en huerto vertical balcón", "pepino trepador en maceta"]
-pubDate: 2026-12-12
+pubDate: 2026-04-23
 ---
 
 El pepino es un cultivo trepador por naturaleza, lo que lo convierte en uno de los candidatos más lógicos para aprovechar el cultivo vertical en un balcón sin sacrificar demasiado espacio en el suelo.

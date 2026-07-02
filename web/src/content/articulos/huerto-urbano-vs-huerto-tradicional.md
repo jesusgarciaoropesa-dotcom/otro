@@ -4,7 +4,7 @@ description: "Comparativa entre un huerto urbano en balcón o terraza y un huert
 categoria: "primeros-pasos"
 intencion: "comparativa"
 keywords: ["huerto urbano vs huerto tradicional", "diferencias huerto en maceta y en tierra", "ventajas del huerto urbano"]
-pubDate: 2026-11-07
+pubDate: 2026-04-14
 ---
 
 Un huerto urbano en maceta y un huerto tradicional en tierra comparten el objetivo pero funcionan de forma bastante distinta. Conocer las diferencias ayuda a ajustar expectativas si vienes de una experiencia de huerto en tierra o si es tu primera vez cultivando.

@@ -4,7 +4,7 @@ description: "Guía de siembra para septiembre en un huerto urbano de balcón: q
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en septiembre en balcón", "siembra de septiembre huerto urbano", "qué sembrar en septiembre en maceta"]
-pubDate: 2027-07-03
+pubDate: 2026-06-11
 ---
 
 Septiembre marca la transición del verano al otoño y es el mes clave para arrancar la segunda gran ventana de siembra del año, además de cerrar bien la temporada de los cultivos de verano que todavía siguen produciendo.

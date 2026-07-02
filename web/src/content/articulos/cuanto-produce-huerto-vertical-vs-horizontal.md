@@ -4,7 +4,7 @@ description: "Comparativa de producción entre un huerto vertical y uno horizont
 categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical vs horizontal producción", "cuánto produce un huerto vertical", "rendimiento cultivo vertical balcón"]
-pubDate: 2027-04-17
+pubDate: 2026-05-24
 ---
 
 Una de las preguntas más habituales al plantearse una estructura de cultivo vertical es si realmente compensa frente a tener las mismas plantas repartidas en macetas individuales sobre el suelo.

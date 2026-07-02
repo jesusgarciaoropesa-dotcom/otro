@@ -4,7 +4,7 @@ description: "Cómo mantener tus plantas de balcón regadas mientras estás de v
 categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["riego automático vacaciones", "regar plantas mientras estoy de vacaciones", "sistema riego para ausencias"]
-pubDate: 2026-07-18
+pubDate: 2026-03-18
 ---
 
 Las vacaciones de verano son la época en la que más plantas se pierden en un huerto urbano por falta de riego. La solución adecuada depende sobre todo de cuántos días vas a estar fuera.

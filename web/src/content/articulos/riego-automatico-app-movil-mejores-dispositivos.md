@@ -4,7 +4,7 @@ description: "Comparativa de los mejores dispositivos de riego automático contr
 categoria: "riego-automatico"
 intencion: "comparativa"
 keywords: ["riego automático con app móvil", "programador riego wifi móvil", "mejor riego inteligente para balcón"]
-pubDate: 2027-04-10
+pubDate: 2026-05-22
 ---
 
 Los sistemas de riego con control desde el móvil añaden dos capacidades que un programador tradicional no tiene: supervisión y ajuste remoto en tiempo real, y en los modelos más avanzados, riego basado en datos reales de humedad en lugar de un horario fijo.

@@ -4,7 +4,7 @@ description: "Qué hierbas aromáticas son las más fáciles de mantener para qu
 categoria: "que-plantar"
 intencion: "comparativa"
 keywords: ["mejores aromáticas para principiantes", "aromáticas fáciles de cultivar", "hierbas para huerto urbano principiantes"]
-pubDate: 2026-09-05
+pubDate: 2026-03-30
 ---
 
 No todas las aromáticas son igual de tolerantes a los errores típicos de un principiante. Estas son las que mejor perdonan riegos irregulares o falta de experiencia.

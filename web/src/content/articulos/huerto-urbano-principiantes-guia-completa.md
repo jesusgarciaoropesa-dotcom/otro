@@ -4,7 +4,7 @@ description: "Guía completa para empezar un huerto urbano desde cero: qué nece
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto urbano para principiantes", "huerto urbano guía completa", "empezar huerto urbano desde cero"]
-pubDate: 2026-07-04
+pubDate: 2026-03-14
 ---
 
 Si nunca has cultivado nada y quieres montar tu primer huerto urbano, esta guía reúne en un solo sitio todo lo que necesitas decidir antes de comprar tu primera maceta.

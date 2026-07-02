@@ -4,7 +4,7 @@ description: "Comparativa de las torres de cultivo vertical más recomendables p
 categoria: "cultivo-vertical"
 intencion: "comparativa"
 keywords: ["mejores torres de cultivo vertical", "torre de cultivo exterior", "torre para huerto vertical balcón"]
-pubDate: 2026-04-25
+pubDate: 2026-02-24
 ---
 
 Las torres de cultivo vertical son la forma más rápida de multiplicar la superficie de cultivo de un balcón sin ocupar más suelo. No todas sirven igual para exterior: estas son las características que marcan la diferencia.
