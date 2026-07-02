@@ -19,7 +19,7 @@ const articulos = todos
 ---
 
 <BaseLayout title={cat.nombre} description={cat.descripcion}>
-  <nav class="mb-4 text-sm text-stone-500" aria-label="breadcrumb">
+  <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
     <a href={withBase('/')} class="hover:underline">Inicio</a>
     <span class="mx-1">/</span>
     <span class="text-stone-700">{cat.nombre}</span>
@@ -45,7 +45,7 @@ const articulos = todos
   </div>
 
   {articulos.length === 0 ? (
-    <p class="mt-8 text-stone-500">Próximamente publicaremos artículos en esta categoría.</p>
+    <p class="mt-8 text-stone-600">Próximamente publicaremos artículos en esta categoría.</p>
   ) : (
     <ul class="mt-4 grid gap-6 sm:grid-cols-2">
       {articulos.map((a, i) => (

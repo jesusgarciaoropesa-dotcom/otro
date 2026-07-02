@@ -25,7 +25,7 @@ const recientes = [...articulos]
       <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
       <div class="absolute inset-x-0 bottom-0">
         <div class="mx-auto max-w-5xl px-4 pb-10 sm:pb-14">
-          <span class="inline-flex items-center gap-1.5 rounded-full bg-(--color-mostaza) px-3 py-1 text-xs font-semibold uppercase tracking-wide text-(--color-tierra-oscuro)">
+          <span class="inline-flex items-center gap-1.5 rounded-full bg-(--color-mostaza) px-3 py-1 text-xs font-semibold uppercase tracking-wide text-(--color-hoja-oscuro)">
             🌱 Guías para huertos urbanos
           </span>
           <h1 class="mt-4 max-w-2xl font-(--font-display) text-3xl font-semibold leading-tight text-white drop-shadow-sm sm:text-5xl">
@@ -144,7 +144,7 @@ const recientes = [...articulos]
                   class="h-14 w-20 shrink-0 rounded-lg object-cover shadow-sm"
                 />
                 <span class="flex-1 font-medium text-stone-800">{a.data.title}</span>
-                <span class="whitespace-nowrap text-xs text-stone-400">
+                <span class="whitespace-nowrap text-xs text-stone-600">
                   {a.data.pubDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'short' })}
                 </span>
               </a>
