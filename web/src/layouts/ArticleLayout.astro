@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { getCategoria, getCategoriaImagen } from '../data/categorias';
 import { withBase } from '../lib/url';
 
@@ -117,6 +118,10 @@ const jsonLd = {
       </div>
     </header>
   )}
+
+  <div class="mb-8">
+    <ShareButtons url={articleURL.toString()} title={title} image={imageURL?.toString()} />
+  </div>
 
   {headings.length >= 3 && (
     <nav

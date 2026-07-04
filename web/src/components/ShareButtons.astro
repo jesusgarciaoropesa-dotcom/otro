@@ -1,0 +1,103 @@
+---
+interface Props {
+  url: string;
+  title: string;
+  image?: string;
+}
+
+const { url, title, image } = Astro.props as Props;
+
+const pinterestHref = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(url)}${
+  image ? `&media=${encodeURIComponent(image)}` : ''
+}&description=${encodeURIComponent(title)}`;
+const whatsappHref = `https://api.whatsapp.com/send?text=${encodeURIComponent(`${title} ${url}`)}`;
+const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+const xHref = `https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`;
+---
+
+<div class="flex flex-wrap items-center gap-2" data-share-buttons data-url={url}>
+  <span class="text-sm font-semibold text-stone-600">Compartir:</span>
+
+  <a
+    href={pinterestHref}
+    target="_blank"
+    rel="noopener"
+    aria-label="Guardar en Pinterest"
+    class="flex h-9 w-9 items-center justify-center rounded-full bg-white text-stone-600 shadow-md ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-[#E60023] hover:text-white"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-4.5 w-4.5">
+      <path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.024 0 1.518.769 1.518 1.69 0 1.03-.655 2.567-.992 3.992-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.136.893 2.738a.36.36 0 01.083.345c-.091.378-.293 1.194-.333 1.361-.052.218-.172.264-.397.159-1.481-.69-2.407-2.856-2.407-4.598 0-3.744 2.72-7.183 7.842-7.183 4.117 0 7.317 2.933 7.317 6.851 0 4.087-2.577 7.376-6.153 7.376-1.202 0-2.331-.624-2.717-1.362l-.739 2.819c-.268 1.031-.991 2.322-1.475 3.109.111.034.223.062.336.088A12 12 0 1012 0z"/>
+    </svg>
+  </a>
+
+  <a
+    href={whatsappHref}
+    target="_blank"
+    rel="noopener"
+    aria-label="Compartir por WhatsApp"
+    class="flex h-9 w-9 items-center justify-center rounded-full bg-white text-stone-600 shadow-md ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-[#25D366] hover:text-white"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-4.5 w-4.5">
+      <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.39 1.26 4.81L2 22l5.42-1.35a9.86 9.86 0 004.62 1.15h.01c5.46 0 9.9-4.45 9.9-9.91 0-2.65-1.03-5.14-2.9-7.01A9.87 9.87 0 0012.04 2zm0 18.09h-.01a8.2 8.2 0 01-4.18-1.14l-.3-.18-3.11.77.83-3.03-.2-.32a8.24 8.24 0 01-1.26-4.28c0-4.55 3.7-8.26 8.25-8.26a8.2 8.2 0 015.83 2.42 8.16 8.16 0 012.42 5.83c0 4.55-3.71 8.19-8.27 8.19zm4.53-6.16c-.25-.12-1.47-.72-1.7-.81-.23-.08-.39-.12-.56.13-.17.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.12-1.04-.38-1.98-1.22-.73-.65-1.23-1.46-1.37-1.71-.14-.25-.02-.38.11-.51.11-.11.25-.29.37-.43.12-.14.16-.25.25-.41.08-.17.04-.31-.02-.43-.06-.12-.56-1.35-.77-1.85-.2-.48-.41-.42-.56-.42-.14-.01-.31-.01-.48-.01-.17 0-.43.06-.66.31-.23.25-.86.84-.86 2.05s.88 2.38 1 2.54c.12.17 1.73 2.64 4.2 3.7.59.25 1.05.4 1.41.52.59.19 1.13.16 1.55.1.47-.07 1.47-.6 1.68-1.18.21-.58.21-1.08.14-1.18-.06-.11-.23-.17-.48-.29z"/>
+    </svg>
+  </a>
+
+  <a
+    href={facebookHref}
+    target="_blank"
+    rel="noopener"
+    aria-label="Compartir en Facebook"
+    class="flex h-9 w-9 items-center justify-center rounded-full bg-white text-stone-600 shadow-md ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-[#1877F2] hover:text-white"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-4.5 w-4.5">
+      <path d="M22 12.06C22 6.51 17.52 2 12 2S2 6.51 2 12.06c0 5.02 3.66 9.18 8.44 9.94v-7.03H7.9v-2.91h2.54V9.84c0-2.51 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.78-1.63 1.57v1.88h2.77l-.44 2.91h-2.33V22c4.78-.76 8.44-4.92 8.44-9.94z"/>
+    </svg>
+  </a>
+
+  <a
+    href={xHref}
+    target="_blank"
+    rel="noopener"
+    aria-label="Compartir en X"
+    class="flex h-9 w-9 items-center justify-center rounded-full bg-white text-stone-600 shadow-md ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-black hover:text-white"
+  >
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="h-4.5 w-4.5">
+      <path d="M18.24 2H21.5l-7.1 8.11L22.75 22h-6.55l-5.13-6.71L5.17 22H1.9l7.6-8.68L1.25 2h6.72l4.64 6.13zm-1.15 18h1.8L7 3.9H5.06z"/>
+    </svg>
+  </a>
+
+  <button
+    type="button"
+    data-copy-link
+    aria-label="Copiar enlace"
+    class="flex h-9 w-9 items-center justify-center rounded-full bg-white text-stone-600 shadow-md ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-(--color-tierra) hover:text-white"
+  >
+    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-4.5 w-4.5" data-copy-icon>
+      <path d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 00-1.414 1.414 4 4 0 005.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5z" />
+      <path d="M7.414 15.414a2 2 0 01-2.828-2.828l3-3a2 2 0 012.828 0 1 1 0 001.414-1.414 4 4 0 00-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5z" />
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-copy-link]').forEach((button) => {
+    button.addEventListener('click', async () => {
+      const container = button.closest<HTMLElement>('[data-share-buttons]');
+      const url = container?.dataset.url;
+      if (!url) return;
+      try {
+        await navigator.clipboard.writeText(url);
+        const icon = button.querySelector('[data-copy-icon]');
+        if (icon) {
+          const original = icon.innerHTML;
+          icon.innerHTML = '<path fill-rule="evenodd" d="M16.704 5.29a1 1 0 010 1.415l-7.5 7.5a1 1 0 01-1.415 0l-3.5-3.5a1 1 0 111.415-1.414L8.5 12.086l6.79-6.795a1 1 0 011.414 0z" clip-rule="evenodd" />';
+          setTimeout(() => {
+            icon.innerHTML = original;
+          }, 1800);
+        }
+      } catch {
+        /* clipboard no disponible: no hacemos nada, el usuario puede copiar la URL manualmente */
+      }
+    });
+  });
+</script>
