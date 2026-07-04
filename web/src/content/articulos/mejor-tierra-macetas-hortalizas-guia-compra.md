@@ -15,7 +15,7 @@ Con tantas opciones disponibles en cualquier tienda de jardinería, elegir bien 
 
 La tierra de jardín envasada, pensada para enmendar parterres, se compacta con facilidad en el espacio reducido de una maceta, ahogando las raíces por falta de aireación. Para maceta necesitas siempre un producto etiquetado específicamente como "sustrato para macetas" o "sustrato universal", con una composición pensada para retener humedad sin compactarse.
 
-<a href="https://www.amazon.es/s?k=sustrato+universal+para+macetas+hortalizas&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=sustrato+universal+para+macetas+hortalizas&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Qué mirar en la etiqueta
 

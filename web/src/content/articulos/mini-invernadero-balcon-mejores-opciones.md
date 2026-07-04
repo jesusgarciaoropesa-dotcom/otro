@@ -17,7 +17,7 @@ Una bandeja de semillero con tapa de plástico transparente, del tamaño justo p
 
 **Recomendado para**: adelantar la siembra de primavera desde el interior de la vivienda.
 
-<a href="https://www.amazon.es/s?k=mini+invernadero+semillero+sobremesa&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=mini+invernadero+semillero+sobremesa&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Invernadero de estantería con cubierta de PVC
 
@@ -25,7 +25,7 @@ Una estructura con varias baldas y una cubierta de PVC con cremallera que permit
 
 **Recomendado para**: proteger un grupo de macetas completo durante el invierno, o adelantar el cultivo de plantas ya trasplantadas.
 
-<a href="https://www.amazon.es/s?k=invernadero+estanteria+cubierta+pvc+balcon&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=invernadero+estanteria+cubierta+pvc+balcon&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Fundas o campanas individuales para maceta
 
@@ -33,7 +33,7 @@ Cubren una única maceta o planta de forma independiente, útiles para proteger 
 
 **Recomendadas para**: proteger de forma puntual una o dos plantas concretas (por ejemplo, un limonero joven) frente a una helada anunciada.
 
-<a href="https://www.amazon.es/s?k=funda+campana+proteccion+helada+maceta&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=funda+campana+proteccion+helada+maceta&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo elegir según tu necesidad
 

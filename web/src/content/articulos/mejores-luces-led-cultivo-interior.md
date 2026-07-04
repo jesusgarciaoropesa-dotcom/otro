@@ -17,7 +17,7 @@ Tiras o barras finas que se instalan bajo una balda o estantería, pensadas para
 
 **Recomendadas para**: huertos verticales de interior en estanterías, semilleros en fase de germinación.
 
-<a href="https://www.amazon.es/s?k=barra+led+cultivo+espectro+completo+estanteria&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=barra+led+cultivo+espectro+completo+estanteria&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Focos o paneles LED de mayor potencia
 
@@ -25,7 +25,7 @@ Pensados para cultivos más exigentes en luz o para cubrir un área mayor, como 
 
 **Recomendados para**: torres hidropónicas de interior, cultivos de fruto en interior que necesitan más intensidad lumínica.
 
-<a href="https://www.amazon.es/s?k=panel+led+cultivo+alta+potencia&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=panel+led+cultivo+alta+potencia&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Lámparas de sobremesa con temporizador integrado
 
@@ -33,7 +33,7 @@ Diseñadas para macetas individuales o pequeños grupos, con un temporizador inc
 
 **Recomendadas para**: quien tiene solo unas pocas plantas de interior y busca simplicidad de uso.
 
-<a href="https://www.amazon.es/s?k=lampara+led+cultivo+con+temporizador&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=lampara+led+cultivo+con+temporizador&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Qué mirar al elegir una luz de cultivo
 

@@ -17,7 +17,7 @@ Materiales porosos que permiten cierta transpiración a través de las paredes, 
 
 **Recomendadas para**: frutales de porte medio-alto que necesitan buena estabilidad, balcones sin riesgo de heladas severas.
 
-<a href="https://www.amazon.es/s?k=maceta+terracota+grande+frutales&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=maceta+terracota+grande+frutales&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Macetas de resina o plástico reforzado de gran capacidad
 
@@ -25,7 +25,7 @@ Mucho más ligeras que la terracota para un volumen equivalente, lo que facilita
 
 **Recomendadas para**: balcones con limitación de peso soportado, o si necesitas poder mover el frutal ocasionalmente.
 
-<a href="https://www.amazon.es/s?k=maceta+resina+gran+capacidad+arbol&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=maceta+resina+gran+capacidad+arbol&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Macetas de madera tipo "jardinera cuadrada"
 
@@ -33,7 +33,7 @@ Aportan gran volumen de sustrato con buen aislamiento térmico para las raíces 
 
 **Recomendadas para**: quien busca un acabado más natural y no le importa el mantenimiento adicional de la madera.
 
-<a href="https://www.amazon.es/s?k=jardinera+madera+grande+frutales&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=jardinera+madera+grande+frutales&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Tamaño según la edad del frutal
 

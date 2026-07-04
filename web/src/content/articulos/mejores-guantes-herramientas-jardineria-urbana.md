@@ -17,7 +17,7 @@ Protegen las manos de espinas, tierra bajo las uñas y pequeños cortes, sin per
 
 **Recomendados para**: uso general en todas las tareas del huerto.
 
-<a href="https://www.amazon.es/s?k=guantes+jardineria+refuerzo+palma&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=guantes+jardineria+refuerzo+palma&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Pala y rastrillo de mano
 
@@ -25,7 +25,7 @@ El dúo básico para trasplantar, remover sustrato y airear la superficie de las
 
 **Recomendados para**: preparación de macetas, trasplantes y mantenimiento rutinario.
 
-<a href="https://www.amazon.es/s?k=pala+y+rastrillo+de+mano+jardineria&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=pala+y+rastrillo+de+mano+jardineria&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Tijeras de podar
 
@@ -33,7 +33,7 @@ Imprescindibles para podar frutales, cortar tallos leñosos de aromáticas y hac
 
 **Recomendadas para**: poda de frutales, mantenimiento de aromáticas leñosas, cosecha de tallos gruesos.
 
-<a href="https://www.amazon.es/s?k=tijeras+de+podar+jardin&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=tijeras+de+podar+jardin&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Regadera de cuello largo
 
@@ -41,7 +41,7 @@ Aunque tengas riego automático, una regadera con cuello largo y alcachofa desmo
 
 **Recomendada para**: riego de precisión, aplicación de abonos líquidos, semilleros.
 
-<a href="https://www.amazon.es/s?k=regadera+cuello+largo+jardin&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=regadera+cuello+largo+jardin&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo priorizar la compra si empiezas de cero
 

@@ -17,7 +17,7 @@ Permiten activar, pausar o reprogramar el riego desde el móvil, sin necesidad d
 
 **Recomendado para**: quien viaja con frecuencia y quiere poder ajustar el riego a distancia sin gran inversión.
 
-<a href="https://www.amazon.es/s?k=programador+riego+wifi+app+movil&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=programador+riego+wifi+app+movil&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Sistemas con sensor de humedad integrado
 
@@ -25,7 +25,7 @@ Además del control por app, incorporan un sensor que mide la humedad real del s
 
 **Recomendado para**: quien quiere optimizar el consumo de agua y reducir al mínimo el riesgo de encharcamiento o sequía.
 
-<a href="https://www.amazon.es/s?k=sensor+humedad+sustrato+riego+wifi&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=sensor+humedad+sustrato+riego+wifi&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Sistemas con notificaciones y alertas
 
@@ -33,7 +33,7 @@ Algunos modelos avanzados envían notificaciones al móvil si detectan un fallo 
 
 **Recomendado para**: huertos con cultivos delicados donde un fallo de riego no detectado puede suponer una pérdida importante.
 
-<a href="https://www.amazon.es/s?k=riego+automatico+con+notificaciones+app&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=riego+automatico+con+notificaciones+app&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Ventajas e inconvenientes frente a un sistema tradicional
 

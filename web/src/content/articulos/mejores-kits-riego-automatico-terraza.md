@@ -17,7 +17,7 @@ Incluyen un programador sencillo a pilas, manguera de 4-6 mm y goteros ajustable
 
 **Recomendado para**: primera instalación de riego automático, huertos de tamaño reducido.
 
-<a href="https://www.amazon.es/s?k=kit+riego+automatico+basico+5+macetas&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+riego+automatico+basico+5+macetas&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Kits ampliables para 15-30 macetas
 
@@ -25,7 +25,7 @@ Ofrecen programadores con más salidas o la posibilidad de conectar varias líne
 
 **Recomendado para**: huertos ya consolidados con muchas macetas de distinto tamaño.
 
-<a href="https://www.amazon.es/s?k=kit+riego+goteo+ampliable+terraza&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+riego+goteo+ampliable+terraza&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Kits con programador wifi y sensor de humedad
 
@@ -33,7 +33,7 @@ La gama más avanzada, que incorpora control desde el móvil y riego condicionad
 
 **Recomendado para**: quien quiere el máximo control y no le importa pagar algo más por ello.
 
-<a href="https://www.amazon.es/s?k=kit+riego+wifi+sensor+humedad+terraza&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+riego+wifi+sensor+humedad+terraza&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Kits con depósito propio (sin toma de agua cerca)
 
@@ -41,7 +41,7 @@ Incluyen un depósito y una minibomba, pensados específicamente para terrazas s
 
 **Recomendado para**: terrazas sin acceso a grifo, áticos o balcones alejados de cualquier toma de agua.
 
-<a href="https://www.amazon.es/s?k=kit+riego+automatico+con+deposito+y+bomba&tag=TU-TAG-AQUI-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+riego+automatico+con+deposito+y+bomba&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo elegir según tu situación
 
