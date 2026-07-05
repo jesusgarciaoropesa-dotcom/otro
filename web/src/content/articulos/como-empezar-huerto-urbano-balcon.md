@@ -24,7 +24,7 @@ El error más común al empezar es usar macetas demasiado pequeñas. Como norma 
 
 - Hortalizas de raíz profunda (tomate, pimiento, berenjena): mínimo 30-40 cm de profundidad.
 - Hojas verdes y aromáticas: 15-20 cm de profundidad son suficientes.
-- Prioriza macetas con buen drenaje y, si puedes, autorregantes: reducen muchísimo el riesgo de encharcamiento o sequía.
+- Prioriza macetas con buen drenaje y, si puedes, autorregantes: reducen muchísimo el riesgo de encharcamiento o sequía. Consulta nuestra comparativa de [mejores macetas autorregantes para balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) para ver precios según capacidad.
 
 ## 3. Elige un buen sustrato
 

@@ -15,7 +15,7 @@ El error más común de todos. Una maceta pequeña se seca en horas en verano y 
 
 ## 2. Regar todos los días "por si acaso"
 
-El riego excesivo ahoga las raíces y favorece hongos, y es más dañino que quedarse corto de agua puntualmente. Antes de regar, comprueba la humedad metiendo un dedo 2-3 cm en el sustrato: si aún está húmedo, espera.
+El riego excesivo ahoga las raíces y favorece hongos, y es más dañino que quedarse corto de agua puntualmente. Antes de regar, comprueba la humedad metiendo un dedo 2-3 cm en el sustrato: si aún está húmedo, espera. Si te cuesta acertar con la cantidad, unas [macetas autorregantes](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) quitan buena parte de esta duda de en medio.
 
 ## 3. Elegir plantas por gusto en vez de por luz disponible
 
@@ -27,7 +27,7 @@ Una maceta sin agujeros de drenaje (o con el agujero tapado por el plato) acumul
 
 ## 5. Sustrato inadecuado
 
-Usar tierra de jardín en lugar de un sustrato específico para maceta es otro clásico: se compacta, no drena bien y asfixia las raíces. Un sustrato universal de calidad, aligerado con perlita, es una inversión pequeña que marca una diferencia enorme.
+Usar tierra de jardín en lugar de un sustrato específico para maceta es otro clásico: se compacta, no drena bien y asfixia las raíces. Un sustrato universal de calidad, aligerado con perlita, es una inversión pequeña que marca una diferencia enorme. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) para saber qué mirar en la etiqueta antes de comprar.
 
 ## 6. No anticipar el riego en ausencias
 

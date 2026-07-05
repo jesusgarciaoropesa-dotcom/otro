@@ -24,7 +24,7 @@ Antes de comprar nada, conviene tener claro qué elementos son realmente impresc
 
 ## Herramientas básicas que facilitan el día a día
 
-Una pala pequeña, unos guantes y unas tijeras de podar sencillas cubren la mayoría de necesidades de mantenimiento habituales de un huerto pequeño, sin necesidad de un kit de herramientas profesional.
+Una pala pequeña, unos guantes y unas tijeras de podar sencillas cubren la mayoría de necesidades de mantenimiento habituales de un huerto pequeño, sin necesidad de un kit de herramientas profesional. Consulta nuestra comparativa de [mejores guantes y herramientas básicas de jardinería urbana](/articulos/mejores-guantes-herramientas-jardineria-urbana/) si quieres ver opciones concretas.
 
 ## Cómo priorizar el gasto si tu presupuesto es ajustado
 

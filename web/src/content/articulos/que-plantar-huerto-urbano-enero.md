@@ -20,7 +20,7 @@ En zonas costeras o de inviernos suaves, puedes sembrar directamente:
 
 ## Siembra en semillero protegido
 
-En la mayoría de zonas de España, enero es mejor mes para preparar semilleros en interior o mini invernadero, de cara al trasplante en marzo-abril:
+En la mayoría de zonas de España, enero es mejor mes para preparar [semilleros](/articulos/mejores-semilleros-empezar-plantas-casa/) en interior o mini invernadero, de cara al trasplante en marzo-abril:
 
 - Tomates (variedades de ciclo largo)
 - Pimientos

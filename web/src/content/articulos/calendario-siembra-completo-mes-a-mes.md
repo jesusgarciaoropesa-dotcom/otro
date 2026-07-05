@@ -16,7 +16,7 @@ Este calendario es una guía general para clima mediterráneo (la mayoría de Es
 
 ## Primavera temprana (marzo)
 
-Arranca la temporada fuerte de siembra: tomates, pimientos y berenjenas se siembran ahora en semillero para trasplantar más adelante, mientras que lechugas, rabanitos y guisantes ya se pueden sembrar directamente en maceta. Revisa [qué plantar en el huerto urbano en marzo](/articulos/que-plantar-huerto-urbano-marzo/).
+Arranca la temporada fuerte de siembra: tomates, pimientos y berenjenas se siembran ahora en [semillero](/articulos/mejores-semilleros-empezar-plantas-casa/) para trasplantar más adelante, mientras que lechugas, rabanitos y guisantes ya se pueden sembrar directamente en maceta. Revisa [qué plantar en el huerto urbano en marzo](/articulos/que-plantar-huerto-urbano-marzo/).
 
 ## Primavera avanzada (abril-mayo)
 

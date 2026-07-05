@@ -36,4 +36,4 @@ Si el amarilleo aparece de forma repentina y afecta a toda la planta por igual, 
 
 ## Prevención a largo plazo
 
-Un sustrato de calidad renovado anualmente, un riego constante (idealmente con [sistema automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/)) y un abonado regular durante la fructificación son las tres medidas que más reducen la aparición de este problema en tomateras de balcón.
+Un sustrato de calidad renovado anualmente, un riego constante (idealmente con [sistema automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/)) y un abonado regular durante la fructificación son las tres medidas que más reducen la aparición de este problema en tomateras de balcón. Consulta nuestra comparativa de [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) para elegir uno adecuado.

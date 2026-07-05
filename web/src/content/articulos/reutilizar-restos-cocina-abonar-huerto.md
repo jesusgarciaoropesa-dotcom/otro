@@ -33,4 +33,4 @@ La piel de plátano es rica en potasio, un nutriente clave para la floración y 
 
 ## Cuándo sí conviene un compostador
 
-Si generas muchos restos de cocina de forma regular, aprovechar solo estos ejemplos puntuales se queda corto. En ese caso, consulta nuestra comparativa de [compostador de balcón: mejores opciones sin malos olores](/articulos/compostador-de-balcon-mejores-opciones/) para procesar mayor cantidad de restos de forma más completa y obtener compost real para todo el huerto.
+Si generas muchos restos de cocina de forma regular, aprovechar solo estos ejemplos puntuales se queda corto. En ese caso, consulta nuestra comparativa de [compostador de balcón: mejores opciones sin malos olores](/articulos/compostador-de-balcon-mejores-opciones/) para procesar mayor cantidad de restos de forma más completa y obtener compost real para todo el huerto. Y si simplemente prefieres no complicarte con restos caseros, nuestra comparativa de [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) cubre la alternativa comprada.

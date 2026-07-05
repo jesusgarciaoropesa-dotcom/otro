@@ -27,7 +27,7 @@ El tomate necesita **al menos 6 horas de sol directo al día**. En balcones con 
 
 ## Riego
 
-El riego irregular es la principal causa del "rajado" de tomates (cuando la piel se agrieta) y del podrido apical. Lo ideal es mantener el sustrato con humedad constante, sin encharcar, lo que hace que un [sistema de riego por goteo automático](../mejor-sistema-riego-automatico-macetas-balcon/) sea especialmente recomendable para este cultivo.
+El riego irregular es la principal causa del "rajado" de tomates (cuando la piel se agrieta) y del podrido apical. Lo ideal es mantener el sustrato con humedad constante, sin encharcar, lo que hace que un [sistema de riego por goteo automático](../mejor-sistema-riego-automatico-macetas-balcon/) sea especialmente recomendable para este cultivo. Unas [macetas autorregantes](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) son otra alternativa válida si prefieres no instalar un sistema de goteo.
 
 ## Entutorado
 

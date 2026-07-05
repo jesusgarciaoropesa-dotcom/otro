@@ -31,7 +31,7 @@ Riega cuando los primeros centímetros de sustrato estén secos, evitando tanto 
 
 ## Abonado específico para cítricos
 
-Los limoneros son plantas muy exigentes en nutrientes. Usa un abono específico para cítricos rico en hierro y magnesio durante la primavera y el verano, siguiendo la dosis del fabricante. Su ausencia es la causa más común de hojas amarillas con nervios verdes (clorosis férrica).
+Los limoneros son plantas muy exigentes en nutrientes. Usa un abono específico para cítricos rico en hierro y magnesio durante la primavera y el verano, siguiendo la dosis del fabricante. Consulta nuestra comparativa de [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) si prefieres una opción orgánica. Su ausencia es la causa más común de hojas amarillas con nervios verdes (clorosis férrica).
 
 ## Poda
 

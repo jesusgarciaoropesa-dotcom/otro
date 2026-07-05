@@ -11,7 +11,7 @@ Los arándanos son uno de los frutales de maceta más exigentes en cuanto a tipo
 
 ## El sustrato es la clave del éxito
 
-A diferencia de la mayoría de frutales, los arándanos necesitan un sustrato ácido (pH entre 4,5 y 5,5), muy distinto del sustrato universal estándar que sirve para el resto del huerto. Usa siempre un sustrato específico para plantas acidófilas; en sustrato normal, la planta no podrá absorber correctamente los nutrientes aunque el riego y la luz sean perfectos.
+A diferencia de la mayoría de frutales, los arándanos necesitan un sustrato ácido (pH entre 4,5 y 5,5), muy distinto del sustrato universal estándar que sirve para el resto del huerto. Usa siempre un sustrato específico para plantas acidófilas; en sustrato normal, la planta no podrá absorber correctamente los nutrientes aunque el riego y la luz sean perfectos. Consulta nuestra comparativa de [mejor sustrato para huerto urbano en maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/), que incluye las opciones específicas para acidófilas.
 
 ## Maceta necesaria
 
@@ -35,7 +35,7 @@ La poda se realiza en invierno, en reposo vegetativo, eliminando ramas viejas po
 
 ## Abonado
 
-Usa siempre fertilizantes específicos para plantas acidófilas; los abonos genéricos suelen tener un efecto alcalinizante que perjudica progresivamente al arándano.
+Usa siempre fertilizantes específicos para plantas acidófilas; los abonos genéricos suelen tener un efecto alcalinizante que perjudica progresivamente al arándano. Consulta nuestra comparativa de [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) para ver opciones adecuadas.
 
 ## Cuánto tarda en dar fruto
 

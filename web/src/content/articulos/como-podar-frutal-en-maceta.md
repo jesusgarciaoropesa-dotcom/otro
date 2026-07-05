@@ -30,7 +30,7 @@ En un frutal de maceta, la poda también sirve para limitar el tamaño general d
 
 ## Herramientas y cortes
 
-Usa siempre tijeras de podar bien afiladas y desinfectadas (con alcohol) entre planta y planta si tienes varias, para no propagar posibles enfermedades. Haz los cortes justo por encima de una yema, en ángulo ligero, evitando dejar tocones largos que tardan en cicatrizar.
+Usa siempre tijeras de podar bien afiladas y desinfectadas (con alcohol) entre planta y planta si tienes varias, para no propagar posibles enfermedades. Consulta nuestra comparativa de [mejores guantes y herramientas básicas de jardinería urbana](/articulos/mejores-guantes-herramientas-jardineria-urbana/) si todavía no tienes unas tijeras de podar de garantía. Haz los cortes justo por encima de una yema, en ángulo ligero, evitando dejar tocones largos que tardan en cicatrizar.
 
 ## Errores comunes
 

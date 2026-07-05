@@ -7,7 +7,7 @@ keywords: ["cuándo trasplantar plántulas", "trasplante de semillero a maceta",
 pubDate: 2026-05-05
 ---
 
-Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado.
+Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado. Si todavía no tienes semillero, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/) antes de sembrar la próxima tanda.
 
 ## Señales de que está lista para trasplantar
 

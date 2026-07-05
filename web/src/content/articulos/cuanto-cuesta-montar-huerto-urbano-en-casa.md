@@ -15,7 +15,7 @@ Es la partida más variable. Unas macetas de plástico básicas de 15-20 litros 
 
 ## Sustrato
 
-Un saco de sustrato universal de calidad rinde para varias macetas medianas. Es una de las partidas más baratas del conjunto, aunque tendrás que reponerlo o refrescarlo una vez al año.
+Un saco de sustrato universal de calidad rinde para varias macetas medianas. Es una de las partidas más baratas del conjunto, aunque tendrás que reponerlo o refrescarlo una vez al año. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) para no acertar a la primera con qué mirar en la etiqueta.
 
 ## Semillas o plantel
 
@@ -27,7 +27,7 @@ Un kit básico de goteo con temporizador a pilas es la inversión que más impac
 
 ## Herramientas básicas
 
-Un juego mínimo (pala pequeña, guantes, regadera si no llevas riego automático) es una compra única de bajo coste que dura años.
+Un juego mínimo (pala pequeña, guantes, regadera si no llevas riego automático) es una compra única de bajo coste que dura años. Revisa nuestra comparativa de [mejores guantes y herramientas básicas de jardinería urbana](/articulos/mejores-guantes-herramientas-jardineria-urbana/) para no comprar de más ni de menos.
 
 ## Coste total orientativo
 
