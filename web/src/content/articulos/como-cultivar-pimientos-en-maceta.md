@@ -37,7 +37,7 @@ Aporta un abono equilibrado durante el crecimiento inicial, y cambia a uno rico 
 
 ## Entutorado
 
-Aunque no es tan necesario como en el tomate, un tutor simple ayuda a sostener la planta cuando está cargada de frutos, evitando que las ramas se partan por el peso.
+Aunque no es tan necesario como en el tomate, un tutor simple ayuda a sostener la planta cuando está cargada de frutos, evitando que las ramas se partan por el peso. Consulta nuestra comparativa de [mejores tutores y estacas para tomateras, pimientos y berenjenas](/articulos/mejores-tutores-estacas-tomateras-pimientos/) si necesitas uno.
 
 ## Problemas comunes
 

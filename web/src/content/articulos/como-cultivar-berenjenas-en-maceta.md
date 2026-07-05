@@ -23,7 +23,7 @@ Necesita un riego constante durante toda la fase de fructificación; la irregula
 
 ## Tutorado
 
-Aunque menos exigente que el tomate en este aspecto, una berenjena cargada de fruto se beneficia de un tutor sencillo que evite que el tallo principal se doble bajo el peso, sobre todo en variedades de fruto grande.
+Aunque menos exigente que el tomate en este aspecto, una berenjena cargada de fruto se beneficia de un tutor sencillo que evite que el tallo principal se doble bajo el peso, sobre todo en variedades de fruto grande. Consulta nuestra comparativa de [mejores tutores y estacas para tomateras, pimientos y berenjenas](/articulos/mejores-tutores-estacas-tomateras-pimientos/) para ver las opciones.
 
 ## Polinización
 

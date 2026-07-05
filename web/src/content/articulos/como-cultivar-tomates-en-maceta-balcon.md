@@ -31,7 +31,7 @@ El riego irregular es la principal causa del "rajado" de tomates (cuando la piel
 
 ## Entutorado
 
-Casi todas las variedades de tomate necesitan un tutor (caña, espiral o estructura vertical) para sujetar el tallo a medida que crece y da peso en frutos. Instálalo desde que la planta es joven para no dañar las raíces después.
+Casi todas las variedades de tomate necesitan un tutor (caña, espiral o estructura vertical) para sujetar el tallo a medida que crece y da peso en frutos. Instálalo desde que la planta es joven para no dañar las raíces después. Consulta nuestra comparativa de [mejores tutores y estacas para tomateras, pimientos y berenjenas](/articulos/mejores-tutores-estacas-tomateras-pimientos/) para elegir el más adecuado según tu variedad.
 
 ## Abonado
 

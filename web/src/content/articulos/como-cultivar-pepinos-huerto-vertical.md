@@ -19,7 +19,7 @@ El pepino tiene un sistema radicular más exigente de lo que parece: necesita al
 
 ## Estructura de tutorado
 
-Una malla vertical, un enrejado o incluso una estructura de cultivo vertical con barras resistentes permite que los zarcillos del pepino se agarren solos a medida que crece. Guía manualmente los primeros brotes hacia la estructura si la planta no encuentra el soporte por sí sola.
+Una malla vertical, un enrejado o incluso una estructura de cultivo vertical con barras resistentes permite que los zarcillos del pepino se agarren solos a medida que crece. Guía manualmente los primeros brotes hacia la estructura si la planta no encuentra el soporte por sí sola. Consulta nuestra comparativa de [mejores tutores y estacas](/articulos/mejores-tutores-estacas-tomateras-pimientos/) para ver opciones de malla y rejilla de tutorado.
 
 ## Riego
 
