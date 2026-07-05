@@ -18,6 +18,8 @@ Cuando el suelo del balcón se queda pequeño, la solución no es renunciar a cu
 
 ## Opciones de estructuras verticales
 
+Consulta también nuestra comparativa de [estructuras de cultivo vertical para pared de terraza](/articulos/estructuras-cultivo-vertical-pared-terraza/) si buscas algo más permanente que las opciones que siguen.
+
 ### 1. Torres de cultivo apilables
 
 Macetas apiladas en columna con salida lateral para cada planta. Ideales para fresas, lechugas y aromáticas. Ocupan muy poco suelo (30x30 cm aprox.) y pueden alcanzar 1-1,5 m de altura.

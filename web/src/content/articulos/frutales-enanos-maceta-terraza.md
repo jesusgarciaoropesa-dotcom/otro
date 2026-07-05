@@ -36,7 +36,7 @@ Aunque no son árboles, merecen mención: los frutos rojos en variedades compact
 
 ## Qué tienen en común todos los frutales de maceta
 
-- **Maceta grande desde el principio**: mínimo 40 litros, e ir aumentando cada 2-3 años.
+- **Maceta grande desde el principio**: mínimo 40 litros, e ir aumentando cada 2-3 años. Consulta nuestra [guía de compra de maceta para frutales de balcón](/articulos/mejor-maceta-frutales-balcon-guia-compra/) para acertar con el tamaño y el material.
 - **Abonado específico**: los frutales en maceta agotan antes los nutrientes del sustrato que en tierra, necesitan aporte regular.
 - **Paciencia**: la mayoría tarda entre 1 y 3 años en dar su primera cosecha relevante.
 

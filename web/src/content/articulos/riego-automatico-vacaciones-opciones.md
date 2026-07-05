@@ -22,7 +22,7 @@ Aquí es donde empiezan los problemas si no tienes ningún sistema. Las opciones
 
 ## Ausencias de más de 10-15 días
 
-Para vacaciones largas, un [kit de riego por goteo con programador](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) deja de ser una opción y se convierte en la única solución fiable. Si tu balcón no tiene toma de agua cercana, existen kits con depósito propio (garrafa + minibomba) que no dependen del grifo de la vivienda.
+Para vacaciones largas, un [kit de riego por goteo con programador](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) deja de ser una opción y se convierte en la única solución fiable. Si tu balcón no tiene toma de agua cercana, existen kits con depósito propio (garrafa + minibomba) que no dependen del grifo de la vivienda. Si además quieres poder comprobar o ajustar el riego a distancia mientras estás fuera, consulta nuestra comparativa de [riego automático con app móvil](/articulos/riego-automatico-app-movil-mejores-dispositivos/).
 
 ## Qué revisar antes de irte, tengas o no sistema automático
 

@@ -15,7 +15,7 @@ Incluso una ventana muy soleada filtra buena parte de la intensidad lumínica a 
 
 ## Qué tipo de luz LED elegir
 
-Busca luces de cultivo con espectro completo (full spectrum), que incluyen las longitudes de onda azul (favorece crecimiento vegetativo compacto) y roja (favorece floración y fructificación) en proporciones equilibradas, en lugar de LEDs genéricos de iluminación doméstica.
+Busca luces de cultivo con espectro completo (full spectrum), que incluyen las longitudes de onda azul (favorece crecimiento vegetativo compacto) y roja (favorece floración y fructificación) en proporciones equilibradas, en lugar de LEDs genéricos de iluminación doméstica. Consulta nuestra comparativa de [mejores luces LED de cultivo para huerto interior](/articulos/mejores-luces-led-cultivo-interior/) para ver modelos concretos.
 
 ## Cuántas horas de luz al día
 

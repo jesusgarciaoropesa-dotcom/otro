@@ -15,7 +15,7 @@ Antes de comprar nada, observa tu balcón o terraza durante un día completo y a
 
 ## Paso 2: decide el sistema de maceteros
 
-Para principiantes, lo más sencillo es empezar con 3-5 macetas individuales de buen tamaño (mínimo 15-20 litros) antes que invertir en estructuras verticales complejas. Podrás ampliar más adelante, pero al principio es mejor centrarse en dominar el riego y el sustrato con pocas plantas.
+Para principiantes, lo más sencillo es empezar con 3-5 macetas individuales de buen tamaño (mínimo 15-20 litros) antes que invertir en estructuras verticales complejas. Podrás ampliar más adelante, pero al principio es mejor centrarse en dominar el riego y el sustrato con pocas plantas. Si prefieres no comprar cada pieza por separado, consulta nuestra comparativa de [mejores kits de huerto urbano para principiantes](/articulos/mejores-kits-huerto-urbano-principiantes/).
 
 ## Paso 3: elige un sustrato de calidad
 

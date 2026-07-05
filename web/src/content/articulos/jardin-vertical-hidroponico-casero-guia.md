@@ -45,4 +45,4 @@ Empieza con cultivos de ciclo corto y raíz poco exigente: lechugas, espinacas, 
 
 ## Mantenimiento
 
-Revisa el nivel y el pH del agua del depósito cada semana, y renueva la solución de nutrientes completa cada 2-3 semanas. Si prefieres empezar con algo más sencillo antes de dar el salto a la hidroponía, consulta primero nuestra guía de [cómo montar un huerto vertical en un balcón pequeño](/articulos/como-montar-huerto-vertical-balcon-pequeno/).
+Revisa el nivel y el pH del agua del depósito cada semana, y renueva la solución de nutrientes completa cada 2-3 semanas. Si prefieres empezar con algo más sencillo antes de dar el salto a la hidroponía, consulta primero nuestra guía de [cómo montar un huerto vertical en un balcón pequeño](/articulos/como-montar-huerto-vertical-balcon-pequeno/). Y si te convence el sistema pero no quieres montarlo pieza a pieza, consulta nuestra comparativa de [kits de hidroponía doméstica](/articulos/kits-hidroponia-domestica-comparativa/) ya montados.
