@@ -9,6 +9,8 @@ pubDate: 2026-04-19
 
 Un palet de madera reciclado es una de las formas más económicas de montar un huerto vertical, aprovechando un material que muchas veces se puede conseguir gratis o a muy bajo coste.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué palet elegir
 
 Prioriza siempre palets marcados con el sello **HT** (tratamiento térmico), que indica que no han sido tratados con productos químicos. Evita los marcados con **MB** (bromuro de metilo), un fungicida no apto para estar en contacto con cultivo comestible.
@@ -17,13 +19,17 @@ Prioriza siempre palets marcados con el sello **HT** (tratamiento térmico), que
 
 Lija las superficies para eliminar astillas y aplica un sellador o barniz apto para exterior no tóxico, dejando secar completamente antes de continuar. Este paso alarga mucho la vida del palet expuesto a riego y humedad constante.
 
+<a href="https://www.amazon.es/s?k=barniz+sellador+madera+exterior+atoxico&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Paso 2: forrar la estructura
 
 Cubre la parte trasera y la base de cada nivel con tela geotextil o plástico perforado, grapado con firmeza, para contener el sustrato sin que se salga por los huecos entre tablas. Deja pequeños agujeros de drenaje en la base de cada nivel.
 
+<a href="https://www.amazon.es/s?k=tela+geotextil+jardin+vertical&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Paso 3: rellenar con sustrato
 
-Coloca el palet tumbado durante el relleno (más fácil de manejar) y rellena cada nivel con un sustrato universal ligero, apretando lo justo para evitar bolsas de aire sin compactar en exceso.
+Coloca el palet tumbado durante el relleno (más fácil de manejar) y rellena cada nivel con un sustrato universal ligero, apretando lo justo para evitar bolsas de aire sin compactar en exceso. Consulta nuestra comparativa de [mejor sustrato para huerto urbano en maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/) si no tienes claro cuál usar.
 
 ## Paso 4: dejar reposar antes de poner en vertical
 
