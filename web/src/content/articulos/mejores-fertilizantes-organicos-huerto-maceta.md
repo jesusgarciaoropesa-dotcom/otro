@@ -17,7 +17,7 @@ Uno de los abonos orgánicos más completos y seguros: mejora la estructura del 
 
 **Recomendado para**: cualquier cultivo, especialmente principiantes por su bajo riesgo de sobredosis.
 
-<a href="https://www.amazon.es/s?k=humus+de+lombriz+abono+organico&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=humus+de+lombriz+abono+organico&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Guano líquido concentrado
 
@@ -25,7 +25,7 @@ Un abono líquido de origen animal muy rico en nutrientes, que se diluye en el a
 
 **Recomendado para**: tomates, pimientos y otros cultivos de fruto en plena producción.
 
-<a href="https://www.amazon.es/s?k=guano+liquido+concentrado+plantas&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=guano+liquido+concentrado+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Compost casero o comprado
 
@@ -33,13 +33,13 @@ Si haces tu propio [compost casero](/articulos/como-hacer-compost-casero-piso-si
 
 **Recomendado para**: abonado de fondo general y renovación anual del sustrato.
 
-<a href="https://www.amazon.es/s?k=compost+organico+para+plantas&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=compost+organico+para+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Abonos específicos para acidófilas
 
 Para cultivos como arándanos, que necesitan un sustrato y abonado ácido específico, un abono genérico puede resultar contraproducente. Consulta nuestra guía de [cómo cultivar arándanos en maceta](/articulos/como-cultivar-arandanos-en-maceta/) si este es tu caso.
 
-<a href="https://www.amazon.es/s?k=abono+especifico+plantas+acidofilas&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=abono+especifico+plantas+acidofilas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo elegir si solo vas a comprar uno
 

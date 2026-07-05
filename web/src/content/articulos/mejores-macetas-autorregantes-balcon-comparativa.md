@@ -22,7 +22,7 @@ La opción más extendida y económica. Depósitos de 3-8 litros según el tama�
 **Recomendadas para**: hortalizas de hoja, aromáticas y tomates cherry.
 **Precio orientativo**: económico-medio.
 
-<a href="https://www.amazon.es/s?k=maceta+autorregante+peque%C3%B1a&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=maceta+autorregante+peque%C3%B1a&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Macetas autorregantes de gran capacidad (20-30 litros)
 
@@ -31,7 +31,7 @@ Pensadas específicamente para tomates, pimientos y berenjenas, con depósitos g
 **Recomendadas para**: hortalizas de fruto de porte grande.
 **Precio orientativo**: medio-alto, pero amortizable por la reducción de pérdidas de cosecha.
 
-<a href="https://www.amazon.es/s?k=maceta+autorregante+grande+20+litros&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=maceta+autorregante+grande+20+litros&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Kits de conversión "autorregante" para macetas normales
 
@@ -40,7 +40,7 @@ Existen kits (mecha + depósito adaptable) que convierten una maceta convenciona
 **Recomendadas para**: quien ya tiene macetas y no quiere sustituirlas.
 **Precio orientativo**: económico.
 
-<a href="https://www.amazon.es/s?k=kit+conversion+maceta+autorregante&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+conversion+maceta+autorregante&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Macetas autorregantes con conexión a riego automático
 
@@ -49,7 +49,7 @@ Las gamas más avanzadas incluyen una entrada para conectar directamente una lí
 **Recomendadas para**: huertos de más de 10-15 macetas o gestión sin supervisión diaria.
 **Precio orientativo**: alto, pero es la solución más "despreocupada" a largo plazo.
 
-<a href="https://www.amazon.es/s?k=maceta+autorregante+riego+por+goteo&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=maceta+autorregante+riego+por+goteo&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Nuestra recomendación según perfil
 

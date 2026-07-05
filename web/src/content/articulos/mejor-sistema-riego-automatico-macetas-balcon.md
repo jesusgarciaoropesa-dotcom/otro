@@ -25,7 +25,7 @@ Un kit compuesto por manguera de 4-6 mm, goteros ajustables y un programador de 
 **Ventajas**: preciso, fácil de mantener, amplía la instalación según creces.
 **Inconvenientes**: requiere una instalación inicial de 30-60 minutos.
 
-<a href="https://www.amazon.es/s?k=kit+riego+por+goteo+con+temporizador&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+riego+por+goteo+con+temporizador&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Sistemas con app móvil y sensor de humedad
 
@@ -34,7 +34,7 @@ Los programadores conectados por wifi/bluetooth permiten regar desde el móvil y
 **Ventajas**: control remoto, riego más inteligente y eficiente.
 **Inconvenientes**: precio más elevado y dependencia de la conexión/batería del dispositivo.
 
-<a href="https://www.amazon.es/s?k=programador+riego+wifi+sensor+humedad&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=programador+riego+wifi+sensor+humedad&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Riego automático casero con botellas de plástico
 
@@ -47,7 +47,7 @@ Para presupuestos muy ajustados o macetas puntuales, una botella de plástico in
 
 Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados por una pequeña placa solar integrada, que cargan una batería interna. Son algo más caros pero evitan el cambio frecuente de pilas.
 
-<a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Nuestra recomendación
 

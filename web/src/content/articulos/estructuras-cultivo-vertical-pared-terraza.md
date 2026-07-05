@@ -17,7 +17,7 @@ Módulos de plástico o metal que se atornillan a la pared, cada uno con su prop
 
 **Ventaja principal**: mantenimiento planta a planta, fácil sustituir una que no prospera sin afectar al resto.
 
-<a href="https://www.amazon.es/s?k=panel+modular+jardin+vertical+pared&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=panel+modular+jardin+vertical+pared&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Jardineras colgantes escalonadas
 
@@ -25,7 +25,7 @@ Varias jardineras alargadas fijadas a distintas alturas de la pared mediante sop
 
 **Ventaja principal**: instalación más simple y sustrato más generoso que en paneles de bolsillo pequeño.
 
-<a href="https://www.amazon.es/s?k=jardineras+colgantes+escalonadas+pared&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=jardineras+colgantes+escalonadas+pared&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Sistemas de bolsillos textiles
 
@@ -33,7 +33,7 @@ Tela resistente con múltiples bolsillos en varias filas, muy ligera y económic
 
 **Ventaja principal**: el sistema más ligero y económico, apto incluso para paredes con poca capacidad de carga.
 
-<a href="https://www.amazon.es/s?k=jardinera+vertical+bolsillos+textil+pared&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=jardinera+vertical+bolsillos+textil+pared&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Qué tener en cuenta antes de fijar cualquier estructura a la pared
 

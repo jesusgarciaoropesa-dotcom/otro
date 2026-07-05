@@ -17,7 +17,7 @@ La opción más extendida: bandejas con celdillas individuales que facilitan tra
 
 **Recomendadas para**: la mayoría de siembras habituales, buena relación precio-utilidad.
 
-<a href="https://www.amazon.es/s?k=bandeja+alveolos+semillero+plastico&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=bandeja+alveolos+semillero+plastico&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Semilleros de turba prensada biodegradables
 
@@ -25,7 +25,7 @@ Cada celdilla es un pequeño bloque de turba prensada que se planta entero, sin 
 
 **Recomendados para**: cultivos que trasplantan peor (como el pepino), o para quien prefiere reducir el estrés del trasplante al mínimo.
 
-<a href="https://www.amazon.es/s?k=semillero+turba+prensada+biodegradable&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=semillero+turba+prensada+biodegradable&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Semilleros con mini invernadero (tapa transparente)
 
@@ -33,7 +33,7 @@ Incluyen una tapa de plástico transparente que retiene humedad y calor, acelera
 
 **Recomendados para**: siembras de finales de invierno o principios de primavera, cuando el interior de la vivienda aún no está muy cálido.
 
-<a href="https://www.amazon.es/s?k=semillero+mini+invernadero+con+tapa&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=semillero+mini+invernadero+con+tapa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Semilleros reutilizables de fibra de coco
 
@@ -41,7 +41,7 @@ Una alternativa más sostenible a la turba, con buena capacidad de retención de
 
 **Recomendados para**: quien prioriza opciones más sostenibles sin sacrificar rendimiento en la germinación.
 
-<a href="https://www.amazon.es/s?k=semillero+fibra+de+coco+reutilizable&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=semillero+fibra+de+coco+reutilizable&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cuál elegir según tu situación
 

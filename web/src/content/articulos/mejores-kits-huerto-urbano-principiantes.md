@@ -18,7 +18,7 @@ Incluyen normalmente una o varias macetas pequeñas, sustrato y semillas de arom
 
 **Recomendados para**: primera experiencia, espacios muy reducidos como una cocina o alféizar.
 
-<a href="https://www.amazon.es/s?k=kit+huerto+urbano+aromaticas+principiantes&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+huerto+urbano+aromaticas+principiantes&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Kits de hortalizas con maceta autorregante
 
@@ -26,7 +26,7 @@ Combinan una maceta con depósito de agua (autorregante) con semillas de hortali
 
 **Recomendados para**: quien quiere ir más allá de las aromáticas sin complicarse con el riego manual.
 
-<a href="https://www.amazon.es/s?k=kit+huerto+urbano+maceta+autorregante&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+huerto+urbano+maceta+autorregante&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Kits completos con estructura vertical
 
@@ -34,7 +34,7 @@ Incluyen una torre o estructura de cultivo vertical junto con sustrato y semilla
 
 **Recomendados para**: balcones muy pequeños que necesitan aprovechar el espacio en altura desde el primer día.
 
-<a href="https://www.amazon.es/s?k=kit+huerto+vertical+principiantes&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+huerto+vertical+principiantes&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Kits de semillero para empezar desde semilla
 
@@ -42,7 +42,7 @@ Incluyen bandejas de semillero, sustrato específico para germinación y semilla
 
 **Recomendados para**: quien busca el proceso completo y quiere ahorrar frente a comprar plantel.
 
-<a href="https://www.amazon.es/s?k=kit+semillero+huerto+urbano&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+semillero+huerto+urbano&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Nuestra recomendación según perfil
 

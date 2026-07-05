@@ -17,7 +17,7 @@ El sistema hidropónico más sencillo y económico: una mecha absorbe la soluci�
 
 **Recomendado para**: primera experiencia con hidroponía, aromáticas y hojas verdes pequeñas.
 
-<a href="https://www.amazon.es/s?k=kit+hidroponia+sistema+mecha&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+hidroponia+sistema+mecha&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Kits NFT (flujo laminar de nutrientes) con bomba
 
@@ -25,7 +25,7 @@ Una bomba hace circular una fina capa de solución nutritiva por un canal donde 
 
 **Recomendado para**: quien ya tiene algo de experiencia y busca más producción con varias plantas.
 
-<a href="https://www.amazon.es/s?k=kit+hidroponico+nft+con+bomba&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+hidroponico+nft+con+bomba&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Torres hidropónicas verticales
 
@@ -33,7 +33,7 @@ Combinan hidroponía con [cultivo vertical](/categorias/cultivo-vertical/), maxi
 
 **Recomendado para**: balcones pequeños que buscan maximizar producción con hidroponía.
 
-<a href="https://www.amazon.es/s?k=torre+hidroponica+vertical+domestica&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=torre+hidroponica+vertical+domestica&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 4. Kits todo en uno con luz LED para interior
 
@@ -41,7 +41,7 @@ Incluyen depósito, bomba y luces de cultivo integradas, pensados para cultivar 
 
 **Recomendado para**: cultivo en interior o balcones con muy poca luz natural.
 
-<a href="https://www.amazon.es/s?k=kit+hidroponico+interior+con+luz+led&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=kit+hidroponico+interior+con+luz+led&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Nuestra recomendación según perfil
 

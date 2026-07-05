@@ -17,7 +17,7 @@ El sistema bokashi fermenta los restos orgánicos en un cubo hermético usando m
 
 **Recomendado para**: pisos sin terraza, quien no puede tener nada al aire libre.
 
-<a href="https://www.amazon.es/s?k=compostador+bokashi+cocina&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=compostador+bokashi+cocina&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. Vermicompostador (compost con lombrices)
 
@@ -25,7 +25,7 @@ Utiliza lombrices rojas californianas para procesar los restos orgánicos en var
 
 **Recomendado para**: quien tiene un balcón o terraza pequeña y quiere producir su propio abono de calidad.
 
-<a href="https://www.amazon.es/s?k=vermicompostador+lombrices+balcon&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=vermicompostador+lombrices+balcon&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 3. Compostador cerrado rotatorio de exterior
 
@@ -33,7 +33,7 @@ Un tambor giratorio cerrado que se coloca en terraza, permitiendo airear el comp
 
 **Recomendado para**: terrazas con algo más de espacio que buscan mayor volumen de compost que un bokashi o vermicompostador.
 
-<a href="https://www.amazon.es/s?k=compostador+rotatorio+terraza&tag=mihuertourb00-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+<a href="https://www.amazon.es/s?k=compostador+rotatorio+terraza&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Cómo elegir según tu situación
 
