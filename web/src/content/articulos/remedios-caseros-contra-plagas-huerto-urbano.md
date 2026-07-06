@@ -23,7 +23,7 @@ Además de repeler ciertos insectos, la infusión de ortiga (dejada macerar vari
 
 ## Aceite de neem
 
-Uno de los remedios naturales más versátiles: actúa como repelente e interfiere en el ciclo reproductivo de muchos insectos, siendo efectivo tanto en pulgón como en mosca blanca o cochinilla. Aplícalo siempre a primera o última hora del día para evitar quemaduras por sol en las hojas tratadas.
+Uno de los [remedios naturales más versátiles](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/): actúa como repelente e interfiere en el ciclo reproductivo de muchos insectos, siendo efectivo tanto en pulgón como en mosca blanca o cochinilla. Aplícalo siempre a primera o última hora del día para evitar quemaduras por sol en las hojas tratadas.
 
 ## Trampas cromáticas caseras
 

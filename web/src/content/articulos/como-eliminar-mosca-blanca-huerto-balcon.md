@@ -15,7 +15,7 @@ Sacude ligeramente la planta y observa si salen volando insectos blancos diminut
 
 ## Trampas cromáticas amarillas
 
-Es de los métodos más efectivos y sencillos: la mosca blanca se siente atraída por el color amarillo. Coloca trampas adhesivas amarillas cerca de las plantas afectadas; capturan una parte importante de la población adulta y sirven además como indicador para monitorizar si la plaga va a más o a menos.
+Es de los métodos más efectivos y sencillos: la mosca blanca se siente atraída por el color amarillo. Coloca [trampas adhesivas amarillas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) cerca de las plantas afectadas; capturan una parte importante de la población adulta y sirven además como indicador para monitorizar si la plaga va a más o a menos.
 
 ## Jabón potásico
 

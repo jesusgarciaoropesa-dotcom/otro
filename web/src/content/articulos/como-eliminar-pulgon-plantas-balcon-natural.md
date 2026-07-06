@@ -21,7 +21,7 @@ Aparecen como pequeños insectos (verdes, negros o grisáceos) agrupados en los 
 
 El método más simple y sorprendentemente efectivo: un chorro de agua moderadamente fuerte dirigido al envés de las hojas y los brotes elimina gran parte de la población de pulgón por arrastre físico. Repite cada 2-3 días durante una semana.
 
-## 2. Jabón potásico
+## 2. [Jabón potásico](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/)
 
 Diluye jabón potásico (no detergente normal) en agua según las indicaciones del envase y pulveriza directamente sobre las colonias, preferiblemente a última hora de la tarde para evitar quemaduras por sol. Actúa por contacto, disolviendo la cutícula del insecto.
 

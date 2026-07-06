@@ -19,7 +19,7 @@ Se presenta como un polvo blanco harinoso que cubre la superficie de las hojas, 
 
 A diferencia del oídio, que es un polvo uniforme sobre toda la hoja, la cochinilla algodonosa se presenta como pequeños acúmulos de una sustancia blanca similar al algodón, concentrados en las axilas de las hojas y en el envés, no distribuidos por toda la superficie.
 
-**Tratamiento**: retira manualmente los acúmulos visibles con un bastoncillo empapado en alcohol, y aplica aceite de neem o jabón potásico en las zonas afectadas, repitiendo el tratamiento cada 7-10 días hasta que desaparezcan por completo.
+**Tratamiento**: retira manualmente los acúmulos visibles con un bastoncillo empapado en alcohol, y aplica [aceite de neem o jabón potásico](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) en las zonas afectadas, repitiendo el tratamiento cada 7-10 días hasta que desaparezcan por completo.
 
 ## Depósitos minerales del agua de riego
 

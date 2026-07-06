@@ -36,4 +36,4 @@ Antes de incorporar una planta comprada o un esqueje de otra procedencia, manten
 
 ## Si a pesar de todo aparece una plaga
 
-Aunque la prevención reduce mucho el riesgo, ninguna medida lo elimina al 100%. Consulta nuestras guías específicas de [cómo eliminar el pulgón de forma natural](/articulos/como-eliminar-pulgon-plantas-balcon-natural/) y revisa los síntomas en [por qué se caen las hojas de las plantas](/articulos/por-que-se-caen-hojas-plantas-huerto-urbano/) para identificar el problema exacto antes de tratarlo.
+Aunque la prevención reduce mucho el riesgo, ninguna medida lo elimina al 100%. Consulta nuestras guías específicas de [cómo eliminar el pulgón de forma natural](/articulos/como-eliminar-pulgon-plantas-balcon-natural/) y revisa los síntomas en [por qué se caen las hojas de las plantas](/articulos/por-que-se-caen-hojas-plantas-huerto-urbano/) para identificar el problema exacto antes de tratarlo. Ya elegido el tratamiento, consulta nuestra comparativa de [productos ecológicos contra plagas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) para saber cuál comprar en cada caso.

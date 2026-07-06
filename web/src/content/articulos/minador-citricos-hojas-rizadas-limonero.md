@@ -27,7 +27,7 @@ Es importante tener expectativas realistas: una hoja que ya ha sido minada y se 
 
 ## Tratamiento y prevención
 
-- **Aceite de neem o aceite de verano**: aplicado sobre los brotes nuevos en cuanto empiezan a salir, dificulta que la larva penetre en la hoja. Es el tratamiento más recomendable para maceta en balcón.
+- **[Aceite de neem o aceite de verano](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/)**: aplicado sobre los brotes nuevos en cuanto empiezan a salir, dificulta que la larva penetre en la hoja. Es el tratamiento más recomendable para maceta en balcón.
 - **Retira las hojas muy afectadas**: no arregla nada, pero reduce la población de larvas que puedan completar su ciclo y generar la siguiente generación.
 - **Evita el abonado nitrogenado excesivo**: un exceso de nitrógeno estimula brotes nuevos tiernos en exceso, justamente el tejido que más atrae a esta plaga.
 - **Revisa los brotes nuevos cada semana** durante las épocas de mayor crecimiento (primavera-verano), para tratar en cuanto aparezcan los primeros síntomas y no cuando ya haya varias hojas afectadas.
