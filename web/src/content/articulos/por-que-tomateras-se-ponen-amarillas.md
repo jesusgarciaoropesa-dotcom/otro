@@ -7,7 +7,7 @@ keywords: ["tomatera hojas amarillas", "por qué se amarillean los tomates", "to
 pubDate: 2026-04-04
 ---
 
-El amarilleo de las hojas es uno de los síntomas más comunes en tomateras de maceta, y puede deberse a varias causas distintas. El patrón exacto (qué hojas, en qué orden) ayuda mucho a identificar la causa real.
+El amarilleo de las hojas es uno de los síntomas más comunes en tomateras de maceta, y puede deberse a varias causas distintas. El patrón exacto (qué hojas, en qué orden) ayuda mucho a identificar la causa real. Si además de amarillear se enroscan u ondulan, consulta también nuestra guía de [hojas rizadas en la tomatera](/articulos/hojas-rizadas-tomatera-causas/), un síntoma relacionado pero con causas propias.
 
 ## Amarilleo empezando por las hojas bajas
 
