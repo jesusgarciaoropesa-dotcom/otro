@@ -42,5 +42,6 @@ Poda a finales de invierno, eliminando ramas secas, cruzadas o que crezcan hacia
 - **Hojas amarillas con nervios verdes**: falta de hierro, corrige con un abono específico para cítricos.
 - **Caída de flores o frutos pequeños**: riego irregular o falta de nutrientes en el momento de la floración.
 - **Cochinilla**: plaga frecuente en cítricos de maceta, revisa el envés de las hojas y los tallos periódicamente.
+- **Hojas nuevas rizadas u onduladas**: probablemente [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/), no un problema de riego ni de nutrientes.
 
 Si te interesa ampliar tu colección de frutales, consulta también nuestra guía de [frutales enanos que puedes cultivar en maceta en terraza](/articulos/frutales-enanos-maceta-terraza/).

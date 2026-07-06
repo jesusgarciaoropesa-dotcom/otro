@@ -16,7 +16,7 @@ El más popular y agradecido para empezar. Florece varias veces al año y produc
 
 ## 2. Naranjo enano
 
-Similar en cuidados al limonero, aunque algo más sensible al frío. Sus frutos tardan más en madurar (de otoño a invierno), pero el aroma de sus flores en primavera es un aliciente añadido.
+Similar en cuidados al limonero, aunque algo más sensible al frío. Sus frutos tardan más en madurar (de otoño a invierno), pero el aroma de sus flores en primavera es un aliciente añadido. Si ves las hojas nuevas rizadas, consulta nuestra guía sobre el [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/), una plaga que afecta a naranjos y mandarinos igual que a los limoneros.
 
 ## 3. Arándano
 
