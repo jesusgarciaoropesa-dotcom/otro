@@ -29,13 +29,13 @@ const guiasRedondeadas = Math.floor(articulos.length / 5) * 5;
     slot="head"
   />
   <section class="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden">
-    <div class="relative min-h-[460px] sm:min-h-[600px]">
+    <div class="relative flex min-h-[460px] flex-col justify-end sm:min-h-[600px]">
       <div
         class="absolute inset-0 bg-cover bg-center"
         style={`background-image: url('${withBase('/images/hero-huerto.jpg')}')`}
       />
       <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
-      <div class="absolute inset-x-0 bottom-0">
+      <div class="relative w-full">
         <div class="mx-auto max-w-5xl px-4 pb-10 sm:pb-14">
           <span class="inline-flex items-center gap-1.5 rounded-full bg-(--color-mostaza) px-3 py-1 text-xs font-semibold uppercase tracking-wide text-(--color-hoja-oscuro)">
             🌱 Guías para huertos urbanos
