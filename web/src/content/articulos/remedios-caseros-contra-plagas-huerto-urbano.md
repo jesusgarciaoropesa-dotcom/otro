@@ -11,7 +11,7 @@ Antes de recurrir a productos comerciales, muchos remedios caseros elaborados co
 
 ## Jabón potásico casero
 
-Diluye jabón potásico puro (no detergente convencional, que puede dañar las plantas) en agua, en la proporción indicada en el envase, y pulveriza directamente sobre pulgón, mosca blanca o araña roja. Actúa por contacto, disolviendo la capa protectora de estos insectos de cuerpo blando.
+Diluye jabón potásico puro (no detergente convencional, que puede dañar las plantas) en agua, en la proporción indicada en el envase, y pulveriza directamente sobre pulgón, mosca blanca o [araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/). Actúa por contacto, disolviendo la capa protectora de estos insectos de cuerpo blando.
 
 ## Infusión de ajo
 

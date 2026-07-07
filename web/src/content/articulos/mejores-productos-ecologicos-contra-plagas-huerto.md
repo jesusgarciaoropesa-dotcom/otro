@@ -58,5 +58,6 @@ A diferencia de los productos anteriores, estos no se aplican sobre las hojas, s
 - **Cochinilla algodonosa**: aceite de neem tras retirar los acúmulos visibles con alcohol. Consulta [manchas blancas en las hojas](/articulos/manchas-blancas-hojas-plantas-que-son/).
 - **Minador de los cítricos**: aceite de neem aplicado sobre los brotes nuevos en cuanto empiezan a salir. Consulta [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/).
 - **Gusano blanco en el sustrato**: extracción manual del cepellón (lo más efectivo en maceta) o nematodos beneficiosos regados en el sustrato. Consulta [gusano blanco en la maceta](/articulos/gusano-blanco-maceta-como-eliminarlo/).
+- **Araña roja**: jabón potásico combinado con pulverizaciones de agua para subir la humedad ambiental. Consulta [cómo eliminar la araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/).
 
 En todos los casos, aplica el tratamiento sobre toda la planta, no solo sobre la zona visiblemente afectada, y repite pasadas una o dos semanas para cortar el ciclo completo de la plaga.
