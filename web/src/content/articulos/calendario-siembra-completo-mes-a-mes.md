@@ -39,3 +39,5 @@ Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rab
 ## Cómo usar este calendario
 
 Guarda este artículo como referencia y revísalo al principio de cada mes. Combinado con los artículos específicos de cada mes, te permite mantener producción continua en tu huerto de balcón durante todo el año en lugar de concentrar toda la actividad en primavera.
+
+Si todavía no tienes claro qué tipo de semillas comprar, consulta nuestra guía de [cómo elegir semillas para tu huerto urbano](/articulos/como-elegir-semillas-huerto-urbano/) antes de la próxima siembra.

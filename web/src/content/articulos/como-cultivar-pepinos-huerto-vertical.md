@@ -9,6 +9,12 @@ pubDate: 2026-04-23
 
 El pepino es un cultivo trepador por naturaleza, lo que lo convierte en uno de los candidatos más lógicos para aprovechar el cultivo vertical en un balcón sin sacrificar demasiado espacio en el suelo.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de pepino de variedad trepadora:
+
+<a href="https://www.amazon.es/s?k=semillas+de+pepino+trepador&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Elige una variedad trepadora, no rastrera
 
 No todas las variedades de pepino trepan igual de bien: busca específicamente variedades de porte trepador o "de enrejado", diseñadas para crecer hacia arriba con ayuda de un tutor, en lugar de variedades rastreras que ocupan mucha superficie horizontal.

@@ -9,6 +9,12 @@ pubDate: 2026-02-10
 
 La albahaca es una de las aromáticas más cultivadas en balcones y cocinas, pero también una de las que más se marchita si no se entienden bien sus necesidades. Aquí tienes las claves para mantenerla sana todo el verano.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de albahaca:
+
+<a href="https://www.amazon.es/s?k=semillas+de+albahaca&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Por qué se seca la albahaca en maceta
 
 Las causas más frecuentes son:

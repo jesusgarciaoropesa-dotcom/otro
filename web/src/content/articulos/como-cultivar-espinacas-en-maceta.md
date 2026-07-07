@@ -9,6 +9,12 @@ pubDate: 2026-04-21
 
 Las espinacas son una de las hojas verdes más agradecidas para un huerto de balcón, con la ventaja de que, eligiendo bien la variedad y la época, se pueden mantener en producción prácticamente todo el año.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de espinaca:
+
+<a href="https://www.amazon.es/s?k=semillas+de+espinaca&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Maceta y sustrato
 
 No necesitan macetas muy profundas: 20-25 cm es suficiente, ya que su sistema radicular es poco profundo. Un sustrato universal rico en materia orgánica favorece un crecimiento más vigoroso de las hojas.

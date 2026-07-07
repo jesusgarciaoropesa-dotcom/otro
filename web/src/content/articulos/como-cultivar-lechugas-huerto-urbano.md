@@ -9,6 +9,12 @@ pubDate: 2026-02-27
 
 La lechuga es uno de los cultivos más agradecidos para empezar un huerto urbano: crece rápido, ocupa poco y se puede sembrar de forma escalonada para tener cosecha casi todo el año.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de lechuga variada, ideales para la siembra escalonada:
+
+<a href="https://www.amazon.es/s?k=semillas+de+lechuga+variada&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Variedades recomendadas para maceta
 
 - **Lechuga de hoja suelta** (tipo "lollo" o "roble"): la más fácil, se puede ir cortando hoja a hoja sin arrancar la planta entera.

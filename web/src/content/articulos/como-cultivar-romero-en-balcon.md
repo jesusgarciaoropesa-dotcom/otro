@@ -9,6 +9,12 @@ pubDate: 2026-03-02
 
 El romero es una de las aromáticas más agradecidas para un balcón: resiste bien la sequía puntual, apenas tiene plagas y, una vez establecido, requiere muy poco mantenimiento.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de romero:
+
+<a href="https://www.amazon.es/s?k=semillas+de+romero&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Maceta y sustrato
 
 El romero necesita un sustrato con muy buen drenaje, ya que es una planta de origen mediterráneo poco tolerante al encharcamiento. Mezcla el sustrato universal con un 30-40% de perlita o arena gruesa. Una maceta de 25-30 cm es suficiente para una planta adulta.

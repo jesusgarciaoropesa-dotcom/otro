@@ -9,6 +9,12 @@ pubDate: 2026-03-28
 
 La menta es una de las aromáticas más fáciles de cultivar, hasta el punto de que su verdadero reto no es conseguir que crezca, sino evitar que invada el resto de macetas cercanas.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de menta:
+
+<a href="https://www.amazon.es/s?k=semillas+de+menta&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Por qué es tan invasiva
 
 La menta se reproduce mediante rizomas subterráneos que se extienden lateralmente bajo la superficie, emitiendo nuevos brotes a cierta distancia de la planta original. Si comparte maceta o jardinera con otras plantas, es habitual que en pocos meses haya ocupado todo el espacio disponible.

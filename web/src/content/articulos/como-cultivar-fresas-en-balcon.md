@@ -9,6 +9,12 @@ pubDate: 2026-03-23
 
 Las fresas son uno de los cultivos más satisfactorios para un huerto de balcón: ocupan poco espacio, dan fruto varias veces en la temporada y se adaptan muy bien a estructuras colgantes o verticales.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Lo habitual con las fresas es partir de plantones ya enraizados en vez de semilla, para tener fruto mucho antes:
+
+<a href="https://www.amazon.es/s?k=plantones+de+fresa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Qué maceta usar
 
 Las fresas tienen raíces poco profundas, por lo que no necesitan macetas muy hondas, pero sí que sean anchas para dar espacio a los estolones (los brotes que la planta emite para reproducirse). Las jardineras alargadas o las torres apilables son opciones especialmente adecuadas: consulta nuestra guía de [mejores plantas para cultivo vertical](/articulos/mejores-plantas-cultivo-vertical-balcon/) si quieres aprovechar una estructura vertical.

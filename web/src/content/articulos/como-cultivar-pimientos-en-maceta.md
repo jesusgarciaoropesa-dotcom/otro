@@ -9,6 +9,12 @@ pubDate: 2026-03-01
 
 El pimiento es un cultivo agradecido para balcón siempre que le des suficiente sol y una maceta con espacio suficiente. Con los cuidados adecuados, una sola planta puede dar decenas de pimientos en una temporada.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de pimiento:
+
+<a href="https://www.amazon.es/s?k=semillas+de+pimiento&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Variedades recomendadas para balcón
 
 - **Pimiento de Padrón o Gernika**: porte compacto, muy productivo y agradecido para maceta.

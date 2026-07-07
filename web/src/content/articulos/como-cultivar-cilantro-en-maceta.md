@@ -9,6 +9,12 @@ pubDate: 2026-04-26
 
 El cilantro es una de las aromáticas más utilizadas en cocina, pero también una de las que más rápido se "sube a flor" si no se maneja bien el riego y la temperatura, dejando de producir hojas aprovechables.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de cilantro:
+
+<a href="https://www.amazon.es/s?k=semillas+de+cilantro&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Siembra
 
 El cilantro no trasplanta bien una vez que su raíz pivotante se ha desarrollado, así que lo mejor es sembrarlo directamente en la maceta definitiva en lugar de en semillero. Siembra las semillas a 1 cm de profundidad, dejando 3-4 cm entre ellas.

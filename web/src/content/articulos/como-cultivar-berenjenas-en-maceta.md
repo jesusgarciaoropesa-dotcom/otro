@@ -9,6 +9,12 @@ pubDate: 2026-05-30
 
 La berenjena es uno de los cultivos de fruto más exigentes en calor y espacio de un huerto de balcón, pero recompensa con una producción abundante si se cubren bien sus necesidades básicas.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de berenjena:
+
+<a href="https://www.amazon.es/s?k=semillas+de+berenjena&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Tamaño de maceta necesario
 
 Necesita al menos 30-40 litros de sustrato, similar al tomate, ya que desarrolla un sistema radicular considerable para sostener una planta de porte grande y varios frutos pesados a la vez.

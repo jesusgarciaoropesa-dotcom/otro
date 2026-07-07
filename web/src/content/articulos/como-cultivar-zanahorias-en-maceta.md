@@ -9,6 +9,12 @@ pubDate: 2026-05-29
 
 Las zanahorias tienen fama de ser complicadas en maceta, pero el problema casi siempre se reduce a dos factores: profundidad insuficiente y sustrato demasiado compacto o con piedras.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de zanahoria de raíz corta, más adecuadas para maceta:
+
+<a href="https://www.amazon.es/s?k=semillas+de+zanahoria+raiz+corta&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Profundidad de maceta necesaria
 
 Necesitan una maceta de al menos 30 cm de profundidad para variedades estándar; en macetas más superficiales, la raíz se deforma o se bifurca al encontrar el fondo antes de completar su desarrollo. Si tu espacio es limitado, existen variedades específicamente redondas o cortas, pensadas para macetas de menor profundidad.

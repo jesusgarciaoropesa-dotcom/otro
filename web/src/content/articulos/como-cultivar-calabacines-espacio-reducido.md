@@ -9,6 +9,12 @@ pubDate: 2026-06-01
 
 El calabacín tiene fama de necesitar mucho espacio, y es cierto para las variedades tradicionales de huerto en tierra, pero existen variedades compactas que hacen viable su cultivo incluso en un balcón con espacio limitado.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de calabacín de variedad compacta:
+
+<a href="https://www.amazon.es/s?k=semillas+de+calabacin+variedad+compacta&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Elige una variedad compacta o de porte arbustivo
 
 Busca específicamente variedades descritas como "de arbusto" o "compactas", diseñadas para ocupar mucho menos espacio horizontal que las variedades tradicionales de guía larga, que pueden extenderse más de un metro.

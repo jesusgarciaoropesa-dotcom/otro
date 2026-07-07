@@ -9,6 +9,12 @@ pubDate: 2026-02-08
 
 El tomate es, junto con la albahaca, el cultivo estrella de cualquier huerto de balcón. Con la variedad y el cuidado adecuados, es perfectamente posible obtener una buena cosecha incluso en un espacio reducido.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de tomate cherry, la variedad más agradecida para maceta:
+
+<a href="https://www.amazon.es/s?k=semillas+de+tomate+cherry&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Elige la variedad correcta
 
 No todas las variedades de tomate se adaptan igual de bien a maceta:

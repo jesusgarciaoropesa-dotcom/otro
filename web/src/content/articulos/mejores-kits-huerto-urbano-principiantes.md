@@ -51,4 +51,4 @@ Incluyen bandejas de semillero, sustrato específico para germinación y semilla
 - **Tu balcón es muy pequeño**: opción 3 (vertical).
 - **Te gusta el proceso completo desde semilla**: opción 4 (semillero).
 
-Sea cual sea el kit elegido, complementa la compra con nuestra guía de [huerto urbano para principiantes](/articulos/huerto-urbano-principiantes-guia-completa/) para asegurarte de que el espacio y la luz de tu balcón encajan con lo que hayas comprado.
+Sea cual sea el kit elegido, complementa la compra con nuestra guía de [huerto urbano para principiantes](/articulos/huerto-urbano-principiantes-guia-completa/) para asegurarte de que el espacio y la luz de tu balcón encajan con lo que hayas comprado. Si prefieres elegir las semillas por tu cuenta en vez de que vengan incluidas en un kit, consulta nuestra guía de [cómo elegir semillas para tu huerto urbano](/articulos/como-elegir-semillas-huerto-urbano/).

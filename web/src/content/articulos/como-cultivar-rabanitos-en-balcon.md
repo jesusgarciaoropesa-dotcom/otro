@@ -9,6 +9,12 @@ pubDate: 2026-03-26
 
 Si buscas resultados rápidos para coger confianza con tu huerto urbano, los rabanitos son probablemente el cultivo más agradecido: de la siembra a la cosecha pasan solo 3-4 semanas.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de rábano:
+
+<a href="https://www.amazon.es/s?k=semillas+de+rabano&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Maceta y sustrato
 
 No necesitan macetas profundas: con 15-20 cm de profundidad es suficiente, ya que la raíz comestible se desarrolla en la parte superior del sustrato. Un sustrato universal ligero, sin compactar, favorece raíces más lisas y uniformes.

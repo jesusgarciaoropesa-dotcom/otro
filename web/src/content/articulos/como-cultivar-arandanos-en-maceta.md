@@ -9,6 +9,12 @@ pubDate: 2026-04-30
 
 Los arándanos son uno de los frutales de maceta más exigentes en cuanto a tipo de sustrato, pero con las condiciones adecuadas ofrecen una de las cosechas más satisfactorias de un huerto de balcón.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+El arándano no se suele cultivar desde semilla (es muy lento y poco fiable): lo habitual es partir de una planta joven ya enraizada:
+
+<a href="https://www.amazon.es/s?k=planta+de+arandano+en+maceta&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## El sustrato es la clave del éxito
 
 A diferencia de la mayoría de frutales, los arándanos necesitan un sustrato ácido (pH entre 4,5 y 5,5), muy distinto del sustrato universal estándar que sirve para el resto del huerto. Usa siempre un sustrato específico para plantas acidófilas; en sustrato normal, la planta no podrá absorber correctamente los nutrientes aunque el riego y la luz sean perfectos. Consulta nuestra comparativa de [mejor sustrato para huerto urbano en maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/), que incluye las opciones específicas para acidófilas.
