@@ -21,7 +21,7 @@ Busca variedades específicamente descritas como compactas o de porte bajo (algu
 
 ## Tamaño de maceta
 
-Empieza con una maceta de al menos 40 cm de diámetro, e ir aumentando cada 2-3 años según crezca. Una higuera adulta en maceta puede necesitar 50-70 litros de sustrato para producir bien.
+Empieza con una maceta de al menos 40 cm de diámetro, e ir [aumentando a una maceta mayor cada 2-3 años](/articulos/como-cambiar-planta-a-maceta-mas-grande/) según crezca. Una higuera adulta en maceta puede necesitar 50-70 litros de sustrato para producir bien.
 
 ## Sustrato
 

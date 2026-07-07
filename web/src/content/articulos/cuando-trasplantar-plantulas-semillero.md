@@ -33,3 +33,5 @@ Si la plántula ha crecido en interior o con menos luz que la que tendrá en su 
 ## Cuidados en los primeros días tras el trasplante
 
 Mantén el sustrato con humedad más constante de lo habitual durante la primera semana, mientras la planta recupera y expande su sistema radicular en el nuevo volumen de sustrato disponible. Consulta el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) para saber cuándo sembrar cada cultivo con margen suficiente antes de la época de trasplante.
+
+Este es el trasplante inicial, de semillero a primera maceta. Más adelante, cuando la planta crezca y se quede pequeña en esa maceta, el proceso es algo distinto: consulta [cuándo y cómo cambiar una planta a una maceta más grande](/articulos/como-cambiar-planta-a-maceta-mas-grande/).

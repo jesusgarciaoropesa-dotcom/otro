@@ -21,7 +21,7 @@ Igual que con el limonero, busca específicamente variedades enanas o "de maceta
 
 ## Tamaño de maceta
 
-Empieza con una maceta de al menos 40-50 cm de diámetro, e ir trasplantando a una mayor cada 2-3 años a medida que la planta crece. Un naranjo adulto en maceta puede necesitar hasta 60-80 litros de sustrato, similar al limonero.
+Empieza con una maceta de al menos 40-50 cm de diámetro, e ir [trasplantando a una mayor cada 2-3 años](/articulos/como-cambiar-planta-a-maceta-mas-grande/) a medida que la planta crece. Un naranjo adulto en maceta puede necesitar hasta 60-80 litros de sustrato, similar al limonero.
 
 ## Sustrato
 

@@ -21,7 +21,7 @@ Existen variedades de granado puramente ornamentales, que florecen mucho pero ap
 
 ## Tamaño de maceta
 
-Una maceta de 40 cm de diámetro es suficiente para empezar, aumentando cada 2-3 años. Un granado adulto en maceta rinde bien con 50-60 litros de sustrato, algo menos exigente en volumen que los cítricos.
+Una maceta de 40 cm de diámetro es suficiente para empezar, [aumentando a una mayor cada 2-3 años](/articulos/como-cambiar-planta-a-maceta-mas-grande/). Un granado adulto en maceta rinde bien con 50-60 litros de sustrato, algo menos exigente en volumen que los cítricos.
 
 ## Sustrato
 

@@ -21,7 +21,7 @@ Para maceta, busca específicamente variedades enanas o "de maceta" (a veces eti
 
 ## Tamaño de maceta
 
-Empieza con una maceta de al menos 40-50 cm de diámetro y ve trasplantando a una mayor cada 2-3 años, a medida que la planta crece. Un limonero adulto en maceta puede necesitar hasta 60-80 litros de sustrato.
+Empieza con una maceta de al menos 40-50 cm de diámetro y ve [trasplantando a una mayor cada 2-3 años](/articulos/como-cambiar-planta-a-maceta-mas-grande/), a medida que la planta crece. Un limonero adulto en maceta puede necesitar hasta 60-80 litros de sustrato.
 
 ## Sustrato
 
