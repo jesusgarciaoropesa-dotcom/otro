@@ -17,7 +17,7 @@ Cuando la luz natural disponible en interior es realmente escasa (ventana peque�
 
 ## Aromáticas que no funcionarán bien sin buena luz
 
-Romero, tomillo, orégano y lavanda son de origen mediterráneo y necesitan sol directo abundante para desarrollarse con vigor; en interior con poca luz, sobrevivirán pero con un aspecto débil y escaso aroma, sin apenas producción aprovechable.
+[Romero](/articulos/como-cultivar-romero-en-balcon/), [tomillo](/articulos/como-cultivar-tomillo-en-maceta/), [orégano](/articulos/como-cultivar-oregano-en-maceta/) y lavanda son de origen mediterráneo y necesitan sol directo abundante para desarrollarse con vigor; en interior con poca luz, sobrevivirán pero con un aspecto débil y escaso aroma, sin apenas producción aprovechable.
 
 ## Cuándo añadir luz artificial
 

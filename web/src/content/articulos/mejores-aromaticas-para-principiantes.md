@@ -23,11 +23,11 @@ Muy agradecida en cuanto a producción, aunque algo más exigente con el riego q
 
 ## 4. Orégano
 
-Similar al romero en resistencia a la sequía y al sol intenso, con la ventaja añadida de que se puede secar fácilmente para conservarlo durante meses sin perder demasiado aroma.
+Similar al romero en resistencia a la sequía y al sol intenso, con la ventaja añadida de que se puede secar fácilmente para conservarlo durante meses sin perder demasiado aroma. Consulta [cómo cultivar orégano en maceta](/articulos/como-cultivar-oregano-en-maceta/) para los detalles de cuidado.
 
 ## 5. Perejil
 
-Algo más exigente en riego que las anteriores, pero de crecimiento fiable y rápido incluso para quien empieza. Tolera bien la semisombra, lo que lo hace útil en balcones con menos horas de sol directo.
+Algo más exigente en riego que las anteriores, pero de crecimiento fiable y rápido incluso para quien empieza. Tolera bien la semisombra, lo que lo hace útil en balcones con menos horas de sol directo. Consulta [cómo cultivar perejil en maceta](/articulos/como-cultivar-perejil-en-maceta/) para el resto de cuidados.
 
 ## Cuál elegir si solo vas a empezar con una
 
@@ -35,4 +35,4 @@ Si solo quieres una aromática para probar antes de ampliar, el romero es la apu
 
 ## Cómo combinarlas en una sola jardinera
 
-Romero, orégano y tomillo comparten necesidades de riego bajo y sol intenso, por lo que se pueden cultivar juntos en la misma jardinera sin problema. La albahaca y el perejil, al necesitar más riego, es mejor mantenerlos en macetas separadas para no sobre-regar a las mediterráneas.
+Romero, orégano y [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) comparten necesidades de riego bajo y sol intenso, por lo que se pueden cultivar juntos en la misma jardinera sin problema. La albahaca y el perejil, al necesitar más riego, es mejor mantenerlos en macetas separadas para no sobre-regar a las mediterráneas.

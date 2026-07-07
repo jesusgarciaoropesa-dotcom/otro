@@ -45,4 +45,4 @@ Una de las ventajas del romero es que se reproduce fácilmente por esqueje: cort
 - **Planta que no crece**: falta de sol directo suficiente.
 - **Manchas blancas polvorientas**: oídio, favorecido por poca ventilación; mejora la circulación de aire entre plantas.
 
-Si te interesa montar un pequeño rincón de aromáticas, consulta también nuestra guía de [cómo cultivar albahaca en maceta sin que se seque](/articulos/como-cultivar-albahaca-en-maceta/), una combinación clásica junto al romero.
+Si te interesa montar un pequeño rincón de aromáticas, consulta también nuestra guía de [cómo cultivar albahaca en maceta sin que se seque](/articulos/como-cultivar-albahaca-en-maceta/), una combinación clásica junto al romero, o las de [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) y [orégano](/articulos/como-cultivar-oregano-en-maceta/), que comparten prácticamente las mismas necesidades de riego y sol.
