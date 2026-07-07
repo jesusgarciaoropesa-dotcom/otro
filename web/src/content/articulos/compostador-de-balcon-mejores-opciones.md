@@ -13,7 +13,7 @@ El miedo a los malos olores es la principal razón por la que mucha gente descar
 
 ## 1. Compostador cerrado de bancada (bokashi)
 
-El sistema bokashi fermenta los restos orgánicos en un cubo hermético usando microorganismos, en lugar de descomponerlos por vía aeróbica tradicional. Al ser un proceso de fermentación en un recipiente cerrado, genera muy poco olor y ocupa un espacio mínimo, ideal para cocinas pequeñas.
+El sistema bokashi fermenta los restos orgánicos en un cubo hermético usando microorganismos, en lugar de descomponerlos por vía aeróbica tradicional. Al ser un proceso de fermentación en un recipiente cerrado, genera muy poco olor y ocupa un espacio mínimo, ideal para cocinas pequeñas. Consulta nuestra guía de [cómo funciona el bokashi paso a paso](/articulos/como-funciona-compostaje-bokashi/) antes de comprarlo, porque su funcionamiento es bastante distinto al de un compostador tradicional.
 
 **Recomendado para**: pisos sin terraza, quien no puede tener nada al aire libre.
 
@@ -43,7 +43,7 @@ Un tambor giratorio cerrado que se coloca en terraza, permitiendo airear el comp
 
 ## Claves para evitar olores sea cual sea el sistema
 
-- No añadas restos de carne, pescado o lácteos: son la causa principal de malos olores en cualquier sistema de compostaje doméstico.
+- No añadas restos de carne, pescado o lácteos al vermicompostador ni al compostador rotatorio: son la causa principal de malos olores en estos dos sistemas. El bokashi es la excepción, ya que al fermentar en lugar de descomponer sí admite bien este tipo de restos.
 - Mantén el equilibrio entre restos húmedos (frutas, verduras) y secos (cartón, hojas secas); el exceso de húmedo sin material seco es otra causa habitual de olor.
 - Airea o remueve con la frecuencia que indique cada sistema: la falta de oxígeno favorece procesos de descomposición anaeróbica, que son los que realmente huelen mal.
 
