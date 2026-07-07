@@ -49,5 +49,6 @@ Poda a finales de invierno, eliminando ramas secas, cruzadas o que crezcan hacia
 - **Caída de flores o frutos pequeños**: riego irregular o falta de nutrientes en el momento de la floración.
 - **Cochinilla**: plaga frecuente en cítricos de maceta, revisa el envés de las hojas y los tallos periódicamente.
 - **Hojas nuevas rizadas u onduladas**: probablemente [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/), no un problema de riego ni de nutrientes.
+- **Larvas blancas en forma de C en el sustrato**: es [gusano blanco](/articulos/gusano-blanco-maceta-como-eliminarlo/), se alimenta de raíces y conviene eliminarlo en cuanto lo detectes.
 
 Si te interesa ampliar tu colección de frutales, consulta también nuestra guía de [frutales enanos que puedes cultivar en maceta en terraza](/articulos/frutales-enanos-maceta-terraza/).

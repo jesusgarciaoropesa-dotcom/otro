@@ -32,7 +32,7 @@ Las mariquitas se alimentan de pulgón de forma muy eficaz. Plantar flores como 
 
 ## Cuarentena para plantas nuevas
 
-Antes de incorporar una planta comprada o un esqueje de otra procedencia, mantenla separada del resto durante unos días y revisa que no traiga ninguna plaga oculta, especialmente en el envés de las hojas y la base del tallo.
+Antes de incorporar una planta comprada o un esqueje de otra procedencia, mantenla separada del resto durante unos días y revisa que no traiga ninguna plaga oculta, especialmente en el envés de las hojas y la base del tallo. Lo mismo aplica al añadir compost casero o tierra de jardín al sustrato: revísalo antes, ya que es la vía de entrada más habitual del [gusano blanco](/articulos/gusano-blanco-maceta-como-eliminarlo/).
 
 ## Si a pesar de todo aparece una plaga
 

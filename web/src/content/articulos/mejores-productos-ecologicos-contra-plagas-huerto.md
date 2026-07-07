@@ -43,11 +43,20 @@ Un detalle que se suele pasar por alto: un pulverizador de gatillo barato que no
 
 <a href="https://www.amazon.es/s?k=pulverizador+presion+previa+jardin&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
+## 5. Nematodos beneficiosos
+
+A diferencia de los productos anteriores, estos no se aplican sobre las hojas, sino regados directamente en el sustrato: son microorganismos que parasitan específicamente las larvas que viven bajo tierra, como el gusano blanco, sin afectar a la planta ni a insectos beneficiosos de superficie. Se diluyen en agua y se aplican regando con normalidad.
+
+**Recomendados para**: gusano blanco y otras larvas de escarabajo en el sustrato de la maceta.
+
+<a href="https://www.amazon.es/s?k=nematodos+beneficiosos+control+plagas+sustrato&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Nuestra recomendación según la plaga
 
 - **Pulgón**: jabón potásico, repitiendo cada 5-7 días. Consulta [cómo eliminar el pulgón de forma natural](/articulos/como-eliminar-pulgon-plantas-balcon-natural/).
 - **Mosca blanca**: trampas cromáticas para monitorizar y reducir población, combinadas con jabón potásico o aceite de neem para las ninfas. Consulta [cómo eliminar mosca blanca](/articulos/como-eliminar-mosca-blanca-huerto-balcon/).
 - **Cochinilla algodonosa**: aceite de neem tras retirar los acúmulos visibles con alcohol. Consulta [manchas blancas en las hojas](/articulos/manchas-blancas-hojas-plantas-que-son/).
 - **Minador de los cítricos**: aceite de neem aplicado sobre los brotes nuevos en cuanto empiezan a salir. Consulta [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/).
+- **Gusano blanco en el sustrato**: extracción manual del cepellón (lo más efectivo en maceta) o nematodos beneficiosos regados en el sustrato. Consulta [gusano blanco en la maceta](/articulos/gusano-blanco-maceta-como-eliminarlo/).
 
 En todos los casos, aplica el tratamiento sobre toda la planta, no solo sobre la zona visiblemente afectada, y repite pasadas una o dos semanas para cortar el ciclo completo de la plaga.
