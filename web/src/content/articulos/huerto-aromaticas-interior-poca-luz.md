@@ -21,7 +21,7 @@ Romero, tomillo, orégano y lavanda son de origen mediterráneo y necesitan sol 
 
 ## Cuándo añadir luz artificial
 
-Si tras un mes las plantas muestran tallos largos y débiles "estirándose" hacia la fuente de luz más cercana, es una señal clara de que la luz natural disponible es insuficiente. Una lámpara de cultivo LED de espectro completo, colocada a la distancia recomendada por el fabricante y encendida 10-12 horas al día, suele corregir este problema en pocas semanas.
+Si tras un mes las plantas muestran tallos largos y débiles "estirándose" hacia la fuente de luz más cercana, es una señal clara de que la luz natural disponible es insuficiente. Una [lámpara de cultivo LED de espectro completo](/articulos/mejores-luces-led-cultivo-interior/), colocada a la distancia recomendada por el fabricante y encendida 10-12 horas al día, suele corregir este problema en pocas semanas.
 
 ## Cómo combinar luz natural y artificial
 

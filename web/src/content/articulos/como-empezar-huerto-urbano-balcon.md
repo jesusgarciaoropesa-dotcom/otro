@@ -49,6 +49,10 @@ El riego irregular es la causa número uno de que un huerto de balcón fracase. 
 
 Las primeras 2-3 semanas tras la siembra o el trasplante son las más delicadas. Vigila que el sustrato no se seque completamente y protege las plántulas de vientos fuertes hasta que estén bien establecidas.
 
+## ¿Prefieres empezar con todo en un mismo pack?
+
+Si no quieres comprar cada cosa por separado, existen [kits completos para principiantes](/articulos/mejores-kits-huerto-urbano-principiantes/) que incluyen macetas, sustrato y semillas en un mismo envío, pensados justo para dar este primer paso sin tener que acertar con cada compra por tu cuenta.
+
 ## Siguientes pasos
 
 Una vez tengas tu huerto en marcha, te recomendamos revisar nuestra guía de [riego automático](../../categorias/riego-automatico/) para automatizar el mantenimiento, y nuestro [calendario de siembra](../../categorias/calendario-de-siembra/) para saber qué plantar cada mes del año.

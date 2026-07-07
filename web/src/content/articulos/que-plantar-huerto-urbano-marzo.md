@@ -21,7 +21,7 @@ Estos cultivos puedes sembrarlos ya directamente en su maceta definitiva:
 
 ## Siembra en semillero para trasplantar más adelante
 
-Estos cultivos conviene empezarlos en semillero protegido (interior o mini invernadero) para trasplantar cuando suban las temperaturas nocturnas, normalmente a partir de mayo:
+Estos cultivos conviene empezarlos en semillero protegido (interior o [mini invernadero](/articulos/mini-invernadero-balcon-mejores-opciones/)) para trasplantar cuando suban las temperaturas nocturnas, normalmente a partir de mayo:
 
 - Tomates
 - Pimientos

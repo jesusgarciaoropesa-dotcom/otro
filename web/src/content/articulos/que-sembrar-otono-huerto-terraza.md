@@ -27,7 +27,7 @@ El verano suele dejar el sustrato bastante agotado de nutrientes, especialmente 
 
 ## Protección frente a las primeras bajadas de temperatura
 
-En zonas con heladas tempranas, ten preparado algún sistema de protección (mantas térmicas ligeras, mini invernaderos de balcón) para las primeras olas de frío del otoño, que a veces llegan antes de lo esperado.
+En zonas con heladas tempranas, ten preparado algún sistema de protección (mantas térmicas ligeras, [mini invernaderos de balcón](/articulos/mini-invernadero-balcon-mejores-opciones/)) para las primeras olas de frío del otoño, que a veces llegan antes de lo esperado.
 
 ## Riego en otoño
 
