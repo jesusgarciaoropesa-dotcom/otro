@@ -24,7 +24,7 @@ A diferencia de los cítricos, el arándano necesita un sustrato ácido (turba r
 
 ## 4. Higuera enana
 
-Muy resistente y tolerante a la sequía puntual una vez establecida. Existen variedades compactas que se adaptan bien a maceta y toleran mejor el frío que los cítricos.
+Muy resistente y tolerante a la sequía puntual una vez establecida. Existen variedades compactas que se adaptan bien a maceta y toleran mejor el frío que los cítricos. Consulta nuestra [guía completa de cultivo de la higuera en maceta](/articulos/como-cultivar-higuera-en-maceta/) para todos los detalles.
 
 ## 5. Granado enano
 

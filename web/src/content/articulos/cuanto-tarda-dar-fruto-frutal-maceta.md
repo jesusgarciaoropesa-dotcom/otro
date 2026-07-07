@@ -11,7 +11,8 @@ Uno de los aspectos que más suele sorprender a quien empieza con frutales de ma
 
 ## Tiempos orientativos según el tipo de frutal
 
-- **Frutales enanos comprados ya injertados** (limonero, otros cítricos): pueden dar sus primeros frutos ya en el primer o segundo año, aunque en cantidad testimonial; la producción realmente aprovechable suele llegar a partir del tercer o cuarto año. Consulta nuestra guía de [cómo cultivar un limonero en maceta](/articulos/como-cultivar-limonero-en-maceta/).
+- **Frutales enanos comprados ya injertados** (limonero, naranjo, otros cítricos): pueden dar sus primeros frutos ya en el primer o segundo año, aunque en cantidad testimonial; la producción realmente aprovechable suele llegar a partir del tercer o cuarto año. Consulta nuestras guías de [cómo cultivar un limonero en maceta](/articulos/como-cultivar-limonero-en-maceta/) y [cómo cultivar un naranjo enano en maceta](/articulos/como-cultivar-naranjo-enano-en-maceta/).
+- **Higuera**: de las más rápidas entre los frutales de maceta, con las primeras brevas o higos ya en el primer o segundo año si se parte de un esqueje enraizado. Consulta [cómo cultivar una higuera en maceta](/articulos/como-cultivar-higuera-en-maceta/).
 - **Arándanos**: cantidades apreciables a partir del segundo-tercer año, con producción plena alrededor del cuarto-quinto año.
 - **Fresas**: mucho más rápidas que el resto, con primera cosecha ya en la primera temporada si se plantan como plantel ya desarrollado.
 - **Frutales de hueso en maceta (melocotonero enano, etc.)**: normalmente entre 2 y 4 años hasta la primera cosecha significativa.
