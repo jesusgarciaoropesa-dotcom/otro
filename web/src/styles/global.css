@@ -72,6 +72,25 @@ body {
   font-weight: 600;
 }
 
+/* Imágenes dentro del cuerpo del artículo */
+.prose img {
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px -8px rgb(0 0 0 / 0.25);
+  margin: 1.75rem 0;
+}
+.prose figure {
+  margin: 1.75rem 0;
+}
+.prose figure img {
+  margin: 0 0 0.6rem 0;
+}
+.prose figcaption {
+  font-size: 0.85rem;
+  color: var(--color-tierra-oscuro);
+  text-align: center;
+  font-style: italic;
+}
+
 /* Citas con fondo cálido */
 .prose blockquote {
   border-left-color: var(--color-mostaza);
