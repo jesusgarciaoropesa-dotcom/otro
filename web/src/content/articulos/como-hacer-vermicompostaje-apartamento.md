@@ -11,7 +11,7 @@ El vermicompostaje utiliza lombrices rojas californianas para procesar restos or
 
 ## Qué necesitas para empezar
 
-- Un vermicompostador de varias bandejas apiladas (existen modelos compactos pensados específicamente para interior).
+- Un [vermicompostador de varias bandejas apiladas](/articulos/compostador-de-balcon-mejores-opciones/) (existen modelos compactos pensados específicamente para interior).
 - Lombrices rojas californianas (Eisenia fetida), que se compran específicamente para este uso; no sirven las lombrices comunes de jardín.
 - Material de cama inicial: cartón troceado o papel de periódico sin tintas de color, humedecido.
 - Restos orgánicos de cocina para alimentarlas.

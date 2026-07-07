@@ -9,6 +9,8 @@ pubDate: 2026-04-02
 
 El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Hortalizas que rinden mejor con calor
 
 - **Tomates, pimientos y berenjenas**: en pleno desarrollo y producción durante el verano, siempre que el riego sea constante.
@@ -25,7 +27,7 @@ Las hojas de ensalada de ciclo corto (lechugas, espinacas, rúcula) tienden a "s
 
 ## Cómo proteger las plantas de un calor extremo
 
-- **Sombra parcial en horas centrales**: una malla de sombreo ligera durante las horas de más calor reduce mucho el estrés hídrico, especialmente en macetas pequeñas.
+- **Sombra parcial en horas centrales**: una [malla de sombreo](https://www.amazon.es/s?k=malla+de+sombreo+jardin+balcon&tag=mihuerto-herramientas-21) ligera durante las horas de más calor reduce mucho el estrés hídrico, especialmente en macetas pequeñas.
 - **Riego temprano o al atardecer**: regar en las horas de más calor hace que buena parte del agua se evapore antes de ser aprovechada; riega a primera hora de la mañana o al atardecer.
 - **Acolchado del sustrato (mulching)**: una capa de paja, corteza o similar sobre el sustrato reduce la evaporación y mantiene la humedad más estable entre riegos.
 

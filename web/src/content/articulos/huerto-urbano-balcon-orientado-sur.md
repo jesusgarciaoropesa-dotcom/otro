@@ -9,6 +9,8 @@ pubDate: 2026-05-17
 
 Un balcón orientado al sur es, en principio, el mejor escenario posible para un huerto urbano: recibe sol directo durante buena parte del día en la mayoría de estaciones. El reto aquí no es la falta de luz, sino gestionar bien el calor y el riego que esa exposición exige.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cuánta luz recibe un balcón sur
 
 En el hemisferio norte, una orientación sur recibe sol directo prácticamente todo el día en las estaciones cálidas, y sigue recibiendo buena luz incluso en invierno, cuando el sol está más bajo. Es la orientación más versátil para cultivar casi cualquier hortaliza.
@@ -27,6 +29,8 @@ El exceso de sol y calor seca el sustrato mucho más rápido que en otras orient
 ## Cuidado con el estrés por calor extremo
 
 Con temperaturas muy altas (por encima de 35-38°C sostenidas), incluso los cultivos amantes del sol pueden sufrir: flores que se caen sin cuajar fruto, hojas que se queman en el borde. Una malla de sombreo ligera durante las horas centrales de los días más calurosos del verano puede marcar la diferencia en la producción final.
+
+<a href="https://www.amazon.es/s?k=malla+de+sombreo+jardin+balcon&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Macetas: color y material importan más aquí
 
