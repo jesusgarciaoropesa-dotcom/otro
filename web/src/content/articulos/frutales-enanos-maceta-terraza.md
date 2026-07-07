@@ -28,7 +28,7 @@ Muy resistente y tolerante a la sequía puntual una vez establecida. Existen var
 
 ## 5. Granado enano
 
-Además de dar frutos (en variedades productivas, ya que también existen ornamentales), tiene una floración muy vistosa de color rojo intenso. Resiste bien el calor y necesita poca agua una vez adulto.
+Además de dar frutos (en variedades productivas, ya que también existen ornamentales), tiene una floración muy vistosa de color rojo intenso. Resiste bien el calor y necesita poca agua una vez adulto. Consulta nuestra [guía completa de cultivo del granado enano en maceta](/articulos/como-cultivar-granado-enano-en-maceta/) para todos los detalles.
 
 ## 6. Frambueso o mora en maceta
 
