@@ -16,8 +16,8 @@ En el hemisferio norte, una orientación norte apenas recibe sol directo salvo q
 ## Qué sí puedes cultivar
 
 - **Lechugas y hojas de ensalada**: de las hortalizas más tolerantes a la falta de sol directo, consulta [cómo cultivar lechugas en huerto urbano](/articulos/como-cultivar-lechugas-huerto-urbano/).
-- **Espinacas y acelgas**: buen rendimiento incluso con luz moderada.
-- **Menta y perejil**: entre las aromáticas, las que mejor tolerán la semisombra constante.
+- **Espinacas y [acelgas](/articulos/como-cultivar-acelgas-en-maceta/)**: buen rendimiento incluso con luz moderada.
+- **Menta y [perejil](/articulos/como-cultivar-perejil-en-maceta/)**: entre las aromáticas, las que mejor tolerán la semisombra constante.
 - **Helechos y plantas ornamentales de sombra**: si no buscas producción comestible, hay muchas opciones decorativas pensadas específicamente para poca luz.
 
 Revisa también nuestra guía más general de [hortalizas que crecen a la sombra en un balcón](/articulos/hortalizas-que-crecen-a-la-sombra/) para más opciones.

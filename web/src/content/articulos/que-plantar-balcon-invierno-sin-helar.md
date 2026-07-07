@@ -13,8 +13,8 @@ El invierno no tiene por qué ser un parón total del huerto urbano. Con las esp
 
 ## Cultivos que toleran bien el frío
 
-- **Habas y guisantes**: de los cultivos más resistentes al frío moderado, ideales para sembrar en otoño y mantener durante el invierno.
-- **Espinacas y acelgas**: tolerán heladas ligeras sin apenas daño, especialmente si ya están bien establecidas antes de que llegue el frío intenso.
+- **Habas y [guisantes](/articulos/como-cultivar-guisantes-en-maceta/)**: de los cultivos más resistentes al frío moderado, ideales para sembrar en otoño y mantener durante el invierno.
+- **Espinacas y [acelgas](/articulos/como-cultivar-acelgas-en-maceta/)**: tolerán heladas ligeras sin apenas daño, especialmente si ya están bien establecidas antes de que llegue el frío intenso.
 - **Ajos y cebollas**: cultivos de ciclo largo sembrados en otoño que pasan el invierno en desarrollo lento, sin problema con el frío.
 - **Lechugas de variedad de invierno**: eligiendo bien la variedad (revisa siempre el sobre de semillas), toleran heladas ligeras sin apenas daño en la calidad de la hoja.
 

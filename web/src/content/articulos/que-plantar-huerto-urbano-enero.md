@@ -14,7 +14,7 @@ Enero es un mes de transición: todavía hace frío en la mayor parte de España
 En zonas costeras o de inviernos suaves, puedes sembrar directamente:
 
 - Habas
-- Guisantes
+- [Guisantes](/articulos/como-cultivar-guisantes-en-maceta/)
 - Ajos y cebollas (si no lo hiciste en otoño)
 - Espinacas
 
@@ -29,7 +29,7 @@ En la mayoría de zonas de España, enero es mejor mes para preparar [semilleros
 
 ## Aromáticas de interior
 
-Enero es un buen mes para empezar aromáticas en maceta dentro de casa, junto a una ventana luminosa: perejil, cebollino y albahaca (esta última mejor esperar a que no haya riesgo de frío nocturno ni siquiera en interior sin calefacción).
+Enero es un buen mes para empezar aromáticas en maceta dentro de casa, junto a una ventana luminosa: [perejil](/articulos/como-cultivar-perejil-en-maceta/), [cebollino](/articulos/como-cultivar-cebollino-en-maceta/) y albahaca (esta última mejor esperar a que no haya riesgo de frío nocturno ni siquiera en interior sin calefacción).
 
 ## Cuidados de enero en el huerto existente
 

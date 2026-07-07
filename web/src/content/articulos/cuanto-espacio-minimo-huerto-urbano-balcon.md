@@ -15,7 +15,7 @@ Uno de los mitos más extendidos sobre el huerto urbano es que hace falta mucho 
 
 Con un solo metro cuadrado de balcón puedes tener perfectamente:
 
-- 2-3 macetas de aromáticas (albahaca, perejil, cebollino)
+- 2-3 macetas de aromáticas (albahaca, perejil, [cebollino](/articulos/como-cultivar-cebollino-en-maceta/))
 - 1 maceta grande de lechuga o espinaca
 - 1 [jardinera de barandilla](https://www.amazon.es/s?k=jardinera+de+barandilla+balcon&tag=mihuerto-herramientas-21) con flores o fresas, que aprovecha espacio sin ocupar suelo
 

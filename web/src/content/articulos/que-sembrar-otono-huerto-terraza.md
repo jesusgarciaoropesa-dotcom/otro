@@ -18,7 +18,7 @@ Las temperaturas más suaves del otoño son ideales para muchas hortalizas de ho
 - **Espinacas**: uno de los cultivos que mejor rinde en esta época, consulta [cómo cultivar espinacas en maceta](/articulos/como-cultivar-espinacas-en-maceta/).
 - **Lechugas de variedades de invierno**: eligiendo la variedad adecuada, se puede tener cosecha durante buena parte del invierno.
 - **Rabanitos**: su ciclo corto permite aprovechar varias siembras escalonadas antes de que lleguen las heladas más fuertes.
-- **Habas y guisantes**: toleran bien el frío moderado y se siembran típicamente en otoño para cosechar en invierno-primavera.
+- **Habas y [guisantes](/articulos/como-cultivar-guisantes-en-maceta/)**: toleran bien el frío moderado y se siembran típicamente en otoño para cosechar en invierno-primavera.
 - **Ajos y cebollas**: cultivos de ciclo largo que se siembran en otoño para cosechar la temporada siguiente.
 
 ## Preparar el sustrato tras el verano
