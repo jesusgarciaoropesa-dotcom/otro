@@ -51,4 +51,4 @@ Poda a finales de invierno, eliminando ramas secas, cruzadas o que crezcan hacia
 - **Hojas nuevas rizadas u onduladas**: probablemente [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/), no un problema de riego ni de nutrientes.
 - **Larvas blancas en forma de C en el sustrato**: es [gusano blanco](/articulos/gusano-blanco-maceta-como-eliminarlo/), se alimenta de raíces y conviene eliminarlo en cuanto lo detectes.
 
-Si te interesa ampliar tu colección de frutales, consulta también nuestra guía de [frutales enanos que puedes cultivar en maceta en terraza](/articulos/frutales-enanos-maceta-terraza/).
+Si te interesa ampliar tu colección de frutales, consulta también nuestra guía de [frutales enanos que puedes cultivar en maceta en terraza](/articulos/frutales-enanos-maceta-terraza/) o directamente la de [cómo cultivar un naranjo enano en maceta](/articulos/como-cultivar-naranjo-enano-en-maceta/), el otro cítrico más popular para balcón.
