@@ -9,13 +9,15 @@ pubDate: 2026-02-17
 
 Uno de los mitos más extendidos sobre el huerto urbano es que hace falta mucho espacio para que merezca la pena. En realidad, con menos de un metro cuadrado ya se puede tener una producción constante de aromáticas y hortalizas de hoja.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Lo mínimo: un balcón de 1 m²
 
 Con un solo metro cuadrado de balcón puedes tener perfectamente:
 
 - 2-3 macetas de aromáticas (albahaca, perejil, cebollino)
 - 1 maceta grande de lechuga o espinaca
-- 1 jardinera de barandilla con flores o fresas
+- 1 [jardinera de barandilla](https://www.amazon.es/s?k=jardinera+de+barandilla+balcon&tag=mihuerto-herramientas-21) con flores o fresas, que aprovecha espacio sin ocupar suelo
 
 Es un espacio reducido, pero suficiente para empezar y coger práctica antes de ampliar.
 
