@@ -10,6 +10,8 @@ pilar: true
 
 Cuando el suelo del balcón se queda pequeño, la solución no es renunciar a cultivar más, sino mirar hacia arriba. Un huerto vertical bien planteado puede triplicar la superficie de cultivo disponible en el mismo espacio.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Ventajas del cultivo vertical en balcón
 
 - Aprovecha paredes y barandillas que normalmente no se usan.
@@ -22,19 +24,23 @@ Consulta también nuestra comparativa de [estructuras de cultivo vertical para p
 
 ### 1. Torres de cultivo apilables
 
-Macetas apiladas en columna con salida lateral para cada planta. Ideales para fresas, lechugas y aromáticas. Ocupan muy poco suelo (30x30 cm aprox.) y pueden alcanzar 1-1,5 m de altura.
+Macetas apiladas en columna con salida lateral para cada planta. Ideales para fresas, lechugas y aromáticas. Ocupan muy poco suelo (30x30 cm aprox.) y pueden alcanzar 1-1,5 m de altura. Consulta nuestra comparativa de [mejores torres de cultivo vertical para exterior](/articulos/mejores-torres-cultivo-vertical-exterior/).
 
 ### 2. Paneles de bolsillos textiles (fieltro)
 
 Se cuelgan de la barandilla o la pared y cada bolsillo actúa como una pequeña maceta. Muy ligeros y económicos, aunque requieren riego más frecuente porque retienen menos sustrato.
 
+<a href="https://www.amazon.es/s?k=panel+bolsillos+jardin+vertical+fieltro&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ### 3. Jardineras de barandilla escalonadas
 
 Perfectas para balcones donde no se puede taladrar la pared: se enganchan directamente a la barandilla y permiten 2-3 niveles de cultivo sin ocupar el suelo interior.
 
+<a href="https://www.amazon.es/s?k=jardinera+de+barandilla+balcon&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ### 4. Hidroponía vertical (NFT casero)
 
-Un sistema de tubos de PVC con circulación de agua y nutrientes en circuito cerrado. Requiere más inversión inicial y una bomba de agua, pero permite una densidad de cultivo muy alta con poco mantenimiento de sustrato.
+Un sistema de tubos de PVC con circulación de agua y nutrientes en circuito cerrado. Requiere más inversión inicial y una bomba de agua, pero permite una densidad de cultivo muy alta con poco mantenimiento de sustrato. Consulta nuestra guía de [jardín vertical hidropónico casero](/articulos/jardin-vertical-hidroponico-casero-guia/) o nuestra comparativa de [kits de hidroponía doméstica](/articulos/kits-hidroponia-domestica-comparativa/) ya montados.
 
 ## Qué plantar en un huerto vertical
 

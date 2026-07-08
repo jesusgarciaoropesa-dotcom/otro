@@ -9,13 +9,27 @@ pubDate: 2026-02-20
 
 Instalar un sistema de riego por goteo en un balcón es más sencillo de lo que parece, y no requiere obra ni conocimientos de fontanería. Con un kit básico y una tarde libre puedes tenerlo funcionando.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué necesitas
 
-- Manguera de riego de 4-6 mm (la cantidad depende del número de macetas)
-- Goteros regulables, uno por maceta
-- Conectores en T y en L para ramificar la línea principal
-- Un programador de riego a pilas que se conecte al grifo
-- Tacos o abrazaderas para fijar la manguera a la barandilla o pared
+- **Manguera de riego de 4-6 mm** (la cantidad depende del número de macetas).
+
+<a href="https://www.amazon.es/s?k=manguera+riego+goteo+4mm&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- **Goteros regulables**, uno por maceta.
+
+<a href="https://www.amazon.es/s?k=goteros+regulables+riego+goteo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- **Conectores en T y en L** para ramificar la línea principal.
+
+<a href="https://www.amazon.es/s?k=conectores+riego+goteo+t+l&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- **Un programador de riego a pilas** que se conecte al grifo.
+
+<a href="https://www.amazon.es/s?k=programador+riego+pilas+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- Tacos o abrazaderas para fijar la manguera a la barandilla o pared.
 
 ## Paso 1: planifica el recorrido
 
