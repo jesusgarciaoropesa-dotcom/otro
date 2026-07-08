@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de zanahoria de raíz cort
 
 ## Profundidad de maceta necesaria
 
-Necesitan una maceta de al menos 30 cm de profundidad para variedades estándar; en macetas más superficiales, la raíz se deforma o se bifurca al encontrar el fondo antes de completar su desarrollo. Si tu espacio es limitado, existen variedades específicamente redondas o cortas, pensadas para macetas de menor profundidad.
+Necesitan una maceta de al menos 30 cm de profundidad para variedades estándar, con un [sustrato suelto y sin piedras](/articulos/mejor-sustrato-huerto-urbano-maceta/); en macetas más superficiales, la raíz se deforma o se bifurca al encontrar el fondo antes de completar su desarrollo. Si tu espacio es limitado, existen variedades específicamente redondas o cortas, pensadas para macetas de menor profundidad.
 
 ## Sustrato: suelto y sin obstáculos
 

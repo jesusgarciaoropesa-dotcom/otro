@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de rábano:
 
 ## Maceta y sustrato
 
-No necesitan macetas profundas: con 15-20 cm de profundidad es suficiente, ya que la raíz comestible se desarrolla en la parte superior del sustrato. Un sustrato universal ligero, sin compactar, favorece raíces más lisas y uniformes.
+No necesitan macetas profundas: con 15-20 cm de profundidad es suficiente, ya que la raíz comestible se desarrolla en la parte superior del sustrato. Un [sustrato universal ligero](/articulos/mejor-sustrato-huerto-urbano-maceta/), sin compactar, favorece raíces más lisas y uniformes.
 
 ## Siembra
 

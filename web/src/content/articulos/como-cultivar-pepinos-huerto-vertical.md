@@ -21,7 +21,7 @@ No todas las variedades de pepino trepan igual de bien: busca específicamente v
 
 ## Maceta necesaria
 
-El pepino tiene un sistema radicular más exigente de lo que parece: necesita al menos 20-30 litros de sustrato para desarrollarse bien y sostener la producción durante toda la temporada.
+El pepino tiene un sistema radicular más exigente de lo que parece: necesita al menos 20-30 litros de [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) para desarrollarse bien y sostener la producción durante toda la temporada.
 
 ## Estructura de tutorado
 

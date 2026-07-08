@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de espinaca:
 
 ## Maceta y sustrato
 
-No necesitan macetas muy profundas: 20-25 cm es suficiente, ya que su sistema radicular es poco profundo. Un sustrato universal rico en materia orgánica favorece un crecimiento más vigoroso de las hojas.
+No necesitan macetas muy profundas: 20-25 cm es suficiente, ya que su sistema radicular es poco profundo. Un [sustrato universal rico en materia orgánica](/articulos/mejor-sustrato-huerto-urbano-maceta/) favorece un crecimiento más vigoroso de las hojas.
 
 ## Qué variedad elegir según la estación
 

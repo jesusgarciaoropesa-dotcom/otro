@@ -27,7 +27,7 @@ No todas las variedades de tomate se adaptan igual de bien a maceta:
 
 ## Tamaño de maceta necesario
 
-Un tomate necesita como mínimo **30-40 litros de sustrato** (una maceta de 40 cm de diámetro y profundidad similar) para desarrollarse correctamente. En macetas más pequeñas, la planta sufrirá estrés hídrico constante y la producción será mucho menor.
+Un tomate necesita como mínimo **30-40 litros de [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/)** (una maceta de 40 cm de diámetro y profundidad similar) para desarrollarse correctamente. En macetas más pequeñas, la planta sufrirá estrés hídrico constante y la producción será mucho menor.
 
 ## Ubicación y luz
 

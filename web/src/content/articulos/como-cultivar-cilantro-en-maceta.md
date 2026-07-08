@@ -21,7 +21,7 @@ El cilantro no trasplanta bien una vez que su raíz pivotante se ha desarrollado
 
 ## Maceta y sustrato
 
-Una maceta de 20-25 cm de profundidad es suficiente. Un sustrato universal ligero y bien drenado favorece un desarrollo más uniforme de la raíz.
+Una maceta de 20-25 cm de profundidad es suficiente. Un [sustrato universal ligero](/articulos/mejor-sustrato-huerto-urbano-maceta/) y bien drenado favorece un desarrollo más uniforme de la raíz.
 
 ## Luz y temperatura
 

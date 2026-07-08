@@ -23,7 +23,7 @@ Si todavía no tienes semillas, aquí tienes semillas de lechuga variada, ideale
 
 ## Tamaño de maceta y sustrato
 
-Con una maceta de 20-25 cm de profundidad es suficiente, ya que la lechuga tiene raíces poco profundas. Usa un sustrato ligero con buena capacidad de retener humedad, ya que la lechuga no tolera bien la sequía.
+Con una maceta de 20-25 cm de profundidad es suficiente, ya que la lechuga tiene raíces poco profundas. Usa un [sustrato ligero](/articulos/mejor-sustrato-huerto-urbano-maceta/) con buena capacidad de retener humedad, ya que la lechuga no tolera bien la sequía.
 
 ## Siembra
 

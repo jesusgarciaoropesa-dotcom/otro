@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de berenjena:
 
 ## Tamaño de maceta necesario
 
-Necesita al menos 30-40 litros de sustrato, similar al tomate, ya que desarrolla un sistema radicular considerable para sostener una planta de porte grande y varios frutos pesados a la vez.
+Necesita al menos 30-40 litros de [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/), similar al tomate, ya que desarrolla un sistema radicular considerable para sostener una planta de porte grande y varios frutos pesados a la vez.
 
 ## Luz y temperatura
 

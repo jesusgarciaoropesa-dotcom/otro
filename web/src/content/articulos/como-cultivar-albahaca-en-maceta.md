@@ -19,7 +19,7 @@ Si todavía no tienes semillas, aquí tienes semillas de albahaca:
 
 Las causas más frecuentes son:
 
-- **Maceta demasiado pequeña**: la albahaca tiene raíces poco profundas pero necesita un sustrato que retenga algo de humedad.
+- **Maceta demasiado pequeña**: la albahaca tiene raíces poco profundas pero necesita un [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) que retenga algo de humedad.
 - **Riego irregular**: la albahaca no tolera bien los ciclos de sequía-encharcamiento.
 - **Exceso de sol directo en horas centrales del día en verano**, especialmente en macetas pequeñas que se calientan rápido.
 

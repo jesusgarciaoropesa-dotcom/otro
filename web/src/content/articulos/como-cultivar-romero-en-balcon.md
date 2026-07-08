@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de romero:
 
 ## Maceta y sustrato
 
-El romero necesita un sustrato con muy buen drenaje, ya que es una planta de origen mediterráneo poco tolerante al encharcamiento. Mezcla el sustrato universal con un 30-40% de perlita o arena gruesa. Una maceta de 25-30 cm es suficiente para una planta adulta.
+El romero necesita un sustrato con muy buen drenaje, ya que es una planta de origen mediterráneo poco tolerante al encharcamiento. Mezcla [sustrato universal](/articulos/mejor-sustrato-huerto-urbano-maceta/) con un 30-40% de perlita o arena gruesa. Una maceta de 25-30 cm es suficiente para una planta adulta.
 
 ## Luz
 

@@ -25,7 +25,7 @@ Cultiva la menta siempre en su propia maceta, separada físicamente de otras pla
 
 ## Maceta y sustrato
 
-No es exigente en cuanto a tamaño de maceta: con 20-25 cm de diámetro tiene espacio de sobra. Un sustrato universal estándar, sin necesidad de enmiendas especiales, es suficiente.
+No es exigente en cuanto a tamaño de maceta: con 20-25 cm de diámetro tiene espacio de sobra. Un [sustrato universal estándar](/articulos/mejor-sustrato-huerto-urbano-maceta/), sin necesidad de enmiendas especiales, es suficiente.
 
 ## Luz y ubicación
 

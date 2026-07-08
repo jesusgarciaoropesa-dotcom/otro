@@ -21,7 +21,7 @@ Busca específicamente variedades descritas como "de arbusto" o "compactas", dis
 
 ## Tamaño de maceta necesario
 
-Pese a su porte compacto, el calabacín sigue siendo un cultivo de fruto grande y necesita bastante volumen de sustrato: al menos 30-40 litros para sostener una producción razonable durante toda la temporada.
+Pese a su porte compacto, el calabacín sigue siendo un cultivo de fruto grande y necesita bastante [volumen de sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/): al menos 30-40 litros para sostener una producción razonable durante toda la temporada.
 
 ## Luz
 
