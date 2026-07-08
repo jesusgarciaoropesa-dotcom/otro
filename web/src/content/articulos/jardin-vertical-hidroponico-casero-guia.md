@@ -9,6 +9,8 @@ pubDate: 2026-02-25
 
 La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho más simple de lo que parece: en esencia, sustituyes la tierra por agua con nutrientes disueltos, circulando por una estructura vertical de tubos.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Ventajas frente al cultivo en sustrato
 
 - Crecimiento más rápido al no haber limitación de nutrientes en el suelo.
@@ -17,11 +19,22 @@ La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho
 
 ## Qué necesitas para un sistema casero básico
 
-- Tubos de PVC de 75-100 mm de diámetro, con agujeros cada 15-20 cm para las plantas
-- Una bomba de agua pequeña sumergible (tipo acuario)
-- Un depósito o cubo que haga de reserva de agua en la base
-- Vasos de red (net cups) y sustrato inerte (arcilla expandida o lana de roca)
-- Fertilizante hidropónico líquido (macro y micronutrientes)
+- **Tubos de PVC de 75-100 mm de diámetro**, con agujeros cada 15-20 cm para las plantas.
+
+<a href="https://www.amazon.es/s?k=tubo+pvc+75mm+cultivo+hidroponico&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- **Una bomba de agua pequeña sumergible** (tipo acuario), para hacer circular el agua por los tubos.
+
+<a href="https://www.amazon.es/s?k=bomba+agua+sumergible+hidroponia&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- Un depósito o cubo que haga de reserva de agua en la base.
+- **Vasos de red (net cups) y sustrato inerte** (arcilla expandida o lana de roca), donde se sujeta cada planta.
+
+<a href="https://www.amazon.es/s?k=vasos+de+red+net+cups+arcilla+expandida&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+- **Fertilizante hidropónico líquido** (macro y micronutrientes), específico para este tipo de cultivo sin sustrato.
+
+<a href="https://www.amazon.es/s?k=fertilizante+hidroponico+liquido&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Paso 1: monta la estructura de tubos
 
