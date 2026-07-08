@@ -36,6 +36,10 @@ La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho
 
 <a href="https://www.amazon.es/s?k=fertilizante+hidroponico+liquido&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
+- **Medidor de pH y solución de ajuste (pH up / pH down)**, imprescindible en hidroponía, no opcional como en cultivo con sustrato.
+
+<a href="https://www.amazon.es/s?k=medidor+ph+kit+ph+up+down+hidroponia&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Paso 1: monta la estructura de tubos
 
 Coloca los tubos en vertical o ligeramente inclinados, uno encima de otro o en zigzag, de forma que el agua que sale de la bomba en la parte superior vaya cayendo por gravedad de tubo en tubo hasta el depósito inferior.
@@ -43,6 +47,18 @@ Coloca los tubos en vertical o ligeramente inclinados, uno encima de otro o en z
 ## Paso 2: prepara el depósito de nutrientes
 
 Diluye el fertilizante hidropónico en el depósito de agua siguiendo las proporciones del fabricante. Es fundamental no pasarse de concentración, ya que un exceso de nutrientes puede quemar las raíces.
+
+## Por qué el pH del agua es tan importante (y no es opcional)
+
+En cultivo con sustrato, la tierra actúa como una especie de amortiguador que corrige por sí sola pequeñas variaciones de pH. En hidroponía no existe ese colchón: el agua con nutrientes está en contacto directo con la raíz, así que el pH exacto del agua determina si la planta puede absorber esos nutrientes o no.
+
+El problema no es que un pH desajustado "envenene" la planta, sino que **bloquea la absorción de nutrientes aunque estén presentes en el agua**. Es la causa más habitual de que un sistema hidropónico recién montado vaya mal sin ninguna razón aparente: el fertilizante está bien dosificado, pero la planta no puede aprovecharlo.
+
+**Rango ideal**: entre 5,5 y 6,5 para la gran mayoría de hortalizas y aromáticas de un primer sistema (lechugas, espinacas, albahaca, fresas).
+
+**Cómo medirlo**: un medidor de pH digital da una lectura directa e instantánea, y es la opción más cómoda para revisar el depósito cada semana. Las tiras o gotas reactivas son una alternativa más barata, aunque menos precisas y más lentas de leer.
+
+**Cómo corregirlo**: si el pH sube por encima de 6,5, añade unas gotas de solución "pH down" (ácida); si baja por debajo de 5,5, añade "pH up" (alcalina). Añade siempre poco a poco y vuelve a medir, ya que estas soluciones son concentradas y un exceso puede pasarse de rango en sentido contrario.
 
 ## Paso 3: coloca las plantas en los vasos de red
 
@@ -58,4 +74,4 @@ Empieza con cultivos de ciclo corto y raíz poco exigente: lechugas, espinacas, 
 
 ## Mantenimiento
 
-Revisa el nivel y el pH del agua del depósito cada semana, y renueva la solución de nutrientes completa cada 2-3 semanas. Si prefieres empezar con algo más sencillo antes de dar el salto a la hidroponía, consulta primero nuestra guía de [cómo montar un huerto vertical en un balcón pequeño](/articulos/como-montar-huerto-vertical-balcon-pequeno/). Y si te convence el sistema pero no quieres montarlo pieza a pieza, consulta nuestra comparativa de [kits de hidroponía doméstica](/articulos/kits-hidroponia-domestica-comparativa/) ya montados.
+Revisa el nivel y el pH del agua del depósito cada semana (ver la sección anterior sobre el pH), y renueva la solución de nutrientes completa cada 2-3 semanas. Si prefieres empezar con algo más sencillo antes de dar el salto a la hidroponía, consulta primero nuestra guía de [cómo montar un huerto vertical en un balcón pequeño](/articulos/como-montar-huerto-vertical-balcon-pequeno/). Y si te convence el sistema pero no quieres montarlo pieza a pieza, consulta nuestra comparativa de [kits de hidroponía doméstica](/articulos/kits-hidroponia-domestica-comparativa/) ya montados.
