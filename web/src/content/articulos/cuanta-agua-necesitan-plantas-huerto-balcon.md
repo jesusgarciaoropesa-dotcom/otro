@@ -9,6 +9,8 @@ pubDate: 2026-03-20
 
 No existe una cantidad universal de agua para todas las plantas de un huerto de balcón: depende del tamaño de la maceta, el cultivo, la estación del año y la exposición al sol. Pero sí hay reglas prácticas que funcionan en la mayoría de casos.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## El error más común: regar por calendario en lugar de por necesidad
 
 Regar "todos los días a las 8" sin comprobar el sustrato es la causa más frecuente de encharcamiento o de riego insuficiente. Antes de regar, comprueba siempre la humedad metiendo un dedo 2-3 cm en el sustrato: si notas humedad, espera.
@@ -32,3 +34,5 @@ En verano, con altas temperaturas y más horas de sol, la necesidad de agua pued
 ## Truco para no depender de la memoria
 
 Si te cuesta ser constante, un programador de riego con goteros regulables por maceta resuelve el problema de raíz: ajustas la cantidad una vez según el tipo de planta y el sistema riega siempre la cantidad correcta, sin depender de acordarte cada día.
+
+<a href="https://www.amazon.es/s?k=programador+riego+goteros+regulables&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>

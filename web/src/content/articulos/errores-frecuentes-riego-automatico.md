@@ -9,9 +9,13 @@ pubDate: 2026-04-18
 
 Instalar un sistema de riego automático reduce mucho el riesgo de perder plantas por olvido, pero solo si se configura correctamente. Estos son los errores más frecuentes que vemos en huertos urbanos de balcón.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## 1. No calibrar el caudal según cada maceta
 
 Un error muy común es dejar el mismo gotero o el mismo tiempo de riego para todas las macetas, sin tener en cuenta que una maceta pequeña con aromáticas necesita mucho menos agua que una grande con un tomate. Usa goteros regulables y ajusta el tiempo de riego por zonas si tu programador lo permite.
+
+<a href="https://www.amazon.es/s?k=goteros+regulables+riego+goteo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 2. No comprobar el sistema antes de irte de viaje
 

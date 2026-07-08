@@ -10,6 +10,8 @@ pilar: true
 
 Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimientos de jardinería, ni una inversión elevada. Con unas macetas, sustrato de calidad y un poco de sol, cualquier balcón o terraza puede convertirse en una pequeña despensa de hortalizas y aromáticas frescas.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## 1. Evalúa cuánta luz recibe tu balcón
 
 Antes de comprar nada, observa tu balcón durante un día completo y anota cuántas horas de sol directo recibe:
@@ -43,7 +45,9 @@ Deja los tomates, pimientos y berenjenas para cuando ya tengas algo de práctica
 
 ## 5. Organiza el riego desde el primer día
 
-El riego irregular es la causa número uno de que un huerto de balcón fracase. Si vas a estar fuera de casa con frecuencia, considera desde el principio instalar un sistema de riego automático por goteo con temporizador: te ahorrará disgustos y plantas muertas por olvido.
+El riego irregular es la causa número uno de que un huerto de balcón fracase. Si vas a estar fuera de casa con frecuencia, considera desde el principio instalar un kit de riego por goteo con temporizador: te ahorrará disgustos y plantas muertas por olvido.
+
+<a href="https://www.amazon.es/s?k=kit+riego+goteo+con+temporizador&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## 6. Ten paciencia con las primeras semanas
 

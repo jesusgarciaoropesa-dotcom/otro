@@ -9,6 +9,8 @@ pubDate: 2026-05-27
 
 Cultivar en interior sin depender de una ventana bien orientada es posible gracias a las luces de cultivo LED, que permiten montar un huerto vertical en cualquier habitación de la casa, todo el año, independientemente de la estación.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Por qué la luz natural de una ventana no suele ser suficiente
 
 Incluso una ventana muy soleada filtra buena parte de la intensidad lumínica a través del cristal, y la luz que entra proviene de una sola dirección, lo que produce plantas estiradas y débiles buscando la fuente de luz. Un huerto vertical de interior serio necesita luz artificial dedicada.
@@ -20,6 +22,8 @@ Busca luces de cultivo con espectro completo (full spectrum), que incluyen las l
 ## Cuántas horas de luz al día
 
 La mayoría de hortalizas de hoja necesitan entre 12 y 16 horas de luz artificial al día para un desarrollo adecuado en interior, bastante más que las horas de sol natural equivalentes, ya que la intensidad de la luz artificial suele ser menor que el sol directo. Un temporizador para encender y apagar las luces automáticamente es casi imprescindible para mantener un horario constante sin depender de acordarte cada día.
+
+<a href="https://www.amazon.es/s?k=temporizador+enchufe+programable+luces&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
 ## Distancia entre la luz y las plantas
 
