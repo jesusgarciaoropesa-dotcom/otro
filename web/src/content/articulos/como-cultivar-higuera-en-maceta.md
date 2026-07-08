@@ -25,7 +25,7 @@ Empieza con una maceta de al menos 40 cm de diámetro, e ir [aumentando a una ma
 
 ## Sustrato
 
-A diferencia de los cítricos, la higuera no es exigente con el pH: un sustrato universal de calidad con buen drenaje es suficiente. Añadir un 20% de perlita o gravilla en el fondo ayuda a evitar el encharcamiento de las raíces.
+A diferencia de los cítricos, la higuera no es exigente con el pH: un [sustrato universal de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) con buen drenaje es suficiente. Añadir un 20% de perlita o gravilla en el fondo ayuda a evitar el encharcamiento de las raíces.
 
 ## Luz y ubicación
 
@@ -37,7 +37,7 @@ La higuera es más tolerante a la sequía puntual que otros frutales una vez est
 
 ## Abonado
 
-Aporta un abono equilibrado rico en potasio durante la primavera y el verano, reduciendo o suspendiendo el abonado en otoño e invierno, cuando la higuera entra en reposo vegetativo y pierde las hojas.
+Aporta un [abono equilibrado](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) rico en potasio durante la primavera y el verano, reduciendo o suspendiendo el abonado en otoño e invierno, cuando la higuera entra en reposo vegetativo y pierde las hojas.
 
 ## Poda
 

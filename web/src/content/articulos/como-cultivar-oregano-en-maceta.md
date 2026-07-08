@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de orégano:
 
 ## Maceta y sustrato
 
-Igual que el resto de aromáticas mediterráneas, necesita un sustrato pobre y con buen drenaje. Mezcla sustrato universal con un 30-40% de perlita o arena gruesa. Una maceta de 20-25 cm de diámetro es suficiente para empezar, aunque el orégano agradece algo de anchura si quieres que se extienda.
+Igual que el resto de aromáticas mediterráneas, necesita un sustrato pobre y con buen drenaje. Mezcla [sustrato universal](/articulos/mejor-sustrato-huerto-urbano-maceta/) con un 30-40% de perlita o arena gruesa. Una maceta de 20-25 cm de diámetro es suficiente para empezar, aunque el orégano agradece algo de anchura si quieres que se extienda.
 
 ## Luz
 

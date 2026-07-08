@@ -21,7 +21,7 @@ El perejil rizado es más decorativo y algo más resistente, mientras que el lis
 
 ## Maceta y sustrato
 
-Una maceta de al menos 20 cm de diámetro y profundidad es suficiente, ya que el perejil desarrolla una raíz pivotante que necesita algo de espacio en vertical. Usa un sustrato universal de calidad que retenga algo de humedad, no uno muy drenante como el de las aromáticas mediterráneas.
+Una maceta de al menos 20 cm de diámetro y profundidad es suficiente, ya que el perejil desarrolla una raíz pivotante que necesita algo de espacio en vertical. Usa un [sustrato universal de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) que retenga algo de humedad, no uno muy drenante como el de las aromáticas mediterráneas.
 
 ## Siembra: ten paciencia con la germinación
 

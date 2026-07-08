@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de cebollino:
 
 ## Maceta y sustrato
 
-Una maceta pequeña, de 15-20 cm de diámetro, es suficiente. Un sustrato universal estándar funciona bien, sin necesitar mezclas especiales como las aromáticas mediterráneas.
+Una maceta pequeña, de 15-20 cm de diámetro, es suficiente. Un [sustrato universal estándar](/articulos/mejor-sustrato-huerto-urbano-maceta/) funciona bien, sin necesitar mezclas especiales como las aromáticas mediterráneas.
 
 ## Luz
 

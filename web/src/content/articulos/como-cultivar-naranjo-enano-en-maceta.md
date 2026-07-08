@@ -25,7 +25,7 @@ Empieza con una maceta de al menos 40-50 cm de diámetro, e ir [trasplantando a 
 
 ## Sustrato
 
-Usa un sustrato específico para cítricos, o un universal de calidad con buen drenaje y ligeramente ácido. Añadir un 20% de perlita ayuda a evitar el encharcamiento, al que los cítricos son especialmente sensibles.
+Usa un [sustrato específico para cítricos](/articulos/mejor-sustrato-huerto-urbano-maceta/), o un universal de calidad con buen drenaje y ligeramente ácido. Añadir un 20% de perlita ayuda a evitar el encharcamiento, al que los cítricos son especialmente sensibles.
 
 ## Luz y ubicación
 

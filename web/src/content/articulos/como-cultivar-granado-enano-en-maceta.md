@@ -25,7 +25,7 @@ Una maceta de 40 cm de diámetro es suficiente para empezar, [aumentando a una m
 
 ## Sustrato
 
-No es exigente con el pH: un sustrato universal de calidad con buen drenaje funciona bien. Añadir un 20% de perlita o gravilla en el fondo ayuda a evitar el encharcamiento, algo a lo que el granado es sensible pese a tolerar bien la sequía.
+No es exigente con el pH: un [sustrato universal de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) con buen drenaje funciona bien. Añadir un 20% de perlita o gravilla en el fondo ayuda a evitar el encharcamiento, algo a lo que el granado es sensible pese a tolerar bien la sequía.
 
 ## Luz y ubicación
 
@@ -37,7 +37,7 @@ Una vez establecido, el granado tolera bien la sequía puntual, pero el riego ir
 
 ## Abonado
 
-Aporta un abono equilibrado rico en potasio durante la primavera y el verano, para favorecer la floración y el cuajado del fruto. Reduce el abonado en otoño e invierno, cuando la planta pierde las hojas y entra en reposo.
+Aporta un [abono equilibrado](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) rico en potasio durante la primavera y el verano, para favorecer la floración y el cuajado del fruto. Reduce el abonado en otoño e invierno, cuando la planta pierde las hojas y entra en reposo.
 
 ## Poda
 

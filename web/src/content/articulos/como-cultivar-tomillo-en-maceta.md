@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de tomillo:
 
 ## Maceta y sustrato
 
-El tomillo necesita un sustrato pobre y con muy buen drenaje, todo lo contrario a un sustrato rico en materia orgánica. Mezcla sustrato universal con un 40% de arena gruesa o perlita. Una maceta de 20-25 cm es suficiente para una planta adulta, no necesita mucho volumen de raíz.
+El tomillo necesita un sustrato pobre y con muy buen drenaje, todo lo contrario a un sustrato rico en materia orgánica. Mezcla [sustrato universal](/articulos/mejor-sustrato-huerto-urbano-maceta/) con un 40% de arena gruesa o perlita. Una maceta de 20-25 cm es suficiente para una planta adulta, no necesita mucho volumen de raíz.
 
 ## Luz
 

@@ -25,7 +25,7 @@ Las variedades enanas o de mata baja (hasta 40-50 cm) no necesitan tutor y son m
 
 ## Maceta
 
-Una maceta de al menos 30-40 cm de profundidad, ya que el guisante desarrolla raíz en profundidad además de necesitar espacio para varias plantas juntas (se siembran en grupo, no de una en una, para un buen rendimiento).
+Una maceta de al menos 30-40 cm de profundidad, con [sustrato universal de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/), ya que el guisante desarrolla raíz en profundidad además de necesitar espacio para varias plantas juntas (se siembran en grupo, no de una en una, para un buen rendimiento).
 
 ## Tutorado, si eliges variedad trepadora
 

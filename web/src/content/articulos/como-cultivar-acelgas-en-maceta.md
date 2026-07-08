@@ -17,7 +17,7 @@ Si todavía no tienes semillas, aquí tienes semillas de acelga:
 
 ## Maceta y sustrato
 
-Una maceta de al menos 25-30 cm de profundidad, con un sustrato universal de calidad rico en materia orgánica. La acelga es una planta de hoja con crecimiento continuo, así que agradece un sustrato bien nutrido desde el principio.
+Una maceta de al menos 25-30 cm de profundidad, con un [sustrato universal de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) rico en materia orgánica. La acelga es una planta de hoja con crecimiento continuo, así que agradece un sustrato bien nutrido desde el principio.
 
 ## Siembra
 
@@ -37,7 +37,7 @@ La clave está en cosechar hoja a hoja, no la planta entera: corta las hojas ext
 
 ## Abonado
 
-Al ser una planta de crecimiento continuo y cosecha prolongada, agradece un aporte de abono cada 3-4 semanas durante la temporada de más producción, para mantener el ritmo de hojas nuevas.
+Al ser una planta de crecimiento continuo y cosecha prolongada, agradece un [aporte de abono](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) cada 3-4 semanas durante la temporada de más producción, para mantener el ritmo de hojas nuevas.
 
 ## Problemas comunes
 
