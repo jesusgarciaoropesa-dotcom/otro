@@ -39,7 +39,7 @@ El pimiento necesita riego regular y constante, especialmente durante la floraci
 
 ## Abonado
 
-Aporta un abono equilibrado durante el crecimiento inicial, y cambia a uno rico en potasio y fósforo cuando empiecen a formarse los primeros frutos, para favorecer la producción.
+Aporta un [abono equilibrado](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) durante el crecimiento inicial, y cambia a uno rico en potasio y fósforo cuando empiecen a formarse los primeros frutos, para favorecer la producción.
 
 ## Entutorado
 

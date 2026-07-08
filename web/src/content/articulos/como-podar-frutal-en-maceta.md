@@ -38,4 +38,4 @@ Usa siempre tijeras de podar bien afiladas y desinfectadas (con alcohol) entre p
 - **Podar en exceso de una sola vez**: un frutal muy debilitado o con poca masa foliar puede sufrir estrés severo; si necesita mucha poda, es preferible repartirla en dos temporadas.
 - **No desinfectar las herramientas**: puede propagar hongos o bacterias entre plantas sin darte cuenta.
 
-Tras la poda, es buen momento para revisar también el sustrato y aplicar un abono de arranque que acompañe el nuevo crecimiento de la temporada.
+Tras la poda, es buen momento para revisar también el [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) y aplicar un [abono de arranque](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) que acompañe el nuevo crecimiento de la temporada.

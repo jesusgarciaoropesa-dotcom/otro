@@ -43,7 +43,7 @@ Casi todas las variedades de tomate necesitan un tutor (caña, espiral o estruct
 
 ## Abonado
 
-El tomate es una planta muy exigente en nutrientes. Aporta un abono rico en potasio cada 15 días una vez empiecen a formarse los primeros frutos, para favorecer la producción y el sabor.
+El tomate es una planta muy exigente en nutrientes. Aporta un [abono rico en potasio](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) cada 15 días una vez empiecen a formarse los primeros frutos, para favorecer la producción y el sabor.
 
 ## Problemas comunes
 

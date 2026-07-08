@@ -20,7 +20,7 @@ Antes de comprar nada, conviene tener claro qué elementos son realmente impresc
 
 - **Sistema de riego automático**: muy recomendable, pero no imprescindible en las primeras semanas mientras aprendes las necesidades de tus plantas. Consulta nuestra comparativa de [mejor sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) cuando quieras dar este paso.
 - **Estructuras de cultivo vertical**: útiles para aprovechar espacio, pero mejor empezar con macetas individuales hasta ganar algo de experiencia.
-- **Abonos y fertilizantes específicos**: el sustrato nuevo ya trae nutrientes suficientes para las primeras semanas; el abonado se vuelve relevante a partir del primer mes.
+- **[Abonos y fertilizantes específicos](/articulos/mejores-fertilizantes-organicos-huerto-maceta/)**: el sustrato nuevo ya trae nutrientes suficientes para las primeras semanas; el abonado se vuelve relevante a partir del primer mes.
 
 ## Herramientas básicas que facilitan el día a día
 

@@ -33,7 +33,7 @@ Aunque las fresas pueden autopolinizarse parcialmente, la polinización cruzada 
 
 ## Abonado
 
-Un abono rico en potasio durante la floración y fructificación mejora sensiblemente el sabor y tamaño de las fresas. Evita el exceso de nitrógeno en esta fase, ya que favorece hojas en lugar de frutos.
+Un [abono rico en potasio](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) durante la floración y fructificación mejora sensiblemente el sabor y tamaño de las fresas. Evita el exceso de nitrógeno en esta fase, ya que favorece hojas en lugar de frutos.
 
 ## Renovación de la planta
 
