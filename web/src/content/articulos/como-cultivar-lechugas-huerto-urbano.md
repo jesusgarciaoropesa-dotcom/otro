@@ -50,5 +50,6 @@ En lugar de sembrar toda la maceta de golpe, siembra una tanda nueva cada 2-3 se
 - **Amargor**: normalmente por exceso de calor o riego irregular.
 - **Hojas mordidas**: revisa si hay babosas o caracoles, frecuentes en ambientes húmedos.
 - **Espigado prematuro**: temperaturas altas sostenidas; en verano, busca variedades resistentes al calor o cultiva en semisombra.
+- **Planta cortada de raíz a nivel del suelo**: no es un mordisco en las hojas, sino un tallo seccionado por la base; probablemente sea [gusano gris](/articulos/gusano-gris-lechugas-como-eliminarlo/), no una plaga que come hoja.
 
 Consulta también nuestro [calendario de siembra](/categorias/calendario-de-siembra/) para saber en qué meses es mejor sembrar lechuga según tu zona.
