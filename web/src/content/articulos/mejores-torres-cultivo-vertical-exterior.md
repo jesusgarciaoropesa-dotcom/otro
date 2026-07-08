@@ -56,4 +56,4 @@ Sin sustrato: las raíces reciben agua con nutrientes disueltos directamente. Pr
 - **Quieres automatizar desde el principio**: opción 3.
 - **Ya tienes experiencia y quieres maximizar producción**: opción 4.
 
-Recuerda combinar cualquiera de estas opciones con un [sistema de riego automático](/categorias/riego-automatico/) adaptado a varios niveles, para no depender de regar a mano cada nivel por separado.
+Recuerda combinar cualquiera de estas opciones con un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) adaptado a varios niveles, para no depender de regar a mano cada nivel por separado.

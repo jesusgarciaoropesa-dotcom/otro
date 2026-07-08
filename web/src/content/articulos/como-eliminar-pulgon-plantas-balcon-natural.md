@@ -41,4 +41,4 @@ Si ves un tráfico constante de hormigas en tus plantas, es probable que estén 
 
 Cuanto antes detectes el pulgón, más fácil será controlarlo con métodos naturales. Revisa los brotes tiernos de tus plantas al menos una vez por semana en primavera, la época de mayor riesgo.
 
-Si la plaga persiste pese a estos tratamientos, revisa también el estado general de riego y abonado: una planta estresada por riego irregular es mucho más susceptible al pulgón. Consulta nuestra guía de [riego automático](../../categorias/riego-automatico/) para mantener un riego constante.
+Si la plaga persiste pese a estos tratamientos, revisa también el estado general de riego y abonado: una planta estresada por riego irregular es mucho más susceptible al pulgón. Consulta nuestra comparativa de [mejor sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) para mantener un riego constante.

@@ -55,4 +55,4 @@ Si no quieres comprar cada cosa por separado, existen [kits completos para princ
 
 ## Siguientes pasos
 
-Una vez tengas tu huerto en marcha, te recomendamos revisar nuestra guía de [riego automático](../../categorias/riego-automatico/) para automatizar el mantenimiento, y nuestro [calendario de siembra](../../categorias/calendario-de-siembra/) para saber qué plantar cada mes del año.
+Una vez tengas tu huerto en marcha, te recomendamos revisar nuestra comparativa de [mejor sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) para automatizar el mantenimiento, y nuestro [calendario de siembra](../../categorias/calendario-de-siembra/) para saber qué plantar cada mes del año.

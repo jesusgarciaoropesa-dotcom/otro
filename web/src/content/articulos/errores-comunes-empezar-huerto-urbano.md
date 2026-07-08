@@ -31,7 +31,7 @@ Usar tierra de jardín en lugar de un sustrato específico para maceta es otro c
 
 ## 6. No anticipar el riego en ausencias
 
-Salir de vacaciones sin prever el riego mata más plantas de balcón que cualquier plaga. Si vas a estar fuera más de 2-3 días, plantéate un [sistema de riego automático](/categorias/riego-automatico/) sencillo antes de irte.
+Salir de vacaciones sin prever el riego mata más plantas de balcón que cualquier plaga. Si vas a estar fuera más de 2-3 días, plantéate un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) sencillo antes de irte.
 
 ## 7. Ignorar los primeros síntomas de plagas
 

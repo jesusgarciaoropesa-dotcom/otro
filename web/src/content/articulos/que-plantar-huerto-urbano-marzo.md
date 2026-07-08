@@ -39,7 +39,7 @@ Estos cultivos conviene empezarlos en semillero protegido (interior o [mini inve
 
 - Vigila el pronóstico de heladas tardías, especialmente en zonas de interior o de montaña: una helada nocturna puede matar plántulas recién trasplantadas.
 - Si el balcón todavía recibe vientos fríos, protege las plántulas jóvenes con un pequeño túnel o tela de protección durante la noche.
-- Empieza ya a revisar o instalar tu [sistema de riego automático](../../categorias/riego-automatico/): a partir de abril el consumo de agua empieza a subir con fuerza.
+- Empieza ya a revisar o instalar tu [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/): a partir de abril el consumo de agua empieza a subir con fuerza.
 
 ## Qué NO sembrar todavía en marzo
 
