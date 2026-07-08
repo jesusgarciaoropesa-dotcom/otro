@@ -12,6 +12,18 @@ import { withBase } from '../lib/url';
       </span>
     </a>
 
+    <div class="flex items-center gap-2">
+    <a
+      href={withBase('/buscar/')}
+      aria-label="Buscar en la web"
+      class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white text-(--color-hoja-oscuro) shadow-sm ring-1 ring-stone-200 transition hover:-translate-y-0.5 hover:shadow-md hover:ring-(--color-tierra)"
+    >
+      <svg class="h-4 w-4" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="9" cy="9" r="6.5" />
+        <path d="M18 18l-4.35-4.35" stroke-linecap="round" />
+      </svg>
+    </a>
+
     <details class="categorias-menu group relative">
       <summary class="flex cursor-pointer list-none items-center gap-1.5 rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-(--color-hoja-oscuro) shadow-sm ring-1 ring-stone-200 transition hover:-translate-y-0.5 hover:shadow-md hover:ring-(--color-tierra)">
         Categorías
@@ -44,6 +56,7 @@ import { withBase } from '../lib/url';
         </a>
       </div>
     </details>
+    </div>
   </div>
 </header>
 
