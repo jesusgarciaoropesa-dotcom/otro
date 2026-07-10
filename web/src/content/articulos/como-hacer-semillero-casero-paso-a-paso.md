@@ -13,7 +13,7 @@ Sembrar directamente en la maceta definitiva funciona, pero empezar en semillero
 
 ## Qué necesitas
 
-Un semillero (alveolos de plástico, turba prensada o fibra de coco, según tu caso), sustrato específico para semillero o de siembra, agua y un pulverizador. Si no tienes claro qué tipo de semillero elegir, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/).
+Un semillero (alveolos de plástico, turba prensada o fibra de coco, según tu caso), <a href="https://www.amazon.es/s?k=sustrato+para+semilleros&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">sustrato específico para semillero</a> o de siembra, agua y un <a href="https://www.amazon.es/s?k=pulverizador+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">pulverizador</a>. Si no tienes claro qué tipo de semillero elegir, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/).
 
 ## Paso 1: Prepara el sustrato correcto
 
@@ -29,7 +29,7 @@ Un riego normal con regadera puede arrastrar las semillas fuera de sitio en un e
 
 ## Paso 4: Luz y temperatura para germinar
 
-La mayoría de hortalizas germinan bien entre 18-24°C. Si siembras a finales de invierno con el interior todavía fresco, una tapa transparente tipo mini invernadero acelera y uniformiza la germinación. En cuanto aparezcan los primeros brotes, colócalos en el punto más luminoso posible: la falta de luz en esta fase es la causa más habitual de plántulas débiles y "estiradas".
+La mayoría de hortalizas germinan bien entre 18-24°C. Si siembras a finales de invierno con el interior todavía fresco, una [tapa transparente tipo mini invernadero](/articulos/mini-invernadero-balcon-mejores-opciones/) acelera y uniformiza la germinación. En cuanto aparezcan los primeros brotes, colócalos en el punto más luminoso posible: la falta de luz en esta fase es la causa más habitual de plántulas débiles y "estiradas".
 
 ## Paso 5: Aclareo si germina más de una semilla por celdilla
 
