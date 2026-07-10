@@ -50,4 +50,4 @@ Una alternativa más sostenible a la turba, con buena capacidad de retención de
 - **Siembras tempranas con poco calor ambiente**: opción 3 (mini invernadero).
 - **Priorizas sostenibilidad**: opción 4 (fibra de coco).
 
-Una vez las plántulas estén listas, consulta nuestra guía de [cuándo trasplantar plántulas de semillero a maceta definitiva](/articulos/cuando-trasplantar-plantulas-semillero/) para hacer el paso final correctamente.
+Con el semillero ya elegido, consulta nuestra guía de [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/) para sembrar correctamente. Y una vez las plántulas estén listas, revisa [cuándo trasplantar plántulas de semillero a maceta definitiva](/articulos/cuando-trasplantar-plantulas-semillero/) para hacer el paso final correctamente.
