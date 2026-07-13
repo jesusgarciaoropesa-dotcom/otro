@@ -12,7 +12,7 @@ No hace falta tener jardín ni un gran terreno para compostar: con un compostado
 
 ## Qué necesitas
 
-- Un compostador compacto para balcón (de los muchos modelos cerrados que evitan malos olores e insectos)
+- Un [compostador compacto para balcón](/articulos/compostador-de-balcon-mejores-opciones/) (de los muchos modelos cerrados que evitan malos olores e insectos)
 - Restos orgánicos de cocina (verduras, frutas, posos de café, cáscaras de huevo)
 - Material "seco" para equilibrar (cartón sin tinta, hojas secas, serrín)
 
@@ -49,8 +49,8 @@ En un compostador de balcón bien gestionado, el compost puede estar listo en 2-
 
 ## Cómo usarlo en tu huerto
 
-Mezcla el compost maduro con el sustrato de tus macetas en una proporción de aproximadamente 1 parte de compost por 3-4 partes de sustrato, o úsalo como acolchado superficial (mulch) para nutrir progresivamente las plantas ya establecidas.
+Mezcla el compost maduro con el [sustrato de tus macetas](/articulos/mejor-sustrato-huerto-urbano-maceta/) en una proporción de aproximadamente 1 parte de compost por 3-4 partes de sustrato, o úsalo como acolchado superficial (mulch) para nutrir progresivamente las plantas ya establecidas.
 
 ## Si no quieres compostador: vermicompostaje
 
-Otra opción compacta y muy eficiente es el vermicompostaje (compost con lombrices rojas californianas), que procesa los restos más rápido y en un espacio todavía más reducido. Ambas opciones son perfectamente compatibles con un piso sin jardín.
+Otra opción compacta y muy eficiente es el [vermicompostaje](/articulos/como-hacer-vermicompostaje-apartamento/) (compost con lombrices rojas californianas), que procesa los restos más rápido y en un espacio todavía más reducido. Ambas opciones son perfectamente compatibles con un piso sin jardín.

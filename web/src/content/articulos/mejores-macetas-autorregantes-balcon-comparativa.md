@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["macetas autorregantes", "mejores macetas autorregantes balcón", "maceta con depósito de agua"]
 pubDate: 2026-02-15
+faq:
+  - pregunta: "¿Merecen la pena las macetas autorregantes?"
+    respuesta: "Sí, especialmente para hortalizas que exigen riego constante como el tomate: reducen mucho el riesgo de sequía y dan entre 5 y 10 días de autonomía en verano según el depósito y la planta."
+  - pregunta: "¿Cómo funciona una maceta autorregante?"
+    respuesta: "Tiene un depósito de agua en la base, separado del sustrato por una rejilla o mecha. El agua sube por capilaridad según la planta la necesita, y un indicador de nivel avisa cuándo rellenar."
+  - pregunta: "¿Puedo convertir mis macetas normales en autorregantes?"
+    respuesta: "Sí. Existen kits de conversión con mecha y depósito adaptable que convierten una maceta convencional en semi-autorregante, una opción económica si ya tienes macetas de buena calidad."
 ---
 
 Las macetas autorregantes (con depósito de agua incorporado) son una de las mejoras más rentables para un huerto de balcón: reducen drásticamente el riesgo de sequía y facilitan mantener un riego constante, clave para hortalizas como el tomate.
@@ -56,6 +63,6 @@ Las gamas más avanzadas incluyen una entrada para conectar directamente una lí
 - **Estás empezando con pocas macetas**: opción 1 (autorregante clásica).
 - **Cultivas tomates o pimientos**: opción 2 (gran capacidad).
 - **Ya tienes macetas bonitas que no quieres cambiar**: opción 3 (kit de conversión).
-- **Tienes un huerto grande o viajas a menudo**: opción 4, combinada con un [sistema de riego automático](../mejor-sistema-riego-automatico-macetas-balcon/).
+- **Tienes un huerto grande o viajas a menudo**: opción 4, combinada con un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/).
 
 En cualquier caso, una maceta autorregante no sustituye por completo la necesidad de revisar el depósito periódicamente, pero sí multiplica el margen de error antes de que una planta sufra por falta de agua.

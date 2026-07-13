@@ -1,0 +1,176 @@
+---
+import { withBase } from '../lib/url';
+
+interface Props {
+  categoria: string;
+  /** Slug del artículo actual, para no enlazarse a sí mismo. */
+  slugActual: string;
+}
+
+interface EnlaceInterno {
+  slug: string;
+  texto: string;
+}
+
+interface EnlaceAmazon {
+  busqueda: string;
+  tag: string;
+  texto: string;
+}
+
+interface Recursos {
+  internos: EnlaceInterno[];
+  amazon: EnlaceAmazon[];
+}
+
+// Por cada categoría: las comparativas internas más relevantes (money pages)
+// y búsquedas de Amazon con el tag de afiliado de esa temática.
+const recursosPorCategoria: Record<string, Recursos> = {
+  'primeros-pasos': {
+    internos: [
+      { slug: 'mejores-kits-huerto-urbano-principiantes', texto: 'Mejores kits de huerto urbano para principiantes' },
+      { slug: 'cuanto-cuesta-montar-huerto-urbano-en-casa', texto: 'Cuánto cuesta montar un huerto urbano en casa' },
+    ],
+    amazon: [
+      { busqueda: 'kit huerto urbano completo', tag: 'mihuerto-herramientas-21', texto: 'Kits de huerto urbano en Amazon' },
+      { busqueda: 'sustrato huerto urbano', tag: 'mihuerto-herramientas-21', texto: 'Sustrato para huerto urbano en Amazon' },
+    ],
+  },
+  'riego-automatico': {
+    internos: [
+      { slug: 'mejor-sistema-riego-automatico-macetas-balcon', texto: 'El mejor sistema de riego automático para macetas' },
+      { slug: 'mejores-kits-riego-automatico-terraza', texto: 'Mejores kits de riego automático para terraza' },
+    ],
+    amazon: [
+      { busqueda: 'kit riego por goteo balcon', tag: 'mihuerto-riego-21', texto: 'Kits de riego por goteo en Amazon' },
+      { busqueda: 'programador riego grifo', tag: 'mihuerto-riego-21', texto: 'Programadores de riego en Amazon' },
+    ],
+  },
+  'cultivo-vertical': {
+    internos: [
+      { slug: 'mejores-torres-cultivo-vertical-exterior', texto: 'Mejores torres de cultivo vertical para exterior' },
+      { slug: 'estructuras-cultivo-vertical-pared-terraza', texto: 'Estructuras de cultivo vertical para pared y terraza' },
+    ],
+    amazon: [
+      { busqueda: 'jardin vertical macetas pared', tag: 'mihuerto-vertical-21', texto: 'Jardines verticales de pared en Amazon' },
+      { busqueda: 'torre cultivo vertical', tag: 'mihuerto-vertical-21', texto: 'Torres de cultivo en Amazon' },
+    ],
+  },
+  'que-plantar': {
+    internos: [
+      { slug: 'mejor-sustrato-huerto-urbano-maceta', texto: 'El mejor sustrato para huerto urbano en maceta' },
+      { slug: 'mejores-semilleros-empezar-plantas-casa', texto: 'Mejores semilleros para empezar tus plantas en casa' },
+    ],
+    amazon: [
+      { busqueda: 'semillas hortalizas huerto urbano', tag: 'mihuerto-herramientas-21', texto: 'Semillas de hortalizas en Amazon' },
+      { busqueda: 'maceta cultivo textil geotextil', tag: 'mihuerto-herramientas-21', texto: 'Macetas de cultivo en Amazon' },
+    ],
+  },
+  'frutales-en-maceta': {
+    internos: [
+      { slug: 'mejor-tierra-macetas-hortalizas-guia-compra', texto: 'La mejor tierra para macetas: guía de compra' },
+      { slug: 'mejores-fertilizantes-organicos-huerto-maceta', texto: 'Mejores fertilizantes orgánicos para maceta' },
+    ],
+    amazon: [
+      { busqueda: 'maceta grande 40 litros', tag: 'mihuerto-frutales-21', texto: 'Macetas grandes para frutales en Amazon' },
+      { busqueda: 'abono frutales maceta', tag: 'mihuerto-frutales-21', texto: 'Abono para frutales en Amazon' },
+    ],
+  },
+  'calendario-de-siembra': {
+    internos: [
+      { slug: 'como-elegir-semillas-huerto-urbano', texto: 'Cómo elegir semillas para tu huerto urbano' },
+      { slug: 'mejores-semilleros-empezar-plantas-casa', texto: 'Mejores semilleros para empezar tus plantas en casa' },
+    ],
+    amazon: [
+      { busqueda: 'semillas ecologicas huerto', tag: 'mihuerto-herramientas-21', texto: 'Semillas ecológicas en Amazon' },
+      { busqueda: 'semillero germinacion', tag: 'mihuerto-herramientas-21', texto: 'Semilleros de germinación en Amazon' },
+    ],
+  },
+  'plagas-y-enfermedades': {
+    internos: [
+      { slug: 'mejores-productos-ecologicos-contra-plagas-huerto', texto: 'Mejores productos ecológicos contra plagas' },
+      { slug: 'como-prevenir-plagas-huerto-urbano-sin-pesticidas', texto: 'Cómo prevenir plagas sin pesticidas' },
+    ],
+    amazon: [
+      { busqueda: 'jabon potasico plantas', tag: 'mihuerto-herramientas-21', texto: 'Jabón potásico en Amazon' },
+      { busqueda: 'aceite de neem plantas', tag: 'mihuerto-herramientas-21', texto: 'Aceite de neem en Amazon' },
+    ],
+  },
+  'herramientas-y-comparativas': {
+    internos: [
+      { slug: 'mejores-kits-huerto-urbano-principiantes', texto: 'Mejores kits de huerto urbano para principiantes' },
+      { slug: 'mejores-guantes-herramientas-jardineria-urbana', texto: 'Mejores guantes y herramientas de jardinería urbana' },
+    ],
+    amazon: [
+      { busqueda: 'set herramientas jardineria', tag: 'mihuerto-herramientas-21', texto: 'Sets de herramientas en Amazon' },
+      { busqueda: 'guantes jardineria', tag: 'mihuerto-herramientas-21', texto: 'Guantes de jardinería en Amazon' },
+    ],
+  },
+  'compostaje-sostenibilidad': {
+    internos: [
+      { slug: 'compostador-de-balcon-mejores-opciones', texto: 'Compostadores de balcón: mejores opciones' },
+      { slug: 'mejores-fertilizantes-organicos-huerto-maceta', texto: 'Mejores fertilizantes orgánicos para maceta' },
+    ],
+    amazon: [
+      { busqueda: 'compostador balcon', tag: 'mihuerto-compost-21', texto: 'Compostadores de balcón en Amazon' },
+      { busqueda: 'vermicompostador', tag: 'mihuerto-compost-21', texto: 'Vermicompostadores en Amazon' },
+    ],
+  },
+};
+
+const { categoria, slugActual } = Astro.props;
+const recursos = recursosPorCategoria[categoria];
+const internos = recursos?.internos.filter((e) => e.slug !== slugActual) ?? [];
+
+function urlAmazon(e: EnlaceAmazon): string {
+  return `https://www.amazon.es/s?k=${encodeURIComponent(e.busqueda).replaceAll('%20', '+')}&tag=${e.tag}`;
+}
+---
+
+{recursos && (
+  <aside
+    aria-label="Equipo y guías recomendadas"
+    class="not-prose mt-10 rounded-2xl border border-(--color-mostaza)/40 bg-white p-5 shadow-md sm:p-6"
+  >
+    <h2 class="font-(--font-display) text-lg font-semibold text-(--color-hoja-oscuro)">
+      Equipo y guías recomendadas
+    </h2>
+    <div class="mt-4 grid gap-6 sm:grid-cols-2">
+      {internos.length > 0 && (
+        <div>
+          <h3 class="text-sm font-semibold uppercase tracking-wide text-stone-500">Nuestras guías de compra</h3>
+          <ul class="mt-2 space-y-2 text-sm">
+            {internos.map((e) => (
+              <li>
+                <a href={withBase(`/articulos/${e.slug}/`)} class="font-medium text-(--color-tierra) hover:underline">
+                  {e.texto} →
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wide text-stone-500">Ver precios</h3>
+        <ul class="mt-2 space-y-2 text-sm">
+          {recursos.amazon.map((e) => (
+            <li>
+              <a
+                href={urlAmazon(e)}
+                target="_blank"
+                rel="sponsored noopener"
+                class="font-medium text-(--color-tierra) hover:underline"
+              >
+                {e.texto} →
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+    <p class="mt-4 text-xs text-stone-500">
+      Los enlaces a Amazon son de afiliado: si compras a través de ellos, podemos recibir una pequeña comisión sin
+      coste adicional para ti.
+    </p>
+  </aside>
+)}

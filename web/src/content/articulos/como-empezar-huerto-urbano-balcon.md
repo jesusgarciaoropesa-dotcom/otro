@@ -8,7 +8,7 @@ pubDate: 2026-02-03
 pilar: true
 ---
 
-Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimientos de jardinería, ni una inversión elevada. Con unas macetas, sustrato de calidad y un poco de sol, cualquier balcón o terraza puede convertirse en una pequeña despensa de hortalizas y aromáticas frescas.
+Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimientos de jardinería, ni una [inversión elevada](/articulos/cuanto-cuesta-montar-huerto-urbano-en-casa/). Si dudas entre balcón o huerto de suelo, aquí comparamos [huerto urbano frente a huerto tradicional](/articulos/huerto-urbano-vs-huerto-tradicional/). Con unas macetas, sustrato de calidad y un poco de sol, cualquier balcón o terraza puede convertirse en una pequeña despensa de hortalizas y aromáticas frescas.
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -6,6 +6,13 @@ intencion: "comparativa"
 keywords: ["riego automático para macetas", "sistema de riego balcón", "mejor riego automático terraza"]
 pubDate: 2026-02-05
 pilar: true
+faq:
+  - pregunta: "¿Qué sistema de riego automático es mejor para un balcón?"
+    respuesta: "Para la mayoría de balcones (5-20 macetas), un kit de riego por goteo con temporizador conectado al grifo: es fiable, de coste moderado y se amplía fácilmente según crece el huerto."
+  - pregunta: "¿Qué hago si mi balcón no tiene grifo cerca?"
+    respuesta: "Puedes usar un depósito o garrafa con una pequeña bomba conectada al programador, y si tampoco tienes enchufe cerca existen programadores de riego con placa solar integrada."
+  - pregunta: "¿Cuántos días aguanta el riego casero con botellas?"
+    respuesta: "Una botella invertida con agujeros en el tapón libera agua durante 3-5 días como máximo y solo para macetas puntuales. Para ausencias más largas o muchas macetas necesitas goteo con programador."
 ---
 
 Si has perdido plantas por olvidarte de regar en vacaciones o simplemente quieres liberarte de la tarea diaria, un sistema de riego automático es la mejora que más impacto tiene en un huerto de balcón. Estas son las opciones más recomendables según presupuesto y número de macetas.
@@ -53,4 +60,4 @@ Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados
 
 Para un huerto de balcón de tamaño medio (10-20 macetas), la combinación **goteo por gravedad o presión de red + programador a pilas con goteros regulables** ofrece la mejor relación fiabilidad-precio. Reserva las soluciones con app y sensores para cuando quieras un control más fino o tengas muchas macetas con necesidades de riego muy distintas.
 
-Consulta también nuestra guía de [instalación de riego por goteo casero](../../categorias/riego-automatico/) para el paso a paso completo.
+Consulta también nuestra guía de [cómo instalar un temporizador de riego paso a paso](/articulos/como-instalar-temporizador-riego-macetas/) y repasa los [errores más frecuentes del riego automático](/articulos/errores-frecuentes-riego-automatico/) antes de montar el tuyo.

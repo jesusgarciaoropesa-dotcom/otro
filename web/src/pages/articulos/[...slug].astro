@@ -35,6 +35,7 @@ const minutosLectura = Math.max(1, Math.round(palabras / 200));
   relacionados={relacionados}
   headings={headings.filter((h) => h.depth === 2)}
   minutosLectura={minutosLectura}
+  faq={articulo.data.faq}
 >
   <Content />
 </ArticleLayout>

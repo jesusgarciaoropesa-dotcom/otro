@@ -22,6 +22,7 @@ const articulos = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     pilar: z.boolean().default(false),
+    faq: z.array(z.object({ pregunta: z.string(), respuesta: z.string() })).optional(),
   }),
 });
 

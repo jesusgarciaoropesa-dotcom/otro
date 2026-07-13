@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejor sustrato para huerto urbano", "sustrato para macetas hortalizas", "tierra para huerto en maceta"]
 pubDate: 2026-03-11
+faq:
+  - pregunta: "¿Sirve la tierra del jardín para un huerto en maceta?"
+    respuesta: "No. La tierra de jardín se compacta en una maceta, drena mal y pierde aireación. Usa siempre un sustrato formulado para macetas, que mantiene el equilibrio de agua y aire en un volumen reducido."
+  - pregunta: "¿Qué sustrato compro si solo voy a comprar un tipo?"
+    respuesta: "Un sustrato universal de calidad aligerado con perlita. Es la opción más segura: cubre bien la mayoría de hortalizas y aromáticas de balcón, aunque no sea el óptimo específico para cada cultivo."
+  - pregunta: "¿Cada cuánto hay que renovar el sustrato de las macetas?"
+    respuesta: "Una vez al año como norma general, al inicio de la primavera. El sustrato se agota de nutrientes con el tiempo incluso abonando, así que renuévalo o refréscalo mezclándolo con sustrato nuevo."
 ---
 
 Elegir un buen sustrato es una de las decisiones que más impacto tiene en el éxito de un huerto urbano, y sin embargo se le presta mucha menos atención que a las macetas o el riego.
