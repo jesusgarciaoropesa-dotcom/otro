@@ -10,6 +10,8 @@ pilar: true
 
 La mejor estrategia contra las plagas en un huerto urbano no es tratarlas cuando ya han aparecido, sino crear condiciones que dificulten su aparición desde el principio. Estos son los hábitos que más reducen el riesgo.
 
+<figure><img src="/images/articulos/pulgon-verde-tomatera.jpg" alt="Colonia de pulgones verdes agrupados en el tallo tierno y el envés de las hojas de una tomatera en un balcón" /><figcaption>Los pulgones se concentran en los brotes tiernos y el envés de las hojas</figcaption></figure>
+
 ## Inspección regular, la medida más efectiva
 
 Revisar el envés de las hojas y los brotes nuevos una o dos veces por semana permite detectar una plaga incipiente (unos pocos pulgones, por ejemplo) antes de que se convierta en una infestación difícil de controlar. Cuanto antes se detecta, más fácil y natural es el tratamiento.

@@ -11,6 +11,8 @@ La mosca blanca es una de las plagas más frecuentes en huertos urbanos, especia
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa adhesiva amarilla sujeta con una pinza a un tutor junto a una tomatera en maceta, con insectos atrapados" /><figcaption>Una trampa amarilla captura adultos voladores y ayuda a monitorizar la plaga</figcaption></figure>
+
 ## Cómo confirmar que es mosca blanca
 
 Sacude ligeramente la planta y observa si salen volando insectos blancos diminutos que enseguida se posan de nuevo en el envés de las hojas. Suele ir acompañada de un aspecto pegajoso en las hojas (melaza que segregan) y, en infestaciones avanzadas, un hongo negruzco llamado negrilla que crece sobre esa melaza.

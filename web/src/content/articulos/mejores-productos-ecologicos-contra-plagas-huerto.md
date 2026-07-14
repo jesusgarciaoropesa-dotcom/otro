@@ -40,6 +40,8 @@ El más versátil junto con el jabón potásico: además de actuar por contacto,
 
 Un método pasivo y muy barato: la mosca blanca y otros insectos voladores se sienten atraídos por el color amarillo y quedan atrapados en la superficie adhesiva. Además de reducir población, sirven como indicador para monitorizar si una plaga va a más o a menos sin necesidad de revisar planta por planta a diario.
 
+<figure><img src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa adhesiva amarilla sujeta con una pinza a un tutor junto a una tomatera en maceta, con insectos atrapados" /><figcaption>Una trampa amarilla captura adultos voladores y ayuda a monitorizar la plaga</figcaption></figure>
+
 **Recomendadas para**: mosca blanca, monitorización preventiva.
 
 <a href="https://www.amazon.es/s?k=trampas+cromaticas+amarillas+plagas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>

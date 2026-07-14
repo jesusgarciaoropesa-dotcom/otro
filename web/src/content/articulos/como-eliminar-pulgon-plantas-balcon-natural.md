@@ -11,6 +11,8 @@ El pulgón es, con diferencia, la plaga más común en huertos urbanos, especial
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/pulgon-verde-tomatera.jpg" alt="Colonia de pulgones verdes agrupados en el tallo tierno y el envés de las hojas de una tomatera en un balcón" /><figcaption>Los pulgones se concentran en los brotes tiernos y el envés de las hojas</figcaption></figure>
+
 ## Cómo identificar el pulgón
 
 Aparecen como pequeños insectos (verdes, negros o grisáceos) agrupados en los brotes tiernos y en el envés de las hojas. Su presencia suele venir acompañada de:

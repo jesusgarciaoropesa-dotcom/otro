@@ -11,6 +11,8 @@ La araña roja es una de las plagas más frecuentes en balcones y terrazas solea
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/arana-roja-hoja-punteado.jpg" alt="Hoja de tomatera con punteado amarillento moteado por toda la superficie y una telaraña muy fina, síntoma de araña roja" /><figcaption>El punteado amarillento uniforme y la telaraña muy fina delatan la araña roja</figcaption></figure>
+
 ## Cómo identificarla con seguridad
 
 Es tan pequeña (menos de 1 mm) que resulta casi imposible verla a simple vista con claridad. Los síntomas son mucho más fáciles de reconocer:
