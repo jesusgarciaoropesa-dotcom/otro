@@ -9,6 +9,8 @@ pubDate: 2026-02-27
 
 La lechuga es uno de los cultivos más agradecidos para empezar un huerto urbano: crece rápido, ocupa poco y se puede sembrar de forma escalonada para tener cosecha casi todo el año.
 
+<figure><img src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga frondosa creciendo en una maceta de terracota en un balcón urbano" /><figcaption>Lechuga lista para cosechar hoja a hoja en maceta</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de lechuga variada, ideales para la siembra escalonada:

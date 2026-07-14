@@ -9,6 +9,8 @@ pubDate: 2026-07-07
 
 Los guisantes son de los cultivos de temporada fría más agradecidos para maceta: toleran bien el frío moderado, no necesitan mucho calor para producir, y a diferencia de muchas hortalizas de verano, dan una cosecha temprana que llega cuando el resto del huerto todavía está arrancando.
 
+<figure><img src="/images/articulos/cultivo-guisantes-maceta.jpg" alt="Planta de guisantes trepando por una caña con vainas y flores blancas en una maceta en un balcón" /><figcaption>Guisantes trepando por una caña en maceta</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de guisante:

@@ -33,6 +33,8 @@ Albahaca, perejil y cilantro caben perfectamente en macetas de 15-20 cm de diám
 
 Frente a variedades de tomate de mata grande, el tomate cherry o cóctel produce en abundancia en macetas relativamente compactas y es mucho más agradecido para espacios reducidos. Revisa nuestra guía de [cómo cultivar tomates en maceta](/articulos/como-cultivar-tomates-en-maceta-balcon/) para elegir la variedad correcta.
 
+<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry entutorada cargada de tomates rojos en una maceta de terracota en un balcón" /><figcaption>El tomate cherry produce mucho en macetas relativamente compactas</figcaption></figure>
+
 ## 5. Rúcula y espinacas baby
 
 Al igual que las lechugas, permiten cosecha continuada cortando solo las hojas exteriores, con un ciclo de crecimiento muy rápido que maximiza la producción por metro cuadrado de balcón.

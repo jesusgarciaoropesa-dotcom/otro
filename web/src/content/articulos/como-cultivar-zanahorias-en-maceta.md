@@ -9,6 +9,8 @@ pubDate: 2026-05-29
 
 Las zanahorias tienen fama de ser complicadas en maceta, pero el problema casi siempre se reduce a dos factores: profundidad insuficiente y sustrato demasiado compacto o con piedras.
 
+<figure><img src="/images/articulos/cultivo-zanahorias-maceta.jpg" alt="Mata de hojas de zanahoria creciendo en una maceta honda de terracota en un balcón" /><figcaption>Zanahorias en maceta honda: la clave es la profundidad</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de zanahoria de raíz corta, más adecuadas para maceta:

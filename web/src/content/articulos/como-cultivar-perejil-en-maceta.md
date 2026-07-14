@@ -9,6 +9,8 @@ pubDate: 2026-07-07
 
 El perejil es una de las hierbas más usadas en la cocina española, y también una de las más agradecidas para maceta si se entiende algo importante: a diferencia del romero o el tomillo, no es una aromática mediterránea de secano, necesita riego bastante más constante.
 
+<figure><img src="/images/articulos/cultivo-perejil-maceta.jpg" alt="Mata de perejil verde intenso en una maceta de terracota en un balcón" /><figcaption>Perejil en maceta, tolera bien la media sombra</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de perejil:

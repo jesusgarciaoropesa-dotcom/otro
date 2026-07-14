@@ -9,6 +9,8 @@ pubDate: 2026-07-07
 
 El orégano comparte casi todas las necesidades del romero y el tomillo (sol pleno, poca agua, sustrato drenante), pero tiene un comportamiento que sorprende a quien lo cultiva por primera vez: se extiende con bastante ganas, de forma parecida a la menta aunque menos agresiva.
 
+<figure><img src="/images/articulos/cultivo-oregano-maceta.jpg" alt="Mata compacta de orégano con flores en una maceta de terracota en un balcón soleado" /><figcaption>Orégano en maceta, resistente al sol y a la sequía</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de orégano:

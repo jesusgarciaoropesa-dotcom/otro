@@ -9,6 +9,8 @@ pubDate: 2026-02-10
 
 La albahaca es una de las aromáticas más cultivadas en balcones y cocinas, pero también una de las que más se marchita si no se entienden bien sus necesidades. Aquí tienes las claves para mantenerla sana todo el verano.
 
+<figure><img src="/images/articulos/cultivo-albahaca-maceta.jpg" alt="Mata frondosa de albahaca en una maceta de terracota en un balcón urbano" /><figcaption>Albahaca frondosa: pinza las flores para que siga dando hoja</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Si todavía no tienes semillas, aquí tienes semillas de albahaca:
