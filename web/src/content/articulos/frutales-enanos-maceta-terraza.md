@@ -10,6 +10,8 @@ pilar: true
 
 No hace falta tener un jardín para disfrutar de fruta propia. Existen variedades enanas de muchos frutales clásicos, desarrolladas específicamente para vivir toda su vida en una maceta grande.
 
+<figure><img src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>Un frutal enano bien ubicado produce sin problema en terraza</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## 1. Limonero enano

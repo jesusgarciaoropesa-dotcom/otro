@@ -9,6 +9,8 @@ pubDate: 2026-06-08
 
 Uno de los aspectos que más suele sorprender a quien empieza con frutales de maceta es la paciencia que requieren: a diferencia de una hortaliza anual, un frutal necesita varios años antes de dar una producción significativa.
 
+<figure><img src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>La paciencia es parte del cultivo: la mayoría de frutales tarda 2-4 años en producir bien</figcaption></figure>
+
 ## Tiempos orientativos según el tipo de frutal
 
 - **Frutales enanos comprados ya injertados** (limonero, naranjo, otros cítricos): pueden dar sus primeros frutos ya en el primer o segundo año, aunque en cantidad testimonial; la producción realmente aprovechable suele llegar a partir del tercer o cuarto año. Consulta nuestras guías de [cómo cultivar un limonero en maceta](/articulos/como-cultivar-limonero-en-maceta/) y [cómo cultivar un naranjo enano en maceta](/articulos/como-cultivar-naranjo-enano-en-maceta/).

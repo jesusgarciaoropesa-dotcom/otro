@@ -9,6 +9,8 @@ pubDate: 2026-05-01
 
 La poda de un frutal en maceta cumple una función distinta a la de un árbol en tierra: además de dar forma y favorecer la producción, ayuda a mantener un tamaño manejable dentro de las limitaciones de espacio de un balcón.
 
+<figure><img src="/images/articulos/podar-frutal-maceta.jpg" alt="Manos podando con tijeras de podar una rama de un frutal joven en maceta en un balcón" /><figcaption>Poda de mantenimiento en un frutal de maceta</figcaption></figure>
+
 ## Cuándo podar
 
 La mayoría de frutales de hoja caduca (limonero es una excepción, ver más abajo) se podan en invierno, durante el reposo vegetativo, cuando la planta no está en fase activa de crecimiento y el estrés de la poda es menor.
