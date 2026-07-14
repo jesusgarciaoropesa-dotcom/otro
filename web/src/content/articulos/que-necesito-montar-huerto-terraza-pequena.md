@@ -9,12 +9,14 @@ pubDate: 2026-05-13
 
 Antes de comprar nada, conviene tener claro qué elementos son realmente imprescindibles para montar un huerto en una terraza pequeña y cuáles pueden esperar a una fase posterior.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Lo imprescindible desde el primer día
 
 - **Macetas o contenedores con buen drenaje**: el elemento más básico; sin drenaje adecuado, ningún otro cuidado servirá de mucho.
 - **Sustrato de calidad**: nunca tierra de jardín; consulta nuestra guía de [mejor sustrato para huerto urbano en maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/) para elegir bien.
 - **Plantas o semillas adaptadas a tu espacio y luz**: revisa las horas de sol de tu terraza antes de decidir qué cultivar.
-- **Un sistema de riego**, aunque sea manual al principio: regadera o manguera con difusor son suficientes para empezar.
+- **Un sistema de riego**, aunque sea manual al principio: <a href="https://www.amazon.es/s?k=regadera+balcon&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">regadera</a> o manguera con difusor son suficientes para empezar.
 
 ## Lo que puedes añadir un poco más adelante
 

@@ -9,6 +9,8 @@ pubDate: 2026-03-21
 
 No todas las plantas se adaptan igual de bien a una estructura de cultivo vertical. El factor clave es el volumen de sustrato disponible por planta, que suele ser menor que en una maceta tradicional, y la posición (los niveles superiores reciben más sol y se secan antes que los inferiores).
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Aromáticas: la opción más agradecida
 
 Las aromáticas de porte bajo (albahaca, orégano, tomillo, perejil) son de las plantas que mejor rinden en cultivo vertical: raíces poco profundas, buena tolerancia a volúmenes de sustrato reducidos y crecimiento compacto que no compite por espacio con los niveles vecinos.
@@ -19,7 +21,7 @@ Lechugas, espinacas y rúcula funcionan muy bien en torres y jardineras vertical
 
 ## Fresas
 
-Las fresas son uno de los cultivos estrella del cultivo vertical: su porte colgante aprovecha muy bien las torres apilables o las jardineras de bolsillos, y los frutos quedan protegidos del contacto directo con el suelo, reduciendo el riesgo de podredumbre.
+Las fresas son uno de los cultivos estrella del cultivo vertical: su porte colgante aprovecha muy bien las <a href="https://www.amazon.es/s?k=torre+cultivo+apilable+fresas&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener">torres apilables</a> o las <a href="https://www.amazon.es/s?k=jardinera+vertical+bolsillos&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener">jardineras de bolsillos</a>, y los frutos quedan protegidos del contacto directo con el suelo, reduciendo el riesgo de podredumbre.
 
 ## Qué evitar en niveles altos
 

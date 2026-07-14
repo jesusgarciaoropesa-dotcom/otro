@@ -7,7 +7,9 @@ keywords: ["qué plantar en enero", "siembra enero huerto urbano", "calendario s
 pubDate: 2026-03-08
 ---
 
-Enero es un mes de transición: todavía hace frío en la mayor parte de España, pero es el momento de preparar en semillero protegido los cultivos que ocuparán el balcón en primavera.
+Enero es un mes de transición: todavía hace frío en la mayor parte de España, pero es el momento de preparar en <a href="https://www.amazon.es/s?k=semillero+germinacion+tapa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">semillero protegido</a> los cultivos que ocuparán el balcón en primavera.
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Siembra directa en maceta (solo en zonas de clima suave)
 
@@ -43,4 +45,4 @@ Evita trasplantar plántulas jóvenes al exterior definitivo todavía, incluso e
 
 ## Aprovecha para revisar herramientas y sustratos
 
-Enero, con menos trabajo de siembra activa, es un buen momento para revisar el estado de tus macetas, limpiar herramientas y reponer sustrato de cara a la temporada que se avecina.
+Enero, con menos trabajo de siembra activa, es un buen momento para revisar el estado de tus macetas, limpiar herramientas y reponer [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) de cara a la temporada que se avecina.

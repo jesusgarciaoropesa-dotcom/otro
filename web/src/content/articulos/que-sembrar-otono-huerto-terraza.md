@@ -23,7 +23,7 @@ Las temperaturas más suaves del otoño son ideales para muchas hortalizas de ho
 
 ## Preparar el sustrato tras el verano
 
-El verano suele dejar el sustrato bastante agotado de nutrientes, especialmente en macetas que han tenido cultivos exigentes como tomates o pimientos. Antes de la siembra de otoño es buen momento para renovar total o parcialmente el sustrato, o al menos incorporar compost o abono orgánico.
+El verano suele dejar el sustrato bastante agotado de nutrientes, especialmente en macetas que han tenido cultivos exigentes como tomates o pimientos. Antes de la siembra de otoño es buen momento para renovar total o parcialmente el [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/), o al menos incorporar compost o [abono orgánico](/articulos/mejores-fertilizantes-organicos-huerto-maceta/).
 
 ## Protección frente a las primeras bajadas de temperatura
 

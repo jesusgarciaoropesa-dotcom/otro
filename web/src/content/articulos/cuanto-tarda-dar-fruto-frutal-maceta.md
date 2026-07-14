@@ -32,7 +32,7 @@ Un frutal sembrado desde semilla puede tardar muchos más años en dar fruto (a 
 
 - **Trasplantes frecuentes o mal ejecutados**: cada trasplante supone un pequeño estrés que ralentiza temporalmente el desarrollo.
 - **Poda excesiva o mal planificada**: eliminar demasiada masa vegetal de golpe puede retrasar la entrada en producción.
-- **Sustrato agotado sin renovar**: un frutal que lleva años en el mismo sustrato sin refrescarlo tendrá menos vigor.
+- **[Sustrato](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) agotado sin renovar**: un frutal que lleva años en el mismo sustrato sin refrescarlo tendrá menos vigor.
 
 ## Gestiona las expectativas desde el principio
 

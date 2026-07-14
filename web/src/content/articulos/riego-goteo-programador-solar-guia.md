@@ -7,7 +7,9 @@ keywords: ["programador riego solar", "riego por goteo con panel solar", "tempor
 pubDate: 2026-05-20
 ---
 
-Un programador de riego solar resuelve un problema muy concreto: automatizar el riego en balcones sin acceso a enchufe cercano y sin depender del cambio frecuente de pilas de los modelos tradicionales.
+Un <a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">programador de riego solar</a> resuelve un problema muy concreto: automatizar el riego en balcones sin acceso a enchufe cercano y sin depender del cambio frecuente de pilas de los modelos tradicionales.
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo funciona
 

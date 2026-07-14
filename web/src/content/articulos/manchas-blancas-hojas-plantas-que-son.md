@@ -9,11 +9,13 @@ pubDate: 2026-06-17
 
 No todas las manchas blancas en las hojas tienen la misma causa. Distinguir el patrón exacto es clave para aplicar el tratamiento correcto en lugar de uno genérico que puede no ser efectivo.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Oídio: el causante más común
 
 Se presenta como un polvo blanco harinoso que cubre la superficie de las hojas, tallos e incluso frutos jóvenes. Es un hongo favorecido por ambientes con humedad ambiental alta combinada con poca ventilación, y afecta especialmente a calabacines, pepinos y algunas aromáticas.
 
-**Tratamiento**: elimina las hojas más afectadas para reducir la propagación de esporas, mejora la ventilación separando las macetas, y aplica una solución de bicarbonato sódico diluido en agua (con un poco de jabón potásico como fijador) pulverizada sobre las hojas afectadas cada pocos días.
+**Tratamiento**: elimina las hojas más afectadas para reducir la propagación de esporas, mejora la ventilación separando las macetas, y aplica una solución de bicarbonato sódico diluido en agua (con un poco de <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">jabón potásico</a> como fijador) pulverizada sobre las hojas afectadas cada pocos días.
 
 ## Cochinilla algodonosa
 

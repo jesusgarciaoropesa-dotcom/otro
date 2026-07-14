@@ -9,6 +9,8 @@ pubDate: 2026-07-07
 
 La araña roja es una de las plagas más frecuentes en balcones y terrazas soleadas, precisamente porque prospera en las condiciones de calor y sequedad ambiental que muchas veces se dan justo ahí. A diferencia del pulgón o la mosca blanca, no es un insecto sino un ácaro diminuto, y eso cambia bastante cómo se trata.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo identificarla con seguridad
 
 Es tan pequeña (menos de 1 mm) que resulta casi imposible verla a simple vista con claridad. Los síntomas son mucho más fáciles de reconocer:
@@ -28,7 +30,7 @@ La araña roja se reproduce mucho más rápido con calor y humedad ambiental baj
 - **Aumenta la humedad ambiental**: pulveriza agua sobre las hojas (sobre todo el envés) regularmente; la araña roja tolera muy mal la humedad alta, a diferencia de la mayoría de plagas de insecto.
 - **[Jabón potásico](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/)**: pulverizado sobre el envés de las hojas cada 5-7 días, es efectivo también contra la araña roja, no solo contra pulgón o mosca blanca.
 - **Retira las hojas más afectadas**: si ya están con telaraña visible y muy dañadas, quitarlas reduce la población que puede seguir reproduciéndose.
-- **Evita los insecticidas normales**: al ser un ácaro y no un insecto, muchos insecticidas convencionales no son efectivos contra la araña roja; los tratamientos anteriores (agua y jabón potásico) siguen siendo la base más fiable en un balcón.
+- **Evita los insecticidas normales**: al ser un ácaro y no un insecto, muchos insecticidas convencionales no son efectivos contra la araña roja; los tratamientos anteriores (agua y <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">jabón potásico</a>) siguen siendo la base más fiable en un balcón.
 
 ## Prevención
 

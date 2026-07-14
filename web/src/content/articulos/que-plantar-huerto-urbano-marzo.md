@@ -30,7 +30,7 @@ Estos cultivos conviene empezarlos en semillero protegido (interior o [mini inve
 
 ## Aromáticas que puedes sembrar o trasplantar en marzo
 
-- Albahaca (mejor en semillero interior hasta que no haya riesgo de frío nocturno)
+- Albahaca (mejor en [semillero interior](/articulos/como-hacer-semillero-casero-paso-a-paso/) hasta que no haya riesgo de frío nocturno)
 - Perejil
 - Cilantro
 - Cebollino

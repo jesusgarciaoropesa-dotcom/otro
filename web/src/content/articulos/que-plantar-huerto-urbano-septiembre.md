@@ -24,7 +24,7 @@ Tomates, pimientos y berenjenas plantados en primavera suelen seguir dando fruto
 
 ## Renovar el sustrato agotado
 
-Septiembre, tras un verano de producción intensa en muchas macetas, es un buen momento para renovar o refrescar el sustrato de las macetas que vayas liberando de cultivos de verano, antes de aprovecharlas para la siembra de otoño.
+Septiembre, tras un verano de producción intensa en muchas macetas, es un buen momento para renovar o refrescar el [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) de las macetas que vayas liberando de cultivos de verano, antes de aprovecharlas para la siembra de otoño.
 
 ## Vigilar el riego en la transición de estación
 

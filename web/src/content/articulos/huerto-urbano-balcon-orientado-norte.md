@@ -29,7 +29,7 @@ Tomates, pimientos, berenjenas, calabacines y la mayoría de frutales necesitan 
 ## Cómo maximizar la poca luz disponible
 
 - Usa superficies claras (macetas, paredes de fondo) que reflejen algo más de luz ambiental hacia las plantas.
-- Considera una luz de cultivo LED complementaria si quieres ampliar las opciones de cultivo más allá de las tolerantes a sombra.
+- Considera una [luz de cultivo LED](/articulos/mejores-luces-led-cultivo-interior/) complementaria si quieres ampliar las opciones de cultivo más allá de las tolerantes a sombra.
 - Coloca las plantas lo más cerca posible de la barandilla o el borde del balcón, donde suele llegar algo más de luz indirecta que junto a la pared del fondo.
 
 ## Ajusta también el riego

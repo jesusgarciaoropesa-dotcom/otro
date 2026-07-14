@@ -18,7 +18,7 @@ Es el patrón más habitual y normalmente indica una de estas dos causas:
 
 ## Amarilleo entre nervios (las venas se quedan verdes)
 
-Este patrón específico suele apuntar a una carencia de magnesio o hierro, especialmente si la tomatera lleva mucho tiempo en el mismo sustrato sin abonar. Un abono equilibrado con microelementos suele corregirlo en pocas semanas.
+Este patrón específico suele apuntar a una carencia de magnesio o hierro, especialmente si la tomatera lleva mucho tiempo en el mismo sustrato sin abonar. Un [abono equilibrado con microelementos](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) suele corregirlo en pocas semanas.
 
 ## Amarilleo con manchas oscuras o necróticas
 

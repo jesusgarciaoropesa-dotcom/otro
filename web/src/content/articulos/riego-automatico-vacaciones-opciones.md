@@ -9,6 +9,8 @@ pubDate: 2026-03-18
 
 Las vacaciones de verano son la época en la que más plantas se pierden en un huerto urbano por falta de riego. La solución adecuada depende sobre todo de cuántos días vas a estar fuera.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Ausencias de 2-4 días
 
 Para escapadas cortas, normalmente no hace falta ningún sistema especial: un riego abundante justo antes de salir y colocar las macetas en una zona algo más protegida del sol directo suele ser suficiente para la mayoría de plantas establecidas.
@@ -18,7 +20,7 @@ Para escapadas cortas, normalmente no hace falta ningún sistema especial: un ri
 Aquí es donde empiezan los problemas si no tienes ningún sistema. Las opciones más habituales:
 
 - **Botellas de riego lento**: una botella de plástico invertida con pequeños agujeros, clavada en el sustrato, libera agua progresivamente durante varios días. Es una solución de emergencia razonable pero poco precisa.
-- **Programador de riego a pilas + goteo**: la solución más fiable para este rango de días. Un temporizador conectado al grifo con líneas de goteo a cada maceta riega automáticamente en el horario que programes, sin depender de nadie.
+- **<a href="https://www.amazon.es/s?k=programador+riego+pilas&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">Programador de riego a pilas</a> + goteo**: la solución más fiable para este rango de días. Un temporizador conectado al grifo con líneas de goteo a cada maceta riega automáticamente en el horario que programes, sin depender de nadie.
 
 ## Ausencias de más de 10-15 días
 

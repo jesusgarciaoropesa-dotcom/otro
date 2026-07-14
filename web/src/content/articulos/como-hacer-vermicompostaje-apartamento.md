@@ -9,16 +9,18 @@ pubDate: 2026-06-29
 
 El vermicompostaje utiliza lombrices rojas californianas para procesar restos orgánicos de forma mucho más rápida y controlada que un compostaje tradicional, con la ventaja añadida de que, bien gestionado, apenas genera olor y ocupa muy poco espacio.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué necesitas para empezar
 
 - Un [vermicompostador de varias bandejas apiladas](/articulos/compostador-de-balcon-mejores-opciones/) (existen modelos compactos pensados específicamente para interior).
-- Lombrices rojas californianas (Eisenia fetida), que se compran específicamente para este uso; no sirven las lombrices comunes de jardín.
+- <a href="https://www.amazon.es/s?k=lombrices+rojas+californianas&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">Lombrices rojas californianas</a> (Eisenia fetida), que se compran específicamente para este uso; no sirven las lombrices comunes de jardín.
 - Material de cama inicial: cartón troceado o papel de periódico sin tintas de color, humedecido.
 - Restos orgánicos de cocina para alimentarlas.
 
 ## Paso 1: preparar la cama inicial
 
-Coloca una capa de cartón troceado y humedecido en la bandeja inferior del vermicompostador, creando un ambiente húmedo pero no encharcado donde las lombrices puedan instalarse cómodamente.
+Coloca una capa de cartón troceado y humedecido en la bandeja inferior del <a href="https://www.amazon.es/s?k=vermicompostador&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">vermicompostador</a>, creando un ambiente húmedo pero no encharcado donde las lombrices puedan instalarse cómodamente.
 
 ## Paso 2: introducir las lombrices
 

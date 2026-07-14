@@ -25,7 +25,7 @@ Si tras un mes las plantas muestran tallos largos y débiles "estirándose" haci
 
 ## Cómo combinar luz natural y artificial
 
-No hace falta sustituir completamente la luz natural: complementarla con unas horas de luz artificial (por ejemplo, al atardecer, cuando la luz natural ya es escasa) suele ser suficiente para mejorar notablemente el desarrollo sin necesidad de tener la lámpara encendida todo el día.
+No hace falta sustituir completamente la luz natural: complementarla con unas horas de [luz artificial](/articulos/mejores-luces-led-cultivo-interior/) (por ejemplo, al atardecer, cuando la luz natural ya es escasa) suele ser suficiente para mejorar notablemente el desarrollo sin necesidad de tener la lámpara encendida todo el día.
 
 ## Riego en condiciones de poca luz
 

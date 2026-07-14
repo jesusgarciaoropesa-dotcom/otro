@@ -9,6 +9,8 @@ pubDate: 2026-06-30
 
 Un huerto urbano nace con una vocación sostenible, pero irónicamente suele depender de bastante plástico: macetas, bandejas de semillero, mangueras de riego. Reducirlo es posible sin renunciar a la funcionalidad.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Macetas: alternativas al plástico convencional
 
 - **Terracota o barro cocido**: material tradicional, duradero y reciclable al final de su vida útil, aunque más pesado y algo más frágil.
@@ -21,7 +23,7 @@ Botes de cristal, latas grandes, cajas de fruta de madera o cubos reutilizados p
 
 ## Semilleros sin plástico de un solo uso
 
-Los semilleros de turba prensada o fibra de coco biodegradables se plantan enteros junto con la plántula, evitando el plástico de las bandejas de alveolos convencionales. También puedes fabricar semilleros caseros con rollos de cartón de papel higiénico cortados, una opción prácticamente gratuita y totalmente biodegradable.
+Los <a href="https://www.amazon.es/s?k=semilleros+biodegradables+turba+fibra+coco&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">semilleros de turba prensada o fibra de coco biodegradables</a> se plantan enteros junto con la plántula, evitando el plástico de las bandejas de alveolos convencionales. También puedes fabricar semilleros caseros con rollos de cartón de papel higiénico cortados, una opción prácticamente gratuita y totalmente biodegradable.
 
 ## Riego: reduce el plástico de un solo uso
 

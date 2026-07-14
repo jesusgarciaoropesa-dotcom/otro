@@ -19,7 +19,7 @@ Un saco de sustrato universal de calidad rinde para varias macetas medianas. Es 
 
 ## Semillas o plantel
 
-Las semillas son muy económicas por unidad, pero un sobre suele rendir para varias temporadas. Comprar plantel ya germinado (plántulas) es más caro por unidad pero acelera mucho los resultados si eres principiante y no quieres depender de germinar desde cero.
+Las [semillas](/articulos/como-elegir-semillas-huerto-urbano/) son muy económicas por unidad, pero un sobre suele rendir para varias temporadas. Comprar plantel ya germinado (plántulas) es más caro por unidad pero acelera mucho los resultados si eres principiante y no quieres depender de germinar desde cero.
 
 ## Riego automático (opcional pero recomendable)
 

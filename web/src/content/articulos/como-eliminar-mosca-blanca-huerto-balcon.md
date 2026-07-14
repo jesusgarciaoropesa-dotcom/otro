@@ -9,6 +9,8 @@ pubDate: 2026-05-06
 
 La mosca blanca es una de las plagas más frecuentes en huertos urbanos, especialmente en tomateras y otras hortalizas de fruto durante los meses más cálidos. Se identifica fácilmente: pequeños insectos blancos que salen volando en nube al mover la planta.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo confirmar que es mosca blanca
 
 Sacude ligeramente la planta y observa si salen volando insectos blancos diminutos que enseguida se posan de nuevo en el envés de las hojas. Suele ir acompañada de un aspecto pegajoso en las hojas (melaza que segregan) y, en infestaciones avanzadas, un hongo negruzco llamado negrilla que crece sobre esa melaza.
@@ -19,11 +21,11 @@ Es de los métodos más efectivos y sencillos: la mosca blanca se siente atraíd
 
 ## Jabón potásico
 
-Pulverizado directamente sobre el envés de las hojas (donde se concentran huevos y ninfas), el jabón potásico diluido según las instrucciones del producto es uno de los tratamientos naturales más efectivos. Repite la aplicación cada 5-7 días durante 2-3 semanas para cortar el ciclo reproductivo completo.
+Pulverizado directamente sobre el envés de las hojas (donde se concentran huevos y ninfas), el <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">jabón potásico</a> diluido según las instrucciones del producto es uno de los tratamientos naturales más efectivos. Repite la aplicación cada 5-7 días durante 2-3 semanas para cortar el ciclo reproductivo completo.
 
 ## Aceite de neem
 
-Actúa como repelente e interfiere en el ciclo reproductivo del insecto. Combínalo con el jabón potásico en aplicaciones alternas para reforzar el efecto, siempre aplicándolo a primera o última hora del día para evitar quemaduras en las hojas por el sol.
+El <a href="https://www.amazon.es/s?k=aceite+de+neem+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">aceite de neem</a> actúa como repelente e interfiere en el ciclo reproductivo del insecto. Combínalo con el jabón potásico en aplicaciones alternas para reforzar el efecto, siempre aplicándolo a primera o última hora del día para evitar quemaduras en las hojas por el sol.
 
 ## Favorecer depredadores naturales
 

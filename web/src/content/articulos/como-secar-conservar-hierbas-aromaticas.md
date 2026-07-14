@@ -9,6 +9,8 @@ pubDate: 2026-04-28
 
 Cuando tus aromáticas producen más de lo que puedes consumir fresco, secarlas o conservarlas de otra forma permite aprovechar toda la cosecha sin desperdiciar nada, incluso meses después.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Secado al aire (el método más sencillo)
 
 Funciona muy bien con aromáticas de bajo contenido en agua como romero, tomillo y orégano. Ata pequeños manojos de tallos y cuélgalos boca abajo en un lugar seco, oscuro y ventilado (la luz directa degrada el color y el aroma durante el secado). En 1-2 semanas estarán completamente secas.
@@ -19,7 +21,7 @@ Aromáticas con alto contenido en agua como la albahaca, el perejil o el cilantr
 
 ## Secado en deshidratador o horno a baja temperatura
 
-Un deshidratador de alimentos, o un horno a la temperatura más baja posible con la puerta entreabierta, seca las hojas mucho más rápido (horas en lugar de semanas), reduciendo la degradación de aromáticas jugosas como la albahaca.
+Un <a href="https://www.amazon.es/s?k=deshidratador+alimentos&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">deshidratador de alimentos</a>, o un horno a la temperatura más baja posible con la puerta entreabierta, seca las hojas mucho más rápido (horas en lugar de semanas), reduciendo la degradación de aromáticas jugosas como la albahaca.
 
 ## Congelación en aceite o agua
 

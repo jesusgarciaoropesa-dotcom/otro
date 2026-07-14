@@ -10,6 +10,8 @@ pilar: true
 
 No hace falta tener un jardín para disfrutar de fruta propia. Existen variedades enanas de muchos frutales clásicos, desarrolladas específicamente para vivir toda su vida en una maceta grande.
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## 1. Limonero enano
 
 El más popular y agradecido para empezar. Florece varias veces al año y produce limones durante buena parte del año en climas templados. Necesita sol pleno y protección frente a heladas fuertes.
@@ -20,7 +22,7 @@ Similar en cuidados al limonero, aunque algo más sensible al frío. Sus frutos 
 
 ## 3. Arándano
 
-A diferencia de los cítricos, el arándano necesita un sustrato ácido (turba rubia o sustrato específico para plantas acidófilas) y riego con agua sin cal. Es más exigente, pero muy agradecido en balcones semisombreados.
+A diferencia de los cítricos, el arándano necesita un sustrato ácido (turba rubia o <a href="https://www.amazon.es/s?k=sustrato+plantas+acidofilas&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener">sustrato específico para plantas acidófilas</a>) y riego con agua sin cal. Es más exigente, pero muy agradecido en balcones semisombreados.
 
 ## 4. Higuera enana
 
@@ -37,7 +39,7 @@ Aunque no son árboles, merecen mención: los frutos rojos en variedades compact
 ## Qué tienen en común todos los frutales de maceta
 
 - **Maceta grande desde el principio**: mínimo 40 litros, e ir aumentando cada 2-3 años. Consulta nuestra [guía de compra de maceta para frutales de balcón](/articulos/mejor-maceta-frutales-balcon-guia-compra/) para acertar con el tamaño y el material.
-- **Abonado específico**: los frutales en maceta agotan antes los nutrientes del sustrato que en tierra, necesitan aporte regular.
+- **<a href="https://www.amazon.es/s?k=abono+frutales+maceta&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener">Abonado específico</a>**: los frutales en maceta agotan antes los nutrientes del sustrato que en tierra, necesitan aporte regular.
 - **Paciencia**: la mayoría tarda entre 1 y 3 años en dar su primera cosecha relevante.
 
 Si te decides por el más popular de todos, consulta nuestra guía específica de [cómo cultivar un limonero en maceta en el balcón](/articulos/como-cultivar-limonero-en-maceta/) para los detalles de cuidado.

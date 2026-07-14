@@ -7,11 +7,13 @@ keywords: ["compostaje bokashi", "cómo funciona el bokashi", "cubo bokashi cóm
 pubDate: 2026-07-07
 ---
 
-Mucha gente compra un cubo bokashi esperando un compost casero normal en versión de interior, y se lleva una sorpresa: el bokashi no es compost, es un paso previo. Entender esta diferencia desde el principio evita la confusión más habitual con este sistema.
+Mucha gente compra un <a href="https://www.amazon.es/s?k=cubo+bokashi&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">cubo bokashi</a> esperando un compost casero normal en versión de interior, y se lleva una sorpresa: el bokashi no es compost, es un paso previo. Entender esta diferencia desde el principio evita la confusión más habitual con este sistema.
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Qué es exactamente el bokashi
 
-El bokashi es un método de **fermentación anaeróbica** (sin oxígeno, en un recipiente hermético), no de descompostaje tradicional. Los restos orgánicos se mezclan con un salvado inoculado con microorganismos específicos, que fermentan la materia orgánica de forma similar a como se fermenta el yogur o el chucrut, en lugar de descomponerla por vía aeróbica como en un compostador abierto.
+El bokashi es un método de **fermentación anaeróbica** (sin oxígeno, en un recipiente hermético), no de descompostaje tradicional. Los restos orgánicos se mezclan con un <a href="https://www.amazon.es/s?k=salvado+bokashi&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">salvado inoculado con microorganismos específicos</a>, que fermentan la materia orgánica de forma similar a como se fermenta el yogur o el chucrut, en lugar de descomponerla por vía aeróbica como en un compostador abierto.
 
 ## En qué se diferencia del compost tradicional
 

@@ -28,7 +28,7 @@ Las raíces necesitan oxígeno, no solo agua. Un sustrato permanentemente satura
 1. **Revisa el drenaje de la maceta**: los agujeros de la base deben estar libres de obstrucciones; añade una capa de grava o arlita en el fondo si el drenaje es lento.
 2. **Espacia los riegos** hasta que el sustrato se seque parcialmente entre uno y otro, en lugar de mantenerlo húmedo de forma constante.
 3. **Retira platos con agua acumulada** tras el riego; dejar la maceta reposando en agua estancada es una de las causas más frecuentes de encharcamiento crónico.
-4. **En casos avanzados**, puede ser necesario trasplantar la planta a sustrato nuevo, retirando con cuidado el sustrato saturado y las raíces claramente podridas.
+4. **En casos avanzados**, puede ser necesario trasplantar la planta a [sustrato nuevo](/articulos/mejor-sustrato-huerto-urbano-maceta/), retirando con cuidado el sustrato saturado y las raíces claramente podridas.
 
 ## Prevención con riego automático
 

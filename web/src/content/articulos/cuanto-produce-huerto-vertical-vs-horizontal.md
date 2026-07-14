@@ -15,7 +15,7 @@ La ventaja principal del cultivo vertical no es que cada planta individual produ
 
 ## Dónde el huerto horizontal tiene ventaja
 
-Una maceta individual en el suelo suele ofrecer más volumen de sustrato por planta que un nivel de una estructura vertical estrecha, lo que se traduce en plantas más vigorosas y, en el caso de cultivos de fruto grande (tomates, berenjenas), en una producción por planta superior a la que se conseguiría en un nivel vertical limitado.
+Una maceta individual en el suelo suele ofrecer más volumen de sustrato por planta que un nivel de una [estructura vertical](/articulos/estructuras-cultivo-vertical-pared-terraza/) estrecha, lo que se traduce en plantas más vigorosas y, en el caso de cultivos de fruto grande (tomates, berenjenas), en una producción por planta superior a la que se conseguiría en un nivel vertical limitado.
 
 ## El factor luz: la gran diferencia
 
