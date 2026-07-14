@@ -9,6 +9,8 @@ pubDate: 2026-05-05
 
 Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado. Si todavía no tienes semillero, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/), y si ya lo tienes pero no sabes por dónde empezar, aquí tienes [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/).
 
+<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
+
 ## Señales de que está lista para trasplantar
 
 - **Aparición del segundo par de hojas verdaderas**: las primeras hojas que salen (cotiledones) no cuentan; espera a que aparezca al menos un par de hojas con la forma característica de la especie.

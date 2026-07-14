@@ -18,6 +18,8 @@ Empezar los cultivos en semillero, en lugar de sembrar directamente en la maceta
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
+
 ## 1. Bandejas de alveolos de plástico
 
 La opción más extendida: bandejas con celdillas individuales que facilitan trasplantar cada plántula sin dañar las raíces de las vecinas. Reutilizables durante varias temporadas si se limpian bien entre usos.

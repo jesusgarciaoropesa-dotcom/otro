@@ -11,6 +11,8 @@ Sembrar directamente en la maceta definitiva funciona, pero empezar en semillero
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
+
 ## Qué necesitas
 
 Un semillero (alveolos de plástico, turba prensada o fibra de coco, según tu caso), <a href="https://www.amazon.es/s?k=sustrato+para+semilleros&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">sustrato específico para semillero</a> o de siembra, agua y un <a href="https://www.amazon.es/s?k=pulverizador+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">pulverizador</a>. Si no tienes claro qué tipo de semillero elegir, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/).

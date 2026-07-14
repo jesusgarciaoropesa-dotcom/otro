@@ -18,6 +18,8 @@ Un mini invernadero de balcón permite adelantar la siembra de primavera y prote
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Invernadero de estantería con cubierta transparente y varias baldas de macetas pequeñas en un balcón urbano" /><figcaption>Invernadero de estantería con cubierta de PVC: protege varias baldas de macetas a la vez</figcaption></figure>
+
 ## 1. Mini invernadero de sobremesa para semilleros
 
 Una bandeja de semillero con tapa de plástico transparente, del tamaño justo para varias docenas de alveolos. La opción más pequeña y económica, pensada exclusivamente para la fase de germinación.
