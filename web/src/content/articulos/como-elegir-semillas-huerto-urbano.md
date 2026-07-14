@@ -18,6 +18,8 @@ Antes de elegir cada semilla por separado, conviene decidir qué tipo de compra 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/sobres-semillas-kraft.jpg" alt="Cinco sobres de semillas de papel kraft sobre una mesa de madera con montones de semillas distintas delante de cada uno" /><figcaption>Cada especie tiene semillas muy distintas: tamaño y forma condicionan la profundidad de siembra</figcaption></figure>
+
 ## 1. Packs de semillas variadas para principiantes
 
 La opción más práctica para arrancar: un mismo pack incluye varias hortalizas y aromáticas comunes (tomate, lechuga, rabanito, albahaca...), evitando tener que comprar sobre por sobre al principio sin saber todavía qué te va a funcionar mejor en tu balcón.

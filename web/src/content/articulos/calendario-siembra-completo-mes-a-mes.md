@@ -10,6 +10,8 @@ pilar: true
 
 Este calendario es una guía general para clima mediterráneo (la mayoría de España). Si tu zona tiene inviernos muy fríos o veranos extremos, ajusta las fechas 2-3 semanas según tu clima local.
 
+<figure><img src="/images/articulos/sobres-semillas-kraft.jpg" alt="Cinco sobres de semillas de papel kraft sobre una mesa de madera con montones de semillas distintas delante de cada uno" /><figcaption>Cada especie tiene semillas muy distintas: tamaño y forma condicionan la profundidad de siembra</figcaption></figure>
+
 ## Invierno (diciembre-febrero)
 
 Época de menor actividad, pero no de parón total: es el momento de planificar la temporada, revisar y limpiar macetas, y sembrar en interior cultivos de ciclo largo que trasplantarás en primavera. Consulta el detalle en [qué plantar en el huerto urbano en enero](/articulos/que-plantar-huerto-urbano-enero/).

@@ -18,6 +18,8 @@ No hace falta un arsenal de herramientas de jardinería profesional para mantene
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/herramientas-basicas-jardineria.jpg" alt="Guantes de jardinería verdes, pala y rastrillo de mano de acero inoxidable y tijeras de podar sobre una mesa de madera envejecida" /><figcaption>El equipo básico: guantes, pala y rastrillo de mano, y tijeras de podar</figcaption></figure>
+
 ## 1. Guantes de jardinería con refuerzo en las palmas
 
 Protegen las manos de espinas, tierra bajo las uñas y pequeños cortes, sin perder la sensibilidad necesaria para tareas delicadas como el trasplante de plántulas. Los modelos con refuerzo en la palma (látex o similar) además resisten mejor la humedad del sustrato.

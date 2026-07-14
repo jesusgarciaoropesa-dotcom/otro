@@ -28,6 +28,8 @@ Cuanto más tiempo pasa una plántula en un semillero pequeño una vez que ya es
 3. Haz un hueco en la maceta definitiva algo más grande que el cepellón de la plántula, y colócala a la misma profundidad que tenía en el semillero (salvo excepciones como el tomate, que tolera enterrarse algo más).
 4. Riega inmediatamente después del trasplante para asentar el sustrato alrededor de las raíces.
 
+<figure><img src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
+
 ## Aclimatación antes del trasplante definitivo
 
 Si la plántula ha crecido en interior o con menos luz que la que tendrá en su ubicación final, acostúmbrala gradualmente durante 4-7 días, aumentando poco a poco el tiempo de exposición al sol directo antes del trasplante definitivo. Saltarse este paso es una causa frecuente de plántulas "quemadas" nada más trasplantar.
