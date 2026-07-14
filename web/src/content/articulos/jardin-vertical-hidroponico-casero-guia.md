@@ -11,6 +11,8 @@ La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/hidroponia-nft-lechugas.jpg" alt="Sistema de hidroponía NFT casero con canal de PVC blanco, seis lechugas en vasos de rejilla y depósito con bomba en una terraza" /><figcaption>Sistema NFT casero: canal de PVC, vasos de rejilla y depósito con bomba</figcaption></figure>
+
 ## Ventajas frente al cultivo en sustrato
 
 - Crecimiento más rápido al no haber limitación de nutrientes en el suelo.
