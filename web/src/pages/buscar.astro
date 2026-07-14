@@ -35,7 +35,7 @@ import { withBase } from '../lib/url';
   <script is:inline src={withBase('/pagefind/pagefind-ui.js')}></script>
   <script is:inline define:vars={{ base: import.meta.env.BASE_URL }}>
     window.addEventListener('DOMContentLoaded', () => {
-      new PagefindUI({
+      const ui = new PagefindUI({
         element: '#search',
         showSubResults: true,
         showImages: false,
@@ -50,6 +50,25 @@ import { withBase } from '../lib/url';
           searching: 'Buscando "[SEARCH_TERM]"...',
         },
       });
+
+      // Si se llega con ?q=... (p. ej. desde el cuadro de búsqueda de Google),
+      // rellenamos el input y lanzamos la búsqueda automáticamente. Esto hace
+      // que la SearchAction declarada en el JSON-LD de la home sea real.
+      const q = new URLSearchParams(window.location.search).get('q');
+      if (q) {
+        const rellenar = () => {
+          const input = document.querySelector('#search input.pagefind-ui__search-input');
+          if (!input) return false;
+          input.value = q;
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+          return true;
+        };
+        // El input lo crea Pagefind de forma asíncrona: reintenta unas veces.
+        let intentos = 0;
+        const t = setInterval(() => {
+          if (rellenar() || ++intentos > 40) clearInterval(t);
+        }, 50);
+      }
     });
   </script>
 </BaseLayout>

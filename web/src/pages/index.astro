@@ -15,6 +15,34 @@ const recientes = [...articulos]
 // siga siendo cierto según crezca el contenido, sin tener que acordarse de
 // actualizar un número fijo cada vez que se publican artículos nuevos.
 const guiasRedondeadas = Math.floor(articulos.length / 5) * 5;
+
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'MiHuertoUrbano',
+  url: 'https://mihuertourbano.xyz/',
+  logo: 'https://mihuertourbano.xyz/images/logo-full.png',
+  sameAs: [
+    'https://www.pinterest.com/MiHuertoUrbanoxyz/',
+    'https://www.instagram.com/mihuertourbano.xyz/',
+    'https://www.facebook.com/MiHuertoUrbano',
+  ],
+};
+
+// La SearchAction solo se declara porque /buscar lee el parámetro ?q= y
+// ejecuta la búsqueda de Pagefind al cargar (ver script en buscar.astro).
+const websiteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'MiHuertoUrbano',
+  url: 'https://mihuertourbano.xyz/',
+  inLanguage: 'es-ES',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://mihuertourbano.xyz/buscar?q={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
 ---
 
 <BaseLayout
@@ -28,6 +56,8 @@ const guiasRedondeadas = Math.floor(articulos.length / 5) * 5;
     href={withBase('/images/hero-huerto.jpg')}
     slot="head"
   />
+  <script type="application/ld+json" set:html={JSON.stringify(organizationLd)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} slot="head" />
   <section class="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden">
     <div class="relative flex min-h-[460px] flex-col justify-end sm:min-h-[600px]">
       <div

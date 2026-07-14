@@ -20,6 +20,15 @@ const articulos = todos
 const pilar = articulos.find((a) => a.data.pilar);
 const resto = articulos.filter((a) => a !== pilar);
 
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: new URL(withBase('/'), Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name: cat.nombre, item: new URL(withBase(`/categorias/${cat.slug}/`), Astro.site).toString() },
+  ],
+};
+
 const etiquetaIntencion: Record<string, string> = {
   comparativa: 'Comparativa',
   transaccional: 'Guía de compra',
@@ -27,6 +36,7 @@ const etiquetaIntencion: Record<string, string> = {
 ---
 
 <BaseLayout title={cat.nombre} description={cat.descripcion}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
   <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
     <a href={withBase('/')} class="hover:underline">Inicio</a>
     <span class="mx-1">/</span>
