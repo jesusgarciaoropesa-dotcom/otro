@@ -11,6 +11,8 @@ Antes de recurrir a productos comerciales, muchos remedios caseros elaborados co
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
+
 ## Jabón potásico casero
 
 Diluye <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">jabón potásico</a> puro (no detergente convencional, que puede dañar las plantas) en agua, en la proporción indicada en el envase, y pulveriza directamente sobre pulgón, mosca blanca o [araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/). Actúa por contacto, disolviendo la capa protectora de estos insectos de cuerpo blando.

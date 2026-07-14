@@ -16,6 +16,8 @@ faq:
 
 Uno de los frenos más habituales para empezar un huerto urbano es no saber cuánto va a costar realmente. Aquí tienes un desglose honesto por partidas, para un huerto de tamaño pequeño-medio (5-8 macetas).
 
+<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
+
 ## Macetas
 
 Es la partida más variable. Unas macetas de plástico básicas de 15-20 litros son la opción más económica; las autorregantes cuestan algo más pero reducen pérdidas por riego irregular, lo que las hace más rentables a medio plazo si eres principiante. Consulta nuestra comparativa de [mejores macetas autorregantes para balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) para ver el rango de precios según capacidad.

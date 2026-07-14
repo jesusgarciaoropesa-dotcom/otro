@@ -18,6 +18,8 @@ Antes de recurrir a insecticidas químicos, estos son los productos ecológicos 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
+
 ## 1. Jabón potásico insecticida
 
 El tratamiento más versátil y el primero que probar ante pulgón, mosca blanca o cochinilla. Actúa por contacto, disolviendo la capa protectora de estos insectos de cuerpo blando, sin dejar residuo tóxico. Diluir siempre según las instrucciones del envase, nunca usar detergente convencional en su lugar.

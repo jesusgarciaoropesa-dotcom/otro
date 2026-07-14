@@ -11,6 +11,8 @@ Antes de comprar nada, conviene tener claro qué elementos son realmente impresc
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
+
 ## Lo imprescindible desde el primer día
 
 - **Macetas o contenedores con buen drenaje**: el elemento más básico; sin drenaje adecuado, ningún otro cuidado servirá de mucho.
