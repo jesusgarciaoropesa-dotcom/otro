@@ -17,6 +17,8 @@ La mosca blanca es una de las plagas más frecuentes en huertos urbanos, especia
 
 Sacude ligeramente la planta y observa si salen volando insectos blancos diminutos que enseguida se posan de nuevo en el envés de las hojas. Suele ir acompañada de un aspecto pegajoso en las hojas (melaza que segregan) y, en infestaciones avanzadas, un hongo negruzco llamado negrilla que crece sobre esa melaza.
 
+<figure><img src="/images/articulos/mosca-blanca-enves-hoja.jpg" alt="Envés de una hoja verde con varias moscas blancas de alas triangulares posadas, sujeta con la mano" /><figcaption>Adultos de mosca blanca en el envés de la hoja, donde se refugian y ponen los huevos</figcaption></figure>
+
 ## Trampas cromáticas amarillas
 
 Es de los métodos más efectivos y sencillos: la mosca blanca se siente atraída por el color amarillo. Coloca [trampas adhesivas amarillas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) cerca de las plantas afectadas; capturan una parte importante de la población adulta y sirven además como indicador para monitorizar si la plaga va a más o a menos.
