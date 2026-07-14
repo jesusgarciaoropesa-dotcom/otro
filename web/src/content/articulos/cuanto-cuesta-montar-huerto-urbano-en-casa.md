@@ -5,6 +5,13 @@ categoria: "primeros-pasos"
 intencion: "comparativa"
 keywords: ["cuánto cuesta un huerto urbano", "presupuesto huerto urbano balcón", "montar huerto urbano precio"]
 pubDate: 2026-03-16
+faq:
+  - pregunta: "¿Es caro montar un huerto urbano en casa?"
+    respuesta: "No: para un huerto de 5-8 macetas con sustrato de calidad y sin riego automático, el desembolso inicial es bajo-medio, y se amortiza con la primera cosecha de hortalizas que en tienda cuestan bastante más a lo largo del año."
+  - pregunta: "¿Cómo puedo reducir el coste inicial?"
+    respuesta: "Reutiliza recipientes con buen drenaje como macetas, empieza con pocas macetas y amplía después, haz compost casero para ahorrar en sustrato y abono, y valora un kit completo de principiante, que a veces sale más barato que comprar todo por separado."
+  - pregunta: "¿Merece la pena pagar el riego automático desde el principio?"
+    respuesta: "Es la inversión con más impacto en la tasa de éxito de un principiante. No es imprescindible el primer mes, pero conviene presupuestarlo si sabes que no vas a ser constante regando a mano; suele compensar a partir de la segunda temporada."
 ---
 
 Uno de los frenos más habituales para empezar un huerto urbano es no saber cuánto va a costar realmente. Aquí tienes un desglose honesto por partidas, para un huerto de tamaño pequeño-medio (5-8 macetas).

@@ -5,6 +5,13 @@ categoria: "que-plantar"
 intencion: "comparativa"
 keywords: ["mejores aromáticas para principiantes", "aromáticas fáciles de cultivar", "hierbas para huerto urbano principiantes"]
 pubDate: 2026-03-30
+faq:
+  - pregunta: "¿Cuál es la aromática más difícil de matar?"
+    respuesta: "El romero: tolera la sequía ocasional y el sol intenso, y apenas necesita cuidados una vez establecido. Es la apuesta más segura si solo vas a empezar con una."
+  - pregunta: "¿Qué aromáticas puedo plantar juntas en una jardinera?"
+    respuesta: "Romero, orégano y tomillo comparten necesidades de poco riego y sol intenso, así que conviven bien. La albahaca y el perejil necesitan más agua y es mejor tenerlos en macetas separadas para no sobre-regar a las mediterráneas."
+  - pregunta: "¿Por qué la menta va siempre en maceta individual?"
+    respuesta: "Porque su crecimiento es invasivo: es facilísima de mantener viva, pero si comparte jardinera acaba ocupando el espacio y las raíces del resto de plantas."
 ---
 
 No todas las aromáticas son igual de tolerantes a los errores típicos de un principiante. Estas son las que mejor perdonan riegos irregulares o falta de experiencia.

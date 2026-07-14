@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["comprar semillas para huerto urbano", "semillas ecológicas huerto balcón", "banco de semillas huerto"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Es mejor comprar semillas o plantel ya germinado?"
+    respuesta: "Depende del cultivo: para plantas lentas o delicadas de germinar (pimientos, berenjenas) el plantel ahorra semanas y fallos; para cultivos rápidos y fáciles (rabanitos, lechugas, judías) la siembra directa desde semilla compensa por precio."
+  - pregunta: "¿Qué ventaja tienen las semillas ecológicas certificadas?"
+    respuesta: "Se producen sin tratamientos químicos y muchas no son híbridas, así que puedes guardar parte de la cosecha para resembrar el año siguiente, algo que con semillas híbridas comerciales no siempre funciona bien."
+  - pregunta: "¿Merece la pena un banco de semillas de larga duración?"
+    respuesta: "Sí, si tienes claro que vas a mantener el huerto varios años: sale más rentable que comprar sobres cada primavera, aunque parte del pack quede sin usar la primera temporada."
 ---
 
 Antes de elegir cada semilla por separado, conviene decidir qué tipo de compra encaja mejor con tu huerto: un pack variado para empezar, semillas certificadas ecológicas, o directamente saltarte la siembra y comprar plantel ya germinado.

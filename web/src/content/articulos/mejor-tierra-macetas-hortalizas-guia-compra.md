@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejor tierra para macetas de hortalizas", "qué tierra comprar para macetas", "cómo elegir sustrato para hortalizas"]
 pubDate: 2026-06-27
+faq:
+  - pregunta: "¿Vale la tierra de jardín envasada para las macetas?"
+    respuesta: "No: está pensada para enmendar parterres y se compacta en el espacio reducido de una maceta, ahogando las raíces. Busca siempre un producto etiquetado como sustrato para macetas o sustrato universal."
+  - pregunta: "¿Qué debo mirar en la etiqueta del sustrato?"
+    respuesta: "Tres cosas: la composición (turba o fibra de coco para humedad, con perlita o vermiculita para aireación), el pH (la mayoría de hortalizas prefieren 6-7) y si incluye abono de base de liberación lenta para las primeras semanas."
+  - pregunta: "¿Cuánto sustrato necesito para una maceta de tomates?"
+    respuesta: "Una maceta de 30-40 litros, el tamaño habitual para tomates o pimientos, necesita prácticamente todo ese volumen en sustrato nuevo. Calcula el total según número y tamaño de macetas antes de comprar."
 ---
 
 Con tantas opciones disponibles en cualquier tienda de jardinería, elegir bien la tierra (en realidad, sustrato) para las macetas de hortalizas puede resultar confuso. Esta guía se centra en qué mirar exactamente antes de comprar.

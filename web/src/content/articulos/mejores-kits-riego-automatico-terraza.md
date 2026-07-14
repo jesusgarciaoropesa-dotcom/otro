@@ -5,6 +5,13 @@ categoria: "riego-automatico"
 intencion: "comparativa"
 keywords: ["mejores kits de riego automático", "kit riego automático terraza 2026", "comparativa riego por goteo"]
 pubDate: 2026-05-18
+faq:
+  - pregunta: "¿Qué kit de riego elijo para empezar?"
+    respuesta: "Un kit básico para 5-10 macetas, con programador a pilas, manguera de 4-6 mm y goteros ajustables: es el punto de entrada más económico y suficiente para la mayoría de balcones pequeños o medianos."
+  - pregunta: "¿Hay riego automático para terrazas sin grifo?"
+    respuesta: "Sí, los kits con depósito propio y minibomba: no dependen de ninguna toma de agua fija, solo hay que rellenar el depósito periódicamente. Son la opción para áticos y terrazas alejadas de cualquier grifo."
+  - pregunta: "¿Merece la pena un kit con wifi y sensor de humedad?"
+    respuesta: "Si buscas máxima precisión y ahorro de agua, sí: riegan según la humedad real del sustrato en vez de un horario fijo. Para un huerto pequeño, un programador convencional suele ser suficiente y más simple."
 ---
 
 Elegir el kit de riego automático adecuado depende sobre todo de cuántas macetas tienes y cuánto quieres invertir. Esta comparativa organiza las opciones según ese criterio.

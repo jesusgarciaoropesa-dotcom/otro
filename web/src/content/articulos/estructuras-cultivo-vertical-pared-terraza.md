@@ -5,6 +5,13 @@ categoria: "cultivo-vertical"
 intencion: "comparativa"
 keywords: ["estructuras cultivo vertical pared", "jardín vertical de pared terraza", "panel vegetal para pared exterior"]
 pubDate: 2026-05-25
+faq:
+  - pregunta: "¿Qué estructura vertical es mejor para una pared que soporta poco peso?"
+    respuesta: "Los sistemas de bolsillos textiles: son los más ligeros y económicos, aptos incluso para paredes con poca capacidad de carga o viviendas de alquiler donde no conviene hacer anclajes pesados."
+  - pregunta: "¿Qué debo comprobar antes de fijar una estructura a la pared?"
+    respuesta: "Tres cosas: el tipo de pared y anclaje que admite, hacia dónde drenará el agua sobrante del riego (que no gotee sobre zonas de paso o el vecino), y el peso total con el sustrato completamente empapado, que es bastante mayor que en seco."
+  - pregunta: "¿Cuál da más volumen de sustrato por planta?"
+    respuesta: "Las jardineras colgantes escalonadas: ofrecen más sustrato que los bolsillos textiles o los paneles de maceta pequeña, y su instalación es más sencilla que la de un panel modular completo."
 ---
 
 Cuando el objetivo es cubrir una pared de terraza en lugar de ocupar suelo, existen varios tipos de estructura con muy distinto coste, peso y mantenimiento.

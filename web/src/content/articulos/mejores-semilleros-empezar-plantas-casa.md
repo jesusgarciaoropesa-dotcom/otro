@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores semilleros para plantas", "semillero para empezar plantas en casa", "bandeja de semillero huerto urbano"]
 pubDate: 2026-06-20
+faq:
+  - pregunta: "¿Qué semillero compro para uso general?"
+    respuesta: "Una bandeja de alveolos de plástico: es la opción con mejor relación precio-utilidad, facilita trasplantar cada plántula sin dañar a las vecinas y se reutiliza varias temporadas si se limpia entre usos."
+  - pregunta: "¿Para qué sirve la tapa transparente de mini invernadero?"
+    respuesta: "Retiene humedad y calor, acelerando y uniformando la germinación. Es especialmente útil en siembras de finales de invierno o principios de primavera, cuando el interior de casa aún está fresco."
+  - pregunta: "¿Qué semillero elijo para plantas sensibles al trasplante?"
+    respuesta: "Los de turba prensada biodegradable: cada bloque se planta entero sin sacar la plántula, reduciendo al mínimo el estrés del trasplante en cultivos delicados como el pepino."
 ---
 
 Empezar los cultivos en semillero, en lugar de sembrar directamente en la maceta definitiva, da más control sobre la germinación y permite adelantar la siembra antes de que las condiciones exteriores sean óptimas para el trasplante.

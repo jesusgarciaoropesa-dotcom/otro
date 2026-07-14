@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores guantes de jardinería", "herramientas básicas huerto urbano", "kit de herramientas para balcón"]
 pubDate: 2026-06-23
+faq:
+  - pregunta: "¿Qué herramientas necesito de verdad para un huerto de balcón?"
+    respuesta: "Un conjunto básico de cuatro piezas cubre casi todo: guantes con refuerzo en la palma, pala y rastrillo de mano, tijeras de podar y una regadera de cuello largo. No hace falta equipamiento profesional."
+  - pregunta: "¿En qué orden compro las herramientas si empiezo de cero?"
+    respuesta: "Primero los guantes, después pala y rastrillo de mano para trasplantes, luego las tijeras de podar cuando tengas frutales o aromáticas leñosas, y por último la regadera, menos crítica si ya tienes riego automático."
+  - pregunta: "¿Cómo evito que las herramientas se estropeen?"
+    respuesta: "Límpialas y sécalas bien después de cada uso, sobre todo las metálicas: el óxido por humedad es lo que antes las deteriora. Elegir pala y rastrillo de acero inoxidable también ayuda."
 ---
 
 No hace falta un arsenal de herramientas de jardinería profesional para mantener un huerto urbano de balcón: un pequeño conjunto básico bien elegido cubre prácticamente todas las tareas habituales.

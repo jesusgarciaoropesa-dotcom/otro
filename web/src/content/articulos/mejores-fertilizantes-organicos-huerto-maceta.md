@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores fertilizantes orgánicos", "abono orgánico para macetas", "fertilizante natural huerto urbano"]
 pubDate: 2026-05-08
+faq:
+  - pregunta: "¿Qué fertilizante orgánico compro si solo quiero uno?"
+    respuesta: "Humus de lombriz: sirve como abono de fondo para casi cualquier cultivo, mejora la estructura del sustrato y es prácticamente imposible quemar la planta por pasarse con la dosis."
+  - pregunta: "¿Cada cuánto hay que abonar un huerto en maceta?"
+    respuesta: "Como norma general, un abonado de fondo al preparar el sustrato más un refuerzo cada 2-4 semanas durante el crecimiento activo y la fructificación, ajustando según las instrucciones de cada producto."
+  - pregunta: "¿Cuándo conviene un abono líquido como el guano?"
+    respuesta: "Cuando necesitas efecto rápido: al diluirse en el agua de riego actúa antes que los abonos sólidos, útil para corregir carencias puntuales durante la floración o fructificación de tomates y pimientos."
 ---
 
 El sustrato de una maceta se agota de nutrientes mucho antes que la tierra de un huerto tradicional, así que un buen fertilizante orgánico es casi imprescindible para mantener la producción durante toda la temporada.

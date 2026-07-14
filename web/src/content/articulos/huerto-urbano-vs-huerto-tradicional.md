@@ -5,6 +5,13 @@ categoria: "primeros-pasos"
 intencion: "comparativa"
 keywords: ["huerto urbano vs huerto tradicional", "diferencias huerto en maceta y en tierra", "ventajas del huerto urbano"]
 pubDate: 2026-04-14
+faq:
+  - pregunta: "¿Produce menos un huerto en maceta que uno en tierra?"
+    respuesta: "Por planta, sí: en tierra las raíces tienen más espacio. Pero el huerto urbano lo compensa con variedades específicas para maceta y con el cultivo vertical, que multiplica las plantas por metro cuadrado disponible."
+  - pregunta: "¿Qué es más crítico en maceta que en tierra?"
+    respuesta: "El riego y el sustrato: la maceta se seca mucho más rápido y sus nutrientes se agotan antes, por eso el riego automático y la renovación anual del sustrato son mucho más importantes que en un huerto de suelo."
+  - pregunta: "¿Tiene menos plagas un huerto de balcón?"
+    respuesta: "Tiene menos presión de plagas del suelo (caracoles, topillos, hongos de tierra contaminada) por estar elevado, pero también recibe menos polinizadores e insectos beneficiosos de forma espontánea."
 ---
 
 Un huerto urbano en maceta y un huerto tradicional en tierra comparten el objetivo pero funcionan de forma bastante distinta. Conocer las diferencias ayuda a ajustar expectativas si vienes de una experiencia de huerto en tierra o si es tu primera vez cultivando.

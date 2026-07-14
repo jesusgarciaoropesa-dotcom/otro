@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["kits de hidroponía doméstica", "kit hidroponía para empezar", "mejor kit hidropónico casero"]
 pubDate: 2026-05-10
+faq:
+  - pregunta: "¿Qué kit de hidroponía es mejor para empezar?"
+    respuesta: "Un kit de cultivo por mecha (wick system): no necesita bomba ni electricidad, es el más económico y funciona bien con aromáticas y hojas verdes pequeñas para una primera experiencia."
+  - pregunta: "¿Qué mantenimiento requiere la hidroponía frente a la maceta?"
+    respuesta: "Hay que revisar periódicamente el pH y la concentración de nutrientes de la solución, y limpiar el sistema con regularidad para evitar algas o patógenos en el agua, algo que el cultivo en sustrato no exige."
+  - pregunta: "¿Puedo cultivar con hidroponía sin luz natural?"
+    respuesta: "Sí, con los kits todo en uno que integran luces LED de cultivo: cuestan más, pero permiten cultivar en interior durante todo el año sin depender del sol del balcón."
 ---
 
 La hidroponía elimina el sustrato tradicional y alimenta las raíces directamente con agua enriquecida en nutrientes, lo que permite un crecimiento más rápido y limpio, aunque requiere una inversión inicial mayor que el cultivo en maceta convencional.

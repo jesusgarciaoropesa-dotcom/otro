@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores tutores para tomateras", "estacas para plantas en maceta", "tutor para pimientos y berenjenas"]
 pubDate: 2026-07-05
+faq:
+  - pregunta: "¿Qué tutor necesita una tomatera en maceta?"
+    respuesta: "Depende del porte: una caña de bambú basta para porte bajo o medio, el tutor en espiral evita atar semanalmente una tomatera de una sola guía, y las variedades de mata ancha van mejor con jaula de tutorado."
+  - pregunta: "¿Cuándo hay que colocar el tutor?"
+    respuesta: "Siempre con la planta todavía joven: instalarlo más tarde, con las raíces ya desarrolladas por toda la maceta, aumenta mucho el riesgo de dañarlas al clavarlo."
+  - pregunta: "¿Los pimientos y berenjenas también necesitan tutor?"
+    respuesta: "Muchas veces sí, sobre todo cargados de fruto. En la mayoría de los casos basta una caña de bambú clavada junto al tallo principal, sujeta con rafia o clips cada 15-20 cm."
 ---
 
 Casi cualquier tomatera, y muchos pimientos y berenjenas cargados de fruto, necesitan algún tipo de tutor para no doblarse o partirse bajo su propio peso. Estas son las opciones más recomendables según el cultivo y cuánto quieras complicarte.

@@ -5,6 +5,13 @@ categoria: "riego-automatico"
 intencion: "comparativa"
 keywords: ["riego automático con app móvil", "programador riego wifi móvil", "mejor riego inteligente para balcón"]
 pubDate: 2026-05-22
+faq:
+  - pregunta: "¿Qué aporta el riego con app frente a un programador normal?"
+    respuesta: "Supervisión y ajuste remoto en tiempo real, y en los modelos con sensor, riego basado en la humedad real del sustrato en lugar de un horario fijo. Algunos además envían alertas al móvil si detectan un fallo."
+  - pregunta: "¿Qué inconvenientes tiene el riego inteligente?"
+    respuesta: "Precio más alto, dependencia de la conexión wifi del hogar y de la batería del dispositivo, y una curva de aprendizaje mayor que la de un programador mecánico sencillo."
+  - pregunta: "¿Necesito un sistema con app para mi balcón?"
+    respuesta: "Para la mayoría de huertos de balcón, un kit de goteo con temporizador convencional es suficiente y más fácil de mantener. Las opciones con app y sensores compensan cuando ya tienes experiencia y quieres más precisión."
 ---
 
 Los sistemas de riego con control desde el móvil añaden dos capacidades que un programador tradicional no tiene: supervisión y ajuste remoto en tiempo real, y en los modelos más avanzados, riego basado en datos reales de humedad en lugar de un horario fijo.

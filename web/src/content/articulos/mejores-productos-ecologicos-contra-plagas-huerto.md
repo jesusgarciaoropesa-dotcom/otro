@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["productos ecológicos contra plagas", "jabón potásico para plantas", "aceite de neem huerto urbano"]
 pubDate: 2026-07-06
+faq:
+  - pregunta: "¿Qué producto ecológico pruebo primero contra una plaga?"
+    respuesta: "El jabón potásico: es el tratamiento más versátil ante pulgón, mosca blanca o cochinilla. Actúa por contacto sin dejar residuo tóxico, diluido según las instrucciones del envase y repitiendo a los 5-7 días."
+  - pregunta: "¿Son seguros estos productos en hortalizas que voy a comer?"
+    respuesta: "Sí: jabón potásico, aceite de neem, trampas cromáticas y nematodos no dejan residuo tóxico en el fruto y son aptos para un balcón con niños o mascotas, a diferencia de muchos insecticidas químicos."
+  - pregunta: "¿Qué uso contra las larvas que viven en el sustrato?"
+    respuesta: "Nematodos beneficiosos regados directamente en el sustrato: parasitan específicamente larvas como el gusano blanco sin afectar a la planta ni a los insectos beneficiosos de superficie."
 ---
 
 Antes de recurrir a insecticidas químicos, estos son los productos ecológicos que más se repiten en nuestras guías de plagas, porque son efectivos, seguros para un balcón con niños o mascotas, y no dejan residuo tóxico en hortalizas que luego vas a comer.

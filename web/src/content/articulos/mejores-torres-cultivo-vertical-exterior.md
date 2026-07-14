@@ -5,6 +5,13 @@ categoria: "cultivo-vertical"
 intencion: "comparativa"
 keywords: ["mejores torres de cultivo vertical", "torre de cultivo exterior", "torre para huerto vertical balcón"]
 pubDate: 2026-02-24
+faq:
+  - pregunta: "¿Qué debe tener una torre de cultivo para aguantar en exterior?"
+    respuesta: "Tres cosas: material resistente a rayos UV que no se degrade con el sol, buen drenaje entre niveles para que el agua sobrante no encharque el nivel inferior, y estabilidad (base ancha o anclaje) frente al viento."
+  - pregunta: "¿Qué cultivos rinden mejor en una torre vertical?"
+    respuesta: "Fresas, lechugas y aromáticas de porte bajo: tienen raíces poco profundas y toleran bien el volumen de sustrato limitado de cada nivel. Los cultivos de fruto grande rinden mejor en maceta individual."
+  - pregunta: "¿Cómo se riega una torre de varios niveles?"
+    respuesta: "Las torres con riego integrado llevan un canal central que distribuye el agua a todos los niveles desde un único punto arriba; en las demás, conviene conectar un sistema de goteo adaptado para no regar cada nivel a mano."
 ---
 
 Las torres de cultivo vertical son la forma más rápida de multiplicar la superficie de cultivo de un balcón sin ocupar más suelo. No todas sirven igual para exterior: estas son las características que marcan la diferencia.

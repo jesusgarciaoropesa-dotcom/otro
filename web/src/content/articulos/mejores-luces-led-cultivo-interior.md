@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores luces LED de cultivo", "luz de cultivo para interior", "lámpara LED para plantas de interior"]
 pubDate: 2026-06-22
+faq:
+  - pregunta: "¿Qué debe tener una buena luz LED de cultivo?"
+    respuesta: "Espectro completo (luz azul para crecimiento y roja para floración en proporciones equilibradas), un temporizador integrado o externo para mantener horario constante, y una generación de calor controlada respetando la distancia mínima a las hojas."
+  - pregunta: "¿Gastan mucha electricidad las luces de cultivo?"
+    respuesta: "Las LED domésticas tienen un consumo moderado comparado con otros electrodomésticos, especialmente los modelos de barra para estantería de menor potencia, pensados para funcionar varias horas al día."
+  - pregunta: "¿Qué luz elijo si solo tengo unas pocas plantas?"
+    respuesta: "Una lámpara de sobremesa con temporizador integrado: automatiza el horario de luz sin accesorios adicionales y está pensada justo para macetas individuales o grupos pequeños."
 ---
 
 Una luz de cultivo adecuada puede ser la diferencia entre unas aromáticas débiles y estiradas y un huerto de interior realmente productivo. Estas son las opciones más recomendables según el uso que le vayas a dar.

@@ -6,6 +6,13 @@ intencion: "comparativa"
 keywords: ["mejores hortalizas para balcón pequeño", "qué hortalizas plantar en balcón", "hortalizas para espacio reducido"]
 pubDate: 2026-03-25
 pilar: true
+faq:
+  - pregunta: "¿Cuál es la hortaliza más rápida para un balcón pequeño?"
+    respuesta: "El rabanito: se cosecha en 3-4 semanas y necesita un espacio mínimo, por lo que sirve incluso para macetas pequeñas o los huecos entre otros cultivos."
+  - pregunta: "¿Qué hortalizas debo evitar si tengo muy poco espacio?"
+    respuesta: "Calabacines, berenjenas y tomates de mata grande: necesitan mucha superficie y volumen de sustrato, y en balcones muy pequeños rinden poco para lo que ocupan, salvo variedades enanas específicas."
+  - pregunta: "¿Qué tomate funciona mejor en maceta compacta?"
+    respuesta: "El tomate cherry o cóctel: produce en abundancia en macetas relativamente pequeñas y es mucho más agradecido en espacios reducidos que las variedades de mata grande."
 ---
 
 Cuando el espacio es realmente limitado, no todas las hortalizas son igual de rentables. Estas son las que ofrecen mejor relación entre espacio ocupado y cosecha obtenida.

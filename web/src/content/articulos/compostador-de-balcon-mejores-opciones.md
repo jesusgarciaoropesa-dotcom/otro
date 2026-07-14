@@ -5,6 +5,13 @@ categoria: "compostaje-sostenibilidad"
 intencion: "comparativa"
 keywords: ["compostador de balcón", "compostador sin olor para piso", "mejor compostador para apartamento"]
 pubDate: 2026-04-11
+faq:
+  - pregunta: "¿Un compostador en el balcón huele mal?"
+    respuesta: "No, si eliges un sistema cerrado (bokashi, vermicompostador o rotatorio) y mantienes el equilibrio entre restos húmedos y material seco, aireando con la frecuencia que pide cada sistema. Los malos olores vienen de la descomposición sin oxígeno, no del compostaje en sí."
+  - pregunta: "¿Qué compostador elijo si no tengo balcón ni terraza?"
+    respuesta: "Un cubo bokashi: fermenta los restos en un recipiente hermético, apenas genera olor y ocupa un espacio mínimo, por lo que es el único de los tres sistemas pensado para estar dentro de casa."
+  - pregunta: "¿Puedo echar restos de carne o pescado al compostador?"
+    respuesta: "Solo al bokashi, porque fermenta en lugar de descomponer. En el vermicompostador y en el compostador rotatorio, la carne, el pescado y los lácteos son la causa principal de malos olores."
 ---
 
 El miedo a los malos olores es la principal razón por la que mucha gente descarta compostar en un piso sin jardín. Con el sistema adecuado, ese problema prácticamente desaparece.

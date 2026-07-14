@@ -5,6 +5,13 @@ categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mini invernadero para balcón", "invernadero pequeño terraza", "mejor mini invernadero precio"]
 pubDate: 2026-06-25
+faq:
+  - pregunta: "¿Para qué sirve un mini invernadero en un balcón?"
+    respuesta: "Para dos cosas: adelantar la siembra de primavera (germinando antes de que las condiciones exteriores lo permitan) y proteger plantas sensibles del frío en invierno, sin necesitar el espacio de un invernadero de jardín."
+  - pregunta: "¿Qué mini invernadero elijo para proteger macetas ya crecidas?"
+    respuesta: "Uno de estantería con cubierta de PVC y cremallera: alberga varias macetas completas, no solo semilleros, y permite acceder a las plantas abriendo la cubierta."
+  - pregunta: "¿Puede un mini invernadero dañar las plantas?"
+    respuesta: "Sí, por exceso de calor y humedad: cerrado en un día soleado alcanza temperaturas muy altas incluso en invierno. Ventila abriendo la cubierta en las horas centrales de los días de sol para evitar hongos."
 ---
 
 Un mini invernadero de balcón permite adelantar la siembra de primavera y proteger plantas sensibles durante los meses más fríos, sin necesitar el espacio de un invernadero de jardín tradicional.
