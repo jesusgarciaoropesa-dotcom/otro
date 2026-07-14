@@ -18,6 +18,8 @@ Una luz de cultivo adecuada puede ser la diferencia entre unas aromáticas débi
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/barra-led-cultivo-aromaticas.jpg" alt="Barra LED de cultivo iluminando macetas de albahaca, perejil y romero en una estantería de interior al atardecer" /><figcaption>Una barra LED bajo la balda basta para complementar la luz natural de las aromáticas de interior</figcaption></figure>
+
 ## 1. Barras LED de espectro completo para estanterías
 
 Tiras o barras finas que se instalan bajo una balda o estantería, pensadas para iluminar varios niveles de plantas pequeñas (aromáticas, semilleros) sin ocupar apenas espacio.

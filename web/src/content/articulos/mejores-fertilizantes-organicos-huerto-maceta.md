@@ -18,6 +18,8 @@ El sustrato de una maceta se agota de nutrientes mucho antes que la tierra de un
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Mano esparciendo humus de lombriz sobre el sustrato de una maceta con una tomatera joven en un balcón" /><figcaption>Aplicando humus de lombriz como abono de fondo en una tomatera joven</figcaption></figure>
+
 ## 1. Humus de lombriz
 
 Uno de los abonos orgánicos más completos y seguros: mejora la estructura del sustrato además de aportar nutrientes, con muy bajo riesgo de "quemar" la planta incluso si te pasas ligeramente en la dosis. Ideal como abono de fondo al preparar o renovar el sustrato.

@@ -9,6 +9,8 @@ pubDate: 2026-05-12
 
 No hace falta tener un compostador para aprovechar algunos restos de cocina en tu huerto de balcón. Estos son los que puedes reutilizar de forma directa o casi directa, sin un proceso de compostaje completo.
 
+<figure><img src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Mano esparciendo humus de lombriz sobre el sustrato de una maceta con una tomatera joven en un balcón" /><figcaption>Aplicando humus de lombriz como abono de fondo en una tomatera joven</figcaption></figure>
+
 ## Posos de café
 
 Aportan nitrógeno y mejoran ligeramente la estructura del sustrato. Espárcelos en una capa fina sobre la superficie del sustrato, sin amontonarlos, ya que en exceso pueden compactarse y dificultar la aireación. Van especialmente bien con plantas que prefieren un sustrato algo más ácido.
