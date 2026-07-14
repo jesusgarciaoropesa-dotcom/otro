@@ -18,6 +18,8 @@ Elegir el kit de riego automático adecuado depende sobre todo de cuántas macet
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Instalación de riego por goteo con manguera fina y goteros recorriendo las macetas de un balcón urbano, con programador conectado al grifo" /><figcaption>Línea de goteo con programador recorriendo las macetas del balcón</figcaption></figure>
+
 ## 1. Kits básicos para 5-10 macetas
 
 Incluyen un programador sencillo a pilas, manguera de 4-6 mm y goteros ajustables básicos. Es el punto de entrada más económico y suficiente para la mayoría de huertos de balcón pequeños o medianos.

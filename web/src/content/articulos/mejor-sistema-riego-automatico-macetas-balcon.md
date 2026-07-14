@@ -19,6 +19,8 @@ Si has perdido plantas por olvidarte de regar en vacaciones o simplemente quiere
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Instalación de riego por goteo con manguera fina y goteros recorriendo las macetas de un balcón urbano, con programador conectado al grifo" /><figcaption>Línea de goteo con programador recorriendo las macetas del balcón</figcaption></figure>
+
 ## Qué buscar en un sistema de riego automático
 
 - **Programador/temporizador de riego**: permite fijar horarios y duración sin intervención manual.
