@@ -18,6 +18,8 @@ Con tantas opciones disponibles en cualquier tienda de jardinería, elegir bien 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Manos con guantes de jardinería mezclando sustrato oscuro con perlita blanca en un barreño, junto a un saco de sustrato abierto" /><figcaption>Mezclar el sustrato con perlita mejora la aireación y el drenaje en maceta</figcaption></figure>
+
 ## El primer error: comprar tierra de jardín en lugar de sustrato
 
 La tierra de jardín envasada, pensada para enmendar parterres, se compacta con facilidad en el espacio reducido de una maceta, ahogando las raíces por falta de aireación. Para maceta necesitas siempre un producto etiquetado específicamente como "sustrato para macetas" o "sustrato universal", con una composición pensada para retener humedad sin compactarse.
