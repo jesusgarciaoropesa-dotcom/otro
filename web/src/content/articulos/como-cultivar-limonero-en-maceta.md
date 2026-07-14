@@ -9,6 +9,8 @@ pubDate: 2026-03-04
 
 El limonero es, junto con el naranjo enano, el frutal más popular para cultivar en maceta en un balcón. Con la variedad correcta y unos cuidados constantes, es perfectamente posible cosechar tus propios limones en pleno centro de la ciudad.
 
+<figure><img src="/images/articulos/cultivo-limonero-maceta.jpg" alt="Limonero enano cargado de limones amarillos en una maceta grande de terracota en un balcón urbano" /><figcaption>Limonero enano en maceta, cargado de fruto</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Los cítricos no se cultivan desde semilla para dar fruto (tarda años y no garantiza la misma variedad): lo habitual es comprar directamente una planta joven ya injertada:

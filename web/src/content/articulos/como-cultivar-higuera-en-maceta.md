@@ -9,6 +9,8 @@ pubDate: 2026-07-07
 
 La higuera es uno de los frutales de maceta más agradecidos: tolera mejor el frío que los cítricos, aguanta la sequía puntual sin apenas quejarse una vez establecida, y las variedades compactas se adaptan bien a la vida entera en un contenedor.
 
+<figure><img src="/images/articulos/cultivo-higuera-maceta.jpg" alt="Higuera pequeña con higos maduros y grandes hojas lobuladas en una maceta de terracota en una terraza urbana" /><figcaption>Higuera en maceta con los higos madurando</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 Igual que los cítricos, la higuera no se suele cultivar desde semilla para tener fruto rápido: lo habitual es partir de una planta joven ya enraizada, normalmente de un esqueje:
