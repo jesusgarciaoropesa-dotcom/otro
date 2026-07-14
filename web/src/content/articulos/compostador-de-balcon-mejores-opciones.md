@@ -24,6 +24,8 @@ El miedo a los malos olores es la principal razón por la que mucha gente descar
 
 El sistema bokashi fermenta los restos orgánicos en un cubo hermético usando microorganismos, en lugar de descomponerlos por vía aeróbica tradicional. Al ser un proceso de fermentación en un recipiente cerrado, genera muy poco olor y ocupa un espacio mínimo, ideal para cocinas pequeñas. Consulta nuestra guía de [cómo funciona el bokashi paso a paso](/articulos/como-funciona-compostaje-bokashi/) antes de comprarlo, porque su funcionamiento es bastante distinto al de un compostador tradicional.
 
+<figure><img src="/images/articulos/cubo-bokashi-cocina.jpg" alt="Cubo bokashi beige con tapa hermética y grifo inferior en la encimera de una cocina junto a una tabla con restos de verduras" /><figcaption>El cubo bokashi vive en la cocina: hermético, con grifo para el líquido fermentado</figcaption></figure>
+
 **Recomendado para**: pisos sin terraza, quien no puede tener nada al aire libre.
 
 <a href="https://www.amazon.es/s?k=compostador+bokashi+cocina&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>

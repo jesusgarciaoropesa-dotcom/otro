@@ -11,6 +11,8 @@ Mucha gente compra un <a href="https://www.amazon.es/s?k=cubo+bokashi&tag=mihuer
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/cubo-bokashi-cocina.jpg" alt="Cubo bokashi beige con tapa hermética y grifo inferior en la encimera de una cocina junto a una tabla con restos de verduras" /><figcaption>El cubo bokashi vive en la cocina: hermético, con grifo para el líquido fermentado</figcaption></figure>
+
 ## Qué es exactamente el bokashi
 
 El bokashi es un método de **fermentación anaeróbica** (sin oxígeno, en un recipiente hermético), no de descompostaje tradicional. Los restos orgánicos se mezclan con un <a href="https://www.amazon.es/s?k=salvado+bokashi&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">salvado inoculado con microorganismos específicos</a>, que fermentan la materia orgánica de forma similar a como se fermenta el yogur o el chucrut, en lugar de descomponerla por vía aeróbica como en un compostador abierto.

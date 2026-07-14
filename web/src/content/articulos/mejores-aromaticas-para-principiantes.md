@@ -16,6 +16,8 @@ faq:
 
 No todas las aromáticas son igual de tolerantes a los errores típicos de un principiante. Estas son las que mejor perdonan riegos irregulares o falta de experiencia.
 
+<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de terracota con romero, orégano y tomillo en la barandilla de un balcón urbano al atardecer" /><figcaption>Romero, orégano y tomillo comparten jardinera: mismas necesidades de sol y poco riego</figcaption></figure>
+
 ## 1. Romero
 
 De las aromáticas más resistentes que existen: tolera bien la sequía ocasional y el sol intenso, y apenas necesita cuidados una vez establecida. Consulta nuestra guía de [cómo cultivar romero en balcón](/articulos/como-cultivar-romero-en-balcon/) para los detalles de cuidado.
