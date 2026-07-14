@@ -18,6 +18,8 @@ El miedo a los malos olores es la principal razón por la que mucha gente descar
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
+
 ## 1. Compostador cerrado de bancada (bokashi)
 
 El sistema bokashi fermenta los restos orgánicos en un cubo hermético usando microorganismos, en lugar de descomponerlos por vía aeróbica tradicional. Al ser un proceso de fermentación en un recipiente cerrado, genera muy poco olor y ocupa un espacio mínimo, ideal para cocinas pequeñas. Consulta nuestra guía de [cómo funciona el bokashi paso a paso](/articulos/como-funciona-compostaje-bokashi/) antes de comprarlo, porque su funcionamiento es bastante distinto al de un compostador tradicional.

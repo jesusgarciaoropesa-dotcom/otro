@@ -18,6 +18,8 @@ Las torres de cultivo vertical son la forma más rápida de multiplicar la super
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical de macetas apilables de terracota con fresas con fruto arriba y lechugas abajo en un balcón" /><figcaption>Torre apilable con fresas en los niveles altos y lechugas en los bajos</figcaption></figure>
+
 ## Qué debe tener una buena torre de cultivo para exterior
 
 - **Resistencia a la intemperie**: plástico resistente a rayos UV o materiales tratados, para que no se degraden con el sol.

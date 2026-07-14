@@ -11,6 +11,8 @@ No todas las plantas se adaptan igual de bien a una estructura de cultivo vertic
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure><img src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical de macetas apilables de terracota con fresas con fruto arriba y lechugas abajo en un balcón" /><figcaption>Torre apilable con fresas en los niveles altos y lechugas en los bajos</figcaption></figure>
+
 ## Aromáticas: la opción más agradecida
 
 Las aromáticas de porte bajo (albahaca, orégano, tomillo, perejil) son de las plantas que mejor rinden en cultivo vertical: raíces poco profundas, buena tolerancia a volúmenes de sustrato reducidos y crecimiento compacto que no compite por espacio con los niveles vecinos.

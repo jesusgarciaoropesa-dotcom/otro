@@ -10,6 +10,8 @@ pilar: true
 
 No hace falta tener jardín ni un gran terreno para compostar: con un compostador compacto y unos hábitos sencillos, puedes convertir tus restos de cocina en abono de calidad para tu huerto urbano.
 
+<figure><img src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
+
 ## Qué necesitas
 
 - Un [compostador compacto para balcón](/articulos/compostador-de-balcon-mejores-opciones/) (de los muchos modelos cerrados que evitan malos olores e insectos)
