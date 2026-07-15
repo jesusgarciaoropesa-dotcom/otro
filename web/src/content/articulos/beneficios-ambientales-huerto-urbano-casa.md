@@ -9,6 +9,8 @@ pubDate: 2026-07-02
 
 Un huerto urbano en un balcón no va a compensar por sí solo la huella ambiental de toda una vivienda, pero sus beneficios acumulados son más significativos de lo que suele pensarse, especialmente si se multiplican por muchos hogares de una misma ciudad.
 
+<figure><img src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón urbano muy frondoso y verde con flores y algún insecto polinizador revoloteando" /><figcaption>Un balcón verde refresca, capta CO2 y da refugio a los polinizadores</figcaption></figure>
+
 ## Reducción de kilómetros de transporte de alimentos
 
 Cada hortaliza o aromática que consumes directamente de tu balcón es una que no ha recorrido cientos o miles de kilómetros desde el lugar de producción hasta el supermercado, con el consumo de combustible y emisiones asociadas a ese transporte.
