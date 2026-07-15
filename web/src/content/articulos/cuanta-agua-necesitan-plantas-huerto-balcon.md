@@ -9,6 +9,8 @@ pubDate: 2026-03-20
 
 No existe una cantidad universal de agua para todas las plantas de un huerto de balcón: depende del tamaño de la maceta, el cultivo, la estación del año y la exposición al sol. Pero sí hay reglas prácticas que funcionan en la mayoría de casos.
 
+<figure><img src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Regadera metálica de cuello largo vertiendo agua sobre el sustrato de una maceta en un balcón" /><figcaption>La cantidad de agua depende de la planta, la maceta y el clima</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## El error más común: regar por calendario en lugar de por necesidad
