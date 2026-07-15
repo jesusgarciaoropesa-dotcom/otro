@@ -9,6 +9,8 @@ pubDate: 2026-05-20
 
 Un <a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">programador de riego solar</a> resuelve un problema muy concreto: automatizar el riego en balcones sin acceso a enchufe cercano y sin depender del cambio frecuente de pilas de los modelos tradicionales.
 
+<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Sistema de riego por goteo instalado en las macetas de un balcón urbano" /><figcaption>Un buen goteo se combina con el programador que mejor se adapte a tu balcón</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo funciona

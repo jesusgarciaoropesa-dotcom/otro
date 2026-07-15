@@ -9,6 +9,8 @@ pubDate: 2026-05-24
 
 Una de las preguntas más habituales al plantearse una estructura de cultivo vertical es si realmente compensa frente a tener las mismas plantas repartidas en macetas individuales sobre el suelo.
 
+<figure><img src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical con fresas y lechugas junto a macetas en el suelo de un balcón" /><figcaption>El vertical multiplica plantas por metro cuadrado de suelo</figcaption></figure>
+
 ## Por qué el cultivo vertical puede producir más por metro cuadrado de suelo
 
 La ventaja principal del cultivo vertical no es que cada planta individual produzca más, sino que permite colocar muchas más plantas en la misma superficie de suelo, aprovechando el espacio en altura que de otra forma quedaría vacío. En un balcón pequeño, esto puede significar duplicar o triplicar el número de plantas cultivadas sin ampliar la superficie disponible.

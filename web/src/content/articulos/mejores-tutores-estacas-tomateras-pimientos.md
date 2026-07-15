@@ -16,6 +16,8 @@ faq:
 
 Casi cualquier tomatera, y muchos pimientos y berenjenas cargados de fruto, necesitan algún tipo de tutor para no doblarse o partirse bajo su propio peso. Estas son las opciones más recomendables según el cultivo y cuánto quieras complicarte.
 
+<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry entutorada con una caña, cargada de fruto, en una maceta en un balcón" /><figcaption>Una caña sujeta bien una tomatera de porte medio cargada de fruto</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## 1. Cañas de bambú clásicas

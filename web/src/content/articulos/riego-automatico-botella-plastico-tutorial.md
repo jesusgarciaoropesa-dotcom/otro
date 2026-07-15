@@ -9,6 +9,8 @@ pubDate: 2026-04-16
 
 Es la solución de riego automático más económica que existe: aprovecha una botella de plástico que normalmente tirarías para dar de beber a tus plantas durante varios días sin intervención manual.
 
+<figure><img src="/images/articulos/botella-riego-lento.jpg" alt="Botella de plástico invertida clavada en el sustrato de una maceta como riego casero de goteo lento" /><figcaption>Una botella invertida libera agua poco a poco durante varios días</figcaption></figure>
+
 ## Qué necesitas
 
 - Una botella de plástico (0,5-2 litros según el tamaño de la maceta).

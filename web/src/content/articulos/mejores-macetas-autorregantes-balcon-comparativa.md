@@ -16,6 +16,8 @@ faq:
 
 Las macetas autorregantes (con depósito de agua incorporado) son una de las mejoras más rentables para un huerto de balcón: reducen drásticamente el riesgo de sequía y facilitan mantener un riego constante, clave para hortalizas como el tomate.
 
+<figure><img src="/images/articulos/maceta-autorregante-indicador.jpg" alt="Maceta autorregante con indicador de nivel de agua y una planta creciendo en un balcón" /><figcaption>El indicador de nivel avisa cuándo toca rellenar el depósito</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo funcionan

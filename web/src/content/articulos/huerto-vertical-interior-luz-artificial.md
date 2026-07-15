@@ -9,6 +9,8 @@ pubDate: 2026-05-27
 
 Cultivar en interior sin depender de una ventana bien orientada es posible gracias a las luces de cultivo LED, que permiten montar un huerto vertical en cualquier habitación de la casa, todo el año, independientemente de la estación.
 
+<figure><img src="/images/articulos/barra-led-cultivo-aromaticas.jpg" alt="Estantería de interior con aromáticas iluminadas por una barra LED de cultivo" /><figcaption>Una barra LED permite cultivar en vertical dentro de casa</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Por qué la luz natural de una ventana no suele ser suficiente

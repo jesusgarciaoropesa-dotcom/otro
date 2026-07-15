@@ -9,6 +9,8 @@ pubDate: 2026-04-28
 
 Cuando tus aromáticas producen más de lo que puedes consumir fresco, secarlas o conservarlas de otra forma permite aprovechar toda la cosecha sin desperdiciar nada, incluso meses después.
 
+<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con romero, orégano y tomillo en la barandilla de un balcón, aromáticas para secar" /><figcaption>Las aromáticas mediterráneas son las que mejor se secan y conservan</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Secado al aire (el método más sencillo)

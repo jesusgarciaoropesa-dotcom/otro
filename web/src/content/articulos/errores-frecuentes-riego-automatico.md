@@ -9,6 +9,8 @@ pubDate: 2026-04-18
 
 Instalar un sistema de riego automático reduce mucho el riesgo de perder plantas por olvido, pero solo si se configura correctamente. Estos son los errores más frecuentes que vemos en huertos urbanos de balcón.
 
+<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Instalación de riego por goteo en las macetas de un balcón, con programador en el grifo" /><figcaption>La mayoría de fallos vienen de la instalación, no del sistema en sí</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## 1. No calibrar el caudal según cada maceta

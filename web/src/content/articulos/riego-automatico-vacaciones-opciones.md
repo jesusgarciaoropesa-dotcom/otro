@@ -9,6 +9,8 @@ pubDate: 2026-03-18
 
 Las vacaciones de verano son la época en la que más plantas se pierden en un huerto urbano por falta de riego. La solución adecuada depende sobre todo de cuántos días vas a estar fuera.
 
+<figure><img src="/images/articulos/botella-riego-lento.jpg" alt="Botella de plástico invertida clavada en el sustrato de una maceta como riego de emergencia para ausencias" /><figcaption>Para ausencias cortas, la botella de riego lento saca del apuro</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Ausencias de 2-4 días

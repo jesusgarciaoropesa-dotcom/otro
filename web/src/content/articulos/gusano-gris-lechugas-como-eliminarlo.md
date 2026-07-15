@@ -9,6 +9,8 @@ pubDate: 2026-07-08
 
 Si una lechuga aparece cortada por la base, tumbada en el suelo con el tallo prácticamente seccionado, y al buscar no encuentras nada sobre la planta, lo más probable es que sea gusano gris, no una oruga de las que se comen la hoja por arriba.
 
+<figure><img src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga sana en una maceta, el tipo de cultivo que ataca el gusano gris" /><figcaption>El gusano gris corta las plántulas de lechuga a ras de suelo</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo identificarlo con seguridad

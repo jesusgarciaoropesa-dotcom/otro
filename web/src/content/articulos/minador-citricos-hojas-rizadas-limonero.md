@@ -9,6 +9,8 @@ pubDate: 2026-07-06
 
 Si tu limonero o mandarino en maceta saca hojas nuevas que se quedan rizadas, onduladas o retorcidas sin llegar a secarse ni caerse, lo más probable es que no sea un problema de riego ni de nutrientes: es una de las plagas más específicas y comunes de los cítricos, el minador de los cítricos.
 
+<figure><img src="/images/articulos/cultivo-limonero-maceta.jpg" alt="Limonero en maceta, el cítrico que suele afectar el minador de los cítricos" /><figcaption>El minador ataca los brotes nuevos de los cítricos como el limonero</figcaption></figure>
+
 ## Qué es exactamente
 
 El minador de los cítricos (*Phyllocnistis citrella*) es una larva diminuta de polilla que, nada más eclosionar, se introduce dentro del tejido de una hoja recién brotada y se alimenta abriendo galerías mientras se desplaza por su interior. Como la hoja todavía está en pleno crecimiento cuando esto ocurre, el daño interno hace que se deforme, se rice y quede ondulada de manera permanente a medida que termina de desarrollarse.
