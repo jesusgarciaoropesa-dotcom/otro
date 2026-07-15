@@ -9,6 +9,8 @@ pubDate: 2026-06-17
 
 No todas las manchas blancas en las hojas tienen la misma causa. Distinguir el patrón exacto es clave para aplicar el tratamiento correcto en lugar de uno genérico que puede no ser efectivo.
 
+<figure><img src="/images/articulos/oidio-manchas-blancas-hoja.jpg" alt="Hoja verde con manchas de un polvo blanco grisáceo de oídio sobre la superficie" /><figcaption>El oídio se ve como un polvo blanco grisáceo sobre la hoja</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Oídio: el causante más común

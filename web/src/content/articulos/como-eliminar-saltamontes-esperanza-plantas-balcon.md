@@ -9,6 +9,8 @@ pubDate: 2026-07-10
 
 Si encuentras un bicho verde con antenas larguísimas y patas traseras de salto sobre una hoja mordida, lo más probable es que lo descartes como una curiosidad sin importancia. El problema es que, cuando hay varios escondidos entre las hojas, pueden ser responsables de defoliaciones importantes en pimientos, berenjenas y kale sin que veas ni una oruga ni un gusano por ningún lado.
 
+<figure><img src="/images/articulos/saltamontes-ninfa-hoja.jpg" alt="Ninfa verde de saltamontes de antenas muy largas posada en el borde de una hoja verde" /><figcaption>La ninfa de esperanza se reconoce por sus antenas larguísimas</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo identificarlos
