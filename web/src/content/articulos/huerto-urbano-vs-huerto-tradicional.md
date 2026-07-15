@@ -16,6 +16,8 @@ faq:
 
 Un huerto urbano en maceta y un huerto tradicional en tierra comparten el objetivo pero funcionan de forma bastante distinta. Conocer las diferencias ayuda a ajustar expectativas si vienes de una experiencia de huerto en tierra o si es tu primera vez cultivando.
 
+<figure><img src="/images/articulos/huerto-urbano-vs-tradicional-comparativa.jpg" alt="Comparación lado a lado de un huerto en macetas en un balcón urbano y un bancal de huerto en tierra" /><figcaption>Dos formas de cultivar: macetas en el balcón o bancal en tierra</figcaption></figure>
+
 ## Espacio y accesibilidad
 
 El huerto tradicional necesita una parcela de tierra, algo que la mayoría de habitantes de ciudad no tiene. El huerto urbano en maceta se adapta a cualquier balcón, terraza o incluso alféizar, lo que lo hace accesible para muchísimas más personas.

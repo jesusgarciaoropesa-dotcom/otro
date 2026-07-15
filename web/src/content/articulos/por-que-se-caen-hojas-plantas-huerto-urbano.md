@@ -9,6 +9,8 @@ pubDate: 2026-03-09
 
 La caída de hojas es uno de los síntomas más comunes —y más inespecíficos— en plantas de maceta. Antes de alarmarte, conviene identificar la causa exacta observando cómo y cuándo se caen.
 
+<figure><img src="/images/articulos/hojas-caidas-planta-maceta.jpg" alt="Planta en maceta con varias hojas amarillas caídas sobre el sustrato y la mesa de un balcón" /><figcaption>La caída de hojas puede ser normal o señal de estrés según el patrón</figcaption></figure>
+
 ## 1. Riego irregular
 
 Es, con diferencia, la causa más frecuente. Tanto el exceso como el defecto de agua provocan que la planta "suelte" hojas para reducir su necesidad de recursos. Revisa la humedad del sustrato antes de descartar otras causas.
