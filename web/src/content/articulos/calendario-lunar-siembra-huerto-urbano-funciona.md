@@ -9,6 +9,8 @@ pubDate: 2026-06-15
 
 El calendario lunar de siembra es una práctica tradicional muy extendida, que propone sembrar, trasplantar o cosechar según la fase lunar. Vale la pena revisar qué hay de cierto detrás de esta creencia tan arraigada.
 
+<figure><img src="/images/articulos/calendario-lunar-siembra.jpg" alt="Libreta de jardinería abierta junto a un sobre de semillas sobre una mesa de balcón al atardecer con la luna al fondo" /><figcaption>Planificar la siembra ayuda; que sea por la luna es otra cuestión</figcaption></figure>
+
 ## En qué se basa el calendario lunar
 
 La idea tradicional sostiene que la luna influye en el movimiento de los fluidos de las plantas de forma similar a como influye en las mareas, y que las distintas fases (luna creciente, llena, menguante, nueva) favorecen distintas actividades: siembra de hojas en creciente, de raíces en menguante, etc.
