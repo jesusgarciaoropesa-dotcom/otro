@@ -9,6 +9,8 @@ pubDate: 2026-07-06
 
 Las hojas rizadas u onduladas son uno de los síntomas que más preocupan sin necesidad, porque casi siempre se confunden con una carencia de nutrientes cuando en realidad la causa más común es mucho más simple y menos grave.
 
+<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry en una maceta en un balcón, planta cuyas hojas pueden rizarse por varias causas" /><figcaption>Las hojas de la tomatera se rizan por causas muy distintas</figcaption></figure>
+
 ## Enrollamiento fisiológico por calor (la causa más habitual, y la menos preocupante)
 
 En pleno verano, con temperaturas altas y sol intenso, es muy normal que las hojas más viejas de la tomatera se enrollen hacia arriba como protección frente al estrés térmico e hídrico. Las hojas siguen verdes, sin manchas ni decoloración, y suele afectar primero a las hojas de la parte baja de la planta. No requiere tratamiento: la planta se recupera sola en cuanto bajan las temperaturas o se regulariza el riego.

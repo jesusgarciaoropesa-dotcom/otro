@@ -9,6 +9,8 @@ pubDate: 2026-06-13
 
 El invierno no tiene por qué ser un parón total del huerto urbano. Con las especies adecuadas y algunas medidas de protección sencillas, es posible mantener cultivo activo incluso en zonas con heladas moderadas.
 
+<figure><img src="/images/articulos/cultivo-acelgas-maceta.jpg" alt="Acelgas de pencas de colores en una maceta en un balcón, cultivo resistente al frío" /><figcaption>Las acelgas aguantan bien el frío y dan cosecha todo el invierno</figcaption></figure>
+
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cultivos que toleran bien el frío

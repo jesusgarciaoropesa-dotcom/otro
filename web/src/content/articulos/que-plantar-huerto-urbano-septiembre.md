@@ -9,6 +9,8 @@ pubDate: 2026-06-11
 
 Septiembre marca la transición del verano al otoño y es el mes clave para arrancar la segunda gran ventana de siembra del año, además de cerrar bien la temporada de los cultivos de verano que todavía siguen produciendo.
 
+<figure><img src="/images/articulos/cultivo-espinacas-maceta.jpg" alt="Espinacas creciendo en una maceta en un balcón, cultivo de otoño" /><figcaption>En septiembre vuelven las espinacas y otras hojas de otoño</figcaption></figure>
+
 ## Siembra de cara al otoño
 
 - **Espinacas**: septiembre es un momento excelente para empezar, con temperaturas ya más suaves que favorecen su desarrollo; consulta [cómo cultivar espinacas en maceta](/articulos/como-cultivar-espinacas-en-maceta/).
