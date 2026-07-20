@@ -28,6 +28,8 @@ No hace falta tener jardín ni un gran terreno para compostar: con un compostado
 
 ## Qué NO debes echar al compost de balcón
 
+*(Tienes la lista ampliada y el porqué de cada cosa en [qué NO echar al compost](/articulos/que-no-echar-al-compost/).)*
+
 - Carne, pescado o restos de comida cocinada con aceite
 - Lácteos
 - Excrementos de mascotas

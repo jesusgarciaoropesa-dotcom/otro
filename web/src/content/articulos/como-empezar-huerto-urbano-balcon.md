@@ -16,6 +16,8 @@ Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimien
 
 ## 1. Evalúa cuánta luz recibe tu balcón
 
+Antes de nada, mide bien la luz: te explicamos cómo en [cómo saber cuántas horas de sol tiene tu balcón](/articulos/cuantas-horas-sol-tiene-tu-balcon/).
+
 Antes de comprar nada, observa tu balcón durante un día completo y anota cuántas horas de sol directo recibe:
 
 - **6 horas o más de sol directo**: puedes cultivar prácticamente cualquier hortaliza (tomates, pimientos, calabacines).
