@@ -1,0 +1,189 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/url';
+import { cultivos, meses } from '../data/calculadora-cultivos';
+
+// Mes actual por defecto (para que el usuario vea resultados al entrar).
+const mesActual = new Date().getMonth() + 1;
+
+const tipoEtiqueta: Record<string, string> = {
+  hortaliza: 'Hortaliza',
+  hoja: 'Hoja',
+  raiz: 'Raíz',
+  aromatica: 'Aromática',
+  fruta: 'Fruta',
+};
+
+// Datos que pasamos al script de cliente, con la URL y la etiqueta ya resueltas.
+const datos = cultivos.map((c) => ({
+  nombre: c.nombre,
+  luz: c.luz,
+  meses: c.meses,
+  nota: c.nota,
+  tipoLabel: tipoEtiqueta[c.tipo],
+  url: withBase(`/articulos/${c.slug}/`),
+}));
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: new URL(withBase('/'), Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name: 'Qué plantar en tu balcón', item: new URL(withBase('/que-plantar-en-tu-balcon/'), Astro.site).toString() },
+  ],
+};
+---
+
+<BaseLayout
+  title="Qué plantar en tu balcón: calculadora"
+  description="Calculadora para saber qué cultivar en tu balcón según las horas de sol que recibe y el mes del año. Te decimos qué plantar ahora y te enlazamos su guía."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
+
+  <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
+    <a href={withBase('/')} class="hover:underline">Inicio</a>
+    <span class="mx-1">/</span>
+    <span class="text-stone-700">Qué plantar en tu balcón</span>
+  </nav>
+
+  <header class="mb-8">
+    <h1 class="font-(--font-display) text-3xl font-semibold text-(--color-hoja-oscuro) sm:text-4xl">
+      ¿Qué puedes plantar en tu balcón?
+    </h1>
+    <p class="mt-3 max-w-2xl text-stone-600">
+      Dinos cuánta luz recibe tu balcón y en qué mes estás, y te decimos qué cultivos puedes
+      plantar ahora mismo. Cada resultado enlaza con su guía completa.
+    </p>
+  </header>
+
+  <div class="grid gap-6 rounded-2xl bg-white p-5 shadow-md ring-1 ring-black/5 sm:grid-cols-2 sm:p-6">
+    <fieldset>
+      <legend class="mb-3 text-sm font-semibold uppercase tracking-wide text-stone-500">
+        ¿Cuánta luz tiene tu balcón?
+      </legend>
+      <div class="flex flex-col gap-2" role="radiogroup" id="luz-group">
+        <button type="button" data-luz="3" class="luz-btn rounded-xl border border-stone-200 px-4 py-3 text-left text-sm transition hover:border-(--color-hoja)" aria-pressed="false">
+          <span class="font-semibold text-stone-900">☀️ Mucho sol</span>
+          <span class="block text-stone-500">6 horas o más de sol directo</span>
+        </button>
+        <button type="button" data-luz="2" class="luz-btn rounded-xl border border-stone-200 px-4 py-3 text-left text-sm transition hover:border-(--color-hoja)" aria-pressed="false">
+          <span class="font-semibold text-stone-900">⛅ Media sombra</span>
+          <span class="block text-stone-500">Sol de media jornada (3-5 h)</span>
+        </button>
+        <button type="button" data-luz="1" class="luz-btn rounded-xl border border-stone-200 px-4 py-3 text-left text-sm transition hover:border-(--color-hoja)" aria-pressed="false">
+          <span class="font-semibold text-stone-900">🌥️ Sombra</span>
+          <span class="block text-stone-500">Poca luz directa (balcón norte)</span>
+        </button>
+      </div>
+      <p class="mt-2 text-xs text-stone-500">
+        ¿No lo sabes? Mira <a href={withBase('/articulos/cuantas-horas-sol-tiene-tu-balcon/')} class="text-(--color-tierra) hover:underline">cómo medir las horas de sol de tu balcón</a>.
+      </p>
+    </fieldset>
+
+    <fieldset>
+      <legend class="mb-3 text-sm font-semibold uppercase tracking-wide text-stone-500">
+        ¿En qué mes estás?
+      </legend>
+      <select id="mes-select" class="w-full rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm">
+        <option value="0">Cualquier mes</option>
+        {meses.map((m, i) => (
+          <option value={i + 1} selected={i + 1 === mesActual}>{m}</option>
+        ))}
+      </select>
+      <p class="mt-2 text-xs text-stone-500">
+        Meses de siembra o plantación para clima mediterráneo; ajusta 2-3 semanas según tu zona.
+      </p>
+    </fieldset>
+  </div>
+
+  <div class="mt-8">
+    <p id="resultado-contador" class="mb-4 text-sm font-semibold text-(--color-hoja-oscuro)"></p>
+    <ul id="resultado-lista" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"></ul>
+    <p id="resultado-vacio" class="hidden rounded-2xl bg-(--color-crema-oscuro) p-6 text-center text-stone-600">
+      Con esa combinación de luz y mes no hay cultivos recomendados. Prueba con otro mes, o consulta
+      nuestro <a href={withBase('/articulos/calendario-siembra-completo-mes-a-mes/')} class="text-(--color-tierra) underline">calendario de siembra completo</a>.
+    </p>
+  </div>
+
+  <div class="mt-10 rounded-2xl border border-(--color-mostaza)/40 bg-white p-5 text-sm text-stone-600 sm:p-6">
+    <p>
+      Esta calculadora es una guía orientativa basada en las horas de sol y la época del año. Para
+      empezar con buen pie, no te pierdas <a href={withBase('/articulos/como-empezar-huerto-urbano-balcon/')} class="font-medium text-(--color-tierra) hover:underline">cómo montar tu primer huerto de balcón</a>
+      y <a href={withBase('/articulos/mejor-sustrato-huerto-urbano-maceta/')} class="font-medium text-(--color-tierra) hover:underline">qué sustrato elegir</a>.
+    </p>
+  </div>
+
+  <script type="application/json" id="datos-cultivos" set:html={JSON.stringify(datos)} />
+  <script is:inline>
+    const datos = JSON.parse(document.getElementById('datos-cultivos').textContent);
+    const lista = document.getElementById('resultado-lista');
+    const contador = document.getElementById('resultado-contador');
+    const vacio = document.getElementById('resultado-vacio');
+    const mesSelect = document.getElementById('mes-select');
+    const luzBtns = Array.from(document.querySelectorAll('.luz-btn'));
+
+    // Estado: luz seleccionada (3 = mucho sol por defecto) y mes.
+    let luz = 3;
+    let mes = parseInt(mesSelect.value, 10);
+
+    function pintarSeleccionLuz() {
+      luzBtns.forEach((b) => {
+        const activo = parseInt(b.dataset.luz, 10) === luz;
+        b.setAttribute('aria-pressed', activo ? 'true' : 'false');
+        b.classList.toggle('border-(--color-hoja)', activo);
+        b.classList.toggle('bg-(--color-crema)', activo);
+        b.classList.toggle('ring-2', activo);
+        b.classList.toggle('ring-(--color-hoja)', activo);
+      });
+    }
+
+    function nivel(luzCultivo) {
+      return { sombra: 1, media: 2, pleno: 3 }[luzCultivo];
+    }
+
+    function render() {
+      // Un balcón con más luz puede con los cultivos que piden esa luz o menos.
+      const filtrados = datos.filter((c) => {
+        const cabeLuz = luz >= nivel(c.luz);
+        const cabeMes = mes === 0 || c.meses.includes(mes);
+        return cabeLuz && cabeMes;
+      });
+
+      lista.innerHTML = '';
+      if (filtrados.length === 0) {
+        vacio.classList.remove('hidden');
+        contador.textContent = '';
+        return;
+      }
+      vacio.classList.add('hidden');
+      contador.textContent = filtrados.length + (filtrados.length === 1 ? ' cultivo recomendado' : ' cultivos recomendados');
+
+      for (const c of filtrados) {
+        const li = document.createElement('li');
+        li.innerHTML =
+          '<a href="' + c.url + '" class="flex h-full flex-col gap-2 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl">' +
+            '<div class="flex items-center justify-between gap-2">' +
+              '<h3 class="font-semibold text-stone-900">' + c.nombre + '</h3>' +
+              '<span class="shrink-0 rounded-full bg-(--color-crema-oscuro) px-2 py-0.5 text-xs text-stone-600">' + (c.tipoLabel || '') + '</span>' +
+            '</div>' +
+            '<p class="text-sm text-stone-600">' + c.nota + '</p>' +
+            '<span class="mt-auto text-sm font-medium text-(--color-tierra)">Ver guía →</span>' +
+          '</a>';
+        lista.appendChild(li);
+      }
+    }
+
+    luzBtns.forEach((b) => b.addEventListener('click', () => {
+      luz = parseInt(b.dataset.luz, 10);
+      pintarSeleccionLuz();
+      render();
+    }));
+    mesSelect.addEventListener('change', () => {
+      mes = parseInt(mesSelect.value, 10);
+      render();
+    });
+
+    pintarSeleccionLuz();
+    render();
+  </script>
+</BaseLayout>

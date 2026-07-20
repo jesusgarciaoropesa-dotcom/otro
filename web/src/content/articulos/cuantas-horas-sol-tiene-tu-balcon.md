@@ -47,4 +47,4 @@ Ese número es tu dato clave. Ojo: en invierno el sol está más bajo y da basta
 
 Si mides y te quedas corto, tienes dos caminos: **elegir cultivos de sombra** (lo más sensato) o, para cultivo de interior, complementar con una [luz LED de cultivo](/articulos/mejores-luces-led-cultivo-interior/). Lo que no funciona es empeñarse en cultivos de sol en un sitio sin él.
 
-Con las horas de sol claras, ya puedes elegir bien qué plantar. El siguiente paso es montarlo: consulta [cómo empezar un huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).
+Con las horas de sol claras, usa nuestra [calculadora de qué plantar en tu balcón](/que-plantar-en-tu-balcon/) para ver al instante qué cultivos te van según tu luz y el mes. Ya puedes elegir bien qué plantar. El siguiente paso es montarlo: consulta [cómo empezar un huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).

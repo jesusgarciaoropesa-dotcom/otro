@@ -8,7 +8,7 @@ pubDate: 2026-04-01
 pilar: true
 ---
 
-Este calendario es una guía general para clima mediterráneo (la mayoría de España). Si tu zona tiene inviernos muy fríos o veranos extremos, ajusta las fechas 2-3 semanas según tu clima local.
+¿Prefieres verlo filtrado para tu caso? Usa nuestra [calculadora de qué plantar en tu balcón](/que-plantar-en-tu-balcon/), que te dice qué sembrar según tu luz y el mes. Este calendario es una guía general para clima mediterráneo (la mayoría de España). Si tu zona tiene inviernos muy fríos o veranos extremos, ajusta las fechas 2-3 semanas según tu clima local.
 
 <figure><img src="/images/articulos/sobres-semillas-kraft.jpg" alt="Cinco sobres de semillas de papel kraft sobre una mesa de madera con montones de semillas distintas delante de cada uno" /><figcaption>Cada especie tiene semillas muy distintas: tamaño y forma condicionan la profundidad de siembra</figcaption></figure>
 
