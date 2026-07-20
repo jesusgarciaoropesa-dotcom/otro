@@ -39,6 +39,8 @@ Frente a variedades de tomate de mata grande, el tomate cherry o cóctel produce
 
 Al igual que las lechugas, permiten cosecha continuada cortando solo las hojas exteriores, con un ciclo de crecimiento muy rápido que maximiza la producción por metro cuadrado de balcón.
 
+Otros cultivos muy agradecidos en poco espacio son los [ajos](/articulos/como-cultivar-ajos-en-maceta/) y las [cebollas](/articulos/como-cultivar-cebollas-en-maceta/), que apenas dan trabajo, y las [judías verdes de mata baja](/articulos/como-cultivar-judias-verdes-en-maceta/), que producen durante semanas.
+
 ## Qué evitar si tu espacio es muy reducido
 
 Calabacines, berenjenas y variedades de tomate de mata grande necesitan bastante superficie y volumen de sustrato para rendir bien; en balcones muy pequeños suelen dar resultados pobres en relación al espacio que ocupan, salvo que optes por variedades enanas específicas.

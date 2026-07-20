@@ -36,7 +36,7 @@ Además de dar frutos (en variedades productivas, ya que también existen orname
 
 ## 6. Frambueso o mora en maceta
 
-Aunque no son árboles, merecen mención: los frutos rojos en variedades compactas son muy productivos en maceta y dan cosecha ya en el primer año.
+Aunque no son árboles, merecen mención: los frutos rojos en variedades compactas son muy productivos en maceta. Te contamos cómo cuidarlos y podarlos en nuestra guía de [cómo cultivar frambuesas y moras en maceta](/articulos/como-cultivar-frambuesas-moras-en-maceta/).
 
 ## Qué tienen en común todos los frutales de maceta
 
