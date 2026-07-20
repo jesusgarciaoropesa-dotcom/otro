@@ -7,7 +7,7 @@ keywords: ["qué plantar en verano en balcón", "cultivos que resisten el calor"
 pubDate: 2026-04-02
 ---
 
-El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo.
+El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo. Si estás ya en pleno agosto, mira nuestra guía específica de [qué plantar en agosto](/articulos/que-plantar-huerto-urbano-agosto/).
 
 <figure><img src="/images/articulos/cultivo-pimiento-maceta.jpg" alt="Planta de pimiento con frutos en una maceta en un balcón, cultivo típico de verano" /><figcaption>El pimiento es uno de los cultivos estrella del verano en balcón</figcaption></figure>
 
@@ -17,7 +17,7 @@ El verano es la época de mayor producción para muchos cultivos de balcón, per
 
 - **Tomates, pimientos y berenjenas**: en pleno desarrollo y producción durante el verano, siempre que el riego sea constante.
 - **Calabacines**: crecimiento muy rápido con temperaturas altas, aunque necesitan bastante volumen de sustrato.
-- **Judías verdes**: toleran bien el calor y son un cultivo agradecido para sembrar directamente a principios de verano.
+- **[Judías verdes](/articulos/como-cultivar-judias-verdes-en-maceta/)**: toleran bien el calor y son un cultivo agradecido para sembrar directamente a principios de verano.
 
 ## Aromáticas mediterráneas: las más resistentes al calor
 

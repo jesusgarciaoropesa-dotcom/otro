@@ -7,7 +7,7 @@ keywords: ["qué plantar en septiembre en balcón", "siembra de septiembre huert
 pubDate: 2026-06-11
 ---
 
-Septiembre marca la transición del verano al otoño y es el mes clave para arrancar la segunda gran ventana de siembra del año, además de cerrar bien la temporada de los cultivos de verano que todavía siguen produciendo.
+Septiembre marca la transición del verano al otoño y es el mes clave para arrancar la segunda gran ventana de siembra del año (si vienes de [qué plantar en agosto](/articulos/que-plantar-huerto-urbano-agosto/), es la continuación natural), además de cerrar bien la temporada de los cultivos de verano que todavía siguen produciendo.
 
 <figure><img src="/images/articulos/cultivo-espinacas-maceta.jpg" alt="Espinacas creciendo en una maceta en un balcón, cultivo de otoño" /><figcaption>En septiembre vuelven las espinacas y otras hojas de otoño</figcaption></figure>
 

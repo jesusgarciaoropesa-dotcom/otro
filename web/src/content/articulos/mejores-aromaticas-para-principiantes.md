@@ -44,4 +44,4 @@ Si solo quieres una aromática para probar antes de ampliar, el romero es la apu
 
 ## Cómo combinarlas en una sola jardinera
 
-Romero, orégano y [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) comparten necesidades de riego bajo y sol intenso, por lo que se pueden cultivar juntos en la misma jardinera sin problema. La albahaca y el perejil, al necesitar más riego, es mejor mantenerlos en macetas separadas para no sobre-regar a las mediterráneas.
+Romero, orégano y [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) comparten necesidades de riego bajo y sol intenso, por lo que se pueden cultivar juntos en la misma jardinera sin problema. En esa misma línea mediterránea encaja también el [laurel en maceta](/articulos/como-cultivar-laurel-en-maceta/). La albahaca y el perejil, al necesitar más riego, es mejor mantenerlos en macetas separadas para no sobre-regar a las mediterráneas.
