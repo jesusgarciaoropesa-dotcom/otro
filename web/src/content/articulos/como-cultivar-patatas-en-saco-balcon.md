@@ -18,6 +18,11 @@ Cultivar patatas parece cosa de huerto en tierra, pero en un saco de cultivo cab
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/patatas-saco-balcon.jpg" alt="Planta de patata creciendo en un saco de cultivo en un balcón, con patatas recién cosechadas al lado" />
+  <figcaption>Un saco de cultivo basta para cosechar tus propias patatas en el balcón.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Un <a href="https://www.amazon.es/s?k=saco+de+cultivo+patatas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">saco de cultivo</a> de tela geotextil de al menos 30-40 litros (los que llevan una solapa lateral para cosechar son muy cómodos).

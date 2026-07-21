@@ -18,6 +18,11 @@ Las judías verdes son un cultivo de verano estupendo para maceta: crecen rápid
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/judias-verdes-maceta.jpg" alt="Judías verdes trepando por una guía en una maceta de balcón" />
+  <figcaption>Con un buen soporte, las judías de enrame no paran de producir.</figcaption>
+</figure>
+
 ## Elige el tipo: mata baja o enrame
 
 - **Mata baja (enana)**: plantas compactas de 40-50 cm que no necesitan tutor. Son las más sencillas para empezar en un balcón y para macetas pequeñas.

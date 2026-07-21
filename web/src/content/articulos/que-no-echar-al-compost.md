@@ -16,6 +16,11 @@ faq:
 
 Hacer compost casero es sencillo, pero la mayoría de problemas (malos olores, moscas, una masa que no se descompone) vienen de echar cosas que no deberían ir. Saber qué **no** compostar es tan importante como saber qué sí.
 
+<figure>
+  <img src="/images/articulos/que-no-echar-compost.jpg" alt="Cubo de compost casero con restos vegetales y, aparte, alimentos que no deben compostarse" />
+  <figcaption>Saber qué no echar al compost evita olores, moscas y roedores.</figcaption>
+</figure>
+
 ## Restos de origen animal: carne, pescado y lácteos
 
 Es el error más típico. Carne, pescado, huesos y lácteos **se pudren generando muy malos olores** y atraen moscas y, en zonas bajas, roedores. En un compostador abierto o un vermicompostador son la causa número uno de problemas.

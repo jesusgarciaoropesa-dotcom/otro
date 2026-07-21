@@ -18,6 +18,11 @@ El ajo es uno de los cultivos más fáciles y agradecidos para empezar en un bal
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/ajos-maceta.jpg" alt="Brotes verdes de ajo saliendo de la tierra en una maceta de balcón" />
+  <figcaption>Los ajos se plantan casi solos: un diente por hueco y a esperar.</figcaption>
+</figure>
+
 ## Qué diente plantar
 
 No se planta la cabeza entera, sino los **dientes sueltos**. Separa una cabeza de ajo y elige los dientes exteriores, que son los más grandes: cuanto mayor sea el diente, mayor será la cabeza que produzca. Usa ajos ecológicos o de siembra; los del supermercado a veces llevan antigerminante y brotan mal.

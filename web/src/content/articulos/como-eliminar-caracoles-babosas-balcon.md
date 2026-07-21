@@ -18,6 +18,11 @@ Caracoles y babosas son de las pocas plagas que atacan de noche y desaparecen de
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/caracoles-babosas-balcon.jpg" alt="Caracol sobre una hoja mordisqueada de una planta en maceta" />
+  <figcaption>El rastro y las hojas mordidas delatan a caracoles y babosas.</figcaption>
+</figure>
+
 ## Cómo confirmar que son ellos
 
 Las señales son inconfundibles:

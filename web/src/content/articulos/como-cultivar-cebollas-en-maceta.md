@@ -18,6 +18,11 @@ La cebolla no es el cultivo más rápido, pero sí uno muy agradecido para macet
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/cebollas-maceta.jpg" alt="Cebollas creciendo en una jardinera en un balcón" />
+  <figcaption>En jardinera y desde bulbito, las cebollas dan pocos problemas.</figcaption>
+</figure>
+
 ## Desde bulbito, más fácil que desde semilla
 
 Hay dos formas de empezar:

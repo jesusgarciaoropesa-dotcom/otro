@@ -18,6 +18,11 @@ Ver hormigas subiendo y bajando por las macetas preocupa, pero rara vez son el p
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/hormigas-macetas-balcon.jpg" alt="Hormigas recorriendo el borde de una maceta de terracota en un balcón" />
+  <figcaption>Las hormigas en la maceta suelen ser el síntoma, no la causa.</figcaption>
+</figure>
+
 ## Las hormigas casi nunca son el verdadero problema
 
 Lo más importante que hay que saber: las hormigas **no suelen comerse tus plantas**. Lo que hacen es **cuidar al pulgón**. El pulgón segrega una sustancia dulce (melaza) de la que se alimentan las hormigas, así que estas lo protegen de sus depredadores e incluso lo trasladan de una planta a otra para "ordeñarlo".

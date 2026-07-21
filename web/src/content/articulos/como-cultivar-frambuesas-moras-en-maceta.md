@@ -18,6 +18,11 @@ Los frutos rojos parecen cosa de huerto grande, pero frambuesas y moras se dan m
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/frambuesas-moras-maceta.jpg" alt="Frambuesas rojas maduras en un arbusto cultivado en maceta" />
+  <figcaption>Frambuesas recién cogidas del balcón: la recompensa de una maceta amplia.</figcaption>
+</figure>
+
 ## La maceta: cuanto más grande, mejor
 
 Frambuesas y moras son **arbustos perennes** de raíces vigorosas, así que necesitan volumen: una <a href="https://www.amazon.es/s?k=maceta+grande+40+litros&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener">maceta de al menos 30-40 litros</a> por planta. En recipientes pequeños producen poco y sufren mucho en verano. Revisa nuestra [guía de macetas para frutales](/articulos/mejor-maceta-frutales-balcon-guia-compra/) si dudas del tamaño.

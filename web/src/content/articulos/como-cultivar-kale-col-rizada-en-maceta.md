@@ -18,6 +18,11 @@ El kale o col rizada se ha puesto de moda por lo saludable que es, pero además 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/kale-col-rizada-maceta.jpg" alt="Planta de kale o col rizada de hojas verdes rizadas en una maceta" />
+  <figcaption>El kale produce hoja durante meses y aguanta el frío como pocos cultivos.</figcaption>
+</figure>
+
 ## Por qué va tan bien en maceta
 
 El kale es una planta robusta que produce **hoja a hoja durante meses** en lugar de darte una única cosecha. Con una o dos plantas tienes hojas frescas para ir cortando de forma continua, lo que lo hace muy rentable en poco espacio.

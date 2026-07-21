@@ -16,6 +16,11 @@ faq:
 
 Es el paso que casi nadie hace y el que más fracasos evita: antes de comprar una sola planta, conviene saber **cuántas horas de sol directo** recibe de verdad tu balcón. De ese dato depende qué puedes cultivar con éxito y qué te va a dar disgustos.
 
+<figure>
+  <img src="/images/articulos/cuantas-horas-sol-balcon.jpg" alt="Sol de tarde entrando de lado en un balcón con macetas y proyectando sombras de la barandilla" />
+  <figcaption>Observar dónde y cuánto tiempo da el sol a lo largo del día te dice las horas reales de tu balcón.</figcaption>
+</figure>
+
 ## Por qué es lo primero que hay que mirar
 
 Puedes acertar con la maceta, el sustrato y el riego, pero si pones un tomate en un balcón con dos horas de sol, no habrá cosecha. La luz es el factor que **no se puede compensar** con cuidados: cada cultivo necesita un mínimo, y forzarlo solo lleva a plantas estiradas, débiles y sin fruto.

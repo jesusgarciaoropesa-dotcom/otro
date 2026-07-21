@@ -18,6 +18,11 @@ El brócoli es un cultivo de otoño-invierno muy agradecido en maceta si le das 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
+<figure>
+  <img src="/images/articulos/brocoli-maceta.jpg" alt="Planta de brócoli con su pella central formada en una maceta de balcón" />
+  <figcaption>Con una maceta grande, una sola planta de brócoli cunde toda la temporada.</figcaption>
+</figure>
+
 ## Una maceta grande y una sola planta
 
 El brócoli se hace grande y necesita volumen: usa una maceta de al menos **25-30 cm de profundidad** y buen diámetro, con **una sola planta** por maceta mediana. En un recipiente pequeño formará una pella raquítica. Rellena con [sustrato de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) rico en materia orgánica.
