@@ -14,7 +14,7 @@ pilar: true
 
 ## Invierno (diciembre-febrero)
 
-Época de menor actividad, pero no de parón total: es el momento de planificar la temporada, revisar y limpiar macetas, y sembrar en interior cultivos de ciclo largo que trasplantarás en primavera. Consulta el detalle en [qué plantar en el huerto urbano en enero](/articulos/que-plantar-huerto-urbano-enero/).
+Época de menor actividad, pero no de parón total: es el momento de planificar la temporada, revisar y limpiar macetas, y sembrar en interior cultivos de ciclo largo que trasplantarás en primavera. Consulta el detalle en [diciembre](/articulos/que-plantar-huerto-urbano-diciembre/), [enero](/articulos/que-plantar-huerto-urbano-enero/) y [febrero](/articulos/que-plantar-huerto-urbano-febrero/).
 
 ## Primavera temprana (marzo)
 
@@ -22,15 +22,15 @@ Arranca la temporada fuerte de siembra: tomates, pimientos y berenjenas se siemb
 
 ## Primavera avanzada (abril-mayo)
 
-Momento de trasplantar a maceta definitiva las plántulas sembradas en marzo, una vez pasado el riesgo de heladas tardías. Es también la mejor época para plantar aromáticas y fresas.
+Momento de trasplantar a maceta definitiva las plántulas sembradas en marzo, una vez pasado el riesgo de heladas tardías. Es también la mejor época para plantar aromáticas y fresas. Mira el detalle en [abril](/articulos/que-plantar-huerto-urbano-abril/) y [mayo](/articulos/que-plantar-huerto-urbano-mayo/).
 
 ## Verano (junio-agosto)
 
-Época de mantenimiento intensivo: el riego se vuelve la tarea más crítica del huerto y conviene tener resuelto un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) antes de que lleguen las temperaturas más altas, especialmente si te vas de vacaciones.
+Época de mantenimiento intensivo: el riego se vuelve la tarea más crítica del huerto y conviene tener resuelto un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) antes de que lleguen las temperaturas más altas, especialmente si te vas de vacaciones. Detalle mes a mes en [junio](/articulos/que-plantar-huerto-urbano-junio/), [julio](/articulos/que-plantar-huerto-urbano-julio/) y [agosto](/articulos/que-plantar-huerto-urbano-agosto/).
 
 ## Otoño (septiembre-noviembre)
 
-Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rabanitos y habas se siembran ahora para cosechar durante el otoño e invierno. Es también buen momento para renovar el sustrato agotado tras la temporada de verano.
+Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rabanitos y habas se siembran ahora para cosechar durante el otoño e invierno. Es también buen momento para renovar el sustrato agotado tras la temporada de verano. Detalle en [septiembre](/articulos/que-plantar-huerto-urbano-septiembre/), [octubre](/articulos/que-plantar-huerto-urbano-octubre/) y [noviembre](/articulos/que-plantar-huerto-urbano-noviembre/).
 
 ## Reglas generales que valen para cualquier mes
 
