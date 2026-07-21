@@ -16,6 +16,11 @@ faq:
 
 La remolacha es un cultivo doblemente agradecido: te da una **raíz dulce** y unas **hojas comestibles** deliciosas, todo en la misma planta. Crece bien en maceta, no necesita mucho espacio y es bastante resistente, ideal para el balcón.
 
+<figure>
+  <img src="/images/articulos/remolacha-maceta.jpg" alt="Remolachas creciendo en una jardinera de balcón, con las raíces rojas asomando y sus hojas verdes" />
+  <figcaption>La remolacha te da raíz dulce y hojas comestibles en la misma planta.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Una <a href="https://www.amazon.es/s?k=jardinera+honda+cultivo&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">maceta o jardinera honda</a> de al menos 20-25 cm de profundidad.

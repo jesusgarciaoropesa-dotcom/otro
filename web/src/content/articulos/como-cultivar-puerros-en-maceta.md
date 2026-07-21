@@ -16,6 +16,11 @@ faq:
 
 El puerro es un cultivo tranquilo y agradecido: ocupa poco de ancho, resiste el frío y aguanta en la maceta hasta que lo necesitas. Requiere paciencia (es lento), pero el truco del aporcado para conseguir ese fuste blanco y tierno merece mucho la pena.
 
+<figure>
+  <img src="/images/articulos/puerros-maceta.jpg" alt="Puerros creciendo en fila en una jardinera honda en un balcón, con el tallo blanco y las hojas verdes" />
+  <figcaption>Aporcando el tallo se consigue el fuste blanco y tierno del puerro.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Una <a href="https://www.amazon.es/s?k=maceta+honda+jardinera+profunda&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">maceta o jardinera honda</a> de al menos 25-30 cm de profundidad.

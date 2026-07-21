@@ -16,6 +16,11 @@ faq:
 
 Una parra en la terraza no solo da uvas: crea una **sombra natural** preciosa en verano y es de los frutales más longevos que puedes tener en maceta. Requiere una maceta grande, un buen soporte y una poda anual, pero a cambio te acompaña durante años.
 
+<figure>
+  <img src="/images/articulos/uva-parra-maceta.jpg" alt="Parra de uva trepando por un enrejado desde una maceta grande en una terraza, con racimos colgando" />
+  <figcaption>Una parra en maceta da racimos y una sombra natural preciosa en la terraza.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Una <a href="https://www.amazon.es/s?k=maceta+50+litros+grande&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener">maceta grande</a> de al menos 40-50 litros.

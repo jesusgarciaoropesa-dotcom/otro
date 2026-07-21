@@ -16,6 +16,11 @@ faq:
 
 Las guindillas y chiles picantes son uno de los cultivos más divertidos y decorativos para el balcón: una sola planta compacta produce decenas de frutos vistosos, y controlas tú el nivel de picante. Sus cuidados son casi idénticos a los del pimiento.
 
+<figure>
+  <img src="/images/articulos/guindillas-chiles-maceta.jpg" alt="Planta de guindillas y chiles picantes cargada de frutos rojos y verdes en una maceta soleada" />
+  <figcaption>Una sola planta de guindillas produce decenas de frutos y es muy decorativa.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Una <a href="https://www.amazon.es/s?k=maceta+12+litros+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">maceta</a> de 10-15 litros por planta.

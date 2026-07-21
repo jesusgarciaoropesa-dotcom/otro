@@ -16,6 +16,11 @@ faq:
 
 La coliflor tiene fama de cultivo de huerto grande, pero con una maceta amplia y clima fresco se da muy bien en un balcón. Eso sí, es algo exigente: quiere espacio, agua constante y nutrientes. A cambio, cosechar tu propia pella en pleno invierno es todo un premio.
 
+<figure>
+  <img src="/images/articulos/coliflor-maceta.jpg" alt="Planta de coliflor con su pella blanca central creciendo en una maceta grande en un balcón" />
+  <figcaption>Con una maceta grande y clima fresco, la coliflor forma su pella también en el balcón.</figcaption>
+</figure>
+
 ## Qué necesitas
 
 - Una <a href="https://www.amazon.es/s?k=maceta+30+litros+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">maceta grande</a> de al menos 25-30 litros y 30 cm de profundidad, **una sola planta por maceta**.
