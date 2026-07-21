@@ -40,8 +40,12 @@ export const cultivos: Cultivo[] = [
   { nombre: 'Ajos', slug: 'como-cultivar-ajos-en-maceta', luz: 'pleno', tipo: 'raiz', meses: [10, 11, 12], nota: 'Se plantan los dientes en otoño.' },
   { nombre: 'Cebollas', slug: 'como-cultivar-cebollas-en-maceta', luz: 'pleno', tipo: 'raiz', meses: [1, 2, 3], nota: 'Más fácil desde bulbito que desde semilla.' },
   { nombre: 'Patatas en saco', slug: 'como-cultivar-patatas-en-saco-balcon', luz: 'pleno', tipo: 'raiz', meses: [2, 3, 4], nota: 'En saco de cultivo, aporcando a medida que crece.' },
+  { nombre: 'Remolacha', slug: 'como-cultivar-remolacha-en-maceta', luz: 'media', tipo: 'raiz', meses: [3, 4, 5, 8, 9, 10], nota: 'Aclara las plántulas; sus hojas también se comen.' },
   { nombre: 'Guisantes', slug: 'como-cultivar-guisantes-en-maceta', luz: 'media', tipo: 'hortaliza', meses: [1, 2, 10, 11], nota: 'Cultivo de clima fresco, trepa por una caña.' },
   { nombre: 'Brócoli', slug: 'como-cultivar-brocoli-en-maceta', luz: 'media', tipo: 'hortaliza', meses: [2, 8, 9], nota: 'De otoño-invierno; da rebrotes tras la pella.' },
+  { nombre: 'Coliflor', slug: 'como-cultivar-coliflor-en-maceta', luz: 'media', tipo: 'hortaliza', meses: [7, 8, 9], nota: 'De otoño-invierno; quiere maceta grande y riego constante.' },
+  { nombre: 'Puerros', slug: 'como-cultivar-puerros-en-maceta', luz: 'pleno', tipo: 'hortaliza', meses: [2, 3, 4], nota: 'Ciclo largo; aporca el tallo para el fuste blanco.' },
+  { nombre: 'Guindillas y chiles', slug: 'como-cultivar-guindillas-chiles-en-maceta', luz: 'pleno', tipo: 'hortaliza', meses: [2, 3, 4], nota: 'De semillero a principios de año, a pleno sol y calor.' },
 
   // Aromáticas
   { nombre: 'Albahaca', slug: 'como-cultivar-albahaca-en-maceta', luz: 'pleno', tipo: 'aromatica', meses: [4, 5, 6], nota: 'De calor; pinza las flores para que siga dando hoja.' },
@@ -53,6 +57,7 @@ export const cultivos: Cultivo[] = [
   { nombre: 'Tomillo', slug: 'como-cultivar-tomillo-en-maceta', luz: 'pleno', tipo: 'aromatica', meses: [4, 5], nota: 'Mediterránea, resiste sol y sequía.' },
   { nombre: 'Orégano', slug: 'como-cultivar-oregano-en-maceta', luz: 'pleno', tipo: 'aromatica', meses: [4, 5], nota: 'Muy resistente; se seca fácil para conservar.' },
   { nombre: 'Laurel', slug: 'como-cultivar-laurel-en-maceta', luz: 'media', tipo: 'aromatica', meses: [3, 4], nota: 'Arbusto longevo y de muy bajo mantenimiento.' },
+  { nombre: 'Salvia', slug: 'como-cultivar-salvia-en-maceta', luz: 'pleno', tipo: 'aromatica', meses: [4, 5], nota: 'Mediterránea de sol y poca agua; pódala en primavera.' },
 
   // Frutas
   { nombre: 'Fresas', slug: 'como-cultivar-fresas-en-balcon', luz: 'media', tipo: 'fruta', meses: [2, 3, 9, 10], nota: 'Perfectas para cultivo vertical.' },
@@ -60,6 +65,7 @@ export const cultivos: Cultivo[] = [
   { nombre: 'Arándanos', slug: 'como-cultivar-arandanos-en-maceta', luz: 'media', tipo: 'fruta', meses: [11, 12, 1, 2], nota: 'Necesita sustrato ácido y agua sin cal.' },
   { nombre: 'Limonero enano', slug: 'como-cultivar-limonero-en-maceta', luz: 'pleno', tipo: 'fruta', meses: [3, 4, 5], nota: 'Frutal de maceta que sí da fruto en balcón.' },
   { nombre: 'Naranjo enano', slug: 'como-cultivar-naranjo-enano-en-maceta', luz: 'pleno', tipo: 'fruta', meses: [3, 4, 5], nota: 'Cítrico compacto para terraza soleada.' },
+  { nombre: 'Uva (parra)', slug: 'como-cultivar-uva-parra-en-maceta', luz: 'pleno', tipo: 'fruta', meses: [11, 12, 1, 2], nota: 'Se planta en reposo; da sombra y racimos en terraza soleada.' },
 ];
 
 export const meses = [
