@@ -16,7 +16,7 @@ faq:
 
 Si tus hojas amanecen con un aspecto **plateado y salpicado de puntitos negros**, probablemente tengas trips: una plaga diminuta pero molesta que conviene atajar pronto, sobre todo por los virus que puede transmitir.
 
-<figure><img src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa cromática pegajosa junto a una tomatera para capturar trips y otros insectos" /><figcaption>Las trampas cromáticas ayudan a detectar y reducir la población de trips</figcaption></figure>
+<figure><img src="/images/articulos/trips-hoja.jpg" alt="Hoja con manchas plateadas y puntitos negros diminutos, daño característico de los trips" /><figcaption>Los trips dejan las hojas plateadas y salpicadas de puntitos negros.</figcaption></figure>
 
 ## Cómo reconocer los trips
 

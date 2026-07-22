@@ -16,7 +16,7 @@ faq:
 
 Es frustrante: la planta cuaja, aparecen frutitos prometedores y, cuando esperas verlos engordar, **amarillean y se caen** todavía pequeños. Es el llamado aborto de frutos, y casi siempre responde a un estrés que la planta no ha podido sostener.
 
-<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry en maceta con frutos pequeños que pueden caerse si la planta sufre estrés" /><figcaption>La planta 'suelta' los frutos pequeños cuando no puede sostenerlos por estrés</figcaption></figure>
+<figure><img src="/images/articulos/frutos-tomate-caidos.jpg" alt="Tomatera con pequeños frutos verdes amarilleando y alguno caído en la tierra" /><figcaption>La planta suelta los frutos pequeños cuando no puede sostenerlos por estrés.</figcaption></figure>
 
 ## Por qué la planta "suelta" sus frutos
 

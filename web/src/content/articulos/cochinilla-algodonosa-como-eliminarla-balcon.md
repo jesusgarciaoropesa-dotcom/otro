@@ -16,7 +16,7 @@ faq:
 
 Ves unos puntos blancos, como motitas de algodón, en los tallos o el envés de las hojas. Es **cochinilla algodonosa**, una de las plagas más pesadas pero también de las más controlables si actúas pronto y con constancia.
 
-<figure><img src="/images/articulos/cultivo-limonero-maceta.jpg" alt="Limonero en maceta, planta típica donde aparece la cochinilla algodonosa" /><figcaption>Los cítricos en maceta son uno de los objetivos favoritos de la cochinilla</figcaption></figure>
+<figure><img src="/images/articulos/cochinilla-algodonosa.jpg" alt="Cochinilla algodonosa: motas blancas algodonosas en el tallo y el envés de las hojas de una planta en maceta" /><figcaption>La cochinilla se protege con una capa cerosa blanca de aspecto algodonoso.</figcaption></figure>
 
 ## Cómo identificarla
 

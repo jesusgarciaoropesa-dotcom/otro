@@ -16,7 +16,7 @@ faq:
 
 Tu tomatera está preciosa, llena de flores amarillas… pero pasan los días y esas flores se secan y caen sin dejar ni rastro de tomate. Es una de las frustraciones más comunes en el balcón, y casi siempre tiene que ver con la temperatura o la polinización.
 
-<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry en flor en una maceta de balcón, flores que deben cuajar en fruto" /><figcaption>Que caigan unas pocas flores es normal; si caen casi todas, hay una causa que corregir</figcaption></figure>
+<figure><img src="/images/articulos/flores-tomate.jpg" alt="Ramillete de flores amarillas de tomatera en una maceta de balcón" /><figcaption>Que caigan unas pocas flores es normal; si caen casi todas, hay una causa que corregir.</figcaption></figure>
 
 ## Causa nº 1: el calor (o el frío) extremo
 
