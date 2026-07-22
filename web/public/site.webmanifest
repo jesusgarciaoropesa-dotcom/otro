@@ -1,0 +1,14 @@
+{
+  "name": "MiHuertoUrbano",
+  "short_name": "MiHuertoUrbano",
+  "description": "Guías prácticas para cultivar en balcón o terraza: qué plantar cada mes, riego, plagas y compost.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf3e6",
+  "theme_color": "#24401f",
+  "lang": "es",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
