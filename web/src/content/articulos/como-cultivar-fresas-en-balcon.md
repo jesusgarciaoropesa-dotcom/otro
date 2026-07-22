@@ -9,7 +9,7 @@ pubDate: 2026-03-23
 
 Las fresas son uno de los cultivos más satisfactorios para un huerto de balcón: ocupan poco espacio, dan fruto varias veces en la temporada y se adaptan muy bien a estructuras colgantes o verticales.
 
-<figure><img src="/images/articulos/cultivo-fresas-balcon.jpg" alt="Planta de fresas con frutos rojos colgando y flores blancas en una maceta de terracota en un balcón" /><figcaption>Fresas con fruto colgando del borde de la maceta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-fresas-balcon.jpg" alt="Planta de fresas con frutos rojos colgando y flores blancas en una maceta de terracota en un balcón" /><figcaption>Fresas con fruto colgando del borde de la maceta</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -17,7 +17,7 @@ faq:
 La salvia es una de esas aromáticas que, una vez la tienes, no falta en la cocina: perfecta para carnes, pasta y salsas. Es mediterránea, resistente y de muy bajo mantenimiento, ideal para un balcón soleado donde apenas te dará trabajo.
 
 <figure>
-  <img src="/images/articulos/salvia-maceta.jpg" alt="Planta de salvia con hojas verde grisáceo en una maceta de terracota en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/salvia-maceta.jpg" alt="Planta de salvia con hojas verde grisáceo en una maceta de terracota en un balcón" />
   <figcaption>La salvia es una aromática mediterránea de sol pleno y muy bajo mantenimiento.</figcaption>
 </figure>
 

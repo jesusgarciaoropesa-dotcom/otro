@@ -16,7 +16,7 @@ faq:
 
 Los sacos de cultivo o *grow bags* son una de las mejores opciones para el balcón: airean las raíces, drenan de maravilla, pesan poco y se pliegan para guardarlos. Estas son las variantes más útiles según lo que quieras cultivar.
 
-<figure><img src="/images/articulos/patatas-saco-balcon.jpg" alt="Saco de cultivo de tela con plantas de patata en un balcón" /><figcaption>Los sacos de tela airean las raíces y drenan mejor que una maceta cerrada</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/patatas-saco-balcon.jpg" alt="Saco de cultivo de tela con plantas de patata en un balcón" /><figcaption>Los sacos de tela airean las raíces y drenan mejor que una maceta cerrada</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -16,7 +16,7 @@ faq:
 
 Encuentras una planta caída, con las hojas mustias o casi seca, y das por hecho que la has perdido. **Espera**: muchas plantas parecen muertas cuando solo están estresadas. Con el diagnóstico correcto, se recuperan más veces de las que crees.
 
-<figure><img src="/images/articulos/planta-seca-vs-sana.jpg" alt="Comparación entre una planta seca y marchita y otra sana en maceta" /><figcaption>Antes de tirarla: comprueba si el tallo sigue verde por dentro, señal de que vive</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/planta-seca-vs-sana.jpg" alt="Comparación entre una planta seca y marchita y otra sana en maceta" /><figcaption>Antes de tirarla: comprueba si el tallo sigue verde por dentro, señal de que vive</figcaption></figure>
 
 ## Primero: ¿está viva?
 

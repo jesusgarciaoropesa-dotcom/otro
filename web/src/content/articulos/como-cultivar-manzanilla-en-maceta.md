@@ -17,7 +17,7 @@ faq:
 Cultivar tu propia manzanilla es de lo más satisfactorio: de unas florecillas blancas en el balcón a una infusión casera para la noche. Es una planta rústica, resistente, que apenas da trabajo y además llena el balcón de abejas y mariposas.
 
 <figure>
-  <img src="/images/articulos/manzanilla-maceta.jpg" alt="Plantas de manzanilla en flor con sus flores blancas de centro amarillo en una maceta en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/manzanilla-maceta.jpg" alt="Plantas de manzanilla en flor con sus flores blancas de centro amarillo en una maceta en un balcón" />
   <figcaption>De las flores de manzanilla del balcón a tu propia infusión casera.</figcaption>
 </figure>
 

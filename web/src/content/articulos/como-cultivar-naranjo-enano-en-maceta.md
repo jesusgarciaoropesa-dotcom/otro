@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 El naranjo enano es, junto con el limonero, el frutal más popular para maceta en un balcón. Los cuidados son muy parecidos entre ambos, con algunas diferencias importantes: el naranjo es algo más sensible al frío y sus frutos tardan más en madurar.
 
-<figure><img src="/images/articulos/cultivo-naranjo-enano-maceta.jpg" alt="Naranjo enano con naranjas maduras y flores de azahar en una maceta grande de terracota en una terraza" /><figcaption>Naranjo enano en maceta, con fruta y azahar a la vez</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-naranjo-enano-maceta.jpg" alt="Naranjo enano con naranjas maduras y flores de azahar en una maceta grande de terracota en una terraza" /><figcaption>Naranjo enano en maceta, con fruta y azahar a la vez</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

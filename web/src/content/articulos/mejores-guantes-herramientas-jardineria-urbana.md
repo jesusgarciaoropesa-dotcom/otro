@@ -18,7 +18,7 @@ No hace falta un arsenal de herramientas de jardinería profesional para mantene
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/herramientas-basicas-jardineria.jpg" alt="Guantes de jardinería verdes, pala y rastrillo de mano de acero inoxidable y tijeras de podar sobre una mesa de madera envejecida" /><figcaption>El equipo básico: guantes, pala y rastrillo de mano, y tijeras de podar</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/herramientas-basicas-jardineria.jpg" alt="Guantes de jardinería verdes, pala y rastrillo de mano de acero inoxidable y tijeras de podar sobre una mesa de madera envejecida" /><figcaption>El equipo básico: guantes, pala y rastrillo de mano, y tijeras de podar</figcaption></figure>
 
 ## 1. Guantes de jardinería con refuerzo en las palmas
 

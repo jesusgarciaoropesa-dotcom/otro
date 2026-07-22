@@ -9,7 +9,7 @@ pubDate: 2026-06-08
 
 Uno de los aspectos que más suele sorprender a quien empieza con frutales de maceta es la paciencia que requieren: a diferencia de una hortaliza anual, un frutal necesita varios años antes de dar una producción significativa.
 
-<figure><img src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>La paciencia es parte del cultivo: la mayoría de frutales tarda 2-4 años en producir bien</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>La paciencia es parte del cultivo: la mayoría de frutales tarda 2-4 años en producir bien</figcaption></figure>
 
 ## Tiempos orientativos según el tipo de frutal
 

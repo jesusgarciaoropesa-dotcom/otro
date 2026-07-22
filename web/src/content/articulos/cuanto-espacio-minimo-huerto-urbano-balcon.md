@@ -9,7 +9,7 @@ pubDate: 2026-02-17
 
 Uno de los mitos más extendidos sobre el huerto urbano es que hace falta mucho espacio para que merezca la pena. En realidad, con menos de un metro cuadrado ya se puede tener una producción constante de aromáticas y hortalizas de hoja.
 
-<figure><img src="/images/articulos/cultivo-rabanitos-maceta.jpg" alt="Rabanitos creciendo en una maceta pequeña en un balcón, cultivo ideal para poco espacio" /><figcaption>Rabanitos y hojas: mucha cosecha en muy poco espacio</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-rabanitos-maceta.jpg" alt="Rabanitos creciendo en una maceta pequeña en un balcón, cultivo ideal para poco espacio" /><figcaption>Rabanitos y hojas: mucha cosecha en muy poco espacio</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

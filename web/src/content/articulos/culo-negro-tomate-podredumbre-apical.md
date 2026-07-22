@@ -16,7 +16,7 @@ faq:
 
 Ves un tomate que promete y, al girarlo, te encuentras una mancha oscura, hundida y correosa en la base. Es el temido **culo negro**, y la buena noticia es que casi siempre tiene fácil solución, porque no es ni un hongo ni una plaga.
 
-<figure><img src="/images/articulos/culo-negro-tomate.jpg" alt="Tomate en la mata con una mancha marrón oscura, seca y hundida en la base, síntoma del culo negro (podredumbre apical)" /><figcaption>El culo negro se reconoce por la mancha seca y hundida en la base del tomate.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/culo-negro-tomate.jpg" alt="Tomate en la mata con una mancha marrón oscura, seca y hundida en la base, síntoma del culo negro (podredumbre apical)" /><figcaption>El culo negro se reconoce por la mancha seca y hundida en la base del tomate.</figcaption></figure>
 
 ## Qué es exactamente (y qué no es)
 

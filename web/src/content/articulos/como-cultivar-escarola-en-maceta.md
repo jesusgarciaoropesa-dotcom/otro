@@ -17,7 +17,7 @@ faq:
 La escarola es una de las mejores hojas para el otoño e invierno del balcón: resistente, productiva y con ese punto amargo que va tan bien en ensalada. Y con el truco del blanqueado puedes suavizarla hasta dejarla tierna y dulce.
 
 <figure>
-  <img src="/images/articulos/escarola-maceta.jpg" alt="Escarola de hojas rizadas creciendo en una maceta ancha en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/escarola-maceta.jpg" alt="Escarola de hojas rizadas creciendo en una maceta ancha en un balcón" />
   <figcaption>La escarola es un cultivo de otoño-invierno; blanquear el centro le quita amargor.</figcaption>
 </figure>
 

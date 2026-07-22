@@ -9,7 +9,7 @@ pubDate: 2026-04-19
 
 Un palet de madera reciclado es una de las formas más económicas de montar un huerto vertical, aprovechando un material que muchas veces se puede conseguir gratis o a muy bajo coste.
 
-<figure><img src="/images/articulos/huerto-vertical-palets.jpg" alt="Palet de madera reciclado apoyado en vertical contra la pared de un balcón con macetas y aromáticas en sus huecos" /><figcaption>Un palet reciclado convertido en jardín vertical de aromáticas</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/huerto-vertical-palets.jpg" alt="Palet de madera reciclado apoyado en vertical contra la pared de un balcón con macetas y aromáticas en sus huecos" /><figcaption>Un palet reciclado convertido en jardín vertical de aromáticas</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

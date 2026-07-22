@@ -16,7 +16,7 @@ faq:
 
 Una ola de calor puede echar a perder en pocos días un huerto de balcón que iba perfecto. El sol directo sobre las macetas, que se calientan más que el suelo, es implacable. Con unas cuantas medidas sencillas, tus plantas aguantan el verano sin sufrir.
 
-<figure><img src="/images/articulos/balcon-orientado-sur.jpg" alt="Balcón muy soleado en verano, donde las plantas necesitan protección frente al calor extremo" /><figcaption>En un balcón muy soleado, algo de sombra en las horas centrales evita que las plantas se quemen</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-orientado-sur.jpg" alt="Balcón muy soleado en verano, donde las plantas necesitan protección frente al calor extremo" /><figcaption>En un balcón muy soleado, algo de sombra en las horas centrales evita que las plantas se quemen</figcaption></figure>
 
 ## Da sombra en las horas centrales
 

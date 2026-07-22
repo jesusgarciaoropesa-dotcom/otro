@@ -17,7 +17,7 @@ faq:
 Hacer compost casero es sencillo, pero la mayoría de problemas (malos olores, moscas, una masa que no se descompone) vienen de echar cosas que no deberían ir. Saber qué **no** compostar es tan importante como saber qué sí.
 
 <figure>
-  <img src="/images/articulos/que-no-echar-compost.jpg" alt="Cubo de compost casero con restos vegetales y, aparte, alimentos que no deben compostarse" />
+  <img width="1200" height="670" src="/images/articulos/que-no-echar-compost.jpg" alt="Cubo de compost casero con restos vegetales y, aparte, alimentos que no deben compostarse" />
   <figcaption>Saber qué no echar al compost evita olores, moscas y roedores.</figcaption>
 </figure>
 

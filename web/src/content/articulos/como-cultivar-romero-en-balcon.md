@@ -9,7 +9,7 @@ pubDate: 2026-03-02
 
 El romero es una de las aromáticas más agradecidas para un balcón: resiste bien la sequía puntual, apenas tiene plagas y, una vez establecido, requiere muy poco mantenimiento.
 
-<figure><img src="/images/articulos/cultivo-romero-balcon.jpg" alt="Mata compacta de romero en una maceta de terracota en un balcón urbano soleado" /><figcaption>Romero en maceta: casi imposible de matar, tolera sol y sequía</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-romero-balcon.jpg" alt="Mata compacta de romero en una maceta de terracota en un balcón urbano soleado" /><figcaption>Romero en maceta: casi imposible de matar, tolera sol y sequía</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

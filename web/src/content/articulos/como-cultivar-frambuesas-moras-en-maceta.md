@@ -19,7 +19,7 @@ Los frutos rojos parecen cosa de huerto grande, pero frambuesas y moras se dan m
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 <figure>
-  <img src="/images/articulos/frambuesas-moras-maceta.jpg" alt="Frambuesas rojas maduras en un arbusto cultivado en maceta" />
+  <img width="1200" height="670" src="/images/articulos/frambuesas-moras-maceta.jpg" alt="Frambuesas rojas maduras en un arbusto cultivado en maceta" />
   <figcaption>Frambuesas recién cogidas del balcón: la recompensa de una maceta amplia.</figcaption>
 </figure>
 

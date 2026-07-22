@@ -19,7 +19,7 @@ El kale o col rizada se ha puesto de moda por lo saludable que es, pero además 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 <figure>
-  <img src="/images/articulos/kale-col-rizada-maceta.jpg" alt="Planta de kale o col rizada de hojas verdes rizadas en una maceta" />
+  <img width="1200" height="670" src="/images/articulos/kale-col-rizada-maceta.jpg" alt="Planta de kale o col rizada de hojas verdes rizadas en una maceta" />
   <figcaption>El kale produce hoja durante meses y aguanta el frío como pocos cultivos.</figcaption>
 </figure>
 

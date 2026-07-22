@@ -9,7 +9,7 @@ pubDate: 2026-04-02
 
 El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo. Si estás ya en pleno agosto, mira nuestra guía específica de [qué plantar en agosto](/articulos/que-plantar-huerto-urbano-agosto/).
 
-<figure><img src="/images/articulos/cultivo-pimiento-maceta.jpg" alt="Planta de pimiento con frutos en una maceta en un balcón, cultivo típico de verano" /><figcaption>El pimiento es uno de los cultivos estrella del verano en balcón</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-pimiento-maceta.jpg" alt="Planta de pimiento con frutos en una maceta en un balcón, cultivo típico de verano" /><figcaption>El pimiento es uno de los cultivos estrella del verano en balcón</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

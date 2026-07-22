@@ -17,7 +17,7 @@ faq:
 Germinar un aguacate desde el hueso es uno de los proyectos de jardinería más populares, y con razón: es fácil, gratis y la planta que sale es preciosa. Ahora bien, conviene tener claras las expectativas desde el principio.
 
 <figure>
-  <img src="/images/articulos/aguacate-desde-hueso.jpg" alt="Hueso de aguacate germinado con raíces y un tallo con hojas en un frasco de agua" />
+  <img width="1200" height="670" src="/images/articulos/aguacate-desde-hueso.jpg" alt="Hueso de aguacate germinado con raíces y un tallo con hojas en un frasco de agua" />
   <figcaption>El hueso germinado en agua: bonito de ver, aunque rara vez dará fruto en balcón.</figcaption>
 </figure>
 

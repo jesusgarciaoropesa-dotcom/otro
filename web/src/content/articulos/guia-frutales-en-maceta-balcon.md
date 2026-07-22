@@ -17,7 +17,7 @@ faq:
 
 Tener frutales en el balcón parece cosa de jardín, pero con las variedades adecuadas y una buena maceta es totalmente posible, y muy gratificante. Esta guía reúne qué frutales van bien en maceta, cuáles dan fruto de verdad y cómo cuidarlos, con enlace a la ficha de cada uno.
 
-<figure><img src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano en maceta cargado de fruta en una terraza" /><figcaption>Con variedades enanas y una maceta grande, muchos frutales dan cosecha en el balcón</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano en maceta cargado de fruta en una terraza" /><figcaption>Con variedades enanas y una maceta grande, muchos frutales dan cosecha en el balcón</figcaption></figure>
 
 ## La regla de oro: variedad enana + maceta grande + sol
 

@@ -18,7 +18,7 @@ Elegir un buen sustrato es una de las decisiones que más impacto tiene en el é
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Manos con guantes de jardinería mezclando sustrato oscuro con perlita blanca en un barreño, junto a un saco de sustrato abierto" /><figcaption>Mezclar el sustrato con perlita mejora la aireación y el drenaje en maceta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Manos con guantes de jardinería mezclando sustrato oscuro con perlita blanca en un barreño, junto a un saco de sustrato abierto" /><figcaption>Mezclar el sustrato con perlita mejora la aireación y el drenaje en maceta</figcaption></figure>
 
 ## Por qué no sirve la tierra de jardín
 

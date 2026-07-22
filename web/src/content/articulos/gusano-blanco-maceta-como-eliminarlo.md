@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 Si al remover el sustrato de una maceta te encuentras larvas blanquecinas en forma de "C", con la cabeza de color marrón y unas patitas cerca de la cabeza, lo más probable es que sea gusano blanco, la larva de un escarabajo tipo melolonta o abejorro de mayo.
 
-<figure><img src="/images/articulos/gusano-blanco-larva-sustrato.jpg" alt="Larva blanca en forma de C con cabeza marrón sobre sustrato oscuro sacada de una maceta" /><figcaption>El gusano blanco, larva de escarabajo, vive en el sustrato y come raíces</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/gusano-blanco-larva-sustrato.jpg" alt="Larva blanca en forma de C con cabeza marrón sobre sustrato oscuro sacada de una maceta" /><figcaption>El gusano blanco, larva de escarabajo, vive en el sustrato y come raíces</figcaption></figure>
 
 ## Cómo identificarlo con seguridad
 

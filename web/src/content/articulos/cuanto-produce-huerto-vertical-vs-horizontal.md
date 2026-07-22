@@ -9,7 +9,7 @@ pubDate: 2026-05-24
 
 Una de las preguntas más habituales al plantearse una estructura de cultivo vertical es si realmente compensa frente a tener las mismas plantas repartidas en macetas individuales sobre el suelo.
 
-<figure><img src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical con fresas y lechugas junto a macetas en el suelo de un balcón" /><figcaption>El vertical multiplica plantas por metro cuadrado de suelo</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical con fresas y lechugas junto a macetas en el suelo de un balcón" /><figcaption>El vertical multiplica plantas por metro cuadrado de suelo</figcaption></figure>
 
 ## Por qué el cultivo vertical puede producir más por metro cuadrado de suelo
 

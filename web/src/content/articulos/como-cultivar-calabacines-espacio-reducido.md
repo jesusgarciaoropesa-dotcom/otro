@@ -9,7 +9,7 @@ pubDate: 2026-06-01
 
 El calabacín tiene fama de necesitar mucho espacio, y es cierto para las variedades tradicionales de huerto en tierra, pero existen variedades compactas que hacen viable su cultivo incluso en un balcón con espacio limitado.
 
-<figure><img src="/images/articulos/cultivo-calabacin-maceta.jpg" alt="Planta de calabacín con flores amarillas y frutos en una maceta grande en un balcón" /><figcaption>Calabacín en maceta grande, con sus flores comestibles</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-calabacin-maceta.jpg" alt="Planta de calabacín con flores amarillas y frutos en una maceta grande en un balcón" /><figcaption>Calabacín en maceta grande, con sus flores comestibles</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -9,7 +9,7 @@ pubDate: 2026-04-13
 
 Vivir de alquiler no debería ser un obstáculo para tener un huerto urbano, pero sí conviene tomar algunas precauciones para no perder la fianza ni tu inversión si te mudas antes de lo previsto.
 
-<figure><img src="/images/articulos/huerto-alquiler-sin-obras.jpg" alt="Balcón de alquiler con macetas y jardineras apoyadas y colgadas de la barandilla sin obras ni taladros" /><figcaption>En alquiler: todo apoyado o colgado, sin taladrar ni fijar a la pared</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/huerto-alquiler-sin-obras.jpg" alt="Balcón de alquiler con macetas y jardineras apoyadas y colgadas de la barandilla sin obras ni taladros" /><figcaption>En alquiler: todo apoyado o colgado, sin taladrar ni fijar a la pared</figcaption></figure>
 
 ## Evita instalaciones que requieran obra
 

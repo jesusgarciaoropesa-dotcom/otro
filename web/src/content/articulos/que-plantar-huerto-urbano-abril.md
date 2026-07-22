@@ -16,7 +16,7 @@ faq:
 
 Abril es uno de los meses más agradecidos del calendario: las temperaturas suben, los días se alargan y el balcón se llena de vida. Es momento de sembrar a pleno rendimiento y de empezar a trasplantar, siempre con un ojo puesto en las **últimas heladas** de la primavera.
 
-<figure><img src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula a su maceta definitiva en un balcón en primavera" /><figcaption>En abril empiezan los trasplantes de las plántulas arrancadas en semillero</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula a su maceta definitiva en un balcón en primavera" /><figcaption>En abril empiezan los trasplantes de las plántulas arrancadas en semillero</figcaption></figure>
 
 ## Siembra directa en abril
 

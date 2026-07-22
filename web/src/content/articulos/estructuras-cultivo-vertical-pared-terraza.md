@@ -18,7 +18,7 @@ Cuando el objetivo es cubrir una pared de terraza en lugar de ocupar suelo, exis
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Tres jardineras antracita fijadas a distintas alturas de una pared de ladrillo formando niveles escalonados con aromáticas, junto a un jardín vertical de bolsillos" /><figcaption>Jardineras escalonadas y sistema de bolsillos textiles conviviendo en la misma pared</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Tres jardineras antracita fijadas a distintas alturas de una pared de ladrillo formando niveles escalonados con aromáticas, junto a un jardín vertical de bolsillos" /><figcaption>Jardineras escalonadas y sistema de bolsillos textiles conviviendo en la misma pared</figcaption></figure>
 
 ## 1. Paneles modulares con macetas individuales
 

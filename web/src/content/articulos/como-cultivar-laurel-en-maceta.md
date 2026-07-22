@@ -17,7 +17,7 @@ faq:
 El laurel es una de esas plantas que, una vez tienes, no vuelves a comprar sus hojas en el supermercado. Es un arbusto mediterráneo resistente, longevo y de muy bajo mantenimiento, perfecto para tener en una maceta en el balcón y cortar hoja cuando cocinas.
 
 <figure>
-  <img src="/images/articulos/laurel-maceta.jpg" alt="Arbusto de laurel en una maceta de terracota en una terraza" />
+  <img width="1200" height="670" src="/images/articulos/laurel-maceta.jpg" alt="Arbusto de laurel en una maceta de terracota en una terraza" />
   <figcaption>Un laurel en maceta te da hoja fresca durante años con muy pocos cuidados.</figcaption>
 </figure>
 

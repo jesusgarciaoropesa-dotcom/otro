@@ -17,7 +17,7 @@ faq:
 El kiwi es un frutal ambicioso para el balcón: una trepadora vigorosa que, con espacio y paciencia, puede darte tus propios kiwis y una sombra frondosa preciosa en la terraza. No es el más fácil, pero es de los más agradecidos a largo plazo.
 
 <figure>
-  <img src="/images/articulos/kiwi-maceta.jpg" alt="Planta de kiwi trepando por un enrejado desde una maceta grande en una terraza, con frutos colgando" />
+  <img width="1200" height="670" src="/images/articulos/kiwi-maceta.jpg" alt="Planta de kiwi trepando por un enrejado desde una maceta grande en una terraza, con frutos colgando" />
   <figcaption>El kiwi es una trepadora vigorosa: pide maceta grande, soporte robusto y paciencia.</figcaption>
 </figure>
 

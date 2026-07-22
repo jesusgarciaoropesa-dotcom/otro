@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 El cebollino es probablemente la aromática más fácil de todas las de este apartado: perenne, con muy pocas exigencias, y tan resistente que perdona casi cualquier error de principiante mejor que la propia menta.
 
-<figure><img src="/images/articulos/cultivo-cebollino-maceta.jpg" alt="Mata de cebollino con sus flores lila esféricas en una maceta de terracota en un balcón" /><figcaption>Cebollino con sus flores lila comestibles</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-cebollino-maceta.jpg" alt="Mata de cebollino con sus flores lila esféricas en una maceta de terracota en un balcón" /><figcaption>Cebollino con sus flores lila comestibles</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -16,7 +16,7 @@ faq:
 
 Las puntas y los bordes de las hojas que se vuelven **marrones y secos** (mientras el centro sigue verde) son uno de los síntomas más frecuentes en maceta, y casi nunca es una plaga: suele ser un problema de **agua o de sales**. Identificar cuál es la clave.
 
-<figure><img src="/images/articulos/bordes-hojas-marrones.jpg" alt="Hoja de una planta en maceta con los bordes y las puntas marrones y secos mientras el centro sigue verde" /><figcaption>El borde es lo primero que se seca porque es lo último a lo que llega el agua.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/bordes-hojas-marrones.jpg" alt="Hoja de una planta en maceta con los bordes y las puntas marrones y secos mientras el centro sigue verde" /><figcaption>El borde es lo primero que se seca porque es lo último a lo que llega el agua.</figcaption></figure>
 
 ## Por qué se secan justo los bordes
 

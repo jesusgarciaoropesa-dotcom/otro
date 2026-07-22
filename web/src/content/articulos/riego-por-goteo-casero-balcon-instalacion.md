@@ -9,7 +9,7 @@ pubDate: 2026-02-20
 
 Instalar un sistema de riego por goteo en un balcón es más sencillo de lo que parece, y no requiere obra ni conocimientos de fontanería. Con un kit básico y una tarde libre puedes tenerlo funcionando.
 
-<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Instalación de riego por goteo con manguera fina y goteros recorriendo las macetas de un balcón" /><figcaption>La línea de goteo recorre todas las macetas desde un único punto</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Instalación de riego por goteo con manguera fina y goteros recorriendo las macetas de un balcón" /><figcaption>La línea de goteo recorre todas las macetas desde un único punto</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

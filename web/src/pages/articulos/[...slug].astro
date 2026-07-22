@@ -77,6 +77,10 @@ if (relacionados.length < 3) {
 // ~200 palabras/minuto de lectura, mínimo 1 minuto
 const palabras = articulo.body?.split(/\s+/).length ?? 0;
 const minutosLectura = Math.max(1, Math.round(palabras / 200));
+
+// Imagen propia del artículo (la <figure> que lo abre) para OG/Twitter y el
+// JSON-LD, en vez de la genérica de la categoría.
+const imagen = primeraImagen(articulo.body);
 ---
 
 <ArticleLayout
@@ -91,6 +95,7 @@ const minutosLectura = Math.max(1, Math.round(palabras / 200));
   headings={headings.filter((h) => h.depth === 2)}
   minutosLectura={minutosLectura}
   faq={articulo.data.faq}
+  imagen={imagen}
 >
   <Content />
 </ArticleLayout>

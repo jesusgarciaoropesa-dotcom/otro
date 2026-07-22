@@ -16,7 +16,7 @@ faq:
 
 Un día tus hojas de calabacín o pepino amanecen como espolvoreadas de harina. Es **oídio**, uno de los hongos más comunes del huerto y, por suerte, de los más fáciles de controlar si actúas pronto.
 
-<figure><img src="/images/articulos/oidio-manchas-blancas-hoja.jpg" alt="Hoja con manchas blancas de oídio, el polvo blanco característico del hongo" /><figcaption>El oídio se reconoce enseguida: un polvo blanco que cubre la superficie de la hoja</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/oidio-manchas-blancas-hoja.jpg" alt="Hoja con manchas blancas de oídio, el polvo blanco característico del hongo" /><figcaption>El oídio se reconoce enseguida: un polvo blanco que cubre la superficie de la hoja</figcaption></figure>
 
 ## Cómo identificarlo
 

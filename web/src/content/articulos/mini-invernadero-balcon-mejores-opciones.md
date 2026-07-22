@@ -18,7 +18,7 @@ Un mini invernadero de balcón permite adelantar la siembra de primavera y prote
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Invernadero de estantería con cubierta transparente y varias baldas de macetas pequeñas en un balcón urbano" /><figcaption>Invernadero de estantería con cubierta de PVC: protege varias baldas de macetas a la vez</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Invernadero de estantería con cubierta transparente y varias baldas de macetas pequeñas en un balcón urbano" /><figcaption>Invernadero de estantería con cubierta de PVC: protege varias baldas de macetas a la vez</figcaption></figure>
 
 ## 1. Mini invernadero de sobremesa para semilleros
 

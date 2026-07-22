@@ -11,7 +11,7 @@ El vermicompostaje utiliza lombrices rojas californianas para procesar restos or
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
 
 ## Qué necesitas para empezar
 

@@ -17,7 +17,7 @@ faq:
 El apio es un cultivo algo exigente pero muy agradecido: aromático, útil en mil recetas y bastante productivo si le das lo que pide. Su gran secreto es el **agua**: es de zona húmeda y odia la sequía, así que en maceta hay que estar pendiente del riego.
 
 <figure>
-  <img src="/images/articulos/apio-maceta.jpg" alt="Planta de apio con tallos verdes y frondosos creciendo en una maceta en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/apio-maceta.jpg" alt="Planta de apio con tallos verdes y frondosos creciendo en una maceta en un balcón" />
   <figcaption>El apio pide riego constante y sustrato rico para dar tallos tiernos.</figcaption>
 </figure>
 

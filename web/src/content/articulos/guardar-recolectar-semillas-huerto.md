@@ -16,7 +16,7 @@ faq:
 
 Guardar tus propias semillas cierra el círculo del huerto: es gratis, te independiza de comprar cada año y, con el tiempo, seleccionas las plantas que mejor van en tu balcón. Con unas pocas reglas, es más fácil de lo que parece.
 
-<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry madura en maceta, de la que se pueden recolectar semillas para la próxima temporada" /><figcaption>De un tomate bien maduro salen decenas de semillas para el año siguiente</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry madura en maceta, de la que se pueden recolectar semillas para la próxima temporada" /><figcaption>De un tomate bien maduro salen decenas de semillas para el año siguiente</figcaption></figure>
 
 ## Empieza por lo fácil
 

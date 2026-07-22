@@ -10,7 +10,7 @@ pilar: true
 
 Cuando el suelo del balcón se queda pequeño, la solución no es renunciar a cultivar más, sino mirar hacia arriba. Un huerto vertical bien planteado puede triplicar la superficie de cultivo disponible en el mismo espacio.
 
-<figure><img src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Jardineras escalonadas fijadas a la pared de un balcón con aromáticas plantadas" /><figcaption>Aprovechar la pared es la clave en un balcón pequeño</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Jardineras escalonadas fijadas a la pared de un balcón con aromáticas plantadas" /><figcaption>Aprovechar la pared es la clave en un balcón pequeño</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

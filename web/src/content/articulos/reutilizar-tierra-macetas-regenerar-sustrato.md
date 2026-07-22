@@ -16,7 +16,7 @@ faq:
 
 Cada primavera mucha gente tira la tierra vieja de sus macetas y compra sacos nuevos. Es un gasto innecesario: **el sustrato usado se puede reutilizar** si lo regeneras. Solo está agotado y compactado, no muerto. Recuperarlo ahorra dinero y es mucho más sostenible.
 
-<figure><img src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Mezcla de sustrato usado con perlita y compost para regenerar la tierra de las macetas" /><figcaption>Airear la tierra usada y mezclarla con compost devuelve gran parte de su fertilidad</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Mezcla de sustrato usado con perlita y compost para regenerar la tierra de las macetas" /><figcaption>Airear la tierra usada y mezclarla con compost devuelve gran parte de su fertilidad</figcaption></figure>
 
 ## Por qué la tierra "se agota"
 

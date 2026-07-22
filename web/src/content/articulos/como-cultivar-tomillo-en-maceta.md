@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 El tomillo es, junto con el romero, de las aromáticas más agradecidas para un balcón muy soleado: apenas necesita cuidados una vez establecido, y sus errores más comunes vienen casi siempre de tratarlo con demasiado mimo, no con poco.
 
-<figure><img src="/images/articulos/cultivo-tomillo-maceta.jpg" alt="Mata de tomillo en flor con florecillas blancas y rosadas en una maceta de terracota en un balcón" /><figcaption>Tomillo en flor, resistente al sol y al poco riego</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-tomillo-maceta.jpg" alt="Mata de tomillo en flor con florecillas blancas y rosadas en una maceta de terracota en un balcón" /><figcaption>Tomillo en flor, resistente al sol y al poco riego</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

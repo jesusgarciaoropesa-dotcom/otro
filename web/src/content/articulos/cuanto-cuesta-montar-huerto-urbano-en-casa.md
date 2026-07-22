@@ -16,7 +16,7 @@ faq:
 
 Uno de los frenos más habituales para empezar un huerto urbano es no saber cuánto va a costar realmente. Aquí tienes un desglose honesto por partidas, para un huerto de tamaño pequeño-medio (5-8 macetas).
 
-<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
 
 ## Macetas
 

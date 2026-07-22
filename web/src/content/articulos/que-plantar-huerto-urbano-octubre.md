@@ -16,7 +16,7 @@ faq:
 
 Octubre es, junto a la primavera, uno de los mejores momentos para sembrar en el balcón. El calor afloja, las plagas remiten y los **cultivos de hoja** encuentran su clima ideal. Además, es el mes de plantar ajos y cebollas y de preparar el huerto para el frío que se acerca.
 
-<figure><img src="/images/articulos/ajos-maceta.jpg" alt="Brotes de ajo en una maceta de balcón, plantación típica de otoño" /><figcaption>Octubre es el mes ideal para plantar los ajos, que se recogerán a principios de verano</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/ajos-maceta.jpg" alt="Brotes de ajo en una maceta de balcón, plantación típica de otoño" /><figcaption>Octubre es el mes ideal para plantar los ajos, que se recogerán a principios de verano</figcaption></figure>
 
 ## El gran mes de las hojas de otoño
 

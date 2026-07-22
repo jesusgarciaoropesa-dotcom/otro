@@ -16,7 +16,7 @@ faq:
 
 Julio es el mes más exigente del huerto de balcón. No es tanto de sembrar como de **sostener** lo que ya tienes en marcha bajo un sol de justicia. Con un buen riego, algo de sombra y cosechas frecuentes, el balcón aguanta en plena forma el pico del verano.
 
-<figure><img src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Sistema de riego por goteo en las macetas de un balcón durante el verano" /><figcaption>En julio el riego es lo primero: un goteo automático evita sustos en el mes más caluroso</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Sistema de riego por goteo en las macetas de un balcón durante el verano" /><figcaption>En julio el riego es lo primero: un goteo automático evita sustos en el mes más caluroso</figcaption></figure>
 
 ## Qué sembrar en julio
 

@@ -9,7 +9,7 @@ pubDate: 2026-06-05
 
 Cuando la luz natural disponible en interior es realmente escasa (ventana pequeña, orientación norte, patio interior), no todas las aromáticas son viables, y en muchos casos hace falta una ayuda de luz artificial para obtener resultados decentes.
 
-<figure><img src="/images/articulos/barra-led-cultivo-aromaticas.jpg" alt="Barra LED de cultivo iluminando macetas de albahaca, perejil y romero en una estantería de interior al atardecer" /><figcaption>Una barra LED bajo la balda basta para complementar la luz natural de las aromáticas de interior</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/barra-led-cultivo-aromaticas.jpg" alt="Barra LED de cultivo iluminando macetas de albahaca, perejil y romero en una estantería de interior al atardecer" /><figcaption>Una barra LED bajo la balda basta para complementar la luz natural de las aromáticas de interior</figcaption></figure>
 
 ## Aromáticas que mejor toleran poca luz
 

@@ -16,7 +16,7 @@ faq:
 
 Antes de dedicar tiempo y una maceta a unas semillas que llevan años en un cajón, merece la pena comprobar si **siguen vivas**. El test de germinación es gratis, tarda unos minutos de montar y te ahorra la frustración de sembrar semillas muertas y esperar en vano.
 
-<figure><img src="/images/articulos/sobres-semillas-kraft.jpg" alt="Sobres de semillas guardadas de los que conviene comprobar la viabilidad antes de sembrar" /><figcaption>Antes de sembrar semillas viejas, un test rápido te dice si aún germinan</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/sobres-semillas-kraft.jpg" alt="Sobres de semillas guardadas de los que conviene comprobar la viabilidad antes de sembrar" /><figcaption>Antes de sembrar semillas viejas, un test rápido te dice si aún germinan</figcaption></figure>
 
 ## Por qué hacerlo
 

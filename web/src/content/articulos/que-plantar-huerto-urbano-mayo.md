@@ -9,7 +9,7 @@ pubDate: 2026-06-10
 
 Mayo es uno de los meses más activos del calendario de siembra: las temperaturas ya son suficientemente cálidas para trasplantar al exterior sin riesgo de heladas tardías, y todavía queda tiempo de sobra para sembrar directamente muchos cultivos de ciclo medio.
 
-<figure><img src="/images/articulos/cultivo-berenjena-maceta.jpg" alt="Planta de berenjena con fruto en una maceta entutorada en un balcón, siembra de mayo" /><figcaption>Mayo es buen momento para tomate, pimiento y berenjena en el balcón</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-berenjena-maceta.jpg" alt="Planta de berenjena con fruto en una maceta entutorada en un balcón, siembra de mayo" /><figcaption>Mayo es buen momento para tomate, pimiento y berenjena en el balcón</figcaption></figure>
 
 ## Trasplantes del mes
 

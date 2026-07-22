@@ -9,7 +9,7 @@ pubDate: 2026-03-14
 
 Si nunca has cultivado nada y quieres montar tu primer huerto urbano, esta guía reúne en un solo sitio todo lo que necesitas decidir antes de comprar tu primera maceta.
 
-<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes con macetas, sustrato, semillas y herramientas" /><figcaption>Un kit reúne lo básico para empezar sin comprar pieza a pieza</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes con macetas, sustrato, semillas y herramientas" /><figcaption>Un kit reúne lo básico para empezar sin comprar pieza a pieza</figcaption></figure>
 
 ## Paso 1: evalúa tu espacio y su luz
 

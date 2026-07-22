@@ -16,7 +16,7 @@ faq:
 
 Diciembre es el mes de menos actividad en el huerto de balcón, pero no de parón total. Se planta poco, se cuida lo que resiste el frío y, sobre todo, es el momento perfecto para **planificar el año que empieza**. Un respiro con el que dejarlo todo a punto para el arranque de enero.
 
-<figure><img src="/images/articulos/cultivo-arandanos-maceta.jpg" alt="Arándanos en maceta en reposo invernal en un balcón" /><figcaption>Diciembre es buen mes para plantar frutos rojos a raíz desnuda, que enraízan en reposo</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-arandanos-maceta.jpg" alt="Arándanos en maceta en reposo invernal en un balcón" /><figcaption>Diciembre es buen mes para plantar frutos rojos a raíz desnuda, que enraízan en reposo</figcaption></figure>
 
 ## Qué plantar en diciembre
 

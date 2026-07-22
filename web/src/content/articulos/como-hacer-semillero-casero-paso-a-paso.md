@@ -11,7 +11,7 @@ Sembrar directamente en la maceta definitiva funciona, pero empezar en semillero
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
 
 ## Qué necesitas
 

@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 La acelga es de las hojas verdes más agradecidas para maceta: más resistente al calor que la espinaca, tolera bien el frío moderado, y con la técnica de recolección adecuada una sola planta puede seguir produciendo hoja durante varios meses seguidos.
 
-<figure><img src="/images/articulos/cultivo-acelgas-maceta.jpg" alt="Acelgas de pencas de colores rojo y amarillo en una maceta de terracota en un balcón" /><figcaption>Acelgas de colores: muy productivas y vistosas en maceta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-acelgas-maceta.jpg" alt="Acelgas de pencas de colores rojo y amarillo en una maceta de terracota en un balcón" /><figcaption>Acelgas de colores: muy productivas y vistosas en maceta</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

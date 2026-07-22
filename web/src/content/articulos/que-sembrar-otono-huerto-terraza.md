@@ -9,7 +9,7 @@ pubDate: 2026-05-03
 
 El otoño es la segunda gran ventana de siembra del año, después de la primavera, y suele estar algo más olvidada por quienes empiezan un huerto urbano. Aprovecharla bien permite mantener producción durante el otoño e invierno en lugar de dejar el huerto parado varios meses.
 
-<figure><img src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga frondosa en una maceta en un balcón, cultivo de otoño en terraza" /><figcaption>Lechugas y hojas de otoño rinden muy bien tras el verano</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga frondosa en una maceta en un balcón, cultivo de otoño en terraza" /><figcaption>Lechugas y hojas de otoño rinden muy bien tras el verano</figcaption></figure>
 
 ## Por qué merece la pena sembrar en otoño
 

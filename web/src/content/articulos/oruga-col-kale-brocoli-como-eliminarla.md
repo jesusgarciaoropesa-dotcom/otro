@@ -16,7 +16,7 @@ faq:
 
 Cultivas kale, brócoli o coles y, de repente, las hojas aparecen **agujereadas y llenas de puntitos oscuros**. Casi seguro que tienes orugas de la col: la plaga estrella de las brásicas, muy voraz pero fácil de controlar si la pillas pronto.
 
-<figure><img src="/images/articulos/oruga-col.jpg" alt="Oruga verde sobre una hoja de kale agujereada, con excrementos oscuros, en una maceta" /><figcaption>Las orugas verdes y los agujeros en las hojas delatan la plaga de la col.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/oruga-col.jpg" alt="Oruga verde sobre una hoja de kale agujereada, con excrementos oscuros, en una maceta" /><figcaption>Las orugas verdes y los agujeros en las hojas delatan la plaga de la col.</figcaption></figure>
 
 ## Cómo identificarla
 

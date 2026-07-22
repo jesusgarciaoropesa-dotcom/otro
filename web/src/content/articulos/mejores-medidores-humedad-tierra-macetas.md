@@ -16,7 +16,7 @@ faq:
 
 El error número uno en el balcón no es regar poco, sino **regar de más**. Un medidor de humedad te dice si el sustrato está realmente seco antes de volver a regar, y evita el encharcamiento que pudre raíces. Estas son las opciones, de lo más simple a lo más avanzado.
 
-<figure><img src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Regando una maceta en un balcón; saber la humedad real de la tierra evita el exceso de riego" /><figcaption>Medir la humedad real del sustrato evita el error más común: pasarse con el riego</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Regando una maceta en un balcón; saber la humedad real de la tierra evita el exceso de riego" /><figcaption>Medir la humedad real del sustrato evita el error más común: pasarse con el riego</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -16,7 +16,7 @@ faq:
 
 La regadera es la herramienta que más vas a usar en el balcón, así que elegir la adecuada se nota cada día. La clave está en el tamaño, el tipo de chorro y si riegas semilleros, macetas grandes o plantas colgantes. Estas son las opciones.
 
-<figure><img src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Regando las macetas de un balcón con una regadera de alcachofa fina" /><figcaption>Una regadera con alcachofa riega suave los semilleros sin desenterrar las semillas</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Regando las macetas de un balcón con una regadera de alcachofa fina" /><figcaption>Una regadera con alcachofa riega suave los semilleros sin desenterrar las semillas</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

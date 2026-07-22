@@ -16,7 +16,7 @@ faq:
 
 En invierno, una helada puede echar a perder en una noche los cultivos que llevas meses cuidando. En maceta el frío pega más, porque las raíces quedan más expuestas que en el suelo. Con la protección adecuada, tu huerto de balcón supera el invierno sin bajas.
 
-<figure><img src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Mini-invernadero de estantería en un balcón protegiendo las plantas del frío del invierno" /><figcaption>Un mini-invernadero o un velo antiheladas protegen los cultivos en las noches de hielo</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Mini-invernadero de estantería en un balcón protegiendo las plantas del frío del invierno" /><figcaption>Un mini-invernadero o un velo antiheladas protegen los cultivos en las noches de hielo</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

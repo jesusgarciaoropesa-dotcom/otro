@@ -16,7 +16,7 @@ faq:
 
 En el campo, abejas y otros insectos polinizan las flores sin que nadie se entere. En un **balcón resguardado y en altura**, en cambio, pueden faltar, y entonces los calabacines no cuajan, las fresas salen deformes y los frutales dan poco. Atraer polinizadores es una de las mejores cosas que puedes hacer por tus cosechas.
 
-<figure><img src="/images/articulos/cultivo-calabacin-maceta.jpg" alt="Flor de calabacín en una maceta de balcón, un cultivo que depende de la polinización para dar fruto" /><figcaption>Cultivos como el calabacín dependen de los polinizadores para cuajar sus frutos</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-calabacin-maceta.jpg" alt="Flor de calabacín en una maceta de balcón, un cultivo que depende de la polinización para dar fruto" /><figcaption>Cultivos como el calabacín dependen de los polinizadores para cuajar sus frutos</figcaption></figure>
 
 ## Por qué importa (y a qué cultivos afecta)
 

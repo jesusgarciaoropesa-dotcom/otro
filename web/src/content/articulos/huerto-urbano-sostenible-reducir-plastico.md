@@ -9,7 +9,7 @@ pubDate: 2026-06-30
 
 Un huerto urbano nace con una vocación sostenible, pero irónicamente suele depender de bastante plástico: macetas, bandejas de semillero, mangueras de riego. Reducirlo es posible sin renunciar a la funcionalidad.
 
-<figure><img src="/images/articulos/reducir-plastico-huerto.jpg" alt="Semilleros biodegradables de fibra, macetas de barro y rollos de cartón reutilizados como semillero sobre una mesa" /><figcaption>Alternativas al plástico: fibra, barro y cartón reutilizado</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/reducir-plastico-huerto.jpg" alt="Semilleros biodegradables de fibra, macetas de barro y rollos de cartón reutilizados como semillero sobre una mesa" /><figcaption>Alternativas al plástico: fibra, barro y cartón reutilizado</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -17,7 +17,7 @@ faq:
 Los canónigos son una de las hojas más agradecidas para el balcón en los meses fríos: resisten el frío como pocas, crecen en poco espacio y apenas dan trabajo. Si echas de menos ensalada fresca en invierno, son tu cultivo.
 
 <figure>
-  <img src="/images/articulos/canonigos-maceta.jpg" alt="Canónigos creciendo en pequeñas rosetas verdes en una jardinera baja en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/canonigos-maceta.jpg" alt="Canónigos creciendo en pequeñas rosetas verdes en una jardinera baja en un balcón" />
   <figcaption>Los canónigos crecen en rosetas y resisten el frío mejor que casi cualquier hoja.</figcaption>
 </figure>
 

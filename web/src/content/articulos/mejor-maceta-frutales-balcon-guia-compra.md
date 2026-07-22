@@ -9,7 +9,7 @@ pubDate: 2026-06-06
 
 Un frutal en maceta vive muchos años en el mismo contenedor, así que acertar con la maceta desde el principio (o saber cuándo cambiarla) tiene un impacto directo en su salud y producción a largo plazo.
 
-<figure><img src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>El volumen de la maceta condiciona el desarrollo del frutal</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/frutal-enano-terraza.jpg" alt="Frutal enano frondoso con fruto en una maceta grande de terracota en una terraza urbana luminosa" /><figcaption>El volumen de la maceta condiciona el desarrollo del frutal</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

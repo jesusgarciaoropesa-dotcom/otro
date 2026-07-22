@@ -16,7 +16,7 @@ faq:
 
 En un balcón cada centímetro cuenta, y la **asociación de cultivos** es la forma más lista de aprovecharlo: combinar plantas que se ayudan entre sí para producir más, ocupar mejor el espacio y espantar plagas sin químicos. Bien planteada, una maceta puede dar mucho más que un solo cultivo.
 
-<figure><img src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con varias macetas y cultivos asociados creciendo juntos de forma frondosa" /><figcaption>Combinar cultivos compatibles aprovecha el espacio y reduce las plagas de forma natural</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con varias macetas y cultivos asociados creciendo juntos de forma frondosa" /><figcaption>Combinar cultivos compatibles aprovecha el espacio y reduce las plagas de forma natural</figcaption></figure>
 
 ## Por qué funciona (y para qué sirve en maceta)
 

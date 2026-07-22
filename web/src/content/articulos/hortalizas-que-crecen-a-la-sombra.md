@@ -9,7 +9,7 @@ pubDate: 2026-04-24
 
 No todos los balcones reciben las 6 horas de sol directo que necesitan tomates o pimientos para producir bien. Con menos luz (2-4 horas directas, o luz indirecta constante) sigue siendo posible cultivar, eligiendo bien las especies.
 
-<figure><img src="/images/articulos/balcon-sombra-cultivos-hoja.jpg" alt="Balcón con luz difusa de sombra lleno de macetas y jardineras de lechugas, espinacas y aromáticas de hoja verde, con un jardín vertical en la pared" /><figcaption>Con luz de sombra, los cultivos de hoja (lechugas, espinacas, aromáticas) son los que mejor rinden</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-sombra-cultivos-hoja.jpg" alt="Balcón con luz difusa de sombra lleno de macetas y jardineras de lechugas, espinacas y aromáticas de hoja verde, con un jardín vertical en la pared" /><figcaption>Con luz de sombra, los cultivos de hoja (lechugas, espinacas, aromáticas) son los que mejor rinden</figcaption></figure>
 
 ## Por qué la sombra no significa "nada de cultivo"
 

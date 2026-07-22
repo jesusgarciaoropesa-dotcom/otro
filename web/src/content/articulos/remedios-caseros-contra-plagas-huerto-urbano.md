@@ -11,7 +11,7 @@ Antes de recurrir a productos comerciales, muchos remedios caseros elaborados co
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
 
 ## Jabón potásico casero
 

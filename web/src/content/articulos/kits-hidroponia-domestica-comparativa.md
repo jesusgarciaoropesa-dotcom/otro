@@ -18,7 +18,7 @@ La hidroponía elimina el sustrato tradicional y alimenta las raíces directamen
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/hidroponia-nft-lechugas.jpg" alt="Sistema de hidroponía NFT casero con canal de PVC blanco, seis lechugas en vasos de rejilla y depósito con bomba en una terraza" /><figcaption>Sistema NFT casero: canal de PVC, vasos de rejilla y depósito con bomba</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/hidroponia-nft-lechugas.jpg" alt="Sistema de hidroponía NFT casero con canal de PVC blanco, seis lechugas en vasos de rejilla y depósito con bomba en una terraza" /><figcaption>Sistema NFT casero: canal de PVC, vasos de rejilla y depósito con bomba</figcaption></figure>
 
 ## 1. Kits de cultivo por mecha (wick system)
 

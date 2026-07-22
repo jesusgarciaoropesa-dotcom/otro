@@ -9,7 +9,7 @@ pubDate: 2026-02-22
 
 El <a href="https://www.amazon.es/s?k=programador+riego+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">temporizador (o programador) de riego</a> es la pieza clave de cualquier sistema de riego automático: decide cuándo y cuánto tiempo riega tu instalación. Instalarlo correctamente evita tanto la sequía como el encharcamiento.
 
-<figure><img src="/images/articulos/temporizador-riego-grifo.jpg" alt="Programador de riego a pilas conectado a un grifo de balcón con manguera hacia las macetas" /><figcaption>El temporizador se instala directamente sobre el grifo</figcaption></figure>
+<figure><img width="1200" height="782" src="/images/articulos/temporizador-riego-grifo.jpg" alt="Programador de riego a pilas conectado a un grifo de balcón con manguera hacia las macetas" /><figcaption>El temporizador se instala directamente sobre el grifo</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

@@ -9,7 +9,7 @@ pubDate: 2026-02-12
 
 Marzo marca el inicio real de la temporada de siembra de primavera en la mayor parte de España. Con el riesgo de heladas fuertes ya bajando, es el momento de preparar el balcón para los meses de mayor producción.
 
-<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero con plántulas jóvenes junto a una ventana en marzo" /><figcaption>Marzo es plena temporada de semillero para trasplantar después</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero con plántulas jóvenes junto a una ventana en marzo" /><figcaption>Marzo es plena temporada de semillero para trasplantar después</figcaption></figure>
 
 ## Siembra directa en maceta (marzo)
 

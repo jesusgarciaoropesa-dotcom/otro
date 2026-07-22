@@ -17,7 +17,7 @@ faq:
 
 Las aromáticas son la mejor puerta de entrada al huerto de balcón: ocupan poco, se usan a diario en la cocina y la mayoría son muy fáciles. Esta guía reúne todo lo que necesitas para montar tu propio jardín de hierbas, con enlace a la ficha completa de cada una.
 
-<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con varias hierbas aromáticas en la barandilla de un balcón" /><figcaption>Con unas pocas macetas de aromáticas tienes hierbas frescas para cocinar todo el año</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con varias hierbas aromáticas en la barandilla de un balcón" /><figcaption>Con unas pocas macetas de aromáticas tienes hierbas frescas para cocinar todo el año</figcaption></figure>
 
 ## Primero: agrupa según necesidades
 

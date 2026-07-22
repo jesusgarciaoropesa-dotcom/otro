@@ -9,7 +9,7 @@ pubDate: 2026-03-01
 
 El pimiento es un cultivo agradecido para balcón siempre que le des suficiente sol y una maceta con espacio suficiente. Con los cuidados adecuados, una sola planta puede dar decenas de pimientos en una temporada.
 
-<figure><img src="/images/articulos/cultivo-pimiento-maceta.jpg" alt="Planta de pimiento con frutos rojos y verdes en una maceta de terracota en un balcón" /><figcaption>Pimientos madurando en maceta en un balcón soleado</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-pimiento-maceta.jpg" alt="Planta de pimiento con frutos rojos y verdes en una maceta de terracota en un balcón" /><figcaption>Pimientos madurando en maceta en un balcón soleado</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

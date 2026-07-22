@@ -16,7 +16,7 @@ faq:
 
 Cultivar en el balcón con niños es una de esas actividades que enseñan de todo: paciencia, responsabilidad, de dónde viene la comida… y encima se divierten. La clave para que enganche es elegir bien qué plantar: **cultivos rápidos y vistosos** que no les hagan perder la paciencia.
 
-<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto sencillo en un balcón, ideal para empezar a cultivar con niños" /><figcaption>Con cultivos rápidos y su propia maceta, los niños se enganchan al huerto enseguida</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto sencillo en un balcón, ideal para empezar a cultivar con niños" /><figcaption>Con cultivos rápidos y su propia maceta, los niños se enganchan al huerto enseguida</figcaption></figure>
 
 ## La regla nº 1: que vean resultados pronto
 

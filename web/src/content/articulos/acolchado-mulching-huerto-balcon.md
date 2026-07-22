@@ -16,7 +16,7 @@ faq:
 
 El acolchado o *mulching* es uno de esos trucos sencillos que cambian mucho el huerto de balcón: **cubrir la tierra** con una capa de material para conservar la humedad, ahorrar riego y proteger el sustrato. Cuesta poco y en verano se nota muchísimo.
 
-<figure><img src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Riego de una maceta en un balcón; el acolchado reduce la evaporación y espacia los riegos" /><figcaption>Cubrir el sustrato reduce la evaporación y ayuda a espaciar los riegos en verano</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/regar-regadera-cuanta-agua.jpg" alt="Riego de una maceta en un balcón; el acolchado reduce la evaporación y espacia los riegos" /><figcaption>Cubrir el sustrato reduce la evaporación y ayuda a espaciar los riegos en verano</figcaption></figure>
 
 ## Para qué sirve
 

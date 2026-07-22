@@ -9,7 +9,7 @@ pubDate: 2026-04-21
 
 Las espinacas son una de las hojas verdes más agradecidas para un huerto de balcón, con la ventaja de que, eligiendo bien la variedad y la época, se pueden mantener en producción prácticamente todo el año.
 
-<figure><img src="/images/articulos/cultivo-espinacas-maceta.jpg" alt="Espinacas de hoja verde oscuro creciendo en una maceta de terracota en un balcón" /><figcaption>Espinacas en maceta, ideales para media sombra</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-espinacas-maceta.jpg" alt="Espinacas de hoja verde oscuro creciendo en una maceta de terracota en un balcón" /><figcaption>Espinacas en maceta, ideales para media sombra</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

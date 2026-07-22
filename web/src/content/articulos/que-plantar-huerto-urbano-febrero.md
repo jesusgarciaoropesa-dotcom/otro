@@ -16,7 +16,7 @@ faq:
 
 Febrero es el mes en el que el huerto de balcón despierta. Todavía hace frío y hay riesgo de heladas, pero es el momento clave para **arrancar en semillero los cultivos de verano** y adelantar así toda la temporada. Lo que hagas ahora marca la cosecha de los meses siguientes.
 
-<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Semillero con plántulas junto a una ventana luminosa, siembra de febrero en interior" /><figcaption>En febrero los cultivos de verano se arrancan en semillero, al calor de casa</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Semillero con plántulas junto a una ventana luminosa, siembra de febrero en interior" /><figcaption>En febrero los cultivos de verano se arrancan en semillero, al calor de casa</figcaption></figure>
 
 ## Siembra en semillero (al calor de casa)
 

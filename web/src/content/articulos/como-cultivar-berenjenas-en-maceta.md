@@ -9,7 +9,7 @@ pubDate: 2026-05-30
 
 La berenjena es uno de los cultivos de fruto más exigentes en calor y espacio de un huerto de balcón, pero recompensa con una producción abundante si se cubren bien sus necesidades básicas.
 
-<figure><img src="/images/articulos/cultivo-berenjena-maceta.jpg" alt="Planta de berenjena con frutos morados y flores en una maceta entutorada en un balcón" /><figcaption>Berenjena en maceta, entutorada y con fruto</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-berenjena-maceta.jpg" alt="Planta de berenjena con frutos morados y flores en una maceta entutorada en un balcón" /><figcaption>Berenjena en maceta, entutorada y con fruto</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

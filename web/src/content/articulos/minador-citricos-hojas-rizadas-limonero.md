@@ -9,7 +9,7 @@ pubDate: 2026-07-06
 
 Si tu limonero o mandarino en maceta saca hojas nuevas que se quedan rizadas, onduladas o retorcidas sin llegar a secarse ni caerse, lo más probable es que no sea un problema de riego ni de nutrientes: es una de las plagas más específicas y comunes de los cítricos, el minador de los cítricos.
 
-<figure><img src="/images/articulos/minador-citricos.jpg" alt="Hojas de limonero con galerías plateadas serpenteantes del minador de los cítricos" /><figcaption>El minador deja galerías serpenteantes en las hojas jóvenes del limonero.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/minador-citricos.jpg" alt="Hojas de limonero con galerías plateadas serpenteantes del minador de los cítricos" /><figcaption>El minador deja galerías serpenteantes en las hojas jóvenes del limonero.</figcaption></figure>
 
 ## Qué es exactamente
 

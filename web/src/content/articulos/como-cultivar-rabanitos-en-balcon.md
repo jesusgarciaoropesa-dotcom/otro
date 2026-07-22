@@ -9,7 +9,7 @@ pubDate: 2026-03-26
 
 Si buscas resultados rápidos para coger confianza con tu huerto urbano, los rabanitos son probablemente el cultivo más agradecido: de la siembra a la cosecha pasan solo 3-4 semanas.
 
-<figure><img src="/images/articulos/cultivo-rabanitos-maceta.jpg" alt="Mata de rabanitos con las raíces rojas asomando en el sustrato de una maceta en un balcón" /><figcaption>Rabanitos listos, asomando en la superficie del sustrato</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-rabanitos-maceta.jpg" alt="Mata de rabanitos con las raíces rojas asomando en el sustrato de una maceta en un balcón" /><figcaption>Rabanitos listos, asomando en la superficie del sustrato</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

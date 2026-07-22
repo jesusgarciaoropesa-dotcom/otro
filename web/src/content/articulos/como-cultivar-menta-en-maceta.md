@@ -9,7 +9,7 @@ pubDate: 2026-03-28
 
 La menta es una de las aromáticas más fáciles de cultivar, hasta el punto de que su verdadero reto no es conseguir que crezca, sino evitar que invada el resto de macetas cercanas.
 
-<figure><img src="/images/articulos/cultivo-menta-maceta.jpg" alt="Mata de menta con flores lila en una maceta individual de terracota en un balcón" /><figcaption>Menta siempre en maceta individual: es invasiva</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-menta-maceta.jpg" alt="Mata de menta con flores lila en una maceta individual de terracota en un balcón" /><figcaption>Menta siempre en maceta individual: es invasiva</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

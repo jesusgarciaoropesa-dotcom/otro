@@ -16,7 +16,7 @@ faq:
 
 Has criado unas plántulas perfectas en el semillero junto a la ventana… y al sacarlas al balcón se queman en un día. El culpable es saltarse un paso silencioso pero decisivo: **endurecerlas** o aclimatarlas antes del trasplante. Es gratis y evita perder semanas de trabajo.
 
-<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Plántulas de semillero junto a una ventana, listas para empezar el endurecimiento antes de salir al balcón" /><figcaption>Antes de salir al sol pleno, las plántulas de interior necesitan una semana de aclimatación</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Plántulas de semillero junto a una ventana, listas para empezar el endurecimiento antes de salir al balcón" /><figcaption>Antes de salir al sol pleno, las plántulas de interior necesitan una semana de aclimatación</figcaption></figure>
 
 ## Por qué es imprescindible
 

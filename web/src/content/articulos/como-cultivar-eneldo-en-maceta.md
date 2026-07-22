@@ -17,7 +17,7 @@ faq:
 El eneldo es una aromática fina y elegante, de sabor fresco y anisado, imprescindible para pescados, salsas y encurtidos. Crece rápido, es fácil y sus hojas plumosas son muy decorativas. Solo hay que respetar una regla: no le gusta que le muevan las raíces.
 
 <figure>
-  <img src="/images/articulos/eneldo-maceta.jpg" alt="Planta de eneldo con hojas finas y plumosas de color verde intenso en una maceta en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/eneldo-maceta.jpg" alt="Planta de eneldo con hojas finas y plumosas de color verde intenso en una maceta en un balcón" />
   <figcaption>El eneldo hace raíz pivotante: mejor sembrarlo directo en su maceta definitiva.</figcaption>
 </figure>
 

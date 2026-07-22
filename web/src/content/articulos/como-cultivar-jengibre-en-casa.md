@@ -17,7 +17,7 @@ faq:
 Cultivar jengibre en casa es de lo más satisfactorio: partes de un simple trozo comprado en la frutería y acabas con tus propios rizomas frescos. Necesita paciencia y calor, pero el cuidado es sencillo y cabe perfectamente en una maceta.
 
 <figure>
-  <img src="/images/articulos/jengibre-en-casa.jpg" alt="Brotes de jengibre saliendo de la tierra junto a un rizoma fresco" />
+  <img width="1200" height="670" src="/images/articulos/jengibre-en-casa.jpg" alt="Brotes de jengibre saliendo de la tierra junto a un rizoma fresco" />
   <figcaption>De un trozo de rizoma de la frutería a tu propia planta de jengibre.</figcaption>
 </figure>
 

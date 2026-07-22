@@ -19,7 +19,7 @@ El ajo es uno de los cultivos más fáciles y agradecidos para empezar en un bal
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 <figure>
-  <img src="/images/articulos/ajos-maceta.jpg" alt="Brotes verdes de ajo saliendo de la tierra en una maceta de balcón" />
+  <img width="1200" height="670" src="/images/articulos/ajos-maceta.jpg" alt="Brotes verdes de ajo saliendo de la tierra en una maceta de balcón" />
   <figcaption>Los ajos se plantan casi solos: un diente por hueco y a esperar.</figcaption>
 </figure>
 

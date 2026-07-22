@@ -9,7 +9,7 @@ pubDate: 2026-05-05
 
 Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado. Si todavía no tienes semillero, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/), y si ya lo tienes pero no sabes por dónde empezar, aquí tienes [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/).
 
-<figure><img src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
 
 ## Señales de que está lista para trasplantar
 
@@ -28,7 +28,7 @@ Cuanto más tiempo pasa una plántula en un semillero pequeño una vez que ya es
 3. Haz un hueco en la maceta definitiva algo más grande que el cepellón de la plántula, y colócala a la misma profundidad que tenía en el semillero (salvo excepciones como el tomate, que tolera enterrarse algo más).
 4. Riega inmediatamente después del trasplante para asentar el sustrato alrededor de las raíces.
 
-<figure><img src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
 
 ## Aclimatación antes del trasplante definitivo
 

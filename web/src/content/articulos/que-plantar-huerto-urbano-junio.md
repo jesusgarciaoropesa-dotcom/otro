@@ -16,7 +16,7 @@ faq:
 
 Junio abre el verano y el huerto de balcón está en plena efervescencia: los cultivos de primavera empiezan a dar sus frutos y todavía hay margen para las **últimas siembras de la temporada cálida**. Es un mes de sembrar lo que queda y, sobre todo, de cuidar bien lo que ya está en marcha.
 
-<figure><img src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry con frutos verdes entutorada en una maceta de balcón en junio" /><figcaption>En junio los cultivos de verano arrancan la producción y piden buenos tutores</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry con frutos verdes entutorada en una maceta de balcón en junio" /><figcaption>En junio los cultivos de verano arrancan la producción y piden buenos tutores</figcaption></figure>
 
 ## Últimas siembras de verano
 

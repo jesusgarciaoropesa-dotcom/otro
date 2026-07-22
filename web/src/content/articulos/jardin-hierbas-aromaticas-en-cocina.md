@@ -9,7 +9,7 @@ pubDate: 2026-06-03
 
 Si no tienes balcón ni terraza, un pequeño jardín de aromáticas en la ventana de la cocina es la forma más accesible de tener plantas comestibles frescas en casa, con la ventaja añadida de tenerlas literalmente a mano mientras cocinas.
 
-<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de terracota con romero, orégano y tomillo en la barandilla de un balcón urbano al atardecer" /><figcaption>Romero, orégano y tomillo comparten jardinera: mismas necesidades de sol y poco riego</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de terracota con romero, orégano y tomillo en la barandilla de un balcón urbano al atardecer" /><figcaption>Romero, orégano y tomillo comparten jardinera: mismas necesidades de sol y poco riego</figcaption></figure>
 
 ## Elige bien la ventana
 

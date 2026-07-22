@@ -16,7 +16,7 @@ faq:
 
 La rotación de cultivos suena a huerto de tierra, pero también funciona —y mucho— en el balcón. Consiste en **no repetir la misma familia de plantas en la misma tierra** temporada tras temporada. Es gratis, sencillo y previene buena parte de los problemas de plagas y agotamiento del sustrato.
 
-<figure><img src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con varias macetas de distintos cultivos, ideal para rotar de una temporada a otra" /><figcaption>Cambiar qué cultivo ocupa cada maceta cada temporada mantiene sano el sustrato</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con varias macetas de distintos cultivos, ideal para rotar de una temporada a otra" /><figcaption>Cambiar qué cultivo ocupa cada maceta cada temporada mantiene sano el sustrato</figcaption></figure>
 
 ## Por qué importa, también en maceta
 

@@ -9,7 +9,7 @@ pubDate: 2026-07-06
 
 Las hojas rizadas u onduladas son uno de los síntomas que más preocupan sin necesidad, porque casi siempre se confunden con una carencia de nutrientes cuando en realidad la causa más común es mucho más simple y menos grave.
 
-<figure><img src="/images/articulos/hojas-rizadas-tomatera.jpg" alt="Hojas de tomatera enrolladas y curvadas hacia dentro en una maceta de balcón" /><figcaption>Las hojas rizadas de la tomatera tienen varias causas; el patrón ayuda a distinguirlas.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/hojas-rizadas-tomatera.jpg" alt="Hojas de tomatera enrolladas y curvadas hacia dentro en una maceta de balcón" /><figcaption>Las hojas rizadas de la tomatera tienen varias causas; el patrón ayuda a distinguirlas.</figcaption></figure>
 
 ## Enrollamiento fisiológico por calor (la causa más habitual, y la menos preocupante)
 

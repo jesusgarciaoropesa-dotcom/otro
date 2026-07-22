@@ -9,7 +9,7 @@ pubDate: 2026-05-15
 
 Un balcón orientado al norte recibe muy poca luz solar directa durante todo el año, lo que condiciona bastante qué se puede cultivar con éxito. No significa que no puedas tener huerto, pero sí que hay que elegir bien.
 
-<figure><img src="/images/articulos/balcon-sombra-cultivos-hoja.jpg" alt="Balcón con luz difusa de sombra lleno de macetas y jardineras de lechugas, espinacas y aromáticas de hoja verde, con un jardín vertical en la pared" /><figcaption>Con luz de sombra, los cultivos de hoja (lechugas, espinacas, aromáticas) son los que mejor rinden</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-sombra-cultivos-hoja.jpg" alt="Balcón con luz difusa de sombra lleno de macetas y jardineras de lechugas, espinacas y aromáticas de hoja verde, con un jardín vertical en la pared" /><figcaption>Con luz de sombra, los cultivos de hoja (lechugas, espinacas, aromáticas) son los que mejor rinden</figcaption></figure>
 
 ## Cuánta luz recibe realmente un balcón norte
 

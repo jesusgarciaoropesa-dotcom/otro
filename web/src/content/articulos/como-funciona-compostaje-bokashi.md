@@ -11,7 +11,7 @@ Mucha gente compra un <a href="https://www.amazon.es/s?k=cubo+bokashi&tag=mihuer
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/cubo-bokashi-cocina.jpg" alt="Cubo bokashi beige con tapa hermética y grifo inferior en la encimera de una cocina junto a una tabla con restos de verduras" /><figcaption>El cubo bokashi vive en la cocina: hermético, con grifo para el líquido fermentado</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cubo-bokashi-cocina.jpg" alt="Cubo bokashi beige con tapa hermética y grifo inferior en la encimera de una cocina junto a una tabla con restos de verduras" /><figcaption>El cubo bokashi vive en la cocina: hermético, con grifo para el líquido fermentado</figcaption></figure>
 
 ## Qué es exactamente el bokashi
 

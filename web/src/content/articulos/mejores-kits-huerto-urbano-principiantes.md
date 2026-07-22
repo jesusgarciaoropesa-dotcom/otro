@@ -19,7 +19,7 @@ Un kit de huerto urbano reúne en una sola compra los elementos básicos para em
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto urbano para principiantes visto desde arriba: macetas de terracota, saco de sustrato, sobres de semillas, pala de mano, guantes y regadera" /><figcaption>Lo básico para empezar: macetas, sustrato, semillas y unas pocas herramientas</figcaption></figure>
 
 ## 1. Kits básicos de aromáticas en maceta
 

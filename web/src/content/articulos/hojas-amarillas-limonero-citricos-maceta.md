@@ -16,7 +16,7 @@ faq:
 
 El limonero es uno de los frutales más queridos en balcón, y también uno de los que más avisa cuando algo va mal: sus hojas se ponen amarillas a la mínima. La buena noticia es que el **patrón del amarilleo** te dice bastante bien qué le pasa.
 
-<figure><img src="/images/articulos/limonero-hojas-amarillas.jpg" alt="Limonero en maceta con hojas amarillas, algunas con los nervios aún verdes (clorosis)" /><figcaption>El limonero avisa con hojas amarillas: el patrón ayuda a identificar la causa.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/limonero-hojas-amarillas.jpg" alt="Limonero en maceta con hojas amarillas, algunas con los nervios aún verdes (clorosis)" /><figcaption>El limonero avisa con hojas amarillas: el patrón ayuda a identificar la causa.</figcaption></figure>
 
 ## Amarilleo entre nervios (nervios verdes): falta de hierro
 

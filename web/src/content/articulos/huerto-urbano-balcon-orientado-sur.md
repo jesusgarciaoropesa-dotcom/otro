@@ -9,7 +9,7 @@ pubDate: 2026-05-17
 
 Un balcón orientado al sur es, en principio, el mejor escenario posible para un huerto urbano: recibe sol directo durante buena parte del día en la mayoría de estaciones. El reto aquí no es la falta de luz, sino gestionar bien el calor y el riego que esa exposición exige.
 
-<figure><img src="/images/articulos/balcon-orientado-sur.jpg" alt="Balcón orientado al sur a pleno sol de mediodía con tomateras y pimientos frondosos en macetas" /><figcaption>Un balcón al sur da sol de sobra para tomates, pimientos y berenjenas</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-orientado-sur.jpg" alt="Balcón orientado al sur a pleno sol de mediodía con tomateras y pimientos frondosos en macetas" /><figcaption>Un balcón al sur da sol de sobra para tomates, pimientos y berenjenas</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

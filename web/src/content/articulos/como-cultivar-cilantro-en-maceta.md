@@ -9,7 +9,7 @@ pubDate: 2026-04-26
 
 El cilantro es una de las aromáticas más utilizadas en cocina, pero también una de las que más rápido se "sube a flor" si no se maneja bien el riego y la temperatura, dejando de producir hojas aprovechables.
 
-<figure><img src="/images/articulos/cultivo-cilantro-maceta.jpg" alt="Mata de cilantro con hojas verdes y pequeñas flores blancas en una maceta en un balcón" /><figcaption>Cilantro en maceta; cuando florece, la hoja pierde sabor</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-cilantro-maceta.jpg" alt="Mata de cilantro con hojas verdes y pequeñas flores blancas en una maceta en un balcón" /><figcaption>Cilantro en maceta; cuando florece, la hoja pierde sabor</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

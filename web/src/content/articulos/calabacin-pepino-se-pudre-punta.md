@@ -16,7 +16,7 @@ faq:
 
 Sale un calabacín (o pepino) prometedor y, cuando esperas que engorde, **amarillea desde la punta, se ablanda y se pudre**. Es de los problemas más típicos de las cucurbitáceas en balcón, y casi siempre tiene que ver con la **polinización** o con el exceso de humedad.
 
-<figure><img src="/images/articulos/calabacin-podrido-punta.jpg" alt="Calabacín pequeño pudriéndose y amarilleando desde la punta de la flor en una maceta de balcón" /><figcaption>El calabacín se pudre por la punta cuando la polinización ha sido incompleta.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/calabacin-podrido-punta.jpg" alt="Calabacín pequeño pudriéndose y amarilleando desde la punta de la flor en una maceta de balcón" /><figcaption>El calabacín se pudre por la punta cuando la polinización ha sido incompleta.</figcaption></figure>
 
 ## Causa principal: polinización incompleta
 

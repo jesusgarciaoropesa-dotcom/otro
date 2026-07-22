@@ -16,7 +16,7 @@ faq:
 
 En el suelo de un huerto hay una despensa enorme de nutrientes; en una maceta, no. Ese pequeño volumen de sustrato **se agota rápido**, así que el abonado deja de ser opcional y pasa a ser una de las claves para que tus plantas produzcan. La cuestión es cuándo, con qué y cuánto.
 
-<figure><img src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Aplicando humus de lombriz como abono en una maceta del huerto de balcón" /><figcaption>En maceta el sustrato se agota rápido: reponer nutrientes con regularidad es esencial</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Aplicando humus de lombriz como abono en una maceta del huerto de balcón" /><figcaption>En maceta el sustrato se agota rápido: reponer nutrientes con regularidad es esencial</figcaption></figure>
 
 ## Por qué en maceta hay que abonar sí o sí
 

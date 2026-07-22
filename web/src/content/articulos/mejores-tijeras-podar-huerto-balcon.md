@@ -16,7 +16,7 @@ faq:
 
 Unas buenas tijeras de podar son la herramienta que más vas a usar en el balcón: para despuntar tomateras, cortar aromáticas, recolectar o dar forma a un frutal en maceta. Estas son las opciones según lo que cortes y cuánto quieras invertir.
 
-<figure><img src="/images/articulos/podar-frutal-maceta.jpg" alt="Podando un frutal en maceta con tijeras de podar de bypass en un balcón" /><figcaption>Un corte limpio con la tijera adecuada evita dañar la planta y previene enfermedades</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/podar-frutal-maceta.jpg" alt="Podando un frutal en maceta con tijeras de podar de bypass en un balcón" /><figcaption>Un corte limpio con la tijera adecuada evita dañar la planta y previene enfermedades</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

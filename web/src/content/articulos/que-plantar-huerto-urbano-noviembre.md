@@ -16,7 +16,7 @@ faq:
 
 Noviembre marca la entrada del invierno en el huerto de balcón. La actividad baja, pero no se detiene: es momento de las **últimas plantaciones resistentes al frío** y de proteger lo que hay de las primeras heladas. Un mes tranquilo, ideal para dejar el huerto encarrilado hacia el año siguiente.
 
-<figure><img src="/images/articulos/cultivo-guisantes-maceta.jpg" alt="Planta de guisantes trepando por una caña en una maceta de balcón en otoño" /><figcaption>Guisantes, habas y ajos son las plantaciones típicas de noviembre</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-guisantes-maceta.jpg" alt="Planta de guisantes trepando por una caña en una maceta de balcón en otoño" /><figcaption>Guisantes, habas y ajos son las plantaciones típicas de noviembre</figcaption></figure>
 
 ## Qué sembrar y plantar en noviembre
 

@@ -16,7 +16,7 @@ faq:
 
 La jardinera es la base de un huerto de balcón bien aprovechado: la que decide cuánto puedes cultivar y cuánto tendrás que regar. Estas son las opciones según tu espacio y cuánto quieras simplificarte el riego.
 
-<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con aromáticas colgada de la barandilla de un balcón" /><figcaption>Las jardineras de barandilla aprovechan un espacio que de otro modo quedaría vacío</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con aromáticas colgada de la barandilla de un balcón" /><figcaption>Las jardineras de barandilla aprovechan un espacio que de otro modo quedaría vacío</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

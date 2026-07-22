@@ -77,6 +77,11 @@ body {
   border-radius: 1rem;
   box-shadow: 0 8px 24px -8px rgb(0 0 0 / 0.25);
   margin: 1.75rem 0;
+  /* Con los atributos width/height en el HTML (para reservar espacio y evitar
+     saltos de layout), forzamos ancho fluido y alto proporcional para que no
+     se deformen en pantallas estrechas. */
+  width: 100%;
+  height: auto;
 }
 .prose figure {
   margin: 1.75rem 0;

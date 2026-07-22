@@ -16,7 +16,7 @@ faq:
 
 El mildiu es la enfermedad que más respeto da al cultivador de tomate, y con razón: en condiciones húmedas puede pasar de una mancha a arrasar la planta en pocos días. Identificarlo pronto es la diferencia entre frenarlo y perder la cosecha.
 
-<figure><img src="/images/articulos/mildiu-tomatera.jpg" alt="Hojas de tomatera con manchas marrones y verdosas de mildiu que las van secando" /><figcaption>Las manchas marrones de aspecto aceitoso delatan el mildiu en la tomatera.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mildiu-tomatera.jpg" alt="Hojas de tomatera con manchas marrones y verdosas de mildiu que las van secando" /><figcaption>Las manchas marrones de aspecto aceitoso delatan el mildiu en la tomatera.</figcaption></figure>
 
 ## Cómo reconocer el mildiu
 

@@ -16,7 +16,7 @@ faq:
 
 Un pulverizador es una de esas herramientas humildes que usas más de lo que crees: para tratamientos ecológicos, humedecer semilleros, subir la humedad o dar un riego foliar. Elegir el adecuado hace que los tratamientos se repartan bien y de verdad funcionen.
 
-<figure><img src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Aplicando un tratamiento con pulverizador sobre una tomatera en maceta en un balcón" /><figcaption>Un buen pulverizador reparte el tratamiento de forma uniforme, clave para que haga efecto</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Aplicando un tratamiento con pulverizador sobre una tomatera en maceta en un balcón" /><figcaption>Un buen pulverizador reparte el tratamiento de forma uniforme, clave para que haga efecto</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

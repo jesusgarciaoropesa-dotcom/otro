@@ -19,7 +19,7 @@ Ver hormigas subiendo y bajando por las macetas preocupa, pero rara vez son el p
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 <figure>
-  <img src="/images/articulos/hormigas-macetas-balcon.jpg" alt="Hormigas recorriendo el borde de una maceta de terracota en un balcón" />
+  <img width="1200" height="670" src="/images/articulos/hormigas-macetas-balcon.jpg" alt="Hormigas recorriendo el borde de una maceta de terracota en un balcón" />
   <figcaption>Las hormigas en la maceta suelen ser el síntoma, no la causa.</figcaption>
 </figure>
 

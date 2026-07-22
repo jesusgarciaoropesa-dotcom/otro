@@ -16,7 +16,7 @@ faq:
 
 Las flores comestibles son un tres en uno perfecto para el balcón: **decoran**, **atraen polinizadores** que ayudan a tu huerto y, encima, **se comen**. Son fáciles de cultivar, florecen durante meses y le dan color y sabor a ensaladas y platos.
 
-<figure><img src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de balcón con aromáticas y flores comestibles junto a la barandilla" /><figcaption>Unas flores comestibles entre las macetas atraen polinizadores y alegran el balcón</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de balcón con aromáticas y flores comestibles junto a la barandilla" /><figcaption>Unas flores comestibles entre las macetas atraen polinizadores y alegran el balcón</figcaption></figure>
 
 ## Aviso importante antes de empezar
 

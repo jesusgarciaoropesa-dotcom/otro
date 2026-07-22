@@ -16,7 +16,7 @@ faq:
 
 En un balcón muy soleado, el calor de verano puede ser tan dañino como la falta de agua. Una malla de sombreo bien elegida reduce el estrés de las plantas, evita que las hojas se quemen y frena que los cultivos de hoja espiguen. Estas son las opciones según tu balcón.
 
-<figure><img src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con plantas protegidas del sol intenso del verano con sombreo" /><figcaption>Una malla de sombreo en las horas centrales protege el huerto en los meses de más calor</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón con plantas protegidas del sol intenso del verano con sombreo" /><figcaption>Una malla de sombreo en las horas centrales protege el huerto en los meses de más calor</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

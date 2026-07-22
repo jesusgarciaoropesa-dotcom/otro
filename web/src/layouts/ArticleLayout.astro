@@ -35,6 +35,8 @@ interface Props {
   headings?: Heading[];
   minutosLectura?: number;
   faq?: FaqItem[];
+  /** Imagen propia del artículo (para OG/Twitter y JSON-LD). */
+  imagen?: string;
 }
 
 const {
@@ -49,9 +51,12 @@ const {
   headings = [],
   minutosLectura,
   faq = [],
+  imagen,
 } = Astro.props;
 const cat = getCategoria(categoria);
 const imagenCategoria = cat ? getCategoriaImagen(cat.slug) : undefined;
+// Preferimos la foto propia del artículo; si no la hay, la de la categoría.
+const imagenOg = imagen ?? imagenCategoria;
 
 const etiquetaIntencion: Record<typeof intencion, string> = {
   informativa: 'Guía informativa',
@@ -60,7 +65,7 @@ const etiquetaIntencion: Record<typeof intencion, string> = {
 };
 
 const articleURL = new URL(withBase(`/articulos/${slug}/`), Astro.site);
-const imageURL = imagenCategoria ? new URL(withBase(imagenCategoria), Astro.site) : undefined;
+const imageURL = imagenOg ? new URL(withBase(imagenOg), Astro.site) : undefined;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -100,7 +105,7 @@ const faqLd =
     : undefined;
 ---
 
-<BaseLayout title={title} description={description} image={imagenCategoria}>
+<BaseLayout title={title} description={description} image={imagenOg}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />}

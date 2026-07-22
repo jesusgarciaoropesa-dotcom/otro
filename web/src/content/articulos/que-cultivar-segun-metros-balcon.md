@@ -16,7 +16,7 @@ faq:
 
 Una de las creencias más extendidas —y más falsas— es que hace falta una terraza grande para cultivar. La realidad es que **con cualquier espacio se puede tener huerto**; solo cambia qué plantas y cómo aprovechas los metros. Esta guía te orienta según lo que tengas.
 
-<figure><img src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón aprovechado con muchas macetas y cultivo vertical para exprimir el espacio" /><figcaption>Aprovechando la vertical, hasta un balcón pequeño da una cosecha sorprendente</figcaption></figure>
+<figure><img width="1200" height="654" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón aprovechado con muchas macetas y cultivo vertical para exprimir el espacio" /><figcaption>Aprovechando la vertical, hasta un balcón pequeño da una cosecha sorprendente</figcaption></figure>
 
 ## Menos de 1 m²: un rincón o una barandilla
 

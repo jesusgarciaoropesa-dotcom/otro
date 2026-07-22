@@ -18,7 +18,7 @@ Antes de recurrir a insecticidas químicos, estos son los productos ecológicos 
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/tratamientos-ecologicos-tomatera.jpg" alt="Pulverizador de presión previa y botes de tratamiento ecológico junto a una tomatera entutorada en un balcón" /><figcaption>El equipo básico para tratamientos ecológicos: pulverizador de presión previa y productos aplicados sobre la planta</figcaption></figure>
 
 ## 1. Jabón potásico insecticida
 
@@ -40,7 +40,7 @@ El más versátil junto con el jabón potásico: además de actuar por contacto,
 
 Un método pasivo y muy barato: la mosca blanca y otros insectos voladores se sienten atraídos por el color amarillo y quedan atrapados en la superficie adhesiva. Además de reducir población, sirven como indicador para monitorizar si una plaga va a más o a menos sin necesidad de revisar planta por planta a diario.
 
-<figure><img src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa adhesiva amarilla sujeta con una pinza a un tutor junto a una tomatera en maceta, con insectos atrapados" /><figcaption>Una trampa amarilla captura adultos voladores y ayuda a monitorizar la plaga</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa adhesiva amarilla sujeta con una pinza a un tutor junto a una tomatera en maceta, con insectos atrapados" /><figcaption>Una trampa amarilla captura adultos voladores y ayuda a monitorizar la plaga</figcaption></figure>
 
 **Recomendadas para**: mosca blanca, monitorización preventiva.
 

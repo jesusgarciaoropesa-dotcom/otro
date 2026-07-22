@@ -18,7 +18,7 @@ Los sistemas de riego con control desde el móvil añaden dos capacidades que un
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/riego-control-app-movil.jpg" alt="Mano sosteniendo un móvil frente a un balcón con macetas conectadas a riego por goteo con programador" /><figcaption>Control del riego desde el móvil, con la instalación de goteo detrás</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/riego-control-app-movil.jpg" alt="Mano sosteniendo un móvil frente a un balcón con macetas conectadas a riego por goteo con programador" /><figcaption>Control del riego desde el móvil, con la instalación de goteo detrás</figcaption></figure>
 
 ## 1. Programadores wifi con control básico por app
 

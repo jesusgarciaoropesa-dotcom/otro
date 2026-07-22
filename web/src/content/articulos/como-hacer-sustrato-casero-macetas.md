@@ -16,7 +16,7 @@ faq:
 
 Comprar sustrato en saco es cómodo, pero prepararlo tú sale **más barato**, te deja ajustarlo a cada cultivo y aprovecha tu propio compost. Con tres tipos de ingredientes y unas proporciones sencillas, tendrás una mezcla mejor que muchas comerciales.
 
-<figure><img src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Mezclando sustrato con perlita y compost para preparar una mezcla casera para macetas" /><figcaption>Un buen sustrato casero combina base, aireante y materia orgánica</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Mezclando sustrato con perlita y compost para preparar una mezcla casera para macetas" /><figcaption>Un buen sustrato casero combina base, aireante y materia orgánica</figcaption></figure>
 
 ## Los tres ingredientes de todo buen sustrato
 

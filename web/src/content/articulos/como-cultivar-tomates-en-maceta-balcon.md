@@ -9,7 +9,7 @@ pubDate: 2026-02-08
 
 El tomate es, junto con la albahaca, el cultivo estrella de cualquier huerto de balcón. Con la variedad y el cuidado adecuados, es perfectamente posible obtener una buena cosecha incluso en un espacio reducido.
 
-<figure><img src="/images/articulos/como-cultivar-tomates-en-maceta-balcon/tomatera-cherry-entutorada.jpg" alt="Tomatera cherry cargada de fruto, entutorada con una caña, en una maceta de terracota en un balcón" /><figcaption>Tomatera cherry entutorada, cargada de fruto, en maceta de balcón</figcaption></figure>
+<figure><img width="1210" height="752" src="/images/articulos/como-cultivar-tomates-en-maceta-balcon/tomatera-cherry-entutorada.jpg" alt="Tomatera cherry cargada de fruto, entutorada con una caña, en una maceta de terracota en un balcón" /><figcaption>Tomatera cherry entutorada, cargada de fruto, en maceta de balcón</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

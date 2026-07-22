@@ -9,7 +9,7 @@ pubDate: 2026-04-30
 
 Los arándanos son uno de los frutales de maceta más exigentes en cuanto a tipo de sustrato, pero con las condiciones adecuadas ofrecen una de las cosechas más satisfactorias de un huerto de balcón.
 
-<figure><img src="/images/articulos/cultivo-arandanos-maceta.jpg" alt="Arbusto de arándano con racimos de frutos azules maduros en una maceta de terracota en un balcón" /><figcaption>Arándano en maceta: necesita sustrato ácido y agua sin cal</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-arandanos-maceta.jpg" alt="Arbusto de arándano con racimos de frutos azules maduros en una maceta de terracota en un balcón" /><figcaption>Arándano en maceta: necesita sustrato ácido y agua sin cal</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

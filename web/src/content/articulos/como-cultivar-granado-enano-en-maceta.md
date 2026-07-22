@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 El granado enano combina dos ventajas poco habituales en un frutal: es de los más resistentes al calor y a la sequía puntual de todos, y además tiene una floración roja muy vistosa que lo hace decorativo incluso antes de dar fruto.
 
-<figure><img src="/images/articulos/cultivo-granado-enano-maceta.jpg" alt="Granado enano con granadas rojas maduras y flores naranjas en una maceta grande de terracota en una terraza" /><figcaption>Granado enano: granadas y flores naranjas en la misma planta</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-granado-enano-maceta.jpg" alt="Granado enano con granadas rojas maduras y flores naranjas en una maceta grande de terracota en una terraza" /><figcaption>Granado enano: granadas y flores naranjas en la misma planta</figcaption></figure>
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

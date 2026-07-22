@@ -18,7 +18,7 @@ El sustrato de una maceta se agota de nutrientes mucho antes que la tierra de un
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Mano esparciendo humus de lombriz sobre el sustrato de una maceta con una tomatera joven en un balcón" /><figcaption>Aplicando humus de lombriz como abono de fondo en una tomatera joven</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Mano esparciendo humus de lombriz sobre el sustrato de una maceta con una tomatera joven en un balcón" /><figcaption>Aplicando humus de lombriz como abono de fondo en una tomatera joven</figcaption></figure>
 
 ## 1. Humus de lombriz
 

@@ -16,7 +16,7 @@ faq:
 
 Agosto es un mes de contrastes en el huerto de balcón: por un lado hay que sostener los cultivos de verano en pleno pico de calor, y por otro es el momento de empezar a preparar la gran siembra de otoño. Con la estrategia adecuada, no es un mes de parón, sino de transición.
 
-<figure><img src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga en maceta en un balcón, cultivo de hoja para sembrar de cara al otoño" /><figcaption>Las hojas de otoño se empiezan a preparar en agosto, mejor en semillero a la sombra</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Lechuga en maceta en un balcón, cultivo de hoja para sembrar de cara al otoño" /><figcaption>Las hojas de otoño se empiezan a preparar en agosto, mejor en semillero a la sombra</figcaption></figure>
 
 ## Siembra pensando en el otoño
 

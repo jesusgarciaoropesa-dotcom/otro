@@ -16,7 +16,7 @@ faq:
 
 El viento es el enemigo silencioso de los balcones altos. No hace tanto ruido como una plaga, pero **reseca, tumba y frena** las plantas día tras día. Si tu balcón está expuesto o en un piso alto, protegerlo del viento puede ser la diferencia entre un huerto que prospera y uno que siempre va justo.
 
-<figure><img src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Jardineras junto a una pared en un balcón, colocación que ayuda a resguardar las plantas del viento" /><figcaption>Aprovechar paredes y esquinas resguardadas protege las plantas del viento constante</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Jardineras junto a una pared en un balcón, colocación que ayuda a resguardar las plantas del viento" /><figcaption>Aprovechar paredes y esquinas resguardadas protege las plantas del viento constante</figcaption></figure>
 
 ## Por qué el viento hace daño
 

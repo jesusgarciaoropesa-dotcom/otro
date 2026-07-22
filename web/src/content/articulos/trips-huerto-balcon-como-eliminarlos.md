@@ -16,7 +16,7 @@ faq:
 
 Si tus hojas amanecen con un aspecto **plateado y salpicado de puntitos negros**, probablemente tengas trips: una plaga diminuta pero molesta que conviene atajar pronto, sobre todo por los virus que puede transmitir.
 
-<figure><img src="/images/articulos/trips-hoja.jpg" alt="Hoja con manchas plateadas y puntitos negros diminutos, daño característico de los trips" /><figcaption>Los trips dejan las hojas plateadas y salpicadas de puntitos negros.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trips-hoja.jpg" alt="Hoja con manchas plateadas y puntitos negros diminutos, daño característico de los trips" /><figcaption>Los trips dejan las hojas plateadas y salpicadas de puntitos negros.</figcaption></figure>
 
 ## Cómo reconocer los trips
 

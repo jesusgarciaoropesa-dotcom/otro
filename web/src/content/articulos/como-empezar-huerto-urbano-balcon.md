@@ -12,7 +12,7 @@ Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimien
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
-<figure><img src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
 
 ## 1. Evalúa cuánta luz recibe tu balcón
 

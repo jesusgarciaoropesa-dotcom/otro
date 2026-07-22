@@ -9,7 +9,7 @@ pubDate: 2026-04-07
 
 El exceso de riego es, junto con la falta de él, una de las causas más comunes de plantas enfermas en un huerto de balcón, y a menudo se confunde con falta de agua porque los síntomas visuales (hojas caídas, amarillas) son similares.
 
-<figure><img src="/images/articulos/exceso-riego-hongo-maceta.jpg" alt="Planta en maceta con el sustrato encharcado, aspecto mustio y moho blanco en la superficie de la tierra" /><figcaption>Sustrato encharcado y moho: señales claras de exceso de riego</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/exceso-riego-hongo-maceta.jpg" alt="Planta en maceta con el sustrato encharcado, aspecto mustio y moho blanco en la superficie de la tierra" /><figcaption>Sustrato encharcado y moho: señales claras de exceso de riego</figcaption></figure>
 
 ## Cómo saber si el problema es exceso y no falta de riego
 

@@ -19,7 +19,7 @@ El brócoli es un cultivo de otoño-invierno muy agradecido en maceta si le das 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 <figure>
-  <img src="/images/articulos/brocoli-maceta.jpg" alt="Planta de brócoli con su pella central formada en una maceta de balcón" />
+  <img width="1200" height="670" src="/images/articulos/brocoli-maceta.jpg" alt="Planta de brócoli con su pella central formada en una maceta de balcón" />
   <figcaption>Con una maceta grande, una sola planta de brócoli cunde toda la temporada.</figcaption>
 </figure>
 

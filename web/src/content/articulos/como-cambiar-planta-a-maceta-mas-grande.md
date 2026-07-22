@@ -9,7 +9,7 @@ pubDate: 2026-07-07
 
 Casi todas nuestras guías de frutales y plantas perennes mencionan "ve trasplantando a una maceta mayor cada 2-3 años", pero pocas veces se explica cómo hacerlo bien. El trasplante de mantenimiento (distinto al de plántula recién germinada) tiene sus propias señales y su propia técnica.
 
-<figure><img src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
 
 ## Señales de que necesita una maceta más grande
 
