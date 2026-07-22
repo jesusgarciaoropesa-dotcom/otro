@@ -14,13 +14,23 @@ const tipoEtiqueta: Record<string, string> = {
   fruta: 'Fruta',
 };
 
-// Datos que pasamos al script de cliente, con la URL y la etiqueta ya resueltas.
+// Familias con más de un cultivo: para avisar de "no juntar misma familia".
+const conteoFamilias: Record<string, number> = {};
+for (const c of cultivos) conteoFamilias[c.familia] = (conteoFamilias[c.familia] || 0) + 1;
+
+// Datos que pasamos al script de cliente, con la URL y las etiquetas ya resueltas.
 const datos = cultivos.map((c) => ({
   nombre: c.nombre,
   luz: c.luz,
   meses: c.meses,
   nota: c.nota,
+  tipo: c.tipo,
   tipoLabel: tipoEtiqueta[c.tipo],
+  familia: c.familia,
+  facil: c.facil,
+  dias: c.dias ?? null,
+  buenas: c.buenas ?? [],
+  evitaMisma: conteoFamilias[c.familia] > 1,
   url: withBase(`/articulos/${c.slug}/`),
 }));
 
@@ -32,11 +42,20 @@ const breadcrumbLd = {
     { '@type': 'ListItem', position: 2, name: 'Qué plantar en tu balcón', item: new URL(withBase('/que-plantar-en-tu-balcon/'), Astro.site).toString() },
   ],
 };
+
+const tipos = [
+  { val: 'todos', label: 'Todos' },
+  { val: 'hortaliza', label: 'Hortalizas' },
+  { val: 'hoja', label: 'Hojas' },
+  { val: 'raiz', label: 'Raíces' },
+  { val: 'aromatica', label: 'Aromáticas' },
+  { val: 'fruta', label: 'Frutas' },
+];
 ---
 
 <BaseLayout
   title="Qué plantar en tu balcón: calculadora"
-  description="Calculadora para saber qué cultivar en tu balcón según las horas de sol que recibe y el mes del año. Te decimos qué plantar ahora y te enlazamos su guía."
+  description="Calculadora para saber qué cultivar en tu balcón según las horas de sol y el mes. Filtra por tipo, dificultad y rapidez, y descubre qué plantas se llevan bien entre sí."
 >
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
 
@@ -52,7 +71,8 @@ const breadcrumbLd = {
     </h1>
     <p class="mt-3 max-w-2xl text-stone-600">
       Dinos cuánta luz recibe tu balcón y en qué mes estás, y te decimos qué cultivos puedes
-      plantar ahora mismo. Cada resultado enlaza con su guía completa.
+      plantar ahora mismo. Filtra por tipo, dificultad o rapidez, y mira con qué se lleva bien
+      cada planta. Cada resultado enlaza con su guía completa.
     </p>
   </header>
 
@@ -93,6 +113,20 @@ const breadcrumbLd = {
       <p class="mt-2 text-xs text-stone-500">
         Meses de siembra o plantación para clima mediterráneo; ajusta 2-3 semanas según tu zona.
       </p>
+
+      <fieldset class="mt-5">
+        <legend class="mb-2 text-sm font-semibold uppercase tracking-wide text-stone-500">Tipo de cultivo</legend>
+        <div class="flex flex-wrap gap-2" id="tipo-group">
+          {tipos.map((t) => (
+            <button type="button" data-tipo={t.val} class="tipo-btn rounded-full border border-stone-200 px-3 py-1.5 text-sm text-stone-700 transition hover:border-(--color-hoja)" aria-pressed={t.val === 'todos' ? 'true' : 'false'}>{t.label}</button>
+          ))}
+        </div>
+      </fieldset>
+
+      <div class="mt-5 flex flex-wrap gap-2">
+        <button type="button" id="facil-btn" class="filtro-toggle rounded-full border border-stone-200 px-3 py-1.5 text-sm text-stone-700 transition hover:border-(--color-hoja)" aria-pressed="false">🌱 Solo fáciles</button>
+        <button type="button" id="rapido-btn" class="filtro-toggle rounded-full border border-stone-200 px-3 py-1.5 text-sm text-stone-700 transition hover:border-(--color-hoja)" aria-pressed="false">⚡ Cosecha rápida</button>
+      </div>
     </fieldset>
   </div>
 
@@ -100,15 +134,20 @@ const breadcrumbLd = {
     <p id="resultado-contador" class="mb-4 text-sm font-semibold text-(--color-hoja-oscuro)"></p>
     <ul id="resultado-lista" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"></ul>
     <p id="resultado-vacio" class="hidden rounded-2xl bg-(--color-crema-oscuro) p-6 text-center text-stone-600">
-      Con esa combinación de luz y mes no hay cultivos recomendados. Prueba con otro mes, o consulta
+      Con esos filtros no hay cultivos recomendados. Prueba a quitar alguno o a cambiar el mes, o consulta
       nuestro <a href={withBase('/articulos/calendario-siembra-completo-mes-a-mes/')} class="text-(--color-tierra) underline">calendario de siembra completo</a>.
     </p>
   </div>
 
   <div class="mt-10 rounded-2xl border border-(--color-mostaza)/40 bg-white p-5 text-sm text-stone-600 sm:p-6">
     <p>
-      Esta calculadora es una guía orientativa basada en las horas de sol y la época del año. Para
-      empezar con buen pie, no te pierdas <a href={withBase('/articulos/como-empezar-huerto-urbano-balcon/')} class="font-medium text-(--color-tierra) hover:underline">cómo montar tu primer huerto de balcón</a>
+      <strong>Sobre la compatibilidad:</strong> en cada resultado te decimos con qué cultivos se
+      lleva bien y cuáles conviene no juntar (los de su misma familia agotan lo mismo y comparten
+      plagas). Amplía el tema en nuestra guía de
+      <a href={withBase('/articulos/asociacion-cultivos-maceta-balcon/')} class="font-medium text-(--color-tierra) hover:underline">asociación de cultivos en maceta</a>.
+    </p>
+    <p class="mt-2">
+      Para empezar con buen pie, no te pierdas <a href={withBase('/articulos/como-empezar-huerto-urbano-balcon/')} class="font-medium text-(--color-tierra) hover:underline">cómo montar tu primer huerto de balcón</a>
       y <a href={withBase('/articulos/mejor-sustrato-huerto-urbano-maceta/')} class="font-medium text-(--color-tierra) hover:underline">qué sustrato elegir</a>.
     </p>
   </div>
@@ -121,10 +160,16 @@ const breadcrumbLd = {
     const vacio = document.getElementById('resultado-vacio');
     const mesSelect = document.getElementById('mes-select');
     const luzBtns = Array.from(document.querySelectorAll('.luz-btn'));
+    const tipoBtns = Array.from(document.querySelectorAll('.tipo-btn'));
+    const facilBtn = document.getElementById('facil-btn');
+    const rapidoBtn = document.getElementById('rapido-btn');
 
-    // Estado: luz seleccionada (3 = mucho sol por defecto) y mes.
+    // Estado
     let luz = 3;
     let mes = parseInt(mesSelect.value, 10);
+    let tipo = 'todos';
+    let soloFacil = false;
+    let soloRapido = false;
 
     function pintarSeleccionLuz() {
       luzBtns.forEach((b) => {
@@ -137,16 +182,30 @@ const breadcrumbLd = {
       });
     }
 
+    function pintarChip(btn, activo) {
+      btn.setAttribute('aria-pressed', activo ? 'true' : 'false');
+      btn.classList.toggle('bg-(--color-hoja-oscuro)', activo);
+      btn.classList.toggle('text-white', activo);
+      btn.classList.toggle('border-(--color-hoja-oscuro)', activo);
+      btn.classList.toggle('text-stone-700', !activo);
+    }
+
+    function pintarTipos() {
+      tipoBtns.forEach((b) => pintarChip(b, b.dataset.tipo === tipo));
+    }
+
     function nivel(luzCultivo) {
       return { sombra: 1, media: 2, pleno: 3 }[luzCultivo];
     }
 
     function render() {
-      // Un balcón con más luz puede con los cultivos que piden esa luz o menos.
       const filtrados = datos.filter((c) => {
         const cabeLuz = luz >= nivel(c.luz);
         const cabeMes = mes === 0 || c.meses.includes(mes);
-        return cabeLuz && cabeMes;
+        const cabeTipo = tipo === 'todos' || c.tipo === tipo;
+        const cabeFacil = !soloFacil || c.facil;
+        const cabeRapido = !soloRapido || (c.dias && c.dias <= 60);
+        return cabeLuz && cabeMes && cabeTipo && cabeFacil && cabeRapido;
       });
 
       lista.innerHTML = '';
@@ -160,14 +219,33 @@ const breadcrumbLd = {
 
       for (const c of filtrados) {
         const li = document.createElement('li');
+
+        const diasHtml = (c.dias && c.dias <= 120)
+          ? '<span class="shrink-0 rounded-full bg-(--color-crema-oscuro) px-2 py-0.5 text-xs text-stone-600">🕒 ~' + c.dias + ' días</span>'
+          : '';
+        const facilHtml = c.facil
+          ? '<span class="shrink-0 rounded-full bg-(--color-hoja)/15 px-2 py-0.5 text-xs font-medium text-(--color-hoja-oscuro)">🌱 Fácil</span>'
+          : '';
+
+        let compatHtml = '';
+        if (c.buenas && c.buenas.length) {
+          compatHtml += '<p class="mt-1 text-xs text-stone-600"><span class="font-semibold text-(--color-hoja-oscuro)">🤝 Va bien con:</span> ' + c.buenas.join(', ') + '</p>';
+        }
+        if (c.evitaMisma) {
+          compatHtml += '<p class="mt-0.5 text-xs text-stone-500"><span class="font-semibold text-(--color-tierra)">⚠️ Evita:</span> otras ' + c.familia.toLowerCase() + '</p>';
+        }
+
         li.innerHTML =
           '<a href="' + c.url + '" class="flex h-full flex-col gap-2 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl">' +
-            '<div class="flex items-center justify-between gap-2">' +
-              '<h3 class="font-semibold text-stone-900">' + c.nombre + '</h3>' +
+            '<div class="flex flex-wrap items-center gap-2">' +
+              '<h3 class="mr-auto font-semibold text-stone-900">' + c.nombre + '</h3>' +
               '<span class="shrink-0 rounded-full bg-(--color-crema-oscuro) px-2 py-0.5 text-xs text-stone-600">' + (c.tipoLabel || '') + '</span>' +
+              facilHtml +
             '</div>' +
+            (diasHtml ? '<div class="flex flex-wrap gap-2">' + diasHtml + '</div>' : '') +
             '<p class="text-sm text-stone-600">' + c.nota + '</p>' +
-            '<span class="mt-auto text-sm font-medium text-(--color-tierra)">Ver guía →</span>' +
+            compatHtml +
+            '<span class="mt-auto pt-1 text-sm font-medium text-(--color-tierra)">Ver guía →</span>' +
           '</a>';
         lista.appendChild(li);
       }
@@ -178,12 +256,28 @@ const breadcrumbLd = {
       pintarSeleccionLuz();
       render();
     }));
+    tipoBtns.forEach((b) => b.addEventListener('click', () => {
+      tipo = b.dataset.tipo;
+      pintarTipos();
+      render();
+    }));
+    facilBtn.addEventListener('click', () => {
+      soloFacil = !soloFacil;
+      pintarChip(facilBtn, soloFacil);
+      render();
+    });
+    rapidoBtn.addEventListener('click', () => {
+      soloRapido = !soloRapido;
+      pintarChip(rapidoBtn, soloRapido);
+      render();
+    });
     mesSelect.addEventListener('change', () => {
       mes = parseInt(mesSelect.value, 10);
       render();
     });
 
     pintarSeleccionLuz();
+    pintarTipos();
     render();
   </script>
 </BaseLayout>
