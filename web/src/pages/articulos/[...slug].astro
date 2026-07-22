@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { primeraImagen } from '../../lib/articuloImagen';
 
 export async function getStaticPaths() {
   const articulos = await getCollection('articulos');
@@ -17,7 +18,8 @@ const todos = await getCollection('articulos');
 const relacionados = todos
   .filter((a) => a.data.categoria === articulo.data.categoria && a.id !== articulo.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+  .slice(0, 3)
+  .map((a) => ({ id: a.id, data: a.data, imagen: primeraImagen(a.body) }));
 
 // ~200 palabras/minuto de lectura, mínimo 1 minuto
 const palabras = articulo.body?.split(/\s+/).length ?? 0;

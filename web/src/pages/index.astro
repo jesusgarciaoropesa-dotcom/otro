@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { categorias, getCategoriaImagen } from '../data/categorias';
+import { imagenTarjeta } from '../lib/articuloImagen';
 import { withBase } from '../lib/url';
 import { getCollection } from 'astro:content';
 
@@ -123,7 +124,7 @@ const websiteLd = {
           >
             <div class="relative h-40 overflow-hidden">
               <img
-                src={withBase(getCategoriaImagen(a.data.categoria))}
+                src={withBase(imagenTarjeta(a.body, getCategoriaImagen(a.data.categoria)))}
                 alt=""
                 loading="lazy"
                 class="h-full w-full object-cover transition duration-500 group-hover:scale-110"
@@ -180,7 +181,7 @@ const websiteLd = {
             <li class="reveal" style={`transition-delay: ${i * 120}ms`}>
               <a href={withBase(`/articulos/${a.id}/`)} class="flex items-center gap-4 px-5 py-4 transition hover:bg-(--color-crema)">
                 <img
-                  src={withBase(getCategoriaImagen(a.data.categoria))}
+                  src={withBase(imagenTarjeta(a.body, getCategoriaImagen(a.data.categoria)))}
                   alt=""
                   loading="lazy"
                   class="h-14 w-20 shrink-0 rounded-lg object-cover shadow-sm"

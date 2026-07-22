@@ -9,6 +9,7 @@ import { withBase } from '../lib/url';
 interface ArticuloRelacionado {
   id: string;
   data: { title: string; description: string };
+  imagen?: string;
 }
 
 interface Heading {
@@ -218,9 +219,9 @@ const faqLd =
               href={withBase(`/articulos/${a.id}/`)}
               class="flex h-full flex-col gap-2 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl"
             >
-              {imagenCategoria && (
+              {(a.imagen ?? imagenCategoria) && (
                 <img
-                  src={withBase(imagenCategoria)}
+                  src={withBase(a.imagen ?? imagenCategoria!)}
                   alt=""
                   loading="lazy"
                   class="h-28 w-full rounded-xl object-cover"

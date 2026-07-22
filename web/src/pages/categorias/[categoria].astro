@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { categorias, getCategoria, getCategoriaImagen } from '../../data/categorias';
+import { imagenTarjeta } from '../../lib/articuloImagen';
 import { withBase } from '../../lib/url';
 import { getCollection } from 'astro:content';
 
@@ -83,7 +84,7 @@ const etiquetaIntencion: Record<string, string> = {
         >
           <div class="relative h-48 shrink-0 overflow-hidden sm:h-auto sm:w-2/5">
             <img
-              src={withBase(getCategoriaImagen(cat.slug))}
+              src={withBase(imagenTarjeta(pilar.body, getCategoriaImagen(cat.slug)))}
               alt=""
               loading="lazy"
               class="h-full w-full object-cover transition duration-500 group-hover:scale-105"
@@ -112,7 +113,7 @@ const etiquetaIntencion: Record<string, string> = {
               class="flex h-full gap-4 rounded-2xl bg-white p-4 shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl"
             >
               <img
-                src={withBase(getCategoriaImagen(cat.slug))}
+                src={withBase(imagenTarjeta(a.body, getCategoriaImagen(cat.slug)))}
                 alt=""
                 loading="lazy"
                 class="h-20 w-24 shrink-0 rounded-xl object-cover"
