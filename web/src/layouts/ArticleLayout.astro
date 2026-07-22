@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import EquipoRecomendado from '../components/EquipoRecomendado.astro';
+import SerieCultivos from '../components/SerieCultivos.astro';
 import { getCategoria, getCategoriaImagen } from '../data/categorias';
 import { withBase } from '../lib/url';
 
@@ -204,6 +205,8 @@ const faqLd =
 
     <AdSlot adId="article-bottom" label="Publicidad" />
   </article>
+
+  <SerieCultivos slugActual={slug} />
 
   <EquipoRecomendado categoria={categoria} slugActual={slug} />
 

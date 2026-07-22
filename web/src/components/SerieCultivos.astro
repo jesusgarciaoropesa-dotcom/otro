@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import { getSerieDe } from '../data/series';
+import { primeraImagen } from '../lib/articuloImagen';
+import { getCategoriaImagen } from '../data/categorias';
+import { withBase } from '../lib/url';
+
+interface Props {
+  /** Id del artículo actual, para localizar su serie y no enlazarse a sí mismo. */
+  slugActual: string;
+}
+
+const { slugActual } = Astro.props;
+const serie = getSerieDe(slugActual);
+
+let hermanos: { id: string; title: string; imagen: string }[] = [];
+if (serie) {
+  const todos = await getCollection('articulos');
+  const porId = new Map(todos.map((a) => [a.id, a]));
+  hermanos = serie.articulos
+    .filter((id) => id !== slugActual && porId.has(id))
+    .map((id) => {
+      const a = porId.get(id)!;
+      return {
+        id,
+        title: a.data.title,
+        imagen: primeraImagen(a.body) ?? getCategoriaImagen(a.data.categoria),
+      };
+    });
+}
+---
+
+{serie && hermanos.length > 0 && (
+  <aside
+    aria-label={`Serie: ${serie.nombre}`}
+    class="not-prose mt-10 rounded-2xl border border-(--color-hoja)/30 bg-(--color-crema) p-5 shadow-md sm:p-6"
+  >
+    <div class="flex items-baseline justify-between gap-3">
+      <div>
+        <span class="text-xs font-semibold uppercase tracking-widest text-(--color-tierra)">De la misma serie</span>
+        <h2 class="mt-1 font-(--font-display) text-lg font-semibold text-(--color-hoja-oscuro)">
+          {serie.nombre}
+        </h2>
+      </div>
+    </div>
+    <p class="mt-1 text-sm text-stone-600">{serie.descripcion}</p>
+    <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {hermanos.map((h) => (
+        <li>
+          <a
+            href={withBase(`/articulos/${h.id}/`)}
+            class="group flex items-center gap-3 rounded-xl bg-white p-2.5 shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-md"
+          >
+            <img
+              src={withBase(h.imagen)}
+              alt=""
+              loading="lazy"
+              class="h-14 w-14 shrink-0 rounded-lg object-cover"
+            />
+            <span class="text-sm font-medium text-stone-800 group-hover:text-(--color-tierra)">
+              {h.title}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}

@@ -15,11 +15,64 @@ const { articulo } = Astro.props;
 const { Content, headings } = await render(articulo);
 
 const todos = await getCollection('articulos');
+
+// Relevancia: se puntúa cada artículo por TOKENS de palabra compartidos entre
+// sus keywords y su título (peso alto) y por pertenecer a la misma categoría
+// (peso menor). Al comparar palabras sueltas —y no frases completas— los
+// relacionados cruzan categorías cuando el tema encaja (p. ej. una plaga del
+// "tomate" enlaza con la ficha de cultivo del "tomate"), en vez de limitarse a
+// lo más reciente de la misma categoría.
+
+// Palabras demasiado comunes en todo el sitio: no aportan relevancia.
+const STOP = new Set([
+  'maceta', 'macetas', 'balcon', 'balcones', 'huerto', 'urbano', 'urbana', 'cultivar',
+  'cultivo', 'como', 'para', 'plantar', 'mejor', 'mejores', 'guia', 'casa', 'terraza',
+  'planta', 'plantas', 'hoja', 'hojas', 'sin', 'con', 'del', 'las', 'los', 'una', 'que',
+  'tus', 'este', 'esta', 'espacio', 'pequeno', 'pequenos', 'paso',
+]);
+
+const tokens = (a: (typeof todos)[number]): Set<string> => {
+  const texto = [...(a.data.keywords ?? []), a.data.title].join(' ');
+  const brutos = texto
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .split(/[^a-z0-9]+/)
+    .map((t) => t.replace(/s$/, '')) // plural simple: tomates -> tomate
+    .filter((t) => t.length >= 4 && !STOP.has(t) && !STOP.has(`${t}s`));
+  return new Set(brutos);
+};
+
+const tokensActual = tokens(articulo);
+
 const relacionados = todos
-  .filter((a) => a.data.categoria === articulo.data.categoria && a.id !== articulo.id)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .filter((a) => a.id !== articulo.id)
+  .map((a) => {
+    const compartidas = [...tokens(a)].filter((t) => tokensActual.has(t)).length;
+    const score = compartidas * 3 + (a.data.categoria === articulo.data.categoria ? 1 : 0);
+    return { a, score };
+  })
+  .filter((x) => x.score > 0)
+  .sort((x, y) => y.score - x.score || y.a.data.pubDate.valueOf() - x.a.data.pubDate.valueOf())
   .slice(0, 3)
-  .map((a) => ({ id: a.id, data: a.data, imagen: primeraImagen(a.body) }));
+  .map(({ a }) => ({ id: a.id, data: a.data, imagen: primeraImagen(a.body) }));
+
+// Respaldo: si por lo que sea no hay coincidencias, usa lo más reciente de la
+// misma categoría para no dejar la sección vacía.
+if (relacionados.length < 3) {
+  const yaIncluidos = new Set(relacionados.map((r) => r.id));
+  const relleno = todos
+    .filter(
+      (a) =>
+        a.data.categoria === articulo.data.categoria &&
+        a.id !== articulo.id &&
+        !yaIncluidos.has(a.id),
+    )
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+    .slice(0, 3 - relacionados.length)
+    .map((a) => ({ id: a.id, data: a.data, imagen: primeraImagen(a.body) }));
+  relacionados.push(...relleno);
+}
 
 // ~200 palabras/minuto de lectura, mínimo 1 minuto
 const palabras = articulo.body?.split(/\s+/).length ?? 0;

@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mihuertourbano.xyz/sitemap-index.xml
+Sitemap: https://mihuertourbano.xyz/sitemap-images.xml
