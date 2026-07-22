@@ -1,12 +1,45 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { withBase } from '../lib/url';
+
+// Schema de autor: refuerza el E-E-A-T (experiencia, pericia, autoridad y
+// confianza) declarando a la persona real detrás del sitio y sus perfiles.
+const perfilLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  mainEntity: {
+    '@type': 'Person',
+    name: 'Jesús',
+    url: new URL(withBase('/sobre-nosotros/'), Astro.site).toString(),
+    description:
+      'Fundador de MiHuertoUrbano. Cultiva en el balcón de su casa desde hace dos años y viene de familia de huerto (abuelo y padre). Comparte lo que de verdad funciona en maceta.',
+    knowsAbout: [
+      'huerto urbano',
+      'cultivo en maceta',
+      'huerto en balcón',
+      'riego de plantas',
+      'plagas del huerto',
+      'compostaje',
+    ],
+    worksFor: {
+      '@type': 'Organization',
+      name: 'MiHuertoUrbano',
+      url: 'https://mihuertourbano.xyz/',
+    },
+    sameAs: [
+      'https://www.instagram.com/mihuertourbano.xyz/',
+      'https://www.facebook.com/MiHuertoUrbano',
+      'https://www.pinterest.com/MiHuertoUrbanoxyz/',
+    ],
+  },
+};
 ---
 
 <BaseLayout
   title="Sobre nosotros"
   description="Quién está detrás de MiHuertoUrbano: Jesús, que lleva dos años cultivando en el balcón de su casa y comparte aquí lo que de verdad funciona en maceta."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(perfilLd)} slot="head" />
   <article class="prose prose-stone max-w-none">
     <h1>Sobre nosotros</h1>
 

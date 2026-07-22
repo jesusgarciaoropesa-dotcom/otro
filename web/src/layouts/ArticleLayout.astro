@@ -66,6 +66,8 @@ const etiquetaIntencion: Record<typeof intencion, string> = {
 
 const articleURL = new URL(withBase(`/articulos/${slug}/`), Astro.site);
 const imageURL = imagenOg ? new URL(withBase(imagenOg), Astro.site) : undefined;
+const autorURL = new URL(withBase('/sobre-nosotros/'), Astro.site).toString();
+const logoURL = new URL(withBase('/images/logo-full.png'), Astro.site).toString();
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -75,8 +77,12 @@ const jsonLd = {
   dateModified: (updatedDate ?? pubDate).toISOString(),
   ...(imageURL && { image: imageURL.toString() }),
   mainEntityOfPage: articleURL.toString(),
-  author: { '@type': 'Organization', name: 'MiHuertoUrbano' },
-  publisher: { '@type': 'Organization', name: 'MiHuertoUrbano' },
+  author: { '@type': 'Person', name: 'Jesús', url: autorURL },
+  publisher: {
+    '@type': 'Organization',
+    name: 'MiHuertoUrbano',
+    logo: { '@type': 'ImageObject', url: logoURL },
+  },
 };
 
 const breadcrumbLd = {
@@ -106,9 +112,11 @@ const faqLd =
 ---
 
 <BaseLayout title={title} description={description} image={imagenOg}>
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
-  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
-  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />}
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify([jsonLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])])}
+    slot="head"
+  />
 
   {/* El estado inicial va como transform inline (no scale-x-0): en Tailwind v4
       las utilidades scale-* usan la propiedad CSS `scale`, que se compone con
@@ -149,7 +157,8 @@ const faqLd =
               {title}
             </h1>
             <p class="mt-2 text-sm text-white/80">
-              Publicado el {pubDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}
+              Por <a href={withBase('/sobre-nosotros/')} class="font-semibold text-white underline decoration-(--color-mostaza) decoration-2 underline-offset-2 hover:text-(--color-mostaza)">Jesús</a>
+              {' · '}Publicado el {pubDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}
               {updatedDate && (
                 <> · Actualizado el {updatedDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}</>
               )}
