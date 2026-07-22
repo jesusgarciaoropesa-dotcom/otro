@@ -5,24 +5,70 @@ import { withBase } from '../lib/url';
 
 <BaseLayout
   title="Sobre nosotros"
-  description="Conoce el proyecto MiHuertoUrbano: quiénes somos y por qué escribimos sobre huertos urbanos en balcón y terraza."
+  description="Quién está detrás de MiHuertoUrbano: Jesús, que lleva dos años cultivando en el balcón de su casa y comparte aquí lo que de verdad funciona en maceta."
 >
   <article class="prose prose-stone max-w-none">
     <h1>Sobre nosotros</h1>
+
     <p>
-      MiHuertoUrbano nace con un objetivo sencillo: demostrar que no hace falta tener
-      jardín para disfrutar de tus propias hortalizas, aromáticas y frutas frescas. Nos
-      centramos específicamente en balcones, terrazas y patios pequeños, con especial
-      atención a dos problemas reales de la vida urbana: la falta de tiempo para regar
-      a diario y el poco espacio disponible.
+      Hola, soy <strong>Jesús</strong>, la persona detrás de MiHuertoUrbano. Llevo
+      <strong>dos años cultivando en el balcón de mi casa</strong>, y todo lo que
+      encontrarás en esta web nace de esa experiencia real: probando, equivocándome
+      y volviéndolo a intentar en unos pocos metros cuadrados.
+    </p>
+
+    <figure>
+      <img src={withBase('/images/articulos/balcon-frondoso-beneficios.jpg')} alt="Balcón urbano lleno de macetas con hortalizas y aromáticas" />
+      <figcaption>Un balcón normal, como el tuyo, es todo lo que hace falta para empezar.</figcaption>
+    </figure>
+
+    <h2>Cómo empezó todo</h2>
+    <p>
+      Empecé como casi todo el mundo: con más ilusión que idea. Compré unas cuantas
+      macetas, un par de plantas y, sin saber muy bien lo que hacía, maté las primeras
+      sin querer. Regaba de más, ponía tomates donde apenas daba el sol y me
+      desesperaba cuando aparecía el primer pulgón. Poco a poco, a base de leer, probar
+      y observar mi propio balcón, le fui cogiendo el punto.
     </p>
     <p>
-      Todo el contenido del sitio está pensado para el cultivo en maceta y contenedor,
-      con guías prácticas, calendarios de siembra adaptados y comparativas honestas de
-      herramientas y sistemas de riego automático.
+      En esos dos años he aprendido lo que de verdad importa cuando cultivas en un piso:
+      que la <strong>luz manda</strong>, que casi siempre se riega de más, que en maceta
+      hay que abonar sí o sí, y que con poco espacio bien aprovechado se cosecha mucho
+      más de lo que parece.
+    </p>
+
+    <h2>Por qué esta web</h2>
+    <p>
+      Cuando buscaba ayuda por internet, casi todo lo que encontraba era de huerto de
+      tierra, de campo o de invernadero: consejos que no encajaban con mi realidad de
+      balcón, macetas y alquiler. Así que decidí crear el sitio que a mí me habría
+      gustado encontrar al empezar.
     </p>
     <p>
-      Puedes contactar con nosotros a través de nuestra <a href={withBase('/contacto/')}>página de contacto</a>.
+      Por eso aquí <strong>todo está pensado para el cultivo en balcón, terraza y
+      maceta</strong>: guías paso a paso, un calendario de siembra mes a mes, soluciones
+      a las plagas y problemas más típicos, y comparativas honestas de herramientas y
+      sistemas de riego. Nada de campo ni de grandes huertos: espacio real, el que
+      tenemos la mayoría.
+    </p>
+
+    <h2>Mi compromiso contigo</h2>
+    <ul>
+      <li><strong>Experiencia real</strong>: escribo sobre lo que pruebo en mi propio balcón, no teoría copiada de otros sitios.</li>
+      <li><strong>Fotos propias</strong>: las imágenes de las guías son de cultivos reales en maceta, no fotos de stock repetidas.</li>
+      <li><strong>Honestidad</strong>: si un cultivo es difícil en balcón o un producto no merece la pena, te lo digo claro.</li>
+    </ul>
+
+    <p>
+      Si tienes una duda, quieres contarme tu experiencia o enseñarme tu balcón,
+      escríbeme por la <a href={withBase('/contacto/')}>página de contacto</a>. Me
+      encanta ver lo que cultiva la gente en su rincón verde.
+    </p>
+
+    <p>
+      Y si estás empezando, este es un buen primer paso:
+      <a href={withBase('/articulos/como-empezar-huerto-urbano-balcon/')}>cómo montar tu primer huerto de balcón</a>.
+      ¡Nos vemos entre macetas! 🌱
     </p>
   </article>
 </BaseLayout>
