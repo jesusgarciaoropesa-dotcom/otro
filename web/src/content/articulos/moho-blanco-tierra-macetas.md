@@ -16,7 +16,7 @@ faq:
 
 Un día miras tus macetas y la tierra aparece cubierta de una **capa blanca y algodonosa**, como telaraña o polvo. Asusta, pero rara vez es grave: ese moho es casi siempre una señal de que **riegas de más** o de que falta ventilación, más que una enfermedad en sí.
 
-<figure><img width="1200" height="670" src="/images/articulos/exceso-riego-hongo-maceta.jpg" alt="Capa de moho blanco y algodonoso sobre la superficie del sustrato húmedo de una maceta en un balcón" /><figcaption>El moho blanco en la superficie avisa de exceso de humedad y poca ventilación.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/moho-blanco-tierra-macetas.jpg" alt="Capa de moho blanco y algodonoso sobre la superficie del sustrato húmedo de una maceta grande en un balcón" /><figcaption>El moho blanco en la superficie avisa de exceso de humedad y poca ventilación.</figcaption></figure>
 
 ## Qué es exactamente ese moho blanco
 

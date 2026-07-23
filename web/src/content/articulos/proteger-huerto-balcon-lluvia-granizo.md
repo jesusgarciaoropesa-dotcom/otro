@@ -16,7 +16,7 @@ faq:
 
 Una **tormenta de verano** o una granizada pueden echar a perder en minutos un huerto que llevas meses cuidando: hojas rotas, tomateras tumbadas, macetas encharcadas. La buena noticia es que, en un balcón, protegerlo es rápido si te anticipas.
 
-<figure><img width="1200" height="670" src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Mini-invernadero de estantería con funda transparente protegiendo macetas en un balcón durante un día de lluvia" /><figcaption>Un mini-invernadero o una cubierta temporal protegen las macetas de la lluvia fuerte y el granizo.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/proteger-huerto-lluvia-granizo.jpg" alt="Macetas de huerto en un balcón cubiertas con un plástico transparente bajo un cielo de tormenta y lluvia" /><figcaption>Un mini-invernadero o una cubierta temporal protegen las macetas de la lluvia fuerte y el granizo.</figcaption></figure>
 
 ## Qué daña realmente una tormenta
 

@@ -16,7 +16,7 @@ faq:
 
 Riegas tus macetas y, al mover la planta, se levanta una **nube de mosquitos negros diminutos**. Son la **mosca del sustrato** (sciáridos): más molestos que peligrosos, pero una señal clara de que la tierra está **demasiado húmeda**.
 
-<figure><img width="1200" height="670" src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa cromática amarilla adhesiva colocada junto a una maceta para capturar mosca del sustrato en un balcón" /><figcaption>Las trampas amarillas cazan a los mosquitos adultos y ayudan a controlar la plaga.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/mosca-sustrato-macetas.jpg" alt="Trampa cromática amarilla llena de mosquitos de la mosca del sustrato clavada en la tierra de una maceta en un balcón" /><figcaption>Las trampas amarillas cazan a los mosquitos adultos y ayudan a controlar la plaga.</figcaption></figure>
 
 ## Cómo saber que es mosca del sustrato
 

@@ -16,7 +16,7 @@ faq:
 
 Riegas la maceta y en vez de empapar, el **agua resbala por los lados** y sale enseguida por el drenaje, o se queda encharcada arriba sin bajar. La planta pasa sed aunque "la riegues". El problema no es la cantidad de agua: es que el **sustrato ha perdido la capacidad de absorberla**.
 
-<figure><img width="1200" height="670" src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Manos mezclando sustrato con perlita blanca en un recibiente para mejorar la aireación y el drenaje de una maceta" /><figcaption>Mejorar el sustrato con perlita devuelve aireación y capacidad de absorber agua.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/tierra-no-absorbe-agua.jpg" alt="Agua formando gotas y charquitos sobre la tierra seca y compactada de una maceta sin llegar a penetrar, en un balcón" /><figcaption>Mejorar el sustrato con perlita devuelve aireación y capacidad de absorber agua.</figcaption></figure>
 
 ## Las dos causas más frecuentes
 
