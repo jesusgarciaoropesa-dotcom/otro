@@ -5,6 +5,14 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["huerto urbano sostenible", "reducir plástico en macetas", "alternativas al plástico jardinería"]
 pubDate: 2026-06-30
+faq:
+  - pregunta: "¿Cómo puedo reducir el plástico en mi huerto de balcón?"
+    respuesta: "Usando macetas de barro, fibra o materiales reciclados, reutilizando envases como maceteros o semilleros, y compostando en vez de comprar sustrato embolsado continuamente. Pequeños cambios que reducen mucho el plástico de un solo uso."
+  - pregunta: "¿Sirven los envases de cocina como macetas o semilleros?"
+    respuesta: "Sí: hueveras, botes de yogur, cajas de fruta o briks bien limpios y con agujeros de drenaje funcionan perfectamente, sobre todo para semilleros. Es gratis y evita comprar plástico nuevo."
+  - pregunta: "¿Hay que eliminar todo el plástico del huerto?"
+    respuesta: "No hace falta: se trata de reducir el de un solo uso y alargar la vida del que ya tienes, no de renunciar a lo útil. Una manguera o unas macetas duraderas compensan si las usas años."
+
 ---
 
 Un huerto urbano nace con una vocación sostenible, pero irónicamente suele depender de bastante plástico: macetas, bandejas de semillero, mangueras de riego. Reducirlo es posible sin renunciar a la funcionalidad, y multiplica los [beneficios ambientales de tener un huerto en casa](/articulos/beneficios-ambientales-huerto-urbano-casa/).

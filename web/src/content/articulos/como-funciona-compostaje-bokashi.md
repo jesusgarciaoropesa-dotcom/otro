@@ -5,6 +5,14 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["compostaje bokashi", "cómo funciona el bokashi", "cubo bokashi cómo usarlo"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Qué es el compostaje bokashi y en qué se diferencia del normal?"
+    respuesta: "El bokashi es una fermentación (no una descomposición con aire) de los restos de cocina usando microorganismos y un cubo hermético. A diferencia del compost tradicional, admite restos cocinados y algo de carne o lácteos, y no huele a podrido sino a fermentado."
+  - pregunta: "¿El bokashi huele mal dentro de casa?"
+    respuesta: "Bien gestionado, no: al ser hermético y una fermentación ácida, desprende un olor avinagrado suave, no a putrefacción. Los malos olores indican que ha entrado aire o hay exceso de humedad."
+  - pregunta: "¿Qué hago con el líquido que suelta el bokashi?"
+    respuesta: "El llamado té de bokashi se recoge por el grifo del cubo y, muy diluido en agua, sirve como abono líquido; también puro ayuda a mantener las tuberías. No lo tires: es uno de los subproductos más útiles."
+
 ---
 
 Mucha gente compra un <a href="https://www.amazon.es/s?k=cubo+bokashi&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">cubo bokashi</a> esperando un compost casero normal en versión de interior, y se lleva una sorpresa: el bokashi no es compost, es un paso previo. Entender esta diferencia desde el principio evita la confusión más habitual con este sistema.

@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar calabacines en maceta", "calabacín en espacio reducido", "calabacín en balcón cuidados"]
 pubDate: 2026-06-01
+faq:
+  - pregunta: "¿Qué tamaño de maceta necesita un calabacín?"
+    respuesta: "Es una planta grande y voraz: necesita al menos 30-40 litros de sustrato por planta para rendir bien. En maceta pequeña cuaja mal y da frutos escasos, así que dale volumen y elige una variedad compacta o de porte arbustivo."
+  - pregunta: "¿Por qué mi calabacín florece pero no cuaja frutos?"
+    respuesta: "Casi siempre por falta de polinización: en un balcón con pocos insectos, las flores macho y hembra no se cruzan y el fruto empieza y se pudre en la punta. Poliniza a mano por la mañana pasando el polen de una flor macho a una hembra."
+  - pregunta: "¿Puedo cultivar calabacín en un balcón pequeño?"
+    respuesta: "Sí, eligiendo variedades compactas o de mata baja, una maceta grande y un buen sitio soleado (6 horas o más de sol). Ocupa bastante, pero con una sola planta bien cuidada tienes calabacines de sobra."
+
 ---
 
 El calabacín tiene fama de necesitar mucho espacio, y es cierto para las variedades tradicionales de huerto en tierra, pero existen variedades compactas que hacen viable su cultivo incluso en un balcón con espacio limitado.

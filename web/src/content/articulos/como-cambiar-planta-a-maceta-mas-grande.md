@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["cambiar de maceta a una más grande", "cuándo trasplantar planta maceta grande", "planta necesita maceta más grande"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Cómo sé que mi planta necesita una maceta más grande?"
+    respuesta: "Señales claras: raíces asomando por los agujeros de drenaje o en la superficie, la tierra se seca muy rápido pese a regar, o la planta se estanca. Son indicios de que se ha quedado sin espacio para las raíces."
+  - pregunta: "¿Cuánto más grande debe ser la maceta nueva?"
+    respuesta: "Sube de tamaño de forma gradual, unos 5 cm más de diámetro cada vez, no de golpe a una enorme. Un salto demasiado grande deja mucho sustrato sin raíces que retiene agua y favorece el encharcamiento."
+  - pregunta: "¿Cuál es la mejor época para trasplantar a maceta mayor?"
+    respuesta: "En general el inicio de la primavera, antes del empujón de crecimiento, o el otoño en climas suaves. Evita hacerlo en pleno verano o durante la floración, cuando el estrés del trasplante es mayor."
+
 ---
 
 Casi todas nuestras guías de frutales y plantas perennes mencionan "ve trasplantando a una maceta mayor cada 2-3 años", pero pocas veces se explica cómo hacerlo bien. El trasplante de mantenimiento (distinto al de plántula recién germinada) tiene sus propias señales y su propia técnica.

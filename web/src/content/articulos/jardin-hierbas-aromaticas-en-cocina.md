@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["jardín de hierbas aromáticas en cocina", "aromáticas en la ventana de la cocina", "huerto de cocina en casa"]
 pubDate: 2026-06-03
+faq:
+  - pregunta: "¿Se pueden tener aromáticas en la cocina?"
+    respuesta: "Sí, si hay una ventana con buena luz: es cómodo tenerlas a mano para cocinar. La clave es la luz y no pasarte con el riego en macetas pequeñas."
+  - pregunta: "¿Qué aromáticas van mejor en el interior de una cocina?"
+    respuesta: "Las más tolerantes a interior y riego frecuente: perejil, cebollino, menta y albahaca (si la ventana es muy luminosa). Las mediterráneas de mucho sol suelen sufrir en interior."
+  - pregunta: "¿Por qué se me mueren las aromáticas de supermercado en la cocina?"
+    respuesta: "Suelen venir varias plantas apretadas en una maceta minúscula, que se seca y agota enseguida. Trasplántalas a una maceta mayor, sepáralas y dales luz: durarán mucho más que en su envase original."
+
 ---
 
 Si no tienes balcón ni terraza, un pequeño jardín de aromáticas en la ventana de la cocina es la forma más accesible de tener plantas comestibles frescas en casa, con la ventaja añadida de tenerlas literalmente a mano mientras cocinas.

@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["instalar riego por goteo balcón", "riego por goteo casero", "montar sistema de riego terraza"]
 pubDate: 2026-02-20
+faq:
+  - pregunta: "¿Es complicado instalar un riego por goteo en el balcón?"
+    respuesta: "No: es un sistema modular de manguera, goteros y un programador que se enrosca al grifo, sin obras. Con planificar el recorrido y pinchar un gotero por maceta, en una tarde lo tienes montado."
+  - pregunta: "¿Cuántos goteros necesito por maceta?"
+    respuesta: "Como norma, uno por maceta pequeña o mediana y dos o más en las grandes para repartir el agua. Ajusta el caudal según el tamaño para que ninguna quede encharcada ni seca."
+  - pregunta: "¿El riego por goteo sirve para todas las plantas del balcón?"
+    respuesta: "Sí, y es especialmente bueno para cultivos que quieren humedad constante como el tomate. Solo hay que calibrar tiempos y goteros por grupos de necesidades similares y revisar que no se atasquen."
+
 ---
 
 Instalar un sistema de riego por goteo en un balcón es más sencillo de lo que parece, y no requiere obra ni conocimientos de fontanería. Con un kit básico y una tarde libre puedes tenerlo funcionando.

@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["por qué se caen las hojas de mis plantas", "hojas caídas huerto urbano", "planta pierde hojas maceta"]
 pubDate: 2026-03-09
+faq:
+  - pregunta: "¿Por qué se le caen las hojas a mi planta de golpe?"
+    respuesta: "La causa más frecuente es el riego irregular (exceso o falta), seguida de un cambio brusco de ubicación, una corriente de aire frío o falta de luz. La planta tira hojas como respuesta al estrés."
+  - pregunta: "¿Es normal que una planta pierda hojas al cambiarla de sitio?"
+    respuesta: "Sí: muchas plantas sueltan algunas hojas tras un cambio brusco de luz o temperatura y se recuperan al adaptarse. Evita moverlas constantemente y hazlo de forma gradual para minimizarlo."
+  - pregunta: "¿Cómo sé si la caída de hojas es por riego o por otra cosa?"
+    respuesta: "Toca el sustrato: encharcado con hojas amarillas y blandas apunta a exceso; seco y agrietado, a falta. Si el riego es correcto, revisa luz, corrientes de aire y si hubo un cambio reciente de sitio."
+
 ---
 
 La caída de hojas es uno de los síntomas más comunes —y más inespecíficos— en plantas de maceta. Antes de alarmarte, conviene identificar la causa exacta observando cómo y cuándo se caen.

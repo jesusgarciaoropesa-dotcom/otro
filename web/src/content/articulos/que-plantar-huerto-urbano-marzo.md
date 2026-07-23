@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en marzo", "siembra marzo huerto urbano", "calendario siembra primavera balcón"]
 pubDate: 2026-02-12
+faq:
+  - pregunta: "¿Qué se siembra en marzo en el huerto de balcón?"
+    respuesta: "Marzo arranca la primavera: es momento de sembrar en semillero tomates, pimientos, berenjenas, calabacines y albahaca, y directamente lechugas, rabanitos, zanahorias, acelgas y guisantes. La actividad se dispara este mes."
+  - pregunta: "¿Puedo sacar ya las plantas al exterior en marzo?"
+    respuesta: "Con cuidado: aún pueden caer heladas tardías según la zona, así que endurece las plántulas gradualmente y protégelas si baja la temperatura de noche. Los cultivos de frío ya van bien al aire libre."
+  - pregunta: "¿Es buen mes marzo para empezar un huerto desde cero?"
+    respuesta: "Excelente: con los días alargando y subiendo la temperatura, casi todo germina y crece bien. Empezar en marzo te da toda la temporada por delante."
+
 ---
 
 Marzo marca el inicio real de la temporada de siembra de primavera en la mayor parte de España. Con el riesgo de heladas fuertes ya bajando, es el momento de preparar el balcón para los meses de mayor producción.

@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["cómo hacer un semillero", "sembrar en semillero paso a paso", "germinar semillas en casa"]
 pubDate: 2026-07-10
+faq:
+  - pregunta: "¿Qué necesito para hacer un semillero casero?"
+    respuesta: "Un recipiente con agujeros de drenaje (sirven hueveras o bandejas), sustrato específico de semillero (fino y ligero), las semillas y un sitio con luz y calor. No hace falta comprar nada caro para empezar."
+  - pregunta: "¿A qué profundidad se siembran las semillas?"
+    respuesta: "La regla general es enterrarlas a unas 2-3 veces su propio tamaño: las muy pequeñas casi en superficie y las grandes algo más hondas. Sembrar demasiado profundo es una causa típica de que no germinen."
+  - pregunta: "¿Por qué no me germinan las semillas del semillero?"
+    respuesta: "Las causas más comunes son sembrar demasiado hondo, dejar secar el sustrato, falta de calor o semillas viejas. Mantén el sustrato húmedo (no encharcado) y templado hasta que broten, y ten paciencia con las de germinación lenta."
+
 ---
 
 Sembrar directamente en la maceta definitiva funciona, pero empezar en semillero da más control: puedes adelantar la siembra antes de que haga buen tiempo fuera, concentrar el cuidado en un espacio pequeño, y solo trasplantar las plántulas que de verdad han arrancado bien.

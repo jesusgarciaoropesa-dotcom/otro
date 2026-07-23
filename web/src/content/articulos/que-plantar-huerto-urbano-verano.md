@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en verano en balcón", "cultivos que resisten el calor", "huerto urbano verano cuidados"]
 pubDate: 2026-04-02
+faq:
+  - pregunta: "¿Qué se puede plantar en pleno verano?"
+    respuesta: "En verano se siembran judías, más albahaca y algunas hojas resistentes al calor en semisombra, y hacia el final se preparan los semilleros de otoño (coles, acelgas, lechugas). Es más mes de mantener y cosechar que de sembrar mucho."
+  - pregunta: "¿Por qué en verano se me suben a flor las lechugas y espinacas?"
+    respuesta: "Porque el calor y los días largos las hacen espigar y amargar: son cultivos de clima fresco. En verano dales media sombra y riego constante, o reserva su siembra para otoño."
+  - pregunta: "¿Qué es lo más importante del huerto en verano?"
+    respuesta: "El riego: con el calor la demanda de agua se multiplica, sobre todo en macetas pequeñas a pleno sol. Riega a primera hora o al atardecer, da sombra en las horas centrales y vigila las plagas de verano."
+
 ---
 
 El verano es la época de mayor producción para muchos cultivos de balcón, pero también la más exigente en cuanto a riego y protección frente al calor extremo. Si estás ya en pleno agosto, mira nuestra guía específica de [qué plantar en agosto](/articulos/que-plantar-huerto-urbano-agosto/).

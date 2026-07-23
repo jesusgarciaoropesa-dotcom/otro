@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué sembrar en otoño huerto urbano", "siembra de otoño balcón", "cultivos de otoño en maceta"]
 pubDate: 2026-05-03
+faq:
+  - pregunta: "¿Qué se siembra en otoño en la terraza?"
+    respuesta: "Otoño es ideal para hortalizas de hoja y de frío: lechugas, espinacas, acelgas, rúcula, canónigos, rabanitos, ajos y habas, además de aromáticas resistentes. El clima fresco les sienta de maravilla."
+  - pregunta: "¿Es el otoño buena época para el huerto de balcón?"
+    respuesta: "Muy buena: se acaban las plagas y el estrés por calor del verano, y los cultivos de hoja prosperan sin subirse a flor. Además el riego baja mucho respecto al verano."
+  - pregunta: "¿Hasta cuándo puedo sembrar en otoño?"
+    respuesta: "Depende de tu clima: en zonas suaves puedes seguir sembrando hojas casi todo el otoño; donde llegan heladas tempranas, adelanta las siembras a principios de otoño o protege los cultivos. Un velo antiheladas alarga la temporada."
+
 ---
 
 El otoño es la segunda gran ventana de siembra del año, después de la primavera, y suele estar algo más olvidada por quienes empiezan un huerto urbano. Aprovecharla bien permite mantener producción durante el otoño e invierno en lugar de dejar el huerto parado varios meses.

@@ -5,6 +5,14 @@ categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["jardín vertical hidropónico casero", "hidroponía balcón principiantes", "cómo montar hidroponía vertical"]
 pubDate: 2026-02-25
+faq:
+  - pregunta: "¿Qué ventajas tiene un huerto vertical hidropónico?"
+    respuesta: "Crece sin sustrato, con las raíces en una solución de agua y nutrientes, lo que suele dar crecimiento más rápido, menos plagas de suelo y un uso muy eficiente del agua. Es ideal para hojas y aromáticas en poco espacio."
+  - pregunta: "¿Por qué es tan importante el pH del agua en hidroponía?"
+    respuesta: "Porque fuera del rango correcto (en torno a 5,5-6,5) las plantas no absorben los nutrientes aunque estén en el agua, y aparecen carencias. Medir y ajustar el pH no es opcional: es lo que hace que el sistema funcione."
+  - pregunta: "¿La hidroponía casera es complicada para empezar?"
+    respuesta: "Tiene algo más de curva de aprendizaje que el cultivo en maceta (bomba, nutrientes, pH), pero un sistema básico de tubos es asequible. Empezando con lechugas y aromáticas se coge el punto rápido."
+
 ---
 
 La hidroponía suena a laboratorio, pero un sistema casero para balcón es mucho más simple de lo que parece: en esencia, sustituyes la tierra por agua con nutrientes disueltos, circulando por una estructura vertical de tubos.

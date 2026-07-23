@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en septiembre en balcón", "siembra de septiembre huerto urbano", "qué sembrar en septiembre en maceta"]
 pubDate: 2026-06-11
+faq:
+  - pregunta: "¿Qué se siembra en septiembre en el huerto de balcón?"
+    respuesta: "Septiembre abre la temporada de otoño: se siembran lechugas, espinacas, acelgas, rúcula, canónigos, rabanitos y aromáticas, aprovechando que baja el calor. Es un mes muy productivo para hojas."
+  - pregunta: "¿Es tarde para plantar en septiembre?"
+    respuesta: "Al contrario: es de los mejores meses para los cultivos de hoja y de frío, que con el calor del verano se subían a flor. Se acabó la temporada de tomate, pero empieza la de verduras de otoño-invierno."
+  - pregunta: "¿Qué cultivos de verano puedo aprovechar aún en septiembre?"
+    respuesta: "Los tomates, pimientos y berenjenas suelen dar sus últimas cosechas en septiembre antes de retirarlos. Aprovéchalos y ve preparando las macetas para la siembra de otoño."
+
 ---
 
 Septiembre marca la transición del verano al otoño y es el mes clave para arrancar la segunda gran ventana de siembra del año (si vienes de [qué plantar en agosto](/articulos/que-plantar-huerto-urbano-agosto/), es la continuación natural), además de cerrar bien la temporada de los cultivos de verano que todavía siguen produciendo.

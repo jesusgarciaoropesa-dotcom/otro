@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["hojas rizadas tomatera", "tomatera hojas onduladas", "por qué se enrollan las hojas del tomate"]
 pubDate: 2026-07-06
+faq:
+  - pregunta: "¿Por qué se rizan las hojas de mi tomatera?"
+    respuesta: "La causa más común y menos preocupante es el enrollamiento fisiológico por calor: la planta enrolla las hojas para perder menos agua en días muy calurosos, y se recupera sola. También pueden rizarlas el riego irregular, el pulgón o un virus."
+  - pregunta: "¿Cuándo debo preocuparme por las hojas rizadas?"
+    respuesta: "Si el rizado va con hojas nuevas deformadas, amarilleo o pegajosidad, sospecha de plaga chupadora o virosis (transmitida por mosca blanca), y ahí sí hay que actuar. Si solo se enrollan con el calor y por la tarde, no es grave."
+  - pregunta: "¿La tomatera con hojas rizadas por calor da igual de fruto?"
+    respuesta: "Sí: el enrollamiento por calor es un mecanismo de defensa y no afecta a la producción si mantienes un riego constante. Dale algo de sombra en las horas centrales del verano y remitirá."
+
 ---
 
 Las hojas rizadas u onduladas son uno de los síntomas que más preocupan sin necesidad, porque casi siempre se confunden con una carencia de nutrientes cuando en realidad la causa más común es mucho más simple y menos grave.

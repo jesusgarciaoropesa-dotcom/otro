@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["minador de los cítricos", "hojas de limonero rizadas", "hojas de mandarino arrugadas", "plaga hojas nuevas limonero"]
 pubDate: 2026-07-06
+faq:
+  - pregunta: "¿Qué son las galerías plateadas y hojas rizadas de mi limonero?"
+    respuesta: "Es el minador de los cítricos: una pequeña larva que excava galerías serpenteantes bajo la epidermis de las hojas nuevas, que quedan retorcidas y plateadas. Es muy típico en los brotes tiernos de limoneros y naranjos."
+  - pregunta: "¿Se recuperan las hojas ya afectadas por el minador?"
+    respuesta: "No: la hoja dañada queda así, no se cura, pero el árbol lo tolera bien y no suele ser grave. Lo importante es proteger los brotes nuevos, que son los que ataca."
+  - pregunta: "¿Cómo trato y prevengo el minador de los cítricos?"
+    respuesta: "Retira los brotes muy afectados, evita abonar en exceso (que fuerza brotes tiernos continuos) y trata los brotes nuevos con aceite de neem. En árboles pequeños de balcón, controlar los brotes suele bastar."
+
 ---
 
 Si tu limonero o mandarino en maceta saca hojas nuevas que se quedan rizadas, onduladas o retorcidas sin llegar a secarse ni caerse, lo más probable es que no sea un problema de riego ni de nutrientes: es una de las plagas más específicas y comunes de los cítricos, el minador de los cítricos.

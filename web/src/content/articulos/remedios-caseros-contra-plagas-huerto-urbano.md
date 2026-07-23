@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["remedios caseros contra plagas", "insecticida casero para plantas", "tratamiento natural plagas huerto urbano"]
 pubDate: 2026-06-18
+faq:
+  - pregunta: "¿Cuáles son los remedios caseros más eficaces contra plagas?"
+    respuesta: "El jabón potásico (contra pulgón, mosca blanca y araña roja), el aceite de neem (de amplio espectro) y las infusiones de ajo u ortiga como repelente. Aplicados pronto y sobre el envés, resuelven la mayoría de plagas de balcón."
+  - pregunta: "¿Cada cuánto hay que aplicar los remedios caseros?"
+    respuesta: "Cada 3-5 días mientras dure la plaga, insistiendo en el envés de las hojas y las horas sin sol directo para no quemar. La constancia es clave: una sola aplicación rara vez basta."
+  - pregunta: "¿Los remedios caseros son seguros para las plantas y para comer?"
+    respuesta: "Bien dosificados, sí: no abuses de la concentración (podría quemar hojas) y aplica al atardecer. Aun siendo naturales, respeta unos días entre el tratamiento y la cosecha y lava bien lo que vayas a comer."
+
 ---
 
 Antes de recurrir a productos comerciales, muchos remedios caseros elaborados con ingredientes de cocina o del propio huerto son suficientemente efectivos para las plagas más comunes de un huerto urbano.

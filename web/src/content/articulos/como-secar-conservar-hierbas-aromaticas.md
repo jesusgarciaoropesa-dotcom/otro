@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cómo secar hierbas aromáticas", "conservar aromáticas del huerto", "secar romero albahaca en casa"]
 pubDate: 2026-04-28
+faq:
+  - pregunta: "¿Cuál es la mejor forma de secar hierbas aromáticas?"
+    respuesta: "Para las de hoja fina y poca humedad (tomillo, orégano, romero, laurel), el secado al aire en manojos colgados en un sitio ventilado y sin sol directo es ideal. Para las jugosas conviene otro método."
+  - pregunta: "¿Por qué la albahaca no se seca bien al aire?"
+    respuesta: "Porque tiene mucha agua y hojas tiernas: al aire ennegrece y pierde aroma antes de secarse. Va mejor congelarla (en aceite o agua, en cubiteras) o usar deshidratador u horno a baja temperatura."
+  - pregunta: "¿Cómo se guardan las hierbas ya secas?"
+    respuesta: "En tarros de cristal herméticos, enteras (no molidas hasta el momento de usarlas) y en un lugar oscuro y seco. Así conservan el aroma muchos meses; la luz y la humedad son sus enemigas."
+
 ---
 
 Cuando tus aromáticas producen más de lo que puedes consumir fresco, secarlas o conservarlas de otra forma permite aprovechar toda la cosecha sin desperdiciar nada, incluso meses después.

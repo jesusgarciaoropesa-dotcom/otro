@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["exceso de riego en macetas", "hongo en macetas huerto urbano", "encharcamiento plantas maceta"]
 pubDate: 2026-04-07
+faq:
+  - pregunta: "¿Cómo sé si el problema es exceso de riego y no falta?"
+    respuesta: "Con exceso, las hojas amarillean y se ablandan, el sustrato está siempre húmedo y puede oler a podrido o salir moho; con falta, la tierra está seca y agrietada y las hojas se ponen mustias. Ante la duda, mete un dedo 2-3 cm: si hay humedad, no riegues."
+  - pregunta: "¿Por qué el exceso de agua pudre las raíces?"
+    respuesta: "Porque desplaza el aire del sustrato y las raíces se asfixian, lo que abre la puerta a hongos como el pythium. Por eso el encharcamiento mata más plantas que la sequía en un huerto de balcón."
+  - pregunta: "¿Cómo corrijo una maceta encharcada?"
+    respuesta: "Deja de regar y deja secar bien el sustrato, retira cualquier plato con agua estancada y comprueba que los agujeros de drenaje no estén tapados. Si la planta ya está muy afectada, trasplántala a sustrato nuevo retirando las raíces podridas."
+
 ---
 
 El exceso de riego es, junto con la falta de él, una de las causas más comunes de plantas enfermas en un huerto de balcón, y a menudo se confunde con falta de agua porque los síntomas visuales (hojas caídas, amarillas) son similares.

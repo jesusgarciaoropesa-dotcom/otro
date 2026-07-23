@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto urbano en alquiler", "huerto en piso alquilado", "jardinería en vivienda de alquiler"]
 pubDate: 2026-04-13
+faq:
+  - pregunta: "¿Puedo montar un huerto si vivo de alquiler?"
+    respuesta: "Sí, evitando cualquier instalación que requiera obra: nada de fijar cosas a la pared o tocar el suelo. Con macetas, estructuras autoportantes y riego sin obras tienes un huerto completo y desmontable."
+  - pregunta: "¿Cómo pongo riego automático sin hacer obras?"
+    respuesta: "Con kits de goteo conectados a un grifo o a un depósito, y programadores a pilas: no necesitan instalación fija ni tocar la fontanería. Al mudarte, lo recoges y te lo llevas."
+  - pregunta: "¿Qué debo vigilar para no tener problemas con el casero?"
+    respuesta: "El peso en balcones antiguos (reparte las macetas grandes junto a la pared o los apoyos), y proteger suelo y paredes de la humedad con platos y separadores. Así evitas manchas y daños al recuperar la fianza."
+
 ---
 
 Vivir de alquiler no debería ser un obstáculo para tener un huerto urbano, pero sí conviene tomar algunas precauciones para no perder la fianza ni tu inversión si te mudas antes de lo previsto.

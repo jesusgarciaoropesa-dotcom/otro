@@ -5,6 +5,14 @@ categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical interior con luz artificial", "cultivar en interior sin luz natural", "torre de cultivo con luz LED"]
 pubDate: 2026-05-27
+faq:
+  - pregunta: "¿Puedo cultivar en interior solo con la luz de una ventana?"
+    respuesta: "Para aromáticas y hojas en una ventana muy luminosa, a veces sí; para el resto suele quedarse corta, sobre todo en invierno. Ahí es donde entra la luz LED de cultivo como complemento o sustituto."
+  - pregunta: "¿Qué luz LED necesito para un huerto de interior?"
+    respuesta: "LED de cultivo de espectro completo, situados a la distancia que indique el fabricante y encendidos entre 12 y 16 horas al día según el cultivo. No sirve cualquier bombilla: debe cubrir el espectro que la planta usa para fotosintetizar."
+  - pregunta: "¿Cuántas horas de luz artificial al día necesitan las plantas?"
+    respuesta: "Orientativamente 12-16 horas para hojas y aromáticas, simulando un día largo, con un temporizador para mantener la regularidad. Más horas no siempre es mejor: también necesitan un periodo de oscuridad."
+
 ---
 
 Cultivar en interior sin depender de una ventana bien orientada es posible gracias a las luces de cultivo LED, que permiten montar un huerto vertical en cualquier habitación de la casa, todo el año, independientemente de la estación.

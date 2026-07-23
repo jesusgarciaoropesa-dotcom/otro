@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["aromáticas en interior con poca luz", "hierbas aromáticas sin sol", "cultivar aromáticas en piso oscuro"]
 pubDate: 2026-06-05
+faq:
+  - pregunta: "¿Qué aromáticas aguantan mejor la poca luz en interior?"
+    respuesta: "La menta, el perejil, el cilantro y el cebollino toleran mejor la luz escasa que las mediterráneas. Crecen más despacio, pero se dan razonablemente bien en una ventana poco soleada."
+  - pregunta: "¿Qué aromáticas necesitan sí o sí buena luz?"
+    respuesta: "Las mediterráneas: romero, tomillo, orégano y albahaca piden mucha luz y en interior sombrío se ahílan y pierden aroma. Sin una ventana muy luminosa o luz artificial, no rendirán."
+  - pregunta: "¿Cuándo debo añadir luz artificial a las aromáticas de interior?"
+    respuesta: "Cuando notes que se estiran hacia la ventana, crecen pálidas y ralas o en invierno con pocas horas de sol. Un LED de cultivo unas horas al día compensa la falta de luz natural."
+
 ---
 
 Cuando la luz natural disponible en interior es realmente escasa (ventana pequeña, orientación norte, patio interior), no todas las aromáticas son viables, y en muchos casos hace falta una ayuda de luz artificial para obtener resultados decentes.

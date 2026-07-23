@@ -5,6 +5,14 @@ categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical vs horizontal producción", "cuánto produce un huerto vertical", "rendimiento cultivo vertical balcón"]
 pubDate: 2026-05-24
+faq:
+  - pregunta: "¿Produce más un huerto vertical que uno horizontal?"
+    respuesta: "Por metro cuadrado de suelo ocupado, el vertical suele producir más porque aprovecha la altura. Pero la producción total depende sobre todo de la luz: si los niveles bajos quedan en sombra, rinden menos."
+  - pregunta: "¿Qué cultivos rentabilizan mejor el cultivo vertical?"
+    respuesta: "Los de raíz poco profunda y ciclo corto: aromáticas, lechugas y hojas de corte, fresas y rabanitos. Los cultivos grandes y de raíz profunda (tomate, calabacín) van mejor en maceta al suelo."
+  - pregunta: "¿Cuál es la mayor desventaja del huerto vertical?"
+    respuesta: "El reparto desigual de luz y agua entre niveles: arriba llega más sol pero se seca antes, y abajo puede faltar luz. Colocar bien cada cultivo según su exigencia resuelve la mayor parte."
+
 ---
 
 Una de las preguntas más habituales al plantearse una estructura de cultivo vertical es si realmente compensa frente a tener las mismas plantas repartidas en macetas individuales sobre el suelo.

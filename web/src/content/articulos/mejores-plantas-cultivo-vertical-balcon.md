@@ -5,6 +5,14 @@ categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["mejores plantas para cultivo vertical", "qué plantar en huerto vertical", "plantas para torre de cultivo balcón"]
 pubDate: 2026-03-21
+faq:
+  - pregunta: "¿Qué plantas van mejor en un huerto vertical?"
+    respuesta: "Las de raíz poco profunda y ciclo corto: aromáticas (albahaca, perejil, menta, tomillo), hojas verdes de corte (lechuga, rúcula, espinaca) y fresas. Son ligeras, no necesitan mucho sustrato y rinden bien en altura."
+  - pregunta: "¿Qué NO conviene poner en los niveles altos de un huerto vertical?"
+    respuesta: "Los cultivos grandes y de raíz profunda o mucho peso (tomate, calabacín, frutales) y los que piden riego muy abundante, porque arriba se seca antes. Resérvalos para macetas al suelo."
+  - pregunta: "¿Cómo organizo los cultivos por niveles?"
+    respuesta: "Arriba, donde hay más sol pero se seca antes, pon lo que aguante más sequedad (aromáticas mediterráneas); abajo, lo que tolere algo de sombra y quiera más humedad (hojas). Agrupa por necesidad de agua para regar mejor."
+
 ---
 
 No todas las plantas se adaptan igual de bien a una estructura de cultivo vertical. El factor clave es el volumen de sustrato disponible por planta, que suele ser menor que en una maceta tradicional, y la posición (los niveles superiores reciben más sol y se secan antes que los inferiores).

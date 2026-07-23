@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en enero", "siembra enero huerto urbano", "calendario siembra invierno balcón"]
 pubDate: 2026-03-08
+faq:
+  - pregunta: "¿Qué se puede sembrar en enero en el balcón?"
+    respuesta: "Enero es un mes frío y de poca actividad: se pueden sembrar en semillero protegido tomates, pimientos y berenjenas para adelantar la temporada, y al exterior aguantan ajos, habas y guisantes en clima suave. Es buen momento para planificar la temporada."
+  - pregunta: "¿Se puede cultivar algo al aire libre en enero?"
+    respuesta: "En zonas de invierno suave, sí: ajos, habas, guisantes y hojas resistentes como espinacas o acelgas. En zonas con heladas fuertes, mejor proteger los cultivos y centrarse en semilleros de interior."
+  - pregunta: "¿Merece la pena empezar semilleros en enero?"
+    respuesta: "Sí, si dispones de un sitio cálido y luminoso (o luz artificial): sembrar tomate, pimiento y berenjena en enero-febrero te da plantel listo para trasplantar en primavera. Sin calor suficiente, es mejor esperar."
+
 ---
 
 Enero es un mes de transición: todavía hace frío en la mayor parte de España, pero es el momento de preparar en <a href="https://www.amazon.es/s?k=semillero+germinacion+tapa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">semillero protegido</a> los cultivos que ocuparán el balcón en primavera.

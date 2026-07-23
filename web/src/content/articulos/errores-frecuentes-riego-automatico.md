@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["errores riego automático huerto urbano", "problemas riego por goteo balcón", "fallos sistema de riego automático"]
 pubDate: 2026-04-18
+faq:
+  - pregunta: "¿Cuál es el error más común con el riego automático?"
+    respuesta: "No calibrar el caudal según cada maceta: una maceta grande y una pequeña con el mismo gotero acaban una encharcada y otra seca. Ajusta goteros o tiempos por grupo de macetas de necesidades parecidas."
+  - pregunta: "¿Por qué debo probar el sistema antes de irme de vacaciones?"
+    respuesta: "Porque un gotero atascado, una pila agotada o una fuga pueden dejar las plantas sin agua justo cuando no estás. Déjalo funcionando varios días antes de viajar para detectar fallos a tiempo."
+  - pregunta: "¿El riego automático necesita mantenimiento?"
+    respuesta: "Sí: revisa periódicamente el filtro, las conexiones y los goteros, que se atascan con cal o suciedad, y cambia las pilas del programador. Un repaso rápido cada pocas semanas evita sorpresas."
+
 ---
 
 Instalar un sistema de riego automático reduce mucho el riesgo de perder plantas por olvido, pero solo si se configura correctamente. Estos son los errores más frecuentes que vemos en huertos urbanos de balcón.

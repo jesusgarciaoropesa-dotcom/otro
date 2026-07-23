@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["calendario lunar siembra huerto urbano", "sembrar según la luna funciona", "influencia de la luna en las plantas"]
 pubDate: 2026-06-15
+faq:
+  - pregunta: "¿Funciona de verdad el calendario lunar para sembrar?"
+    respuesta: "La evidencia científica de que la luna influya de forma significativa en el cultivo es limitada: factores como la luz, el riego, el sustrato y la temperatura tienen mucho más peso en el resultado. Muchos lo usan por tradición, pero no sustituye a los buenos cuidados."
+  - pregunta: "¿Hace daño guiarse por el calendario lunar?"
+    respuesta: "No: seguirlo como referencia complementaria no perjudica, siempre que no descuides lo que de verdad importa (luz, riego, sustrato, época de siembra). Tómalo como un extra, no como la clave del éxito."
+  - pregunta: "¿Qué influye más que la luna en que germine bien una semilla?"
+    respuesta: "La temperatura y humedad del sustrato, la profundidad de siembra, la calidad y frescura de la semilla y la luz disponible. Acertar con esos factores marca la diferencia mucho más que la fase lunar."
+
 ---
 
 El calendario lunar de siembra es una práctica tradicional muy extendida, que propone sembrar, trasplantar o cosechar según la fase lunar. Vale la pena revisar qué hay de cierto detrás de esta creencia tan arraigada.

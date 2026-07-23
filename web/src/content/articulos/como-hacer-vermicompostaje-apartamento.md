@@ -5,6 +5,14 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["vermicompostaje en apartamento", "compost con lombrices en piso", "cómo hacer humus de lombriz en casa"]
 pubDate: 2026-06-29
+faq:
+  - pregunta: "¿Se puede tener vermicompostaje en un apartamento?"
+    respuesta: "Sí: una vermicompostera es compacta, inodora si se gestiona bien y cabe en un balcón, un office o bajo el fregadero. Las lombrices transforman los restos de cocina en un abono excelente sin apenas espacio."
+  - pregunta: "¿Las lombrices huelen o se escapan?"
+    respuesta: "No: en una cama equilibrada no huele (o huele a tierra) y las lombrices se quedan donde está la comida y la oscuridad. Los problemas de olor o fuga aparecen solo si hay exceso de restos húmedos o falta de aireación."
+  - pregunta: "¿Qué pueden comer las lombrices y qué no?"
+    respuesta: "Sí: restos vegetales, posos de café, cáscaras y cartón sin tinta. No: carne, pescado, lácteos, cítricos en exceso, cebolla y ajo. Alimenta poco a poco, según vayan procesando lo anterior."
+
 ---
 
 El vermicompostaje utiliza lombrices rojas californianas para procesar restos orgánicos de forma mucho más rápida y controlada que un compostaje tradicional, con la ventaja añadida de que, bien gestionado, apenas genera olor y ocupa muy poco espacio.

@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["huerto vertical balcón", "jardín vertical pequeño", "cultivo vertical terraza"]
 pubDate: 2026-02-06
 pilar: true
+faq:
+  - pregunta: "¿Merece la pena un huerto vertical en un balcón pequeño?"
+    respuesta: "Mucho: multiplica la superficie de cultivo aprovechando las paredes y barandillas sin ocupar suelo. Es la mejor forma de cultivar más variedad cuando el espacio horizontal es escaso."
+  - pregunta: "¿Qué estructuras sirven para un huerto vertical?"
+    respuesta: "Jardineras colgantes, macetas de barandilla, estanterías, paneles de bolsillos de tela, torres apilables o palets reciclados. Elige según el peso que aguante tu balcón y la luz de cada nivel."
+  - pregunta: "¿Cómo se riega un huerto vertical sin que se seque arriba?"
+    respuesta: "El agua tiende a bajar, así que los niveles altos se secan antes: agrúpalos por necesidad de agua, coloca arriba lo que aguante más sequedad y valora un goteo que reparta por niveles. Revisa más a menudo la parte superior."
+
 ---
 
 Cuando el suelo del balcón se queda pequeño, la solución no es renunciar a cultivar más, sino mirar hacia arriba. Un huerto vertical bien planteado puede triplicar la superficie de cultivo disponible en el mismo espacio.

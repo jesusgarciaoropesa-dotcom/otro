@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["gusano gris en lechugas", "gusano corta tallo lechuga", "gusano cortador plantas maceta"]
 pubDate: 2026-07-08
+faq:
+  - pregunta: "¿Por qué mis lechugas amanecen cortadas por la base?"
+    respuesta: "Es el típico daño del gusano gris: una oruga que de noche corta las plántulas a ras de sustrato y de día se esconde enterrada cerca. Por eso aparecen plantas segadas sin rastro aparente del culpable."
+  - pregunta: "¿Cómo elimino el gusano gris?"
+    respuesta: "Búscalo de noche o escarba los primeros centímetros junto a la planta dañada y retíralo a mano; los tratamientos foliares apenas sirven porque vive en el suelo. Un collar protector alrededor del tallo evita que corte nuevas plántulas."
+  - pregunta: "¿Por qué los insecticidas de hoja no funcionan con él?"
+    respuesta: "Porque el gusano gris no come el follaje de forma continua ni vive en las hojas: ataca la base y se refugia bajo tierra. Hay que actuar en el suelo, no pulverizando las hojas."
+
 ---
 
 Si una lechuga aparece cortada por la base, tumbada en el suelo con el tallo prácticamente seccionado, y al buscar no encuentras nada sobre la planta, lo más probable es que sea gusano gris, no una oruga de las que se comen la hoja por arriba.

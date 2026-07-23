@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["prevenir plagas huerto urbano", "control de plagas sin pesticidas", "plagas balcón prevención natural"]
 pubDate: 2026-04-06
 pilar: true
+faq:
+  - pregunta: "¿Cuál es la forma más eficaz de prevenir plagas sin pesticidas?"
+    respuesta: "La inspección regular: revisar el envés de las hojas cada pocos días permite pillar las plagas cuando aún son pocas y quitarlas a mano. Es más eficaz que cualquier tratamiento, porque evita que la población se dispare."
+  - pregunta: "¿Qué favorece la aparición de plagas en el balcón?"
+    respuesta: "El exceso de riego y de nitrógeno (que genera brotes tiernos muy apetecibles), la mala ventilación entre macetas amontonadas y las plantas estresadas. Corregir esos factores previene la mayoría de problemas."
+  - pregunta: "¿Sirven de algo las plantas repelentes y los insectos beneficiosos?"
+    respuesta: "Sí: aromáticas como la albahaca o la caléndula ahuyentan ciertas plagas, y atraer mariquitas y otros depredadores mantiene a raya al pulgón. Combinar asociación de cultivos y biodiversidad reduce mucho la necesidad de tratar."
+
 ---
 
 La mejor estrategia contra las plagas en un huerto urbano no es tratarlas cuando ya han aparecido, sino crear condiciones que dificulten su aparición desde el principio. Estos son los hábitos que más reducen el riesgo.

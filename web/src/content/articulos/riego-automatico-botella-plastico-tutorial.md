@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["riego automático con botella de plástico", "riego casero con botella", "gotero casero para macetas"]
 pubDate: 2026-04-16
+faq:
+  - pregunta: "¿Funciona de verdad el riego con botella de plástico?"
+    respuesta: "Sí, para ausencias cortas o como apoyo: una botella con agujeros clavada en el sustrato va liberando agua poco a poco. No sustituye a un sistema completo, pero saca de un apuro de unos días sin coste."
+  - pregunta: "¿Cuánto dura el agua de una botella de riego casero?"
+    respuesta: "Depende del tamaño de la botella, del número de agujeros y del calor, pero orientativamente cubre desde uno hasta varios días. Haz una prueba antes para calcular el goteo real en tu maceta."
+  - pregunta: "¿Cómo evito que la botella gotee demasiado rápido?"
+    respuesta: "Haz pocos agujeros y finos (con una aguja o chincheta) y pruébalo: si vacía muy rápido, usa menos agujeros. La idea es un goteo lento y constante, no que se vacíe en una hora."
+
 ---
 
 Es la solución de riego automático más económica que existe: aprovecha una botella de plástico que normalmente tirarías para dar de beber a tus plantas durante varios días sin intervención manual.

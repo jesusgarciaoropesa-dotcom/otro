@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["gusano blanco en maceta", "larvas blancas en la tierra", "gusano blanco limonero", "eliminar gusano blanco sustrato"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Qué son los gusanos blancos que aparecen en el sustrato?"
+    respuesta: "Suelen ser larvas de escarabajo (con forma de C, blancas y con cabeza marrón) que comen las raíces desde dentro de la maceta. No confundir con las lombrices, que son alargadas, rojizas y beneficiosas."
+  - pregunta: "¿Cómo elimino los gusanos blancos de una maceta?"
+    respuesta: "Lo más directo es desenmacetar, revisar el cepellón y retirarlos a mano; para infestaciones se pueden usar nematodos beneficiosos, un control biológico específico. Renovar el sustrato afectado ayuda a cortar el problema."
+  - pregunta: "¿De dónde salen los gusanos blancos?"
+    respuesta: "Casi siempre llegan con sustrato o compost mal madurado, o de puestas de escarabajo en el propio balcón. Usar sustrato de calidad y compost bien hecho reduce mucho el riesgo."
+
 ---
 
 Si al remover el sustrato de una maceta te encuentras larvas blanquecinas en forma de "C", con la cabeza de color marrón y unas patitas cerca de la cabeza, lo más probable es que sea gusano blanco, la larva de un escarabajo tipo melolonta o abejorro de mayo.

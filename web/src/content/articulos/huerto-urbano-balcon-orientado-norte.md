@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto balcón orientado al norte", "qué plantar balcón norte", "cultivo en balcón sin sol"]
 pubDate: 2026-05-15
+faq:
+  - pregunta: "¿Se puede tener huerto en un balcón orientado al norte?"
+    respuesta: "Sí, aunque con limitaciones: un balcón norte recibe luz indirecta y poco o ningún sol directo, así que hay que centrarse en cultivos de sombra. Olvídate de tomates o pimientos y apuesta por hojas y aromáticas."
+  - pregunta: "¿Qué se puede cultivar en un balcón norte?"
+    respuesta: "Hortalizas de hoja (lechuga, espinaca, acelga, rúcula), rabanitos y aromáticas resistentes como la menta o el perejil. Crecen más despacio que a pleno sol, pero se dan bien con luz indirecta."
+  - pregunta: "¿Cómo aprovecho mejor la poca luz de un balcón norte?"
+    respuesta: "Pinta las paredes de colores claros, usa superficies reflectantes, coloca las plantas en el borde exterior (más luminoso) y no las amontones. Y ajusta el riego a la baja, porque en sombra el sustrato se seca más lento."
+
 ---
 
 Un balcón orientado al norte recibe muy poca luz solar directa durante todo el año, lo que condiciona bastante qué se puede cultivar con éxito. No significa que no puedas tener huerto, pero sí que hay que elegir bien.

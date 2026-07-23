@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["riego automático vacaciones", "regar plantas mientras estoy de vacaciones", "sistema riego para ausencias"]
 pubDate: 2026-03-18
+faq:
+  - pregunta: "¿Cómo riego las plantas si me voy unos días de vacaciones?"
+    respuesta: "Para 2-4 días suele bastar con regar a fondo antes de irte y agrupar las macetas a la sombra; para 5-10 días, conos de cerámica o botellas de riego; para más de 10-15 días, un sistema de goteo con programador es lo seguro."
+  - pregunta: "¿Qué debo revisar antes de irme de viaje?"
+    respuesta: "Que el sistema (si lo tienes) funciona sin atascos ni fugas, que las macetas están agrupadas y protegidas del sol fuerte, y que hay agua suficiente en el depósito. Déjalo probado unos días antes, no el mismo día de salir."
+  - pregunta: "¿Mejor dejarlas al sol o a la sombra durante las vacaciones?"
+    respuesta: "A la sombra o media sombra: reduce la evaporación y el estrés, así el agua disponible dura mucho más. Agruparlas juntas también crea un microclima más húmedo entre ellas."
+
 ---
 
 Las vacaciones de verano son la época en la que más plantas se pierden en un huerto urbano por falta de riego. La solución adecuada depende sobre todo de cuántos días vas a estar fuera.

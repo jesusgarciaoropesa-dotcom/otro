@@ -5,6 +5,14 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["reutilizar restos de cocina huerto urbano", "abonar plantas con restos de cocina", "aprovechar restos orgánicos maceta"]
 pubDate: 2026-05-12
+faq:
+  - pregunta: "¿Qué restos de cocina sirven para abonar las macetas?"
+    respuesta: "Los posos de café (aportan nitrógeno), las cáscaras de huevo trituradas (calcio), el agua de cocción de verduras sin sal y los restos de plátano (potasio). Son aportes sencillos que reciclan nutrientes hacia tus plantas."
+  - pregunta: "¿Puedo echar los restos directamente a la maceta?"
+    respuesta: "Mejor con moderación y bien triturados o compostados: enterrar restos frescos en cantidad puede atraer moscas, generar hongos o pudrición. En pequeñas dosis y superficiales van bien; lo ideal es compostarlos antes."
+  - pregunta: "¿Qué restos NO debo usar para abonar?"
+    respuesta: "Evita totalmente carne, pescado, lácteos, aceites y comida cocinada con sal: atraen plagas, huelen mal y pueden dañar las plantas. Cíñete a restos vegetales crudos y los aportes citados."
+
 ---
 
 No hace falta tener un compostador para aprovechar algunos restos de cocina en tu huerto de balcón. Estos son los que puedes reutilizar de forma directa o casi directa, sin un proceso de compostaje completo.

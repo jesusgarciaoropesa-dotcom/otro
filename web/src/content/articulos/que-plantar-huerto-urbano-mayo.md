@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en mayo en balcón", "siembra de mayo huerto urbano", "qué sembrar en mayo en maceta"]
 pubDate: 2026-06-10
+faq:
+  - pregunta: "¿Qué se planta en mayo en el balcón?"
+    respuesta: "Mayo es de los mejores meses: ya sin riesgo de heladas en casi toda España, se trasplantan tomates, pimientos, berenjenas, calabacines y pepinos, y se siembran judías, albahaca y más lechugas. Todo crece con fuerza."
+  - pregunta: "¿Puedo trasplantar tomates y pimientos en mayo?"
+    respuesta: "Sí, es el momento ideal: pasado el riesgo de heladas, el plantel de tomate, pimiento y berenjena se establece rápido con el calor. Ponles el tutor desde el trasplante."
+  - pregunta: "¿Qué cuidados extra necesita el huerto en mayo?"
+    respuesta: "Empezar a vigilar el riego, que sube con el calor, y estar atento a las primeras plagas (pulgón, mosca blanca) revisando el envés. Es buen momento para instalar el riego automático antes del verano."
+
 ---
 
 Mayo es uno de los meses más activos del calendario de siembra: las temperaturas ya son suficientemente cálidas para trasplantar al exterior sin riesgo de heladas tardías, y todavía queda tiempo de sobra para sembrar directamente muchos cultivos de ciclo medio.

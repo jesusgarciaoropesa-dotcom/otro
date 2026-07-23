@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["espacio mínimo huerto balcón", "huerto urbano poco espacio", "cuánto espacio necesito para un huerto"]
 pubDate: 2026-02-17
+faq:
+  - pregunta: "¿Cuánto espacio mínimo necesito para un huerto en el balcón?"
+    respuesta: "Con 1 m² ya puedes tener un pequeño huerto de aromáticas, lechugas y algún tomate en maceta. El punto óptimo para variedad y cosecha regular está en torno a 3-4 m²."
+  - pregunta: "¿Puedo cultivar algo útil en un balcón muy pequeño?"
+    respuesta: "Sí: priorizando cultivos de alto rendimiento por espacio (aromáticas, hojas de corte, tomate cherry) y aprovechando el vertical con estanterías o jardineras colgantes multiplicas lo que cabe. Lo importante es la luz, más que los metros."
+  - pregunta: "¿Es mejor tener mucho espacio o poco bien aprovechado?"
+    respuesta: "Poco bien gestionado: no necesitas más superficie de la que puedas mantener con tu tiempo. Un balcón pequeño cuidado produce más que una terraza grande descuidada."
+
 ---
 
 Uno de los mitos más extendidos sobre el huerto urbano es que hace falta mucho espacio para que merezca la pena. En realidad, con menos de un metro cuadrado ya se puede tener una producción constante de aromáticas y hortalizas de hoja.

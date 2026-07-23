@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["saltamontes en el huerto", "esperanza insecto plaga", "ninfa saltamontes plantas", "bicho verde antenas largas hojas comidas"]
 pubDate: 2026-07-10
+faq:
+  - pregunta: "¿El saltamontes verde es una plaga peligrosa para el balcón?"
+    respuesta: "En pocas cantidades es prácticamente inofensivo y solo pica alguna hoja suelta; el saltamontes de las plantas (esperanza) suele estar de paso. Solo es plaga real cuando hay varios y ves mordeduras grandes y continuas en muchas hojas."
+  - pregunta: "¿Cómo elimino los saltamontes de las plantas?"
+    respuesta: "Lo más eficaz en balcón es la retirada a mano (por la mañana o al anochecer, que están más quietos) y una malla antiinsectos para proteger los cultivos más tiernos. Los tratamientos químicos rara vez hacen falta para tan pocos ejemplares."
+  - pregunta: "¿Cómo distingo el daño del saltamontes del de una oruga?"
+    respuesta: "El saltamontes deja mordeduras irregulares en los bordes y agujeros grandes, sin apenas excrementos visibles; la oruga deja agujeros más el rastro de puntitos oscuros de sus deposiciones. Ver al insecto confirma cuál es."
+
 ---
 
 Si encuentras un bicho verde con antenas larguísimas y patas traseras de salto sobre una hoja mordida, lo más probable es que lo descartes como una curiosidad sin importancia. El problema es que, cuando hay varios escondidos entre las hojas, pueden ser responsables de defoliaciones importantes en pimientos, berenjenas y kale sin que veas ni una oruga ni un gusano por ningún lado.

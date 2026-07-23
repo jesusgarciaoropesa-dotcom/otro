@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto balcón orientado al sur", "qué plantar balcón sur", "cultivo en balcón con mucho sol"]
 pubDate: 2026-05-17
+faq:
+  - pregunta: "¿Es bueno un balcón orientado al sur para el huerto?"
+    respuesta: "Es el que más sol recibe, ideal para casi cualquier hortaliza de fruto y frutales. El reto no es la luz, sino el calor y el riego: en verano las macetas se secan muy rápido."
+  - pregunta: "¿Cómo gestiono el calor en un balcón sur en verano?"
+    respuesta: "Riega a primera hora o al atardecer, agrupa las macetas para dar sombra a las raíces, usa macetas claras y de material que no se recaliente, y da algo de sombra en las horas centrales con una malla. Así evitas el estrés por calor."
+  - pregunta: "¿Qué macetas van mejor en un balcón muy soleado?"
+    respuesta: "Las de colores claros y materiales que no acumulen tanto calor (o de mayor volumen), porque el barro oscuro y las macetas pequeñas recalientan las raíces. Cuanto más sustrato, más estable se mantiene la humedad."
+
 ---
 
 Un balcón orientado al sur es, en principio, el mejor escenario posible para un huerto urbano: recibe sol directo durante buena parte del día en la mayoría de estaciones. El reto aquí no es la falta de luz, sino gestionar bien el calor y el riego que esa exposición exige.

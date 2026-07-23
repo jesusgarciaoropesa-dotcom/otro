@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en invierno en balcón", "cultivos resistentes al frío maceta", "proteger plantas de heladas en balcón"]
 pubDate: 2026-06-13
+faq:
+  - pregunta: "¿Qué puedo cultivar en invierno sin que se me hiele?"
+    respuesta: "Cultivos rústicos que aguantan el frío: ajos, habas, guisantes, espinacas, acelgas, canónigos y algunas coles, mejor con protección en las noches más frías. Muchos toleran heladas suaves sin problema."
+  - pregunta: "¿Cómo protejo el huerto de las heladas en el balcón?"
+    respuesta: "Con un velo o malla antiheladas sobre las plantas en las noches frías, arrimando las macetas a la pared (que da calor) y evitando regar al anochecer. Agrupar las macetas también las protege entre sí."
+  - pregunta: "¿El frío estropea las plantas del balcón?"
+    respuesta: "Las de clima cálido (tomate, albahaca, cítricos tiernos) sí sufren y hay que protegerlas o retirarlas; las rústicas de invierno lo toleran e incluso mejoran de sabor con el frío. La clave es elegir cultivos adecuados a la estación."
+
 ---
 
 El invierno no tiene por qué ser un parón total del huerto urbano. Con las especies adecuadas y algunas medidas de protección sencillas, es posible mantener cultivo activo incluso en zonas con heladas moderadas.

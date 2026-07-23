@@ -5,6 +5,14 @@ categoria: "compostaje-sostenibilidad"
 intencion: "informativa"
 keywords: ["beneficios ambientales huerto urbano", "por qué tener un huerto en casa", "impacto ambiental huerto en balcón"]
 pubDate: 2026-07-02
+faq:
+  - pregunta: "¿Qué beneficios ambientales tiene un huerto urbano en casa?"
+    respuesta: "Reduce los kilómetros que recorren los alimentos, recorta envases y plástico de un solo uso, aumenta la biodiversidad urbana, mejora el microclima del balcón y permite reciclar residuos orgánicos vía compost. Pequeños gestos que, sumados, cuentan."
+  - pregunta: "¿De verdad un balcón influye en el medio ambiente de la ciudad?"
+    respuesta: "A escala individual es modesto, pero muchos balcones verdes juntos refrescan el ambiente, dan refugio a polinizadores y reducen residuos. Además cambia hábitos de consumo hacia lo local y de temporada."
+  - pregunta: "¿Ayuda el huerto a reducir la basura de casa?"
+    respuesta: "Sí: compostando los restos de cocina y poda devuelves nutrientes a tus macetas en vez de generar basura orgánica. Cierras el ciclo y reduces lo que va al contenedor."
+
 ---
 
 Un huerto urbano en un balcón no va a compensar por sí solo la huella ambiental de toda una vivienda, pero sus beneficios acumulados son más significativos de lo que suele pensarse, especialmente si se multiplican por muchos hogares de una misma ciudad.

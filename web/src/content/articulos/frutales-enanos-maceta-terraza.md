@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["frutales enanos para maceta", "árboles frutales para terraza", "frutales para balcón"]
 pubDate: 2026-03-06
 pilar: true
+faq:
+  - pregunta: "¿Qué frutales enanos son mejores para una terraza?"
+    respuesta: "El limonero y el naranjo enanos, el arándano, la higuera enana y el granado enano están entre los más agradecidos en maceta. Se mantienen a tamaño manejable y, bien cuidados, dan cosecha en el balcón."
+  - pregunta: "¿Los frutales enanos dan fruta de verdad?"
+    respuesta: "Sí, si partes de planta injertada de vivero: dan fruta de tamaño normal aunque el árbol sea pequeño. Las variedades puramente ornamentales dan frutos más decorativos que para comer."
+  - pregunta: "¿Qué necesita un frutal enano para producir en maceta?"
+    respuesta: "Una maceta grande (a partir de 40 litros en adultos) con buen drenaje, mucho sol, un abonado adecuado y una poda de control. Con esos cuidados, un frutal enano rinde muy bien en terraza."
+
 ---
 
 No hace falta tener un jardín para disfrutar de fruta propia. Existen variedades enanas de muchos frutales clásicos, desarrolladas específicamente para vivir toda su vida en una maceta grande.

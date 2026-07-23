@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["programador riego solar", "riego por goteo con panel solar", "temporizador riego solar balcón"]
 pubDate: 2026-05-20
+faq:
+  - pregunta: "¿Cómo funciona un programador de riego solar?"
+    respuesta: "Lleva una pequeña placa solar que carga una batería interna, la cual mueve el mecanismo de riego según la programación. Así funciona sin enchufe y sin depender de cambiar pilas constantemente."
+  - pregunta: "¿Merece la pena un programador solar frente a uno de pilas?"
+    respuesta: "Si tu balcón no tiene enchufe cerca y le da sol, sí: evita el cambio frecuente de pilas y es más autónomo, aunque cuesta algo más. En un balcón sombrío o con enchufe, uno de pilas o eléctrico puede bastar."
+  - pregunta: "¿El programador solar necesita sol directo para funcionar?"
+    respuesta: "Necesita luz suficiente para cargar la batería, así que colócalo donde reciba buena claridad; muchos cargan bien incluso sin sol directo todo el día. En balcones muy sombríos rinde peor."
+
 ---
 
 Un <a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">programador de riego solar</a> resuelve un problema muy concreto: automatizar el riego en balcones sin acceso a enchufe cercano y sin depender del cambio frecuente de pilas de los modelos tradicionales.

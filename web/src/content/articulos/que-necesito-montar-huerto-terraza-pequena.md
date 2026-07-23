@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["qué necesito para un huerto en terraza", "montar huerto terraza pequeña", "lista básica huerto urbano"]
 pubDate: 2026-05-13
+faq:
+  - pregunta: "¿Qué es lo imprescindible para montar un huerto en una terraza pequeña?"
+    respuesta: "Macetas con buen drenaje adecuadas a cada cultivo, un sustrato de calidad, semillas o plantel de cultivos fáciles y una forma de regar. Con eso y suficiente luz ya puedes empezar sin gastar mucho."
+  - pregunta: "¿Qué puedo añadir más adelante?"
+    respuesta: "Cuando cojas ritmo: riego automático, estructuras verticales para ganar espacio, un pequeño compostador y más variedad de cultivos. Es mejor crecer poco a poco que llenar la terraza de golpe."
+  - pregunta: "¿Cómo priorizo el gasto si tengo poco presupuesto?"
+    respuesta: "Invierte primero en buen sustrato y macetas del tamaño correcto, que marcan la diferencia entre éxito y fracaso; en semillas y herramientas básicas se gasta muy poco. Lo accesorio (decoración, gadgets) puede esperar."
+
 ---
 
 Antes de comprar nada, conviene tener claro qué elementos son realmente imprescindibles para montar un huerto en una terraza pequeña y cuáles pueden esperar a una fase posterior.

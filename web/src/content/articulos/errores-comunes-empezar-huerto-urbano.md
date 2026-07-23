@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["errores huerto urbano", "fallos huerto urbano principiantes", "por qué se muere mi huerto"]
 pubDate: 2026-02-18
+faq:
+  - pregunta: "¿Cuál es el error más común al empezar un huerto de balcón?"
+    respuesta: "Usar macetas demasiado pequeñas: limitan las raíces, obligan a regar constantemente y dan cosechas pobres. Quedarse corto de maceta es la causa de fracaso más frecuente en principiantes."
+  - pregunta: "¿Es malo regar todos los días por si acaso?"
+    respuesta: "Sí: regar por rutina sin comprobar el sustrato provoca encharcamiento y pudrición de raíces, que mata más plantas que la sequía. Riega solo cuando la tierra lo pida, comprobando la humedad con el dedo."
+  - pregunta: "¿Por qué es un error elegir las plantas por gusto y no por la luz?"
+    respuesta: "Porque cada cultivo necesita unas horas de sol concretas: plantar tomates en un balcón de sombra condena la planta por mucho que te guste. Primero mira la luz que tienes y luego elige qué plantar."
+
 ---
 
 Casi todos los huertos urbanos que fracasan en las primeras semanas comparten los mismos errores. Conocerlos de antemano te ahorrará disgustos y plantas muertas.

@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["calendario de siembra huerto urbano", "calendario siembra balcón mes a mes", "qué sembrar cada mes en maceta"]
 pubDate: 2026-04-01
 pilar: true
+faq:
+  - pregunta: "¿Cómo sé qué plantar cada mes en el balcón?"
+    respuesta: "Guíate por la estación: en primavera se siembran los cultivos de calor (tomate, pimiento, calabacín), en otoño e invierno los de frío (hojas, ajos, habas, guisantes). Nuestra calculadora te dice qué plantar según tu mes y tu luz."
+  - pregunta: "¿El calendario de siembra vale para toda España?"
+    respuesta: "Es una guía orientativa: en zonas cálidas puedes adelantar siembras y alargar la temporada, y en zonas frías conviene retrasarlas o proteger del frío. Ajusta siempre a tu clima local y a la luz de tu balcón."
+  - pregunta: "¿Qué pasa si siembro fuera de época?"
+    respuesta: "El cultivo germina peor, crece con dificultad o se sube a flor antes de producir, porque cada planta necesita su rango de temperatura. Respetar la época de siembra es una de las claves para no llevarse decepciones."
+
 ---
 
 ¿Prefieres verlo filtrado para tu caso? Usa nuestra [calculadora de qué plantar en tu balcón](/que-plantar-en-tu-balcon/), que te dice qué sembrar según tu luz y el mes. Este calendario es una guía general para clima mediterráneo (la mayoría de España). Si tu zona tiene inviernos muy fríos o veranos extremos, ajusta las fechas 2-3 semanas según tu clima local.

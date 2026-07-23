@@ -5,6 +5,14 @@ categoria: "cultivo-vertical"
 intencion: "informativa"
 keywords: ["huerto vertical con palets", "jardín vertical palet reciclado", "tutorial huerto vertical DIY"]
 pubDate: 2026-04-19
+faq:
+  - pregunta: "¿Qué palet debo usar para un huerto vertical?"
+    respuesta: "Uno marcado HT (tratado con calor), nunca MB (tratado con bromuro de metilo, tóxico), y en buen estado sin restos de productos químicos. Lija bien la madera antes de usarlo para cultivar alimentos."
+  - pregunta: "¿Cómo evito que se salga la tierra del palet en vertical?"
+    respuesta: "Forrando la parte trasera y los huecos con malla geotextil o fieltro antes de rellenar con sustrato, para que retenga la tierra y deje drenar. Es el paso clave para que funcione en vertical."
+  - pregunta: "¿Por qué hay que dejar reposar el palet en horizontal antes de ponerlo de pie?"
+    respuesta: "Para que las plantas enraícen y el sustrato se asiente unas semanas en horizontal; si lo levantas antes, la tierra y las plántulas se caen. Un poco de paciencia evita rehacer el trabajo."
+
 ---
 
 Un palet de madera reciclado es una de las formas más económicas de montar un huerto vertical, aprovechando un material que muchas veces se puede conseguir gratis o a muy bajo coste.

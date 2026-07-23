@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["instalar temporizador de riego", "programador de riego para macetas", "temporizador riego balcón"]
 pubDate: 2026-02-22
+faq:
+  - pregunta: "¿Es difícil instalar un temporizador de riego en el balcón?"
+    respuesta: "No: los modelos a pilas se enroscan al grifo sin herramientas ni obra, y en unos minutos programas la hora y la duración. Es de las instalaciones más sencillas y la que más disgustos evita por olvidos de riego."
+  - pregunta: "¿Necesito un grifo en el balcón para poner temporizador?"
+    respuesta: "Lo ideal es un grifo, pero si no tienes, existen sistemas que funcionan con un depósito de agua y una pequeña bomba a pilas o solar. Así puedes automatizar el riego aunque no haya toma de agua cerca."
+  - pregunta: "¿Cada cuánto debe regar el temporizador?"
+    respuesta: "Depende del cultivo, la maceta y la estación; no hay número fijo. Programa varios riegos cortos mejor que uno largo, comprueba la humedad los primeros días y ajusta al alza en verano y a la baja en invierno."
+
 ---
 
 El <a href="https://www.amazon.es/s?k=programador+riego+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener">temporizador (o programador) de riego</a> es la pieza clave de cualquier sistema de riego automático: decide cuándo y cuánto tiempo riega tu instalación. Instalarlo correctamente evita tanto la sequía como el encharcamiento.

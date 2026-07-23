@@ -5,6 +5,14 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["cuándo trasplantar plántulas", "trasplante de semillero a maceta", "cómo trasplantar plántulas sin dañarlas"]
 pubDate: 2026-05-05
+faq:
+  - pregunta: "¿Cuándo está lista una plántula para trasplantar?"
+    respuesta: "Cuando tiene 2-4 hojas verdaderas (no las primeras de germinación), tallo firme y buen tamaño de raíz que llena el alveolo. Ese es el punto en que aguanta bien el cambio a su maceta definitiva."
+  - pregunta: "¿Qué pasa si trasplanto demasiado tarde?"
+    respuesta: "Si la plántula pasa mucho tiempo en un semillero pequeño, las raíces se restringen y la planta pierde vigor incluso después del trasplante. Mejor no retrasarlo una vez esté lista."
+  - pregunta: "¿Cómo trasplanto sin dañar las raíces?"
+    respuesta: "Riega antes, extrae la plántula con todo su cepellón sin tirar del tallo, y colócala en un hoyo ya preparado en la maceta definitiva. Endurécela unos días al exterior antes si va a pleno sol o viento."
+
 ---
 
 Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comunes al pasar plántulas de semillero a su maceta definitiva. Estas son las señales que indican el momento adecuado. Si todavía no tienes semillero, consulta nuestra comparativa de [mejores semilleros para empezar plantas en casa](/articulos/mejores-semilleros-empezar-plantas-casa/), y si ya lo tienes pero no sabes por dónde empezar, aquí tienes [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/).
