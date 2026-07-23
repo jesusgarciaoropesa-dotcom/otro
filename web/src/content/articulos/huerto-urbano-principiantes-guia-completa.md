@@ -5,6 +5,14 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["huerto urbano para principiantes", "huerto urbano guía completa", "empezar huerto urbano desde cero"]
 pubDate: 2026-03-14
+faq:
+  - pregunta: "¿Por dónde empiezo si nunca he tenido huerto?"
+    respuesta: "Por lo esencial y en este orden: mide la luz de tu balcón, elige macetas con buen drenaje, un sustrato de calidad, resuelve el riego y empieza con cultivos fáciles. No hace falta comprar mucho ni tener experiencia previa."
+  - pregunta: "¿Cuánto cuesta montar un huerto urbano de balcón?"
+    respuesta: "Muy poco para arrancar: con unas macetas, sustrato y semillas de cultivos sencillos tienes de sobra. Puedes crecer poco a poco añadiendo riego automático o más macetas según cojas soltura."
+  - pregunta: "¿Cuáles son los errores más típicos al empezar?"
+    respuesta: "Usar macetas demasiado pequeñas, regar por calendario en vez de por necesidad, elegir cultivos difíciles el primer año y subestimar la luz que necesita cada planta. Evitarlos es la diferencia entre frustrarse y disfrutar."
+
 ---
 
 Si nunca has cultivado nada y quieres montar tu primer huerto urbano, esta guía reúne en un solo sitio todo lo que necesitas decidir antes de comprar tu primera maceta.

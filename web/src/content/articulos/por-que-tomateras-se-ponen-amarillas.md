@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["tomatera hojas amarillas", "por qué se amarillean los tomates", "tomatera enferma maceta"]
 pubDate: 2026-04-04
+faq:
+  - pregunta: "¿Por qué se ponen amarillas las hojas de abajo de la tomatera?"
+    respuesta: "Si es solo alguna hoja baja y puntual, suele ser envejecimiento normal. Si avanza, apunta a riego irregular o a falta de nutrientes: la planta retira recursos de las hojas viejas para las nuevas. Ajusta el riego y abona con un fertilizante rico en potasio."
+  - pregunta: "¿Qué significa que amarilleen entre los nervios quedando las venas verdes?"
+    respuesta: "Es clorosis, típica de falta de hierro o magnesio, frecuente cuando el sustrato está agotado o el agua es muy calcárea. Se corrige aportando un abono con micronutrientes (o quelato de hierro) y regando con agua de menos cal."
+  - pregunta: "¿Cuándo debo preocuparme por el amarilleo de la tomatera?"
+    respuesta: "Cuando es rápido, generalizado y afecta también a las hojas nuevas, o va con manchas oscuras: ahí puede haber exceso de riego, un hongo o una plaga. Un amarilleo lento de las hojas más viejas rara vez es grave."
+
 ---
 
 El amarilleo de las hojas es uno de los síntomas más comunes en tomateras de maceta, y puede deberse a varias causas distintas. El patrón exacto (qué hojas, en qué orden) ayuda mucho a identificar la causa real. Si además de amarillear se enroscan u ondulan, consulta también nuestra guía de [hojas rizadas en la tomatera](/articulos/hojas-rizadas-tomatera-causas/), un síntoma relacionado pero con causas propias.

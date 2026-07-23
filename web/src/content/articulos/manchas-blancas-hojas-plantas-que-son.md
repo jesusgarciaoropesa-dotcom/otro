@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["manchas blancas en las hojas de las plantas", "polvo blanco en hojas plantas", "oídio en huerto urbano tratamiento"]
 pubDate: 2026-06-17
+faq:
+  - pregunta: "¿Qué son las manchas blancas tipo polvo en las hojas?"
+    respuesta: "Lo más habitual es oídio, un hongo que forma un polvillo blanco que se extiende por el haz de la hoja. Aparece con humedad y poca ventilación, y si no se trata debilita la planta y afecta a la cosecha."
+  - pregunta: "¿Cómo se quita el oídio de forma ecológica?"
+    respuesta: "Retira las hojas más afectadas, mejora la ventilación separando las plantas y pulveriza con bicarbonato sódico diluido o con azufre, insistiendo por ambas caras de la hoja. Evita mojar el follaje al regar."
+  - pregunta: "¿Y si las manchas blancas son algodonosas y no polvo?"
+    respuesta: "Entonces no es oídio, sino cochinilla algodonosa: unas motas blancas y algodonosas pegadas a tallos y envés que se quitan con alcohol y jabón potásico. Lo vemos en nuestra guía de la cochinilla algodonosa."
+
 ---
 
 No todas las manchas blancas en las hojas tienen la misma causa. Distinguir el patrón exacto es clave para aplicar el tratamiento correcto en lugar de uno genérico que puede no ser efectivo.

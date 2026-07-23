@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "transaccional"
 keywords: ["mejor maceta para frutales", "maceta para limonero balcón", "maceta grande para árbol frutal terraza"]
 pubDate: 2026-06-06
+faq:
+  - pregunta: "¿De qué tamaño debe ser la maceta para un frutal en balcón?"
+    respuesta: "Depende de la edad: un frutal joven puede empezar en 20-30 litros e ir subiendo, pero uno adulto necesita al menos 40-50 litros para producir bien. Mejor ir trasplantando a mayor cada par de años que plantarlo de golpe en una enorme."
+  - pregunta: "¿Qué material de maceta es mejor para frutales?"
+    respuesta: "El barro transpira y protege del sobrecalentamiento pero pesa y se seca antes; el plástico o resina retiene mejor la humedad y pesa poco. Más importante que el material es que tenga un buen drenaje: es el criterio decisivo."
+  - pregunta: "¿Cada cuánto hay que cambiar de maceta un frutal?"
+    respuesta: "Cada 2-3 años, o cuando veas raíces asomando por el drenaje y la planta se seque muy rápido pese a regar. Al trasplantar, renueva parte del sustrato para devolverle nutrientes."
+
 ---
 
 Un frutal en maceta vive muchos años en el mismo contenedor, así que acertar con la maceta desde el principio (o saber cuándo cambiarla) tiene un impacto directo en su salud y producción a largo plazo.

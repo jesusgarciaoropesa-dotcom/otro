@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["cultivar arándanos en maceta", "arándanos en balcón cuidados", "arándanos en maceta pH sustrato"]
 pubDate: 2026-04-30
+faq:
+  - pregunta: "¿Por qué los arándanos necesitan un sustrato especial?"
+    respuesta: "Son plantas acidófilas: exigen un sustrato ácido (pH 4,5-5,5) tipo el de plantas de brezo o rododendros. En sustrato normal amarillean y no prosperan, por eso el sustrato es la clave del éxito con el arándano."
+  - pregunta: "¿Con qué agua debo regar los arándanos?"
+    respuesta: "Con agua de baja cal: de lluvia o reposada, porque el agua muy calcárea sube el pH y bloquea la absorción de hierro, provocando clorosis. Mantén el sustrato húmedo pero sin encharcar."
+  - pregunta: "¿Necesito más de una planta de arándano para que dé fruto?"
+    respuesta: "Aunque muchas variedades son autofértiles, plantar dos variedades distintas mejora mucho la polinización y la cosecha. Además alargas la temporada si eligen épocas de maduración escalonadas."
+
 ---
 
 Los arándanos son uno de los frutales de maceta más exigentes en cuanto a tipo de sustrato, pero con las condiciones adecuadas ofrecen una de las cosechas más satisfactorias de un huerto de balcón.

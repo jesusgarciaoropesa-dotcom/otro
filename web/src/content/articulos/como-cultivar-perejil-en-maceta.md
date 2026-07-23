@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar perejil en maceta", "perejil en balcón cuidados", "perejil se seca maceta"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Por qué tarda tanto en germinar el perejil?"
+    respuesta: "Es normal: el perejil puede tardar de 2 a 4 semanas en nacer. Se acelera dejando las semillas a remojo la noche anterior y manteniendo el sustrato húmedo y templado hasta que asoma; no lo des por perdido antes de tiempo."
+  - pregunta: "¿El perejil quiere sol o sombra?"
+    respuesta: "Va bien a pleno sol suave y agradece algo de sombra en verano, cuando el calor fuerte lo estresa. En interior, colócalo en la ventana más luminosa que tengas."
+  - pregunta: "¿Cómo se corta el perejil para que siga produciendo?"
+    respuesta: "Corta los tallos exteriores desde la base, dejando siempre el centro con hojas nuevas. Si cortas solo las puntas o vacías la planta entera, se debilita; cosechando por fuera dura muchos meses."
+
 ---
 
 El perejil es una de las hierbas más usadas en la cocina española, y también una de las más agradecidas para maceta si se entiende algo importante: a diferencia del romero o el tomillo, no es una aromática mediterránea de secano, necesita riego bastante más constante.

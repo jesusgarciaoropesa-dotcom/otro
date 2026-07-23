@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar rabanitos en maceta", "rabanitos en balcón", "cultivo rápido huerto urbano"]
 pubDate: 2026-03-26
+faq:
+  - pregunta: "¿Cuánto tardan los rabanitos en crecer?"
+    respuesta: "Son de los cultivos más rápidos: en 25-30 días desde la siembra ya los tienes listos. Por eso son ideales para empezar y para picar entre otros cultivos de crecimiento más lento."
+  - pregunta: "¿Por qué me salen los rabanitos todo hoja y sin bulbo?"
+    respuesta: "Casi siempre por sembrar demasiado juntos, exceso de nitrógeno o poca luz: la planta crece en hojas a costa de la raíz. Aclara las plántulas dejando espacio, no abones de más y dales buena luz."
+  - pregunta: "¿Necesitan mucha profundidad de maceta?"
+    respuesta: "No: con 15 cm de profundidad basta, lo que los hace perfectos para jardineras. Lo importante es un sustrato suelto para que el bulbo engorde sin obstáculos y un riego constante para que no piquen."
+
 ---
 
 Si buscas resultados rápidos para coger confianza con tu huerto urbano, los rabanitos son probablemente el cultivo más agradecido: de la siembra a la cosecha pasan solo 3-4 semanas.

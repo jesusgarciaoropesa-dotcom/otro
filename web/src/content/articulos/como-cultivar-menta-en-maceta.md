@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar menta en maceta", "menta en balcón cuidados", "menta invasiva maceta"]
 pubDate: 2026-03-28
+faq:
+  - pregunta: "¿Por qué la menta es tan invasiva?"
+    respuesta: "Se extiende por rizomas subterráneos que colonizan rápido toda la tierra disponible y ahogan a las plantas vecinas. Por eso conviene cultivarla siempre en su propia maceta individual, no compartida."
+  - pregunta: "¿Puedo plantar la menta con otras aromáticas?"
+    respuesta: "Mejor no: acabaría invadiendo la maceta y desplazando al resto. Dale su maceta aislada y podrás tenerla junto a otras plantas sin que se apodere de ellas."
+  - pregunta: "¿La menta necesita mucho sol?"
+    respuesta: "Prefiere media sombra, sobre todo en verano; el sol muy intenso le quema las hojas. Eso sí, necesita el sustrato siempre algo húmedo, porque es de las aromáticas que más agua piden."
+
 ---
 
 La menta es una de las aromáticas más fáciles de cultivar, hasta el punto de que su verdadero reto no es conseguir que crezca, sino evitar que invada el resto de macetas cercanas.

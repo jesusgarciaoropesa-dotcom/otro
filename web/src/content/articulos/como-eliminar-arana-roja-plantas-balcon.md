@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["araña roja en plantas", "eliminar araña roja balcón", "hojas con puntitos amarillos araña roja"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Cómo sé que tengo araña roja y no otra cosa?"
+    respuesta: "Fíjate en un punteado amarillento fino y uniforme por toda la hoja y, en casos avanzados, una telaraña muy sutil en el envés y entre los brotes. Son ácaros diminutos, difíciles de ver a simple vista, que prosperan con calor y aire seco."
+  - pregunta: "¿Cómo se elimina la araña roja?"
+    respuesta: "Como odia la humedad, sube la humedad ambiental pulverizando agua sobre las plantas (por la mañana) y trata con aceite de neem o jabón potásico cada pocos días, insistiendo en el envés. Retira las hojas muy dañadas para bajar la población."
+  - pregunta: "¿Por qué me aparece siempre en verano?"
+    respuesta: "Porque el calor y la sequedad del ambiente aceleran su reproducción, y en un balcón soleado se dan esas condiciones justo en verano. Mantener cierta humedad y revisar el envés con frecuencia es la mejor prevención."
+
 ---
 
 La araña roja es una de las plagas más frecuentes en balcones y terrazas soleadas, precisamente porque prospera en las condiciones de calor y sequedad ambiental que muchas veces se dan justo ahí. A diferencia del pulgón o la mosca blanca, no es un insecto sino un ácaro diminuto, y eso cambia bastante cómo se trata. Comparte esas condiciones de verano con los [trips](/articulos/trips-huerto-balcon-como-eliminarlos/), otra plaga diminuta que conviene descartar si las hojas se ven plateadas.

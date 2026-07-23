@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar espinacas en maceta", "espinacas en balcón", "espinacas todo el año en maceta"]
 pubDate: 2026-04-21
+faq:
+  - pregunta: "¿Por qué se me suben a flor las espinacas tan pronto?"
+    respuesta: "Por el calor y los días largos: la espinaca es de clima fresco y, cuando sube la temperatura, se espiga (florece) y las hojas amargan. Siémbrala en otoño o final de invierno y dale algo de sombra en primavera para retrasarlo."
+  - pregunta: "¿Las espinacas necesitan mucho sol?"
+    respuesta: "No: prefieren luz suave y toleran bien la media sombra, que además retrasa que se suban a flor. Un balcón que no sea de pleno sol de tarde les va perfecto."
+  - pregunta: "¿Cuándo se siembran las espinacas en el balcón?"
+    respuesta: "Las mejores épocas son el otoño y el final del invierno, porque prosperan con frescor. Con siembra escalonada cada pocas semanas puedes tener hojas de forma casi continua fuera del calor del verano."
+
 ---
 
 Las espinacas son una de las hojas verdes más agradecidas para un huerto de balcón, con la ventaja de que, eligiendo bien la variedad y la época, se pueden mantener en producción prácticamente todo el año.

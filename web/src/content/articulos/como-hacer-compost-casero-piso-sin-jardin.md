@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["compost casero en piso", "cómo hacer compost sin jardín", "compostaje en balcón"]
 pubDate: 2026-03-13
 pilar: true
+faq:
+  - pregunta: "¿Se puede hacer compost en un piso sin jardín?"
+    respuesta: "Sí. En un balcón o incluso dentro de casa funcionan muy bien el vermicompostaje (con lombrices) y el sistema bokashi, pensados para espacios pequeños. Con un compostador cerrado gestionas los restos de cocina sin necesidad de jardín."
+  - pregunta: "¿El compost casero huele mal?"
+    respuesta: "Bien gestionado, no: un compost equilibrado huele a tierra de bosque. Los malos olores aparecen por exceso de restos húmedos (verdes) o falta de aireación; se corrigen añadiendo material seco (marrón) y removiendo."
+  - pregunta: "¿Cuánto tarda en estar listo el compost?"
+    respuesta: "Según el método y la temperatura, entre 2 y 4 meses. Estará listo cuando sea una tierra oscura, homogénea y con olor agradable, sin que se reconozcan los restos originales."
+
 ---
 
 No hace falta tener jardín ni un gran terreno para compostar: con un compostador compacto y unos hábitos sencillos, puedes convertir tus restos de cocina en abono de calidad para tu huerto urbano.

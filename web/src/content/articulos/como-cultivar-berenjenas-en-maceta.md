@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar berenjenas en maceta", "berenjena en terraza cuidados", "cómo plantar berenjenas en balcón"]
 pubDate: 2026-05-30
+faq:
+  - pregunta: "¿Qué maceta necesita una berenjena en el balcón?"
+    respuesta: "Al menos 30-40 litros por planta: es un cultivo grande y exigente que en macetas pequeñas apenas produce. Necesita además un tutor porque el peso de los frutos vence la planta."
+  - pregunta: "¿Cuánto calor y sol necesita la berenjena?"
+    respuesta: "Mucho: es de las hortalizas más calurosas, pide 6 horas o más de sol directo y temperaturas cálidas. Con frío se para y no cuaja, así que se cultiva en primavera-verano y en el rincón más soleado."
+  - pregunta: "¿Por qué mi berenjena florece pero no cuaja frutos?"
+    respuesta: "Suele ser por temperaturas extremas o falta de polinización en un balcón cerrado. Ayuda agitando suavemente la planta o pasando un pincel por las flores, y mantén un riego constante para que no aborte las flores."
+
 ---
 
 La berenjena es uno de los cultivos de fruto más exigentes en calor y espacio de un huerto de balcón, pero recompensa con una producción abundante si se cubren bien sus necesidades básicas.
