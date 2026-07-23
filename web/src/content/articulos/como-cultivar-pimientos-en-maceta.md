@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar pimientos en maceta", "pimiento en balcón", "cómo plantar pimientos en maceta"]
 pubDate: 2026-03-01
+faq:
+  - pregunta: "¿Qué maceta necesita un pimiento en el balcón?"
+    respuesta: "Al menos 30-35 litros (unos 35-40 cm) por planta para que enraíce bien y aguante la carga de frutos. En macetas pequeñas el pimiento se queda enano y produce muy poco."
+  - pregunta: "¿Cuánto tarda un pimiento en dar frutos?"
+    respuesta: "Desde el trasplante suelen pasar unas 8-12 semanas hasta los primeros pimientos, y si los dejas madurar a rojo, unas semanas más. Necesita calor y un mínimo de 6 horas de sol directo para cuajar bien."
+  - pregunta: "¿Por qué se caen las flores de mi pimiento?"
+    respuesta: "Casi siempre por temperaturas extremas (mucho calor o noches frías), riego irregular o falta de polinización. Mantén un riego constante y, si el balcón es muy cerrado, agita suavemente la planta para ayudar a que cuaje."
+
 ---
 
 El pimiento es un cultivo agradecido para balcón siempre que le des suficiente sol y una maceta con espacio suficiente. Con los cuidados adecuados, una sola planta puede dar decenas de pimientos en una temporada.

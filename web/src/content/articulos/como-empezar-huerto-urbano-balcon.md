@@ -6,6 +6,14 @@ intencion: "informativa"
 keywords: ["huerto urbano balcón", "empezar huerto urbano", "huerto en balcón para principiantes"]
 pubDate: 2026-02-03
 pilar: true
+faq:
+  - pregunta: "¿Qué necesito para empezar un huerto en el balcón?"
+    respuesta: "Lo básico: macetas con buen drenaje, un sustrato de calidad (no tierra de jardín), semillas o plantel de cultivos fáciles y una forma de regar. Con eso y unas horas de sol al día ya puedes arrancar sin gastar mucho."
+  - pregunta: "¿Qué es lo más fácil de cultivar para un principiante?"
+    respuesta: "Rabanitos (listos en 25-30 días), lechugas de hoja, aromáticas como albahaca y perejil, y judías de mata baja. Son rápidos y agradecidos; deja tomates, pimientos y berenjenas para cuando cojas soltura con el riego y la luz."
+  - pregunta: "¿Cuánto sol necesita un huerto de balcón?"
+    respuesta: "La mayoría de hortalizas de fruto piden 6 horas o más de sol directo; con menos luz, apuesta por hojas y aromáticas, que toleran media sombra. Antes de nada, observa cuántas horas de sol recibe de verdad tu balcón."
+
 ---
 
 Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimientos de jardinería, ni una [inversión elevada](/articulos/cuanto-cuesta-montar-huerto-urbano-en-casa/). Si dudas entre balcón o huerto de suelo, aquí comparamos [huerto urbano frente a huerto tradicional](/articulos/huerto-urbano-vs-huerto-tradicional/). Con unas macetas, sustrato de calidad y un poco de sol, cualquier balcón o terraza puede convertirse en una pequeña despensa de hortalizas y aromáticas frescas.

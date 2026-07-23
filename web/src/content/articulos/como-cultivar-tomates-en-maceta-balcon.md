@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar tomates en maceta", "tomates en balcón", "tomatera en maceta cuidados"]
 pubDate: 2026-02-08
+faq:
+  - pregunta: "¿Qué tamaño de maceta necesita un tomate en el balcón?"
+    respuesta: "Cada tomatera necesita al menos 30-40 litros de sustrato (una maceta de unos 40 cm de diámetro y profundidad) para desarrollar bien las raíces. En macetas más pequeñas la planta pasa sed constantemente, cuaja pocos frutos y sufre más problemas como el culo negro."
+  - pregunta: "¿Cuántas horas de sol necesita una tomatera?"
+    respuesta: "Como mínimo 6 horas de sol directo al día; cuanto más sol, más producción. Si tu balcón da menos, opta por variedades cherry, que toleran algo menos de luz, y colócala en el punto más soleado."
+  - pregunta: "¿Por qué salen manchas negras en la base de mis tomates?"
+    respuesta: "Es el culo negro o podredumbre apical, un problema fisiológico por falta de calcio disponible que casi siempre viene de un riego irregular, no de una plaga. Riega de forma constante y lo evitarás; lo explicamos en detalle en nuestra guía del culo negro del tomate."
+
 ---
 
 El tomate es, junto con la albahaca, el cultivo estrella de cualquier huerto de balcón. Con la variedad y el cuidado adecuados, es perfectamente posible obtener una buena cosecha incluso en un espacio reducido.

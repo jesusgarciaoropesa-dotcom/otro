@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar zanahorias en maceta", "zanahorias en balcón maceta profunda", "cómo sembrar zanahorias en terraza"]
 pubDate: 2026-05-29
+faq:
+  - pregunta: "¿Qué profundidad de maceta necesitan las zanahorias?"
+    respuesta: "Al menos 25-30 cm de profundidad para las variedades normales, o elige variedades cortas o redondas si tu maceta es menos honda. La raíz necesita crecer hacia abajo sin topar con el fondo."
+  - pregunta: "¿Por qué me salen las zanahorias deformes o bifurcadas?"
+    respuesta: "Porque la raíz encuentra obstáculos: piedras, sustrato compacto o restos sin descomponer la hacen torcerse o dividirse. Usa un sustrato suelto, fino y sin grumos, y no trasplantes: siémbralas directamente en su sitio."
+  - pregunta: "¿Cuánto tardan las zanahorias en maceta?"
+    respuesta: "Según la variedad, entre 70 y 100 días desde la siembra hasta la cosecha. Puedes empezar a recolectar en cuanto asoma el hombro de la raíz por la superficie y tiene buen grosor."
+
 ---
 
 Las zanahorias tienen fama de ser complicadas en maceta, pero el problema casi siempre se reduce a dos factores: profundidad insuficiente y sustrato demasiado compacto o con piedras.

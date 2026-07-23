@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["limonero en maceta", "cultivar limonero en balcón", "limonero enano cuidados"]
 pubDate: 2026-03-04
+faq:
+  - pregunta: "¿Qué tamaño de maceta necesita un limonero?"
+    respuesta: "Empieza en una maceta acorde al tamaño del árbol y ve trasplantando; un limonero adulto en balcón necesita al menos 40-50 litros para producir bien. Debe drenar perfectamente, porque el encharcamiento es su principal enemigo."
+  - pregunta: "¿Por qué se le ponen las hojas amarillas al limonero?"
+    respuesta: "Las causas más frecuentes son el exceso de riego, la falta de hierro (clorosis, con los nervios verdes) y el frío. El patrón del amarilleo indica la causa; lo desglosamos en nuestra guía de hojas amarillas en cítricos."
+  - pregunta: "¿Cuánto tarda un limonero en maceta en dar frutos?"
+    respuesta: "Un limonero injertado comprado en vivero puede dar limones el primer o segundo año; uno desde semilla tarda muchos años y no garantiza buenos frutos. Para cosechar pronto, parte siempre de una planta injertada."
+
 ---
 
 El limonero es, junto con el naranjo enano, el frutal más popular para cultivar en maceta en un balcón. Con la variedad correcta y unos cuidados constantes, es perfectamente posible cosechar tus propios limones en pleno centro de la ciudad.

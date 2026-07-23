@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar fresas en balcón", "fresas en maceta cuidados", "cómo plantar fresas en terraza"]
 pubDate: 2026-03-23
+faq:
+  - pregunta: "¿Cuántas fresas da una planta en maceta?"
+    respuesta: "Una planta sana bien cuidada produce fresas de forma escalonada durante toda la temporada, pero en cantidades modestas: por eso conviene tener varias plantas (con 4-6 ya notas cosecha). Las variedades reflorecientes dan a lo largo de meses en vez de una sola tanda."
+  - pregunta: "¿Por qué mi fresera echa flores pero no cuaja fruto?"
+    respuesta: "Suele ser falta de polinización (poco insecto en el balcón) o calor excesivo. Puedes polinizar a mano pasando un pincel suave por el centro de cada flor, y darle algo de sombra en las horas más calurosas del verano."
+  - pregunta: "¿Cuándo se plantan las fresas en el balcón?"
+    respuesta: "El mejor momento es el otoño o el final del invierno, para que la planta se establezca antes de la temporada de producción en primavera. Plantadas en otoño suelen dar una cosecha más abundante al año siguiente."
+
 ---
 
 Las fresas son uno de los cultivos más satisfactorios para un huerto de balcón: ocupan poco espacio, dan fruto varias veces en la temporada y se adaptan muy bien a estructuras colgantes o verticales.

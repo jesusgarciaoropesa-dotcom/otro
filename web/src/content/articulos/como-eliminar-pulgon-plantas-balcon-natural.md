@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["eliminar pulgón plantas", "pulgón huerto urbano remedio casero", "pulgón balcón solución natural"]
 pubDate: 2026-02-13
+faq:
+  - pregunta: "¿Cuál es el remedio casero más eficaz contra el pulgón?"
+    respuesta: "El jabón potásico pulverizado sobre la plaga (insistiendo en el envés y los brotes tiernos) es el más eficaz y respetuoso; un primer chorro de agua a presión ayuda a tirar buena parte de la colonia antes de tratar. Repite cada pocos días hasta controlarlo."
+  - pregunta: "¿Por qué me vuelve el pulgón una y otra vez?"
+    respuesta: "Muchas veces por las hormigas: protegen al pulgón para aprovechar su melaza y lo trasladan de planta en planta. Si controlas las hormigas y favoreces depredadores como las mariquitas, el pulgón deja de reaparecer."
+  - pregunta: "¿El pulgón mata la planta?"
+    respuesta: "Una colonia pequeña se controla fácil, pero si se dispara debilita la planta, deforma los brotes y puede transmitir virus. Lo importante es actuar en cuanto ves los primeros grupos en los brotes tiernos."
+
 ---
 
 El pulgón es, con diferencia, la plaga más común en huertos urbanos, especialmente en primavera. Por suerte, en la mayoría de los casos se puede controlar sin recurrir a insecticidas químicos.

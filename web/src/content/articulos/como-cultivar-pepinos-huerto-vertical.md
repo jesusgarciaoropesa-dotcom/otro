@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar pepinos en maceta", "pepinos en huerto vertical balcón", "pepino trepador en maceta"]
 pubDate: 2026-04-23
+faq:
+  - pregunta: "¿Qué maceta necesita un pepino en el balcón?"
+    respuesta: "Entre 20 y 30 litros por planta y, sobre todo, una estructura de tutorado (malla, cañas o enrejado) para que trepe: cultivado en vertical ocupa poco suelo y produce mucho más que dejándolo rastrero."
+  - pregunta: "¿Por qué mis pepinos se pudren cuando son pequeños?"
+    respuesta: "Suele ser polinización incompleta: la flor no se poliniza, el fruto arranca y se detiene amarilleando desde la punta. Mejora la ventilación, riega al pie y, en balcones cerrados, poliniza a mano por la mañana."
+  - pregunta: "¿Cuánta luz necesita el pepino?"
+    respuesta: "Un mínimo de 6 horas de sol directo. Es una planta de calor, así que en media sombra crece pero cuaja bastante menos; resérvale el rincón más soleado del balcón."
+
 ---
 
 El pepino es un cultivo trepador por naturaleza, lo que lo convierte en uno de los candidatos más lógicos para aprovechar el cultivo vertical en un balcón sin sacrificar demasiado espacio en el suelo.

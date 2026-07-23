@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar lechugas en maceta", "lechuga en balcón", "cómo plantar lechuga en maceta"]
 pubDate: 2026-02-27
+faq:
+  - pregunta: "¿Cuánto tarda en crecer la lechuga en maceta?"
+    respuesta: "Las lechugas de hoja suelta se empiezan a aprovechar en unas 3-4 semanas cortando hojas exteriores, y una lechuga de cogollo entero tarda unas 6-8 semanas según la variedad y la temporada. Con siembra escalonada tendrás lechuga fresca de forma continua."
+  - pregunta: "¿Puedo cultivar lechuga sin sol directo?"
+    respuesta: "Sí. La lechuga es de las pocas hortalizas que agradece la media sombra, sobre todo en primavera y verano, porque el exceso de calor la hace espigar (subirse a flor) y amargar. En sombra parcial crece más lenta pero más tierna."
+  - pregunta: "¿Cómo se cosecha la lechuga para que siga creciendo?"
+    respuesta: "Corta solo las hojas exteriores, las más grandes, dejando intacto el cogollo central: la planta seguirá produciendo hojas nuevas durante semanas. Es el sistema de corte y sigue, mucho más productivo que arrancar la mata entera."
+
 ---
 
 La lechuga es uno de los cultivos más agradecidos para empezar un huerto urbano: crece rápido, ocupa poco y se puede sembrar de forma escalonada para tener cosecha casi todo el año.

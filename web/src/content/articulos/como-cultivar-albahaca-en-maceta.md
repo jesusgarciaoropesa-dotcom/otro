@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar albahaca en maceta", "albahaca se seca", "cuidados albahaca maceta"]
 pubDate: 2026-02-10
+faq:
+  - pregunta: "¿Por qué se me muere siempre la albahaca?"
+    respuesta: "Las causas más comunes son el exceso de riego (encharca las raíces y se marchita), la falta de luz y el frío: la albahaca es muy sensible por debajo de 10 ºC. Riega solo cuando la capa superficial del sustrato se seque y dale bastante luz."
+  - pregunta: "¿Cada cuánto hay que regar la albahaca?"
+    respuesta: "Cuando los primeros 2 cm de sustrato estén secos al tacto; en verano puede ser a diario y en interior cada 2-3 días. Riega al pie, sin mojar las hojas, y evita que la maceta quede en un plato con agua estancada."
+  - pregunta: "¿Cómo evito que la albahaca florezca y se ponga amarga?"
+    respuesta: "Pinza (corta) las puntas con regularidad, justo por encima de un par de hojas, y retira los brotes de flor en cuanto asomen. Así la planta ramifica, saca más hojas y retrasa la floración, que es lo que la vuelve amarga y leñosa."
+
 ---
 
 La albahaca es una de las aromáticas más cultivadas en balcones y cocinas, pero también una de las que más se marchita si no se entienden bien sus necesidades. Aquí tienes las claves para mantenerla sana todo el verano.

@@ -5,6 +5,14 @@ categoria: "riego-automatico"
 intencion: "informativa"
 keywords: ["cuánta agua necesitan las plantas en maceta", "cuánto regar huerto urbano", "frecuencia de riego macetas balcón"]
 pubDate: 2026-03-20
+faq:
+  - pregunta: "¿Cada cuánto hay que regar las macetas del balcón?"
+    respuesta: "No hay un número fijo: depende de la planta, el tamaño de la maceta y el clima. La regla que nunca falla es comprobar la humedad metiendo un dedo 2-3 cm en el sustrato y regar solo si está seco; en verano puede ser a diario y en invierno una vez por semana."
+  - pregunta: "¿Cómo sé si estoy regando de más o de menos?"
+    respuesta: "Hojas amarillas y blandas con sustrato siempre húmedo indican exceso; hojas mustias con tierra seca y agrietada, defecto. Ante la duda, deja secar la capa superficial entre riegos: el exceso de agua mata más plantas que la sed."
+  - pregunta: "¿Cuánta agua necesitan las macetas en verano?"
+    respuesta: "En pleno verano la demanda puede multiplicarse por 3-4 respecto al invierno, sobre todo en macetas pequeñas a pleno sol. Es la época en la que más compensa un riego automático o, al menos, regar a primera hora o al atardecer."
+
 ---
 
 No existe una cantidad universal de agua para todas las plantas de un huerto de balcón: depende del tamaño de la maceta, el cultivo, la estación del año y la exposición al sol. Pero sí hay reglas prácticas que funcionan en la mayoría de casos.

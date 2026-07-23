@@ -5,6 +5,14 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["mosca blanca en plantas", "eliminar mosca blanca huerto urbano", "mosca blanca en tomateras remedio"]
 pubDate: 2026-05-06
+faq:
+  - pregunta: "¿Cómo se elimina la mosca blanca de forma rápida y ecológica?"
+    respuesta: "Combina trampas cromáticas amarillas para bajar la población adulta con pulverizaciones de jabón potásico cada 3-4 días insistiendo en el envés de las hojas, que es donde se refugian. Para casos rebeldes, alterna con aceite de neem."
+  - pregunta: "¿Por qué siempre aparece en el envés de las hojas?"
+    respuesta: "Porque ahí se protege del sol y de la lluvia y pone los huevos. Por eso cualquier tratamiento debe dirigirse al envés: si solo mojas el haz, no llegas ni a los adultos ni a las larvas y la plaga vuelve."
+  - pregunta: "¿La mosca blanca se va sola?"
+    respuesta: "Rara vez; si no actúas, se multiplica rápido y debilita la planta chupando su savia, además de favorecer la aparición de negrilla. Detectada pronto con las trampas amarillas, se controla bien antes de que se dispare."
+
 ---
 
 La mosca blanca es una de las plagas más frecuentes en huertos urbanos, especialmente en tomateras y otras hortalizas de fruto durante los meses más cálidos. Se identifica fácilmente: pequeños insectos blancos que salen volando en nube al mover la planta.
