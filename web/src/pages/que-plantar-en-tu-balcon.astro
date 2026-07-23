@@ -51,13 +51,46 @@ const tipos = [
   { val: 'aromatica', label: 'Aromáticas' },
   { val: 'fruta', label: 'Frutas' },
 ];
+
+const faq = [
+  {
+    pregunta: '¿Cómo sé cuánta luz recibe mi balcón?',
+    respuesta:
+      'Fíjate en la orientación y en las horas de sol directo que le da a la zona donde pondrías las macetas. Un balcón al sur suele recibir mucho sol (6 horas o más); al este o al oeste, sol de media jornada (media sombra); y al norte, poca o nada de luz directa (sombra). Observa un día despejado a distintas horas: lo que cuenta es el sol directo sobre las macetas, no la claridad general.',
+  },
+  {
+    pregunta: '¿Puedo tener huerto en un balcón sin sol directo?',
+    respuesta:
+      'Sí. En sombra o media sombra van bien las hortalizas de hoja (lechuga, espinaca, acelga, canónigos), muchas aromáticas (perejil, cilantro, menta, cebollino) y los rabanitos. Lo que necesita mucho sol son las hortalizas de fruto (tomate, pimiento, berenjena) y la mayoría de frutales. Filtra por tu nivel de luz y la calculadora te muestra solo lo que prospera.',
+  },
+  {
+    pregunta: '¿Por qué el mes cambia lo que puedo plantar?',
+    respuesta:
+      'Cada cultivo tiene su época de siembra según la temperatura. En primavera y verano se siembran los de calor (tomate, calabacín, albahaca); en otoño e invierno, los de frío (habas, ajos, espinacas, guisantes). Por eso la calculadora te pide el mes: así solo te propone lo que tiene sentido sembrar ahora, no en teoría.',
+  },
+  {
+    pregunta: '¿Qué significa la compatibilidad entre cultivos?',
+    respuesta:
+      'Algunas plantas se ayudan cuando comparten maceta o van cerca (mejoran el sabor, ahuyentan plagas o aprovechan mejor el espacio) y otras conviene separarlas, sobre todo las de la misma familia, porque agotan los mismos nutrientes y comparten plagas. En cada resultado te indicamos con qué se lleva bien y qué evitar.',
+  },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.pregunta,
+    acceptedAnswer: { '@type': 'Answer', text: f.respuesta },
+  })),
+};
 ---
 
 <BaseLayout
   title="Qué plantar en tu balcón: calculadora"
   description="Calculadora para saber qué cultivar en tu balcón según las horas de sol y el mes. Filtra por tipo, dificultad y rapidez, y descubre qué plantas se llevan bien entre sí."
 >
-  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify([breadcrumbLd, faqLd])} slot="head" />
 
   <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
     <a href={withBase('/')} class="hover:underline">Inicio</a>
@@ -151,6 +184,49 @@ const tipos = [
       y <a href={withBase('/articulos/mejor-sustrato-huerto-urbano-maceta/')} class="font-medium text-(--color-tierra) hover:underline">qué sustrato elegir</a>.
     </p>
   </div>
+
+  <section class="mt-14 max-w-3xl">
+    <h2 class="font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro)">
+      Cómo saber cuánta luz tiene tu balcón
+    </h2>
+    <p class="mt-3 text-stone-700">
+      Es el dato que más condiciona lo que puedes cultivar. No te fíes de la sensación de "claridad":
+      lo que importa son las <strong>horas de sol directo</strong> que reciben las macetas. Guíate por la orientación:
+    </p>
+    <ul class="mt-4 space-y-2 text-stone-700">
+      <li><strong>☀️ Mucho sol (sur):</strong> 6 horas o más de sol directo. Va todo, incluidas las hortalizas de fruto (tomate, pimiento) y los frutales.</li>
+      <li><strong>⛅ Media sombra (este u oeste):</strong> sol de media jornada. Perfecto para hojas, muchas aromáticas, fresas y raíces.</li>
+      <li><strong>🌥️ Sombra (norte o patios):</strong> poca o nada de luz directa. Apuesta por lechuga, espinaca, acelga, rúcula y aromáticas de hoja.</li>
+    </ul>
+    <p class="mt-4 text-stone-700">
+      Si no lo tienes claro, obsérvalo un día despejado a distintas horas. Lo vemos en detalle en{' '}
+      <a href={withBase('/articulos/cuantas-horas-sol-tiene-tu-balcon/')} class="font-medium text-(--color-tierra) hover:underline">cuántas horas de sol tiene tu balcón</a>{' '}
+      y en <a href={withBase('/articulos/hortalizas-que-crecen-a-la-sombra/')} class="font-medium text-(--color-tierra) hover:underline">qué plantar si tu balcón tiene poca luz</a>.
+    </p>
+
+    <h2 class="mt-10 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro)">
+      Cómo usar la calculadora
+    </h2>
+    <ol class="mt-3 list-decimal space-y-2 pl-5 text-stone-700">
+      <li>Elige <strong>cuánta luz</strong> recibe tu balcón y el <strong>mes</strong> en el que estás.</li>
+      <li>Afina con los filtros por <strong>tipo</strong> (hojas, raíces, aromáticas…), o marca <strong>fáciles</strong> o de <strong>cosecha rápida</strong> si empiezas.</li>
+      <li>En cada resultado verás los <strong>días hasta la cosecha</strong>, con qué se <strong>lleva bien</strong> y qué conviene <strong>evitar</strong>, y un enlace a su <strong>guía completa</strong>.</li>
+    </ol>
+
+    <h2 class="mt-10 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro)">
+      Preguntas frecuentes
+    </h2>
+    <div class="mt-4 space-y-3">
+      {faq.map((f) => (
+        <details class="group rounded-xl bg-white p-4 shadow-sm ring-1 ring-black/5">
+          <summary class="cursor-pointer font-semibold text-stone-900 marker:text-(--color-mostaza-oscuro)">
+            {f.pregunta}
+          </summary>
+          <p class="mt-2 text-stone-700">{f.respuesta}</p>
+        </details>
+      ))}
+    </div>
+  </section>
 
   <script type="application/json" id="datos-cultivos" set:html={JSON.stringify(datos)} />
   <script is:inline>
