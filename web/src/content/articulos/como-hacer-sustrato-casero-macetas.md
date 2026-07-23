@@ -1,6 +1,6 @@
 ---
 title: "Cómo hacer tu propio sustrato casero para macetas"
-description: "Preparar tu propia mezcla de sustrato sale más barato y a medida de cada cultivo. Te explicamos los ingredientes básicos y las proporciones para un buen sustrato de huerto en maceta."
+description: "Preparar tu propio sustrato sale más barato y a medida. Te explicamos los ingredientes básicos y las proporciones para una buena mezcla en maceta."
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["hacer sustrato casero", "mezcla de sustrato para macetas", "sustrato huerto urbano casero"]

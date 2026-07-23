@@ -1,6 +1,6 @@
 ---
 title: "Mejores pulverizadores y atomizadores para el huerto de balcón"
-description: "Comparativa de pulverizadores para huerto de balcón: pulverizadores de gatillo, de presión previa, de mochila pequeña y nebulizadores. Cuál elegir para tratamientos y riego foliar."
+description: "Comparativa de pulverizadores para huerto de balcón: de gatillo, de presión previa, de mochila pequeña y nebulizadores. Cuál elegir para tratar y regar."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejor pulverizador huerto", "atomizador plantas balcón", "pulverizador presión tratamientos"]

@@ -1,6 +1,6 @@
 ---
 title: "Mejores jardineras para balcón: guía de compra y comparativa"
-description: "Comparativa de jardineras para balcón: jardineras de barandilla, con depósito autorregante, macetas elevadas tipo mesa de cultivo y jardineras de tela. Cuál elegir según tu espacio."
+description: "Comparativa de jardineras para balcón: de barandilla, con depósito autorregante, macetas elevadas tipo mesa de cultivo y de tela. Cuál elegir según tu espacio."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["mejores jardineras balcón", "jardinera barandilla huerto", "jardinera autorregante balcón"]

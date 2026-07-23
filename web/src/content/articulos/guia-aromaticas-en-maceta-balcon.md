@@ -1,6 +1,6 @@
 ---
 title: "Guía completa de aromáticas en maceta para el balcón"
-description: "Todo lo que necesitas para tener un jardín de aromáticas en el balcón: cuáles elegir según tu luz, cómo agruparlas, riego, cosecha y conservación. Guía completa con enlaces a cada hierba."
+description: "Todo lo que necesitas para tener un jardín de aromáticas en el balcón: cuáles elegir según tu luz, cómo agruparlas, riego, cosecha y conservación."
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["aromáticas en maceta", "jardín de hierbas balcón", "qué aromáticas cultivar en casa"]

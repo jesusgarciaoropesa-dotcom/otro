@@ -1,6 +1,6 @@
 ---
 title: "Mejores medidores de humedad de la tierra para macetas"
-description: "Comparativa de medidores de humedad del sustrato para huerto de balcón: sondas analógicas, medidores 3 en 1, sensores digitales y sensores wifi. Cuál elegir para no fallar con el riego."
+description: "Comparativa de medidores de humedad del sustrato para balcón: sondas analógicas, medidores 3 en 1, sensores digitales y wifi. Cuál elegir para el riego."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
 keywords: ["medidor de humedad tierra", "sonda humedad macetas", "medidor humedad sustrato huerto"]

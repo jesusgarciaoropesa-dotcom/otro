@@ -1,6 +1,6 @@
 ---
 title: "Qué plantar en el huerto urbano en diciembre"
-description: "Guía de siembra para diciembre en un huerto urbano de balcón: las pocas plantaciones del mes más frío, cómo proteger los cultivos y por qué es el mejor momento para planificar el año."
+description: "Guía de siembra para diciembre en el balcón: las pocas plantaciones del mes más frío, cómo proteger los cultivos y por qué es el mes de planificar el año."
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en diciembre en balcón", "siembra de diciembre huerto urbano", "qué sembrar en diciembre en maceta"]

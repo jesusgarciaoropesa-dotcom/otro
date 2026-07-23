@@ -1,6 +1,6 @@
 ---
 title: "Guía completa de frutales en maceta para balcón y terraza"
-description: "Qué frutales se pueden cultivar en maceta en un balcón o terraza, cuáles dan fruto de verdad, cómo elegir la maceta y los cuidados clave. Guía completa con enlace a cada frutal."
+description: "Qué frutales se pueden cultivar en maceta, cuáles dan fruto de verdad, cómo elegir la maceta y los cuidados clave. Guía completa con enlace a cada frutal."
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["frutales en maceta", "frutales para balcón", "qué frutal cultivar en terraza"]

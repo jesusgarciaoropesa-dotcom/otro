@@ -1,6 +1,6 @@
 ---
 title: "Saltamontes o esperanza en el balcón: cómo eliminarlos"
-description: "Cómo identificar las ninfas de saltamontes o esperanza que se comen las hojas de pimientos, berenjenas y kale, cuándo son inofensivas y cómo eliminarlas si hay una infestación real."
+description: "Cómo identificar las ninfas de saltamontes o esperanza que se comen las hojas de pimientos, berenjenas y kale, y cómo eliminarlas si hay infestación real."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["saltamontes en el huerto", "esperanza insecto plaga", "ninfa saltamontes plantas", "bicho verde antenas largas hojas comidas"]

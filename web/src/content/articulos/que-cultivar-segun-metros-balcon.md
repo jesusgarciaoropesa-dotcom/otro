@@ -1,6 +1,6 @@
 ---
 title: "Qué cultivar según los metros de tu balcón (de 1 m² a terraza)"
-description: "No hace falta una terraza para cultivar. Te decimos qué plantar y cómo aprovechar el espacio según los metros que tengas: un rincón de 1 m², un balcón normal o una terraza amplia."
+description: "No hace falta una terraza para cultivar. Te decimos qué plantar según los metros que tengas: un rincón de 1 m², un balcón normal o una terraza amplia."
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["qué cultivar balcón pequeño", "huerto en poco espacio", "qué plantar según el espacio"]
