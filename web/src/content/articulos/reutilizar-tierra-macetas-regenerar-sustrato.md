@@ -51,4 +51,6 @@ Y siempre: **no reutilices sin regenerar**. Rellenar una maceta con tierra vieja
 
 Reutilizar el sustrato encaja con la idea de un [huerto urbano sostenible](/articulos/huerto-urbano-sostenible-reducir-plastico/): menos sacos comprados, menos residuos y un ciclo más cerrado. Combinado con tu propio [compost casero](/articulos/como-hacer-compost-casero-piso-sin-jardin/), puedes acercarte a no comprar tierra nueva casi nunca.
 
+Si al reutilizarla notas que **el agua ya no penetra bien**, la tierra se ha compactado o vuelto hidrófoba: lo resolvemos en [qué hacer cuando la tierra de la maceta no absorbe el agua](/articulos/tierra-maceta-no-absorbe-agua-compactada/).
+
 La tierra de tus macetas es un recurso, no un residuo. Regenérala cada temporada y tu huerto —y tu bolsillo— lo agradecerán.

@@ -54,4 +54,4 @@ Como el viento reseca, **riega algo más a menudo** y aplica [acolchado](/articu
 
 Si el viento es muy fuerte, apuesta por lo que mejor lo tolera: **aromáticas mediterráneas** ([romero](/articulos/como-cultivar-romero-en-balcon/), [tomillo](/articulos/como-cultivar-tomillo-en-maceta/), [salvia](/articulos/como-cultivar-salvia-en-maceta/)) y cultivos de hoja compactos, dejando lo alto y frágil para los rincones más resguardados.
 
-Con un buen cortavientos y una colocación inteligente, hasta un balcón muy expuesto puede convertirse en un huerto productivo.
+Con un buen cortavientos y una colocación inteligente, hasta un balcón muy expuesto puede convertirse en un huerto productivo. Y como el viento suele venir con tormenta, complementa esto con [cómo proteger el huerto de la lluvia fuerte y el granizo](/articulos/proteger-huerto-balcon-lluvia-granizo/).

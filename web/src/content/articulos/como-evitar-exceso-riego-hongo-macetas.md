@@ -45,3 +45,5 @@ Las raíces necesitan oxígeno, no solo agua. Un sustrato permanentemente satura
 Puede parecer contraintuitivo, pero un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) bien calibrado (con goteros regulables y un temporizador programado) suele producir menos encharcamientos que el riego manual, precisamente porque aporta una cantidad constante y controlada en lugar de riegos abundantes e irregulares.
 
 Si el problema persiste incluso corrigiendo el riego, revisa también nuestra guía general de [cómo prevenir plagas en un huerto urbano sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/), ya que un sustrato debilitado por exceso de humedad es más vulnerable a plagas secundarias.
+
+El exceso de humedad también está detrás de dos señales muy visibles: el [moho blanco en la superficie de la tierra](/articulos/moho-blanco-tierra-macetas/) y los [mosquitos de la mosca del sustrato](/articulos/mosca-sustrato-mosquitos-macetas-eliminar/). Si los ves, es otro aviso de que estás regando de más.
