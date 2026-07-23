@@ -111,7 +111,15 @@ const faqLd =
     : undefined;
 ---
 
-<BaseLayout title={title} description={description} image={imagenOg}>
+<BaseLayout
+  title={title}
+  description={description}
+  image={imagenOg}
+  ogType="article"
+  publishedTime={pubDate.toISOString()}
+  modifiedTime={(updatedDate ?? pubDate).toISOString()}
+  section={cat?.nombre}
+>
   <script
     type="application/ld+json"
     set:html={JSON.stringify([jsonLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])])}
