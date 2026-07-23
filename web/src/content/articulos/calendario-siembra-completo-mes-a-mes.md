@@ -36,7 +36,7 @@ Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rab
 
 - **Nunca trasplantes plántulas jóvenes directamente al sol intenso**: acostúmbralas gradualmente durante unos días (aclimatación) para evitar que se quemen.
 - **Renueva o refresca el [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) una vez al año**, coincidiendo con el inicio de la temporada de siembra en primavera.
-- **Revisa el calendario lunar solo como referencia complementaria**: la evidencia científica de su efecto real en el cultivo es limitada, y factores como la luz, el riego y el sustrato tienen mucho más peso en el resultado.
+- **Revisa el [calendario lunar](/articulos/calendario-lunar-siembra-huerto-urbano-funciona/) solo como referencia complementaria**: la evidencia científica de su efecto real en el cultivo es limitada, y factores como la luz, el riego y el sustrato tienen mucho más peso en el resultado.
 
 ## Cómo usar este calendario
 

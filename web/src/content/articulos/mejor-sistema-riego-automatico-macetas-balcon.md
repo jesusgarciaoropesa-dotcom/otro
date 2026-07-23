@@ -54,7 +54,7 @@ Para presupuestos muy ajustados o macetas puntuales, una botella de plástico in
 
 ## 4. Riego con temporizador solar (sin acceso a electricidad)
 
-Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados por una pequeña placa solar integrada, que cargan una batería interna. Son algo más caros pero evitan el cambio frecuente de pilas.
+Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados por una pequeña placa solar integrada, que cargan una batería interna. Son algo más caros pero evitan el cambio frecuente de pilas. Lo vemos en detalle en la [guía del riego por goteo con programador solar](/articulos/riego-goteo-programador-solar-guia/).
 
 <a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 

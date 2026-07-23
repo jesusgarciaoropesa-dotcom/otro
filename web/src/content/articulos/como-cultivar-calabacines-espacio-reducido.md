@@ -35,7 +35,7 @@ El calabacín tiene un contenido de agua muy alto tanto en la planta como en el 
 
 ## Polinización manual
 
-Es habitual que en un balcón, con pocos insectos polinizadores, las flores de calabacín (que son unisexuales, macho y hembra separadas en la misma planta) no se poliniquen de forma natural, resultando en frutos que empiezan a crecer y luego se pudren en la punta. Puedes polinizar a mano tomando una flor macho (sin fruto en la base) y frotando su interior contra el centro de una flor hembra (con un pequeño fruto incipiente en la base) a primera hora de la mañana, cuando las flores están recién abiertas.
+Es habitual que en un balcón, con pocos insectos polinizadores, las flores de calabacín (que son unisexuales, macho y hembra separadas en la misma planta) no se poliniquen de forma natural, resultando en frutos que empiezan a crecer y luego se pudren en la punta. Puedes polinizar a mano tomando una flor macho (sin fruto en la base) y frotando su interior contra el centro de una flor hembra (con un pequeño fruto incipiente en la base) a primera hora de la mañana, cuando las flores están recién abiertas. Si ves que [el calabacín se pudre por la punta](/articulos/calabacin-pepino-se-pudre-punta/), casi siempre es por una polinización incompleta.
 
 ## Cosecha frecuente para mantener producción
 

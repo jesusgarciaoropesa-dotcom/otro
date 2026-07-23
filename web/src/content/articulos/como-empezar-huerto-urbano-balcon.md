@@ -45,7 +45,7 @@ Para no frustrarte en tu primer intento, empieza con plantas agradecidas:
 - Albahaca y perejil
 - Judías verdes de mata baja
 
-Deja los tomates, pimientos y berenjenas para cuando ya tengas algo de práctica con el riego y la luz.
+Deja los tomates, pimientos y berenjenas para cuando ya tengas algo de práctica con el riego y la luz. Si vas a cultivar [con niños](/articulos/huerto-balcon-con-ninos-que-plantar/), estos mismos cultivos rápidos son los que mejor funcionan por lo pronto que se ven resultados.
 
 ## 5. Organiza el riego desde el primer día
 
@@ -59,7 +59,7 @@ Las primeras 2-3 semanas tras la siembra o el trasplante son las más delicadas.
 
 ## ¿Prefieres empezar con todo en un mismo pack?
 
-Si no quieres comprar cada cosa por separado, existen [kits completos para principiantes](/articulos/mejores-kits-huerto-urbano-principiantes/) que incluyen macetas, sustrato y semillas en un mismo envío, pensados justo para dar este primer paso sin tener que acertar con cada compra por tu cuenta.
+Si no quieres comprar cada cosa por separado, existen [kits completos para principiantes](/articulos/mejores-kits-huerto-urbano-principiantes/) que incluyen macetas, sustrato y semillas en un mismo envío, pensados justo para dar este primer paso sin tener que acertar con cada compra por tu cuenta. Y si tu espacio es una terraza pequeña, repasa antes [qué necesitas para montar el huerto](/articulos/que-necesito-montar-huerto-terraza-pequena/).
 
 ## Siguientes pasos
 

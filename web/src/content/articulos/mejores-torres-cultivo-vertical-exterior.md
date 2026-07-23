@@ -60,6 +60,8 @@ Sin sustrato: las raíces reciben agua con nutrientes disueltos directamente. Pr
 
 ## Nuestra recomendación según perfil
 
+Antes de decidir, quizá te interese saber [cuánto produce un huerto vertical frente a uno horizontal](/articulos/cuanto-produce-huerto-vertical-vs-horizontal/) para elegir con expectativas realistas.
+
 - **Presupuesto ajustado, primera torre**: opción 1 (macetas apilables).
 - **Balcón con poco peso soportado**: opción 2 (bolsillos de tela).
 - **Quieres automatizar desde el principio**: opción 3.

@@ -13,7 +13,7 @@ La poda de un frutal en maceta cumple una función distinta a la de un árbol en
 
 ## Cuándo podar
 
-La mayoría de frutales de hoja caduca (limonero es una excepción, ver más abajo) se podan en invierno, durante el reposo vegetativo, cuando la planta no está en fase activa de crecimiento y el estrés de la poda es menor.
+La mayoría de frutales de hoja caduca (limonero es una excepción, ver más abajo) se podan en invierno, durante el reposo vegetativo, cuando la planta no está en fase activa de crecimiento y el estrés de la poda es menor. Hazlo siempre con unas [buenas tijeras de podar](/articulos/mejores-tijeras-podar-huerto-balcon/) limpias y afiladas: un corte limpio cicatriza mejor y evita transmitir enfermedades.
 
 ## Cítricos: una excepción
 

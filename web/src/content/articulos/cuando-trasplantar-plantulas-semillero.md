@@ -19,7 +19,7 @@ Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comun
 
 ## Por qué no conviene retrasarlo demasiado
 
-Cuanto más tiempo pasa una plántula en un semillero pequeño una vez que ya está lista, más se restringe el desarrollo de sus raíces, lo que puede afectar al vigor de la planta a largo plazo incluso después del trasplante.
+Cuanto más tiempo pasa una plántula en un semillero pequeño una vez que ya está lista, más se restringe el desarrollo de sus raíces, lo que puede afectar al vigor de la planta a largo plazo incluso después del trasplante. Unos días antes de mover las plántulas al exterior, conviene [endurecerlas](/articulos/endurecer-plantulas-antes-trasplantar/) para que aguanten mejor el sol y el viento.
 
 ## Cómo hacer el trasplante sin dañar la raíz
 

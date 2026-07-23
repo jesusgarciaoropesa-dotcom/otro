@@ -7,7 +7,7 @@ keywords: ["araña roja en plantas", "eliminar araña roja balcón", "hojas con 
 pubDate: 2026-07-07
 ---
 
-La araña roja es una de las plagas más frecuentes en balcones y terrazas soleadas, precisamente porque prospera en las condiciones de calor y sequedad ambiental que muchas veces se dan justo ahí. A diferencia del pulgón o la mosca blanca, no es un insecto sino un ácaro diminuto, y eso cambia bastante cómo se trata.
+La araña roja es una de las plagas más frecuentes en balcones y terrazas soleadas, precisamente porque prospera en las condiciones de calor y sequedad ambiental que muchas veces se dan justo ahí. A diferencia del pulgón o la mosca blanca, no es un insecto sino un ácaro diminuto, y eso cambia bastante cómo se trata. Comparte esas condiciones de verano con los [trips](/articulos/trips-huerto-balcon-como-eliminarlos/), otra plaga diminuta que conviene descartar si las hojas se ven plateadas.
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 

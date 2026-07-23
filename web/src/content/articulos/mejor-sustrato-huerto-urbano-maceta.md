@@ -58,7 +58,7 @@ Necesario para cultivos como el arándano, que requieren un pH bajo que la mayor
 
 ## 5. Mezclas caseras con perlita o fibra de coco
 
-Muchos huertos urbanos avanzados mezclan su propio sustrato: sustrato universal + un 20-30% de perlita (para aireación) + un 10-20% de fibra de coco (para retener humedad de forma más equilibrada que la turba sola).
+Muchos huertos urbanos avanzados mezclan su propio sustrato: sustrato universal + un 20-30% de perlita (para aireación) + un 10-20% de fibra de coco (para retener humedad de forma más equilibrada que la turba sola). Te explicamos las proporciones paso a paso en [cómo hacer sustrato casero para macetas](/articulos/como-hacer-sustrato-casero-macetas/).
 
 **Recomendado para**: quien ya tiene experiencia y quiere ajustar la mezcla a cada cultivo.
 

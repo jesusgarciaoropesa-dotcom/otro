@@ -15,7 +15,7 @@ No existe una cantidad universal de agua para todas las plantas de un huerto de 
 
 ## El error más común: regar por calendario en lugar de por necesidad
 
-Regar "todos los días a las 8" sin comprobar el sustrato es la causa más frecuente de encharcamiento o de riego insuficiente. Antes de regar, comprueba siempre la humedad metiendo un dedo 2-3 cm en el sustrato: si notas humedad, espera.
+Regar "todos los días a las 8" sin comprobar el sustrato es la causa más frecuente de encharcamiento o de riego insuficiente. Antes de regar, comprueba siempre la humedad metiendo un dedo 2-3 cm en el sustrato: si notas humedad, espera. Si prefieres precisión, un [medidor de humedad](/articulos/mejores-medidores-humedad-tierra-macetas/) te dice al instante si la maceta necesita agua.
 
 ## Cantidad orientativa según tamaño de maceta
 
@@ -25,7 +25,7 @@ Regar "todos los días a las 8" sin comprobar el sustrato es la causa más frecu
 
 ## Cómo cambia según la estación
 
-En verano, con altas temperaturas y más horas de sol, la necesidad de agua puede multiplicarse por 3-4 respecto al invierno, especialmente en macetas pequeñas expuestas a sol directo toda la tarde. Es la época en la que más conviene tener un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) bien calibrado, ya sea porque te vas de vacaciones o simplemente porque regar a mano dos veces al día no es viable.
+En verano, con altas temperaturas y más horas de sol, la necesidad de agua puede multiplicarse por 3-4 respecto al invierno, especialmente en macetas pequeñas expuestas a sol directo toda la tarde. Es la época en la que más conviene tener un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) bien calibrado, ya sea porque te vas de vacaciones o simplemente porque regar a mano dos veces al día no es viable. Si riegas a mano, una [buena regadera de cuello largo](/articulos/mejores-regaderas-balcon-huerto/) te permite llegar al pie de la planta sin mojar las hojas.
 
 ## Señales de que estás regando mal
 

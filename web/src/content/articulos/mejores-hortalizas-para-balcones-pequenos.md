@@ -43,7 +43,7 @@ Otros cultivos muy agradecidos en poco espacio son los [ajos](/articulos/como-cu
 
 ## Qué evitar si tu espacio es muy reducido
 
-Calabacines, berenjenas y variedades de tomate de mata grande necesitan bastante superficie y volumen de sustrato para rendir bien; en balcones muy pequeños suelen dar resultados pobres en relación al espacio que ocupan, salvo que optes por variedades enanas específicas.
+Calabacines, berenjenas y variedades de tomate de mata grande necesitan bastante superficie y volumen de sustrato para rendir bien; en balcones muy pequeños suelen dar resultados pobres en relación al espacio que ocupan, salvo que optes por variedades enanas específicas. Para orientarte, mira [qué cultivar según los metros de tu balcón](/articulos/que-cultivar-segun-metros-balcon/).
 
 ## Aprovecha el espacio vertical
 
