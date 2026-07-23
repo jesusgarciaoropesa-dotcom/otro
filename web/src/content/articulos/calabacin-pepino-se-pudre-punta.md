@@ -1,5 +1,5 @@
 ---
-title: "El calabacín o el pepino se pudre por la punta: por qué y cómo evitarlo"
+title: "Por qué el calabacín o el pepino se pudre por la punta"
 description: "Los calabacines y pepinos que se pudren por la punta (la flor) suelen fallar por mala polinización o exceso de humedad. Aprende a distinguir la causa y a conseguir frutos sanos."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

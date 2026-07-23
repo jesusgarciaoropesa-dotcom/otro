@@ -1,5 +1,5 @@
 ---
-title: "Bordes de las hojas marrones o secos: por qué pasa y cómo evitarlo"
+title: "Bordes de las hojas marrones o secos: causas y solución"
 description: "Las puntas y bordes de las hojas marrones y secos son un síntoma muy común en maceta. Te explicamos las causas (riego, sales, aire seco, sol) y cómo solucionarlo."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

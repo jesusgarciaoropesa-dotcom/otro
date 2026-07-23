@@ -1,5 +1,5 @@
 ---
-title: "Mejores mallas de sombreo y protección solar para el huerto de balcón"
+title: "Mejores mallas de sombreo para el huerto de balcón"
 description: "Comparativa de mallas de sombreo para proteger el huerto de balcón del calor: mallas por porcentaje de sombra, toldos vela, mallas con ojales y paraguas de cultivo. Cuál elegir."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"

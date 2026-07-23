@@ -1,5 +1,5 @@
 ---
-title: "Saltamontes o esperanza en el balcón: cuándo son plaga real y cómo eliminarlos"
+title: "Saltamontes o esperanza en el balcón: cómo eliminarlos"
 description: "Cómo identificar las ninfas de saltamontes o esperanza que se comen las hojas de pimientos, berenjenas y kale, cuándo son inofensivas y cómo eliminarlas si hay una infestación real."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

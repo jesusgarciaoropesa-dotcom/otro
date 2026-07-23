@@ -1,5 +1,5 @@
 ---
-title: "Manchas blancas en las hojas de mis plantas: qué son y cómo tratarlas"
+title: "Manchas blancas en las hojas: qué son y cómo tratarlas"
 description: "Las causas más comunes de manchas blancas en las hojas de plantas de un huerto urbano: oídio, cochinilla algodonosa o depósitos de riego, y cómo tratarlas."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

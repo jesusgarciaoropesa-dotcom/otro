@@ -1,5 +1,5 @@
 ---
-title: "Gusano blanco en la maceta: qué es y cómo eliminarlo sin dañar las raíces"
+title: "Gusano blanco en la maceta: qué es y cómo eliminarlo"
 description: "Qué es el gusano blanco (larva de escarabajo) que aparece en el sustrato de macetas, por qué daña las raíces y cómo eliminarlo a mano o con nematodos."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

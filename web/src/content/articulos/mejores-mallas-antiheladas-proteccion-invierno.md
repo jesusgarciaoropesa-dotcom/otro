@@ -1,5 +1,5 @@
 ---
-title: "Mejores mallas antiheladas y protección de invierno para el balcón"
+title: "Mejores mallas antiheladas para el huerto de balcón"
 description: "Comparativa de protecciones contra el frío para el huerto de balcón: velo antiheladas, fundas para plantas, mini-invernaderos y acolchado. Cómo proteger tus cultivos del hielo."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"

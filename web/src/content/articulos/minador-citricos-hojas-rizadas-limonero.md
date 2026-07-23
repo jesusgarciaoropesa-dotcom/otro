@@ -1,5 +1,5 @@
 ---
-title: "Minador de los cítricos: por qué se rizan las hojas nuevas del limonero"
+title: "Minador de los cítricos: hojas rizadas en el limonero"
 description: "Qué es el minador de los cítricos, por qué riza y deforma las hojas nuevas de limoneros y mandarinos en maceta, y cómo tratarlo y prevenirlo."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

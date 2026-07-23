@@ -1,5 +1,5 @@
 ---
-title: "Hojas amarillas en el limonero y cítricos en maceta: causas y solución"
+title: "Hojas amarillas en limonero y cítricos: causas y solución"
 description: "Las hojas amarillas en un limonero o cítrico en maceta avisan de un problema. Aprende a diagnosticar la causa (riego, hierro, frío, plagas) y a recuperar tu cítrico."
 categoria: "plagas-y-enfermedades"
 intencion: "informativa"

@@ -1,5 +1,5 @@
 ---
-title: "Acolchado (mulching) en el huerto de balcón: para qué sirve y cómo hacerlo"
+title: "Acolchado (mulching) en el huerto de balcón: guía práctica"
 description: "El acolchado conserva la humedad, ahorra riego y protege el sustrato. Aprende qué materiales usar como mulching en tus macetas y cómo aplicarlo en el balcón."
 categoria: "primeros-pasos"
 intencion: "informativa"

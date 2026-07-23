@@ -1,5 +1,5 @@
 ---
-title: "Huerto de balcón con niños: qué plantar y cómo hacerlo divertido"
+title: "Huerto de balcón con niños: qué plantar y cómo empezar"
 description: "Cultivar en el balcón con niños es una actividad educativa y divertida. Descubre qué plantar para que no pierdan la paciencia, ideas por edades y trucos para que enganche."
 categoria: "primeros-pasos"
 intencion: "informativa"
