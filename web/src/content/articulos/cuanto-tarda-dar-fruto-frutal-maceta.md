@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["cuánto tarda en dar fruto un frutal", "frutal en maceta cuándo produce", "años para que un limonero dé fruto"]
 pubDate: 2026-06-08
+faq:
+  - pregunta: "¿Cuánto tarda un frutal en maceta en dar fruto?"
+    respuesta: "Depende del tipo y de si partes de planta injertada: los cítricos y la higuera pueden dar el primer o segundo año, mientras que otros frutales tardan más. Desde semilla, la espera se dispara a varios años y sin garantía de buena fruta."
+  - pregunta: "¿Por qué conviene comprar el frutal ya injertado?"
+    respuesta: "Porque una planta injertada de vivero ya es una variedad seleccionada y adelanta años la primera cosecha frente a partir de semilla. Es la forma más fiable de comer fruta pronto en el balcón."
+  - pregunta: "¿Qué puedo hacer para que empiece a producir antes?"
+    respuesta: "Darle sol de sobra, la maceta y el abonado adecuados, y una poda de formación correcta; evita cambiarlo de sitio constantemente y el estrés por riego irregular, que retrasan la entrada en producción."
+
 ---
 
 Uno de los aspectos que más suele sorprender a quien empieza con frutales de maceta es la paciencia que requieren: a diferencia de una hortaliza anual, un frutal necesita varios años antes de dar una producción significativa.

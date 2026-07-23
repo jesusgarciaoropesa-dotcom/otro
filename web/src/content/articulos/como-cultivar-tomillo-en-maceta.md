@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar tomillo en maceta", "tomillo en balcón cuidados", "cómo plantar tomillo en maceta"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Por qué al tomillo le perjudica un sustrato demasiado rico?"
+    respuesta: "El tomillo es de suelos pobres y secos: en un sustrato muy rico y húmedo crece blando, con menos aroma y más propenso a pudrirse. Usa un sustrato que drene muy bien, incluso con arena o grava, y riega poco."
+  - pregunta: "¿Cada cuánto se riega el tomillo?"
+    respuesta: "Muy poco: deja secar bien el sustrato entre riegos. Tolera la sequía mucho mejor que el exceso de agua, que le pudre las raíces."
+  - pregunta: "¿El tomillo aguanta el frío del invierno?"
+    respuesta: "Sí, es bastante rústico y resiste el frío en el balcón; en climas muy duros basta con arrimarlo a la pared. Lo que no perdona es el encharcamiento invernal, así que reduce el riego al mínimo en esa época."
+
 ---
 
 El tomillo es, junto con el romero, de las aromáticas más agradecidas para un balcón muy soleado: apenas necesita cuidados una vez establecido, y sus errores más comunes vienen casi siempre de tratarlo con demasiado mimo, no con poco.

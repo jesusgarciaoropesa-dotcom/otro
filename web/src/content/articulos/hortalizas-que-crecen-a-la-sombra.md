@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["hortalizas para balcón con sombra", "cultivo en balcón poca luz", "qué plantar en balcón orientado al norte"]
 pubDate: 2026-04-24
+faq:
+  - pregunta: "¿Qué hortalizas crecen bien con poca luz?"
+    respuesta: "Sobre todo las de hoja: lechuga, espinaca, acelga, rúcula y canónigos, además de muchas aromáticas como perejil, cilantro, menta y cebollino, y los rabanitos. Crecen más despacio que a pleno sol, pero prosperan."
+  - pregunta: "¿Se puede tener huerto en un balcón orientado al norte?"
+    respuesta: "Sí, con expectativas realistas: olvídate de tomates o pimientos y céntrate en hojas y aromáticas de sombra. Pintar de claro las paredes y usar superficies reflectantes ayuda a aprovechar la poca luz."
+  - pregunta: "¿Qué NO conviene plantar en sombra?"
+    respuesta: "Las hortalizas de fruto (tomate, pimiento, berenjena, calabacín) y la mayoría de frutales, que necesitan 6 horas o más de sol directo para producir. En sombra crecen débiles y apenas cuajan."
+
 ---
 
 No todos los balcones reciben las 6 horas de sol directo que necesitan tomates o pimientos para producir bien. Con menos luz (2-4 horas directas, o luz indirecta constante) sigue siendo posible cultivar, eligiendo bien las especies.

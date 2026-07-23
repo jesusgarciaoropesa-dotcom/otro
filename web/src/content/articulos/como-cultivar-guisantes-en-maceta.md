@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar guisantes en maceta", "guisantes en balcón cuidados", "cuándo sembrar guisantes en maceta"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Cuándo se siembran los guisantes en el balcón?"
+    respuesta: "En clima fresco: otoño o final de invierno, según la zona, porque son de tiempo suave y no soportan el calor fuerte. Sembrados a destiempo florecen mal y la cosecha se resiente."
+  - pregunta: "¿Los guisantes necesitan tutor?"
+    respuesta: "Las variedades trepadoras sí, un enrejado o unas cañas donde agarrarse con sus zarcillos; las enanas casi no lo necesitan. En maceta suele ir mejor una variedad enana o de media mata."
+  - pregunta: "¿Los guisantes necesitan mucho abono?"
+    respuesta: "No demasiado nitrógeno: como legumbres, fijan su propio nitrógeno del aire y con exceso crecen en hoja a costa de las vainas. Un sustrato equilibrado y riego constante bastan."
+
 ---
 
 Los guisantes son de los cultivos de temporada fría más agradecidos para maceta: toleran bien el frío moderado, no necesitan mucho calor para producir, y a diferencia de muchas hortalizas de verano, dan una cosecha temprana que llega cuando el resto del huerto todavía está arrancando.

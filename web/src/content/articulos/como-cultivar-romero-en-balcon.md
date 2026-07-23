@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar romero en maceta", "romero en balcón cuidados", "cómo plantar romero en maceta"]
 pubDate: 2026-03-02
+faq:
+  - pregunta: "¿Cada cuánto se riega el romero en maceta?"
+    respuesta: "Poco: el romero es mediterráneo y prefiere la sequía al exceso de agua. Riega solo cuando el sustrato esté bien seco; el encharcamiento y el riego frecuente son su principal causa de muerte."
+  - pregunta: "¿El romero necesita mucho sol?"
+    respuesta: "Sí, cuanto más sol directo, mejor: aguanta perfectamente el pleno sol y es donde desarrolla más aroma. En sombra crece débil y ralo."
+  - pregunta: "¿Cómo se poda y recolecta el romero sin dañarlo?"
+    respuesta: "Corta siempre por la parte verde y tierna de las ramas, nunca sobre la madera vieja sin hojas, porque de ahí le cuesta rebrotar. Podar las puntas con regularidad lo mantiene compacto y frondoso."
+
 ---
 
 El romero es una de las aromáticas más agradecidas para un balcón: resiste bien la sequía puntual, apenas tiene plagas y, una vez establecido, requiere muy poco mantenimiento.

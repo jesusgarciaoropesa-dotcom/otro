@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar cebollino en maceta", "cebollino en balcón cuidados", "cebollino en la ventana de la cocina"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Cómo se corta el cebollino para que rebrote?"
+    respuesta: "Corta los tallos a unos 3-4 cm de la base con tijeras, dejando la mata para que rebrote; volverá a crecer varias veces. Ve cortando por tandas en vez de arrasar toda la planta de golpe."
+  - pregunta: "¿Se pueden comer las flores del cebollino?"
+    respuesta: "Sí, las flores lila son comestibles y decorativas, con un suave sabor a cebolla. Aun así, si quieres priorizar la producción de hojas, retira los tallos florales en cuanto asomen."
+  - pregunta: "¿El cebollino necesita mucho sol?"
+    respuesta: "Va bien a pleno sol y tolera la media sombra, lo que lo hace muy agradecido en el balcón. Solo pide un sustrato que mantenga algo de humedad, sin encharcar."
+
 ---
 
 El cebollino es probablemente la aromática más fácil de todas las de este apartado: perenne, con muy pocas exigencias, y tan resistente que perdona casi cualquier error de principiante mejor que la propia menta.

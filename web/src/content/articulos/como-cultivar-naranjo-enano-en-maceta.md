@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["naranjo enano en maceta", "cultivar naranjo en balcón", "naranjo enano cuidados"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Qué naranjo es mejor para cultivar en maceta?"
+    respuesta: "Las variedades enanas o injertadas sobre patrón enanizante, que se mantienen a un tamaño manejable y fructifican pronto. El calamondín y algunos naranjos enanos son ideales para balcón."
+  - pregunta: "¿Por qué se le caen las hojas o amarillean a mi naranjo?"
+    respuesta: "Casi siempre por exceso de riego o falta de hierro con agua muy calcárea. Deja secar el sustrato entre riegos, usa agua de baja cal y abónalo con un fertilizante específico para cítricos."
+  - pregunta: "¿El naranjo enano aguanta el frío?"
+    respuesta: "Tolera mal las heladas fuertes: en zonas frías protégelo arrimándolo a la pared o con un velo antiheladas. En invierno reduce el riego y evita cambios bruscos de temperatura."
+
 ---
 
 El naranjo enano es, junto con el limonero, el frutal más popular para maceta en un balcón. Los cuidados son muy parecidos entre ambos, con algunas diferencias importantes: el naranjo es algo más sensible al frío y sus frutos tardan más en madurar.

@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar acelgas en maceta", "acelgas en balcón cuidados", "cómo sembrar acelgas en maceta"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Cómo se cosecha la acelga para que siga produciendo?"
+    respuesta: "Corta las hojas exteriores, las más grandes, desde la base, dejando el cogollo central intacto: la planta seguirá dando hojas nuevas durante meses. Es de las hortalizas más productivas y duraderas en maceta."
+  - pregunta: "¿Cuánta luz necesita la acelga?"
+    respuesta: "Es muy adaptable: crece bien a pleno sol y tolera bastante la media sombra, por lo que va genial en balcones con luz limitada. En verano agradece algo de sombra en las horas centrales."
+  - pregunta: "¿Qué profundidad de maceta necesitan las acelgas?"
+    respuesta: "Con unos 20-25 cm de profundidad van bien. Al ser plantas grandes y productivas, agradecen un buen volumen de sustrato y un riego constante para no volverse fibrosas."
+
 ---
 
 La acelga es de las hojas verdes más agradecidas para maceta: más resistente al calor que la espinaca, tolera bien el frío moderado, y con la técnica de recolección adecuada una sola planta puede seguir produciendo hoja durante varios meses seguidos.

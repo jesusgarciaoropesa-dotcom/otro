@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar orégano en maceta", "orégano en balcón cuidados", "cómo plantar orégano en maceta"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Por qué el orégano con menos agua tiene más sabor?"
+    respuesta: "Porque el estrés hídrico moderado concentra los aceites esenciales que le dan aroma. Un orégano regado en exceso crece frondoso pero soso; riégalo solo cuando el sustrato esté seco."
+  - pregunta: "¿El orégano necesita mucho sol?"
+    respuesta: "Sí: a pleno sol desarrolla su mejor aroma y porte compacto. En sombra crece alargado, débil y con menos sabor."
+  - pregunta: "¿El orégano se extiende y invade la maceta?"
+    respuesta: "Tiende a extenderse, aunque menos agresivamente que la menta. Cultivarlo en su propia maceta y podarlo con regularidad lo mantiene controlado y frondoso."
+
 ---
 
 El orégano comparte casi todas las necesidades del romero y el tomillo (sol pleno, poca agua, sustrato drenante), pero tiene un comportamiento que sorprende a quien lo cultiva por primera vez: se extiende con bastante ganas, de forma parecida a la menta aunque menos agresiva.

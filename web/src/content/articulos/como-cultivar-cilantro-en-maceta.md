@@ -5,6 +5,14 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar cilantro en maceta", "cilantro en balcón cuidados", "cómo sembrar cilantro en maceta"]
 pubDate: 2026-04-26
+faq:
+  - pregunta: "¿Por qué mi cilantro se sube a flor tan rápido?"
+    respuesta: "El cilantro se espiga (florece) enseguida con el calor y los días largos, y entonces deja de dar hoja y amarga. Siémbralo en épocas frescas, dale algo de sombra en verano y cosecha a menudo para retrasar la floración."
+  - pregunta: "¿El cilantro se puede trasplantar?"
+    respuesta: "Lleva mal el trasplante porque tiene raíz pivotante: lo mejor es sembrarlo directamente en su maceta definitiva. Si compras plantel, muévelo con todo el cepellón y sin desmenuzar las raíces."
+  - pregunta: "¿Cuánta luz necesita el cilantro?"
+    respuesta: "Luz abundante pero no calor extremo: a pleno sol de verano se estresa y florece antes. Le va muy bien la media sombra en los meses cálidos y el sol directo suave en primavera y otoño."
+
 ---
 
 El cilantro es una de las aromáticas más utilizadas en cocina, pero también una de las que más rápido se "sube a flor" si no se maneja bien el riego y la temperatura, dejando de producir hojas aprovechables.

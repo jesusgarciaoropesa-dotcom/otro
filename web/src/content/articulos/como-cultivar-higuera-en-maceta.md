@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["higuera en maceta", "higuera enana cuidados", "cultivar higo en balcón"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿Se puede tener una higuera en maceta en un balcón?"
+    respuesta: "Sí, es uno de los frutales que mejor se adapta a la maceta si eliges una variedad compacta y la podas para controlar su tamaño. Necesita una maceta grande (a partir de 40 litros para adulta) y mucho sol."
+  - pregunta: "¿Cuánto sol necesita la higuera?"
+    respuesta: "Cuanto más, mejor: pide pleno sol para madurar bien los higos. En sombra crece pero da poca fruta y de peor sabor."
+  - pregunta: "¿La higuera de maceta pierde las hojas en invierno?"
+    respuesta: "Sí, es de hoja caduca: en invierno se queda sin hojas y entra en reposo, momento ideal para podarla. Reduce mucho el riego en esa época, porque sin hojas apenas consume agua."
+
 ---
 
 La higuera es uno de los frutales de maceta más agradecidos: tolera mejor el frío que los cítricos, aguanta la sequía puntual sin apenas quejarse una vez establecida, y las variedades compactas se adaptan bien a la vida entera en un contenedor.

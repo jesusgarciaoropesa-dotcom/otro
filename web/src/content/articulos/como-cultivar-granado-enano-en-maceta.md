@@ -5,6 +5,14 @@ categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["granado enano en maceta", "cultivar granada en balcón", "granado enano cuidados"]
 pubDate: 2026-07-07
+faq:
+  - pregunta: "¿El granado enano da frutos de verdad?"
+    respuesta: "Las variedades enanas ornamentales dan granadas pequeñas, más decorativas que para comer; si quieres cosechar fruta de tamaño normal, elige una variedad productiva de porte controlado. En ambos casos florece de forma espectacular."
+  - pregunta: "¿Cuánto sol necesita el granado?"
+    respuesta: "Mucho: es un frutal mediterráneo que pide pleno sol para florecer y cuajar bien. Es de los más agradecidos en balcones muy soleados y calurosos."
+  - pregunta: "¿El granado pierde las hojas en invierno?"
+    respuesta: "Sí, es de hoja caduca y en invierno queda desnudo y en reposo, cuando conviene podarlo. Reduce entonces el riego; aguanta bien el frío una vez establecido."
+
 ---
 
 El granado enano combina dos ventajas poco habituales en un frutal: es de los más resistentes al calor y a la sequía puntual de todos, y además tiene una floración roja muy vistosa que lo hace decorativo incluso antes de dar fruto.
