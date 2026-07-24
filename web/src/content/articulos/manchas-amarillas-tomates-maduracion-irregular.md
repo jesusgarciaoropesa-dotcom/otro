@@ -16,6 +16,8 @@ faq:
 
 Recoges un tomate que debería estar rojo y aparece con **manchas amarillas o naranjas** irregulares, sobre todo por la parte de arriba (los "hombros"), que no terminan de enrojecer. No es una plaga grave: casi siempre es un problema de **maduración**, muy típico en pleno verano.
 
+<figure><img width="1200" height="670" src="/images/articulos/manchas-amarillas-tomates.jpg" alt="Tomate rojo con manchas amarillas y anaranjadas irregulares en los hombros que no han terminado de madurar" /><figcaption>Las manchas amarillas en los hombros del tomate son maduración irregular, típica del calor.</figcaption></figure>
+
 ## Causa nº 1: maduración irregular por calor (hombros amarillos)
 
 Es la más frecuente. Cuando hace **mucho calor** (por encima de unos 30-32 ºC), el tomate **deja de formar el pigmento rojo** (licopeno) en las zonas más expuestas al sol, y esas zonas quedan **amarillas o anaranjadas**. Se ve sobre todo en los **hombros del fruto**, cerca del rabito, que es la parte que más sol recibe. La carne de dentro está normal.

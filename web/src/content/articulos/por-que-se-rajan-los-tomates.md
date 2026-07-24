@@ -16,6 +16,8 @@ faq:
 
 Tienes unos tomates estupendos y, de un día para otro, aparecen **rajados o agrietados** por arriba, con grietas que salen del rabito hacia los lados o en círculos. La duda típica es "¿les ha faltado agua?". Pues casi siempre es **justo lo contrario**.
 
+<figure><img width="1200" height="670" src="/images/articulos/por-que-se-rajan-los-tomates.jpg" alt="Racimo de tomates maduros en una maceta de balcón con grietas radiales y concéntricas en la piel por rajado" /><figcaption>El rajado abre la piel del tomate cuando la pulpa crece más rápido de lo que la piel estira.</figcaption></figure>
+
 ## Qué es el rajado del tomate
 
 El rajado (o agrietado) es un problema **fisiológico**, no una plaga ni una enfermedad: la **piel del tomate se abre** porque la pulpa de dentro ha crecido más rápido de lo que la piel puede estirarse. Hay dos tipos:
