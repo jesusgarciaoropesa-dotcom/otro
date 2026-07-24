@@ -16,6 +16,8 @@ faq:
 
 Sale un tomate prometedor y, al mirarlo de cerca, aparece **agujereado y con una especie de serrín oscuro** en la entrada del agujero. Si además las hojas tienen unos **caminitos transparentes** por dentro, casi seguro que tienes **Tuta absoluta**: la polilla del tomate, una de las plagas más temidas de este cultivo.
 
+<figure><img width="1200" height="670" src="/images/articulos/tuta-absoluta-tomate.jpg" alt="Tomate verde en la mata con un agujero de entrada y excrementos oscuros (como serrín) alrededor, daño típico de la larva de Tuta absoluta, en un balcón" /><figcaption>El agujero con excrementos oscuros alrededor es la marca inconfundible de la Tuta absoluta.</figcaption></figure>
+
 ## Qué es la Tuta absoluta
 
 Es una **pequeña polilla** (de un centímetro, grisácea) cuyas **larvas** son las que hacen el daño. La hembra pone los huevos en la planta y, al nacer, las orugas **minan las hojas** y **perforan los frutos** para comer por dentro, protegidas del exterior. Se reproduce muy rápido y encadena varias generaciones en una temporada, por eso puede arrasar una tomatera en poco tiempo si no se controla.
