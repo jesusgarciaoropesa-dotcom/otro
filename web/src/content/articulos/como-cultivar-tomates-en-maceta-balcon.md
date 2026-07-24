@@ -59,6 +59,7 @@ El tomate es una planta muy exigente en nutrientes. Aporta un [abono rico en pot
 - **Hojas rizadas u onduladas**: en verano suele ser solo [estrés por calor](/articulos/hojas-rizadas-tomatera-causas/), aunque conviene descartar pulgón si afecta a las hojas nuevas.
 - **Flores que se caen sin cuajar**: temperaturas muy altas (>32°C) o muy bajas, o falta de polinización (puedes ayudar agitando suavemente la planta).
 - **Frutos pequeños que se caen o no maduran**: repasa las causas en [por qué se caen los frutos pequeños sin madurar](/articulos/se-caen-frutos-pequenos-sin-madurar/).
+- **Agujeros en los tomates con "serrín" alrededor**: es la [Tuta absoluta, la polilla del tomate](/articulos/tuta-absoluta-tomate-como-eliminarla/); actúa pronto para no perder la cosecha.
 - **Manchas oscuras en la base del fruto**: podredumbre apical, relacionada con riego irregular y falta de calcio.
 
 Si detectas plagas como pulgón o mosca blanca, consulta nuestra guía de [plagas y enfermedades del huerto urbano](../../categorias/plagas-y-enfermedades/) para tratamientos naturales.
