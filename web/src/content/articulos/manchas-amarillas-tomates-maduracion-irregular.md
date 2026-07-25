@@ -31,7 +31,7 @@ Lo agrava la **falta de potasio**, el nutriente clave para que el tomate madure 
 
 ## Causa nº 2: picadura de chinches
 
-Las **chinches** (como la chinche verde) pican el fruto para alimentarse y dejan **manchas pálidas amarillentas o blanquecinas**, a menudo con la **pulpa de debajo blanca, dura y esponjosa** (lo que se llama "picado" o *cloudy spot*).
+Las [chinches](/articulos/chinches-huerto-tomate-como-eliminarlas/) (como la chinche verde) pican el fruto para alimentarse y dejan **manchas pálidas amarillentas o blanquecinas**, a menudo con la **pulpa de debajo blanca, dura y esponjosa** (lo que se llama "picado" o *cloudy spot*).
 
 **Cómo reducirlo:**
 - **Revisa la planta** y retira las chinches a mano (son grandes y visibles).

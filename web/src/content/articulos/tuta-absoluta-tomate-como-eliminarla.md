@@ -28,7 +28,7 @@ Es una **pequeña polilla** (de un centímetro, grisácea) cuyas **larvas** son 
 - **Agujeros en los frutos**: con **excrementos oscuros** (como serrín) alrededor de la entrada. Al abrir el tomate, ves la larva y sus deposiciones dentro.
 - **Daños en tallos y brotes** en casos avanzados.
 
-No lo confundas con el [gusano del fruto o con el culo negro](/articulos/culo-negro-tomate-podredumbre-apical/): el culo negro es una mancha seca por falta de calcio, no un agujero con larva dentro.
+No lo confundas con el [gusano del fruto (Heliothis)](/articulos/gusano-del-fruto-tomate-pimiento-heliothis/), una oruga mayor que hace agujeros más grandes, ni con el [culo negro](/articulos/culo-negro-tomate-podredumbre-apical/), que es una mancha seca por falta de calcio y no un agujero con larva dentro.
 
 ## Cómo eliminarla (paso a paso)
 

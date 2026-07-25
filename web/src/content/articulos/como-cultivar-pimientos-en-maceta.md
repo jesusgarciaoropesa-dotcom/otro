@@ -57,7 +57,8 @@ Aunque no es tan necesario como en el tomate, un tutor simple ayuda a sostener l
 
 ## Problemas comunes
 
-- **Flores que se caen sin cuajar**: temperaturas muy altas, riego irregular o falta de polinización.
+- **Flores que se caen sin cuajar**: temperaturas muy altas, riego irregular o falta de polinización; lo vemos en [por qué se caen las flores del pimiento](/articulos/flores-pimiento-se-caen-sin-cuajar/).
+- **Hojas amarillas**: casi siempre por falta de nutrientes o riego incorrecto; lo desglosamos en [hojas amarillas en el pimiento](/articulos/hojas-amarillas-pimiento-causas-solucion/).
 - **Frutos pequeños o deformes**: normalmente por falta de nutrientes o riego insuficiente en la fase de fructificación.
 - **Hojas con manchas**: revisa posibles plagas como pulgón o [araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/) en nuestra [guía de plagas y enfermedades](/categorias/plagas-y-enfermedades/).
 
