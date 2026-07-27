@@ -22,6 +22,8 @@ Ves un tomate que promete y, al girarlo, te encuentras una mancha oscura, hundid
 
 El culo negro, o **podredumbre apical**, es un **problema fisiológico**, no una enfermedad contagiosa. Aparece como una mancha marrón oscura, seca y hundida en la parte inferior del fruto (la opuesta al tallo). La causa de fondo es que **el calcio no llega bien al fruto** mientras engorda. Por eso no sirve de nada fumigar con fungicidas: el problema no está en un patógeno, sino en la nutrición y el agua de la planta.
 
+No es un problema exclusivo del tomate: la podredumbre apical afecta **igual al pimiento y a la berenjena**, con la misma mancha marrón y hundida en la punta del fruto y exactamente la misma causa (riego irregular y calcio que no llega). La solución que verás a continuación vale para los tres.
+
 ## La causa principal en maceta: el riego irregular
 
 Aunque se habla mucho de "falta de calcio", en un balcón el detonante casi siempre es el **riego desigual**. El calcio viaja con el agua: si la planta pasa de la sequía al encharcamiento una y otra vez, no puede transportarlo de forma constante al fruto, y aparece la mancha, aunque haya calcio de sobra en la tierra.
