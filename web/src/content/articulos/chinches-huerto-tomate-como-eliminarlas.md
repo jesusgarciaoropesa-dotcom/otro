@@ -16,6 +16,8 @@ faq:
 
 Encuentras tomates con **manchas pálidas y duras**, brotes deformados o unos **insectos con forma de escudo** que sueltan mal olor al tocarlos. Son **chinches**, una plaga muy típica del verano en el huerto que pica los frutos y los deja con mal aspecto.
 
+<figure><img width="1200" height="670" src="/images/articulos/chinche-verde-tomate.jpg" alt="Chinche verde (Nezara viridula) sobre un tomate en la mata en un balcón, con su característico cuerpo en forma de escudo de color verde brillante" /><figcaption>La chinche verde tiene el cuerpo en forma de escudo y pica los frutos para alimentarse.</figcaption></figure>
+
 ## Cómo reconocer las chinches
 
 - **Insectos con el cuerpo aplanado en forma de escudo**, de tamaño medio-grande y fáciles de ver.

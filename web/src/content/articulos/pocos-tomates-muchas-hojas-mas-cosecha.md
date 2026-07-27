@@ -16,6 +16,8 @@ faq:
 
 Tienes una tomatera **enorme y frondosa**, verde y sana… pero a la hora de la verdad **da muy pocos tomates**. Es más común de lo que parece, y casi siempre se debe a un desequilibrio fácil de corregir: la planta está gastando su energía en **hacer hoja** en vez de en **hacer fruto**.
 
+<figure><img width="1200" height="670" src="/images/articulos/tomatera-frondosa-pocos-tomates.jpg" alt="Tomatera muy frondosa y verde en una maceta de balcón, con mucha hoja pero apenas frutos" /><figcaption>Una tomatera muy frondosa pero con pocos frutos suele tener exceso de nitrógeno.</figcaption></figure>
+
 ## Causa nº 1: exceso de nitrógeno
 
 Es la razón principal. El **nitrógeno** hace crecer la parte verde; si abonas con demasiado (o con **estiércol fresco** poco compostado), la tomatera crece exuberante de hoja y tallo, pero **cuaja pocos frutos** porque destina ahí toda la energía.

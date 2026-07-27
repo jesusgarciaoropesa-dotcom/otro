@@ -16,6 +16,8 @@ faq:
 
 Tu planta de pimiento está llena de **flores**, pero en vez de convertirse en frutos, **se caen** una tras otra. Es uno de los problemas más frustrantes del verano, y casi siempre tiene que ver con la **temperatura** y el **riego**, no con una enfermedad.
 
+<figure><img width="1200" height="670" src="/images/articulos/flores-pimiento-caidas.jpg" alt="Planta de pimiento en maceta con flores blancas y flores caídas en el balcón, señal de que no están cuajando frutos" /><figcaption>Cuando el pimiento pierde las flores sin cuajar, casi siempre es por calor o riego irregular.</figcaption></figure>
+
 ## Causa nº 1: el calor (o el frío)
 
 Es la razón más frecuente. El pimiento cuaja mal cuando las temperaturas son **extremas**: por encima de unos **32-35 ºC** el polen pierde viabilidad y la flor se cae sin formar fruto; y las **noches frías** (por debajo de ~12-15 ºC) tienen el mismo efecto. Por eso en plena ola de calor de verano es muy típico que "pare" de cuajar.

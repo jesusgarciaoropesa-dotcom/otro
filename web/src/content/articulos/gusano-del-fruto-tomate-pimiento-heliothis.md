@@ -16,6 +16,8 @@ faq:
 
 Recoges un tomate o un pimiento y aparece con un **agujero grande** por el que ha entrado algo a comérselo por dentro, a veces con la **oruga todavía dentro**. Es el **gusano del fruto** (*Helicoverpa armigera*, también llamado **Heliothis**): una de las orugas más dañinas del verano en el huerto.
 
+<figure><img width="1200" height="670" src="/images/articulos/gusano-del-fruto-tomate.jpg" alt="Tomate con un agujero grande hecho por el gusano del fruto (Heliothis) y la oruga comiéndolo por dentro en un balcón" /><figcaption>El gusano del fruto hace agujeros grandes en el tomate y se lo come por dentro.</figcaption></figure>
+
 ## Cómo identificarlo
 
 - **Agujeros grandes y redondeados** en el fruto, a menudo con **excrementos oscuros** en la entrada.
