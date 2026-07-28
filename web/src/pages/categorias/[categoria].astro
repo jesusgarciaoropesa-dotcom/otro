@@ -69,6 +69,12 @@ const etiquetaIntencion: Record<string, string> = {
     </div>
   </header>
 
+  {cat.intro && (
+    <div class="prose prose-stone mt-10 max-w-none">
+      <p class="text-lg leading-relaxed text-stone-700">{cat.intro}</p>
+    </div>
+  )}
+
   <div class="mt-10">
     <AdSlot adId={`categoria-${cat.slug}-top`} label="Publicidad" />
   </div>
