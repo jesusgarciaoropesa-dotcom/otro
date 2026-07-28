@@ -40,7 +40,11 @@ Algo más exigente en riego que las anteriores, pero de crecimiento fiable y rá
 
 ## Cuál elegir si solo vas a empezar con una
 
-Si solo quieres una aromática para probar antes de ampliar, el romero es la apuesta más segura: prácticamente imposible de matar por exceso o falta de riego moderados, y con un aroma intenso que se aprovecha durante todo el año.
+Si solo quieres una aromática para probar antes de ampliar, el romero es la apuesta más segura: prácticamente imposible de matar por exceso o falta de riego moderados, y con un aroma intenso que se aprovecha durante todo el año. Y si prefieres arrancar varias de golpe, un kit de semillas de aromáticas es la forma más barata de empezar:
+
+<a href="https://www.amazon.es/s?k=kit+semillas+aromaticas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver kits de semillas de aromáticas en Amazon</a>
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
 ## Cómo combinarlas en una sola jardinera
 

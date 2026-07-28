@@ -33,6 +33,8 @@ Albahaca, perejil y cilantro caben perfectamente en macetas de 15-20 cm de diám
 
 Frente a variedades de tomate de mata grande, el tomate cherry o cóctel produce en abundancia en macetas relativamente compactas y es mucho más agradecido para espacios reducidos. Revisa nuestra guía de [cómo cultivar tomates en maceta](/articulos/como-cultivar-tomates-en-maceta-balcon/) para elegir la variedad correcta.
 
+<a href="https://www.amazon.es/s?k=semillas+de+tomate+cherry&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de tomate cherry en Amazon</a>
+
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry entutorada cargada de tomates rojos en una maceta de terracota en un balcón" /><figcaption>El tomate cherry produce mucho en macetas relativamente compactas</figcaption></figure>
 
 ## 5. Rúcula y espinacas baby
@@ -48,3 +50,5 @@ Calabacines, berenjenas y variedades de tomate de mata grande necesitan bastante
 ## Aprovecha el espacio vertical
 
 Si el suelo disponible es tu principal limitación, muchas de estas hortalizas (fresas, lechugas, aromáticas) se adaptan también muy bien a estructuras de [cultivo vertical](/categorias/cultivo-vertical/), multiplicando la producción sin necesitar más superficie de suelo.
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*

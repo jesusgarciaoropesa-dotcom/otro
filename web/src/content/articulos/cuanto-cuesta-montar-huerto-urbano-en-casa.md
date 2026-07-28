@@ -48,3 +48,7 @@ Para un huerto de 5-8 macetas con sustrato de calidad y sin riego automático, e
 - Empieza con menos macetas y amplía cuando confirmes que puedes mantener el ritmo de cuidados.
 - Haz [compost casero](/articulos/como-hacer-compost-casero-piso-sin-jardin/) para reducir la compra de sustrato y [abono](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) con el tiempo.
 - Valora un [kit completo para principiantes](/articulos/mejores-kits-huerto-urbano-principiantes/): agrupa macetas, sustrato y semillas, y a veces sale más barato que comprarlo todo por separado.
+
+<a href="https://www.amazon.es/s?k=kit+huerto+urbano+principiantes&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver kits de huerto urbano en Amazon</a>
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
