@@ -1,0 +1,72 @@
+---
+import { withBase } from '../lib/url';
+
+interface Props {
+  /** Id del artículo actual; el componente se auto-oculta si no es un mes. */
+  slugActual: string;
+}
+
+const { slugActual } = Astro.props;
+
+// Los 12 artículos mensuales, en orden. El calendario de siembra es un ciclo:
+// después de diciembre viene enero, así que la navegación da la vuelta.
+const meses = [
+  'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
+  'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre',
+];
+const prefijo = 'que-plantar-huerto-urbano-';
+
+const idx = meses.findIndex((m) => slugActual === `${prefijo}${m}`);
+const capitaliza = (m: string) => m.charAt(0).toUpperCase() + m.slice(1);
+
+const anterior = idx >= 0 ? meses[(idx + 11) % 12] : null;
+const siguiente = idx >= 0 ? meses[(idx + 1) % 12] : null;
+---
+
+{idx >= 0 && (
+  <nav
+    aria-label="Navegación por meses"
+    class="not-prose mt-10 rounded-2xl border border-(--color-hoja)/30 bg-(--color-crema) p-5 shadow-md sm:p-6"
+  >
+    <span class="text-xs font-semibold uppercase tracking-widest text-(--color-tierra)">
+      Sigue el calendario mes a mes
+    </span>
+    <div class="mt-3 grid gap-3 sm:grid-cols-3">
+      <a
+        href={withBase(`/articulos/${prefijo}${anterior}/`)}
+        class="group flex items-center gap-3 rounded-xl bg-white p-3 shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-md"
+      >
+        <span aria-hidden="true" class="text-lg text-(--color-mostaza-oscuro)">‹</span>
+        <span>
+          <span class="block text-xs text-stone-500">Mes anterior</span>
+          <span class="text-sm font-semibold text-stone-800 group-hover:text-(--color-tierra)">
+            {capitaliza(anterior!)}
+          </span>
+        </span>
+      </a>
+      <a
+        href={withBase('/articulos/calendario-siembra-completo-mes-a-mes/')}
+        class="group flex items-center justify-center gap-2 rounded-xl bg-white p-3 text-center shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-md"
+      >
+        <span>
+          <span class="block text-xs text-stone-500">Ver todo</span>
+          <span class="text-sm font-semibold text-stone-800 group-hover:text-(--color-tierra)">
+            Calendario completo
+          </span>
+        </span>
+      </a>
+      <a
+        href={withBase(`/articulos/${prefijo}${siguiente}/`)}
+        class="group flex items-center justify-end gap-3 rounded-xl bg-white p-3 text-right shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-md"
+      >
+        <span>
+          <span class="block text-xs text-stone-500">Mes siguiente</span>
+          <span class="text-sm font-semibold text-stone-800 group-hover:text-(--color-tierra)">
+            {capitaliza(siguiente!)}
+          </span>
+        </span>
+        <span aria-hidden="true" class="text-lg text-(--color-mostaza-oscuro)">›</span>
+      </a>
+    </div>
+  </nav>
+)}
