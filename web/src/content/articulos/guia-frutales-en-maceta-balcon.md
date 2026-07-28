@@ -53,6 +53,7 @@ Rústicos y agradecidos si tienes algo más de espacio:
 - **[Higuera](/articulos/como-cultivar-higuera-en-maceta/)**: muy resistente y agradecida en maceta grande.
 - **[Granado enano](/articulos/como-cultivar-granado-enano-en-maceta/)**: bonito, resistente y productivo.
 - **[Uva / parra](/articulos/como-cultivar-uva-parra-en-maceta/)**: da racimos y una sombra natural preciosa en la terraza.
+- **[Kiwi](/articulos/como-cultivar-kiwi-en-maceta/)**: una trepadora vigorosa que en maceta grande y con emparrado puede dar fruto; recuerda que suele necesitar planta macho y hembra.
 
 ## Un caso especial: el aguacate
 

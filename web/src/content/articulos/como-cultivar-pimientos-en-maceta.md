@@ -29,7 +29,7 @@ Si todavía no tienes semillas, aquí tienes semillas de pimiento:
 
 - **Pimiento de Padrón o Gernika**: porte compacto, muy productivo y agradecido para maceta.
 - **Pimiento italiano (tipo cuerno)**: algo más grande de porte, pero también válido en maceta amplia.
-- **Pimientos ornamentales/picantes pequeños**: ideales si el espacio es muy reducido.
+- **Pimientos ornamentales/picantes pequeños**: ideales si el espacio es muy reducido. Si te gusta el picante, tienes su ficha propia en [cómo cultivar guindillas y chiles en maceta](/articulos/como-cultivar-guindillas-chiles-en-maceta/), que se cuidan igual que el pimiento.
 
 ## Tamaño de maceta necesario
 

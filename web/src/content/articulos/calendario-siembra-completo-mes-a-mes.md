@@ -22,7 +22,7 @@ faq:
 
 ## Invierno (diciembre-febrero)
 
-Época de menor actividad, pero no de parón total: es el momento de planificar la temporada, revisar y limpiar macetas, y sembrar en interior cultivos de ciclo largo que trasplantarás en primavera. Consulta el detalle en [diciembre](/articulos/que-plantar-huerto-urbano-diciembre/), [enero](/articulos/que-plantar-huerto-urbano-enero/) y [febrero](/articulos/que-plantar-huerto-urbano-febrero/).
+Época de menor actividad, pero no de parón total: es el momento de planificar la temporada, revisar y limpiar macetas, y sembrar en interior cultivos de ciclo largo que trasplantarás en primavera. A finales del invierno también puedes arrancar dentro de casa un rizoma de [jengibre](/articulos/como-cultivar-jengibre-en-casa/), que necesita calor y varios meses por delante. Consulta el detalle en [diciembre](/articulos/que-plantar-huerto-urbano-diciembre/), [enero](/articulos/que-plantar-huerto-urbano-enero/) y [febrero](/articulos/que-plantar-huerto-urbano-febrero/).
 
 ## Primavera temprana (marzo)
 
@@ -30,7 +30,7 @@ Arranca la temporada fuerte de siembra: tomates, pimientos y berenjenas se siemb
 
 ## Primavera avanzada (abril-mayo)
 
-Momento de trasplantar a maceta definitiva las plántulas sembradas en marzo, una vez pasado el riesgo de heladas tardías. Es también la mejor época para plantar aromáticas y fresas. Mira el detalle en [abril](/articulos/que-plantar-huerto-urbano-abril/) y [mayo](/articulos/que-plantar-huerto-urbano-mayo/).
+Momento de trasplantar a maceta definitiva las plántulas sembradas en marzo, una vez pasado el riesgo de heladas tardías. Es también la mejor época para plantar aromáticas y fresas, y para sembrar hortalizas de raíz y tallo como la [remolacha](/articulos/como-cultivar-remolacha-en-maceta/), el [apio](/articulos/como-cultivar-apio-en-maceta/) o los [puerros](/articulos/como-cultivar-puerros-en-maceta/). Mira el detalle en [abril](/articulos/que-plantar-huerto-urbano-abril/) y [mayo](/articulos/que-plantar-huerto-urbano-mayo/).
 
 ## Verano (junio-agosto)
 
@@ -38,7 +38,7 @@ Momento de trasplantar a maceta definitiva las plántulas sembradas en marzo, un
 
 ## Otoño (septiembre-noviembre)
 
-Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rabanitos y habas se siembran ahora para cosechar durante el otoño e invierno. Es también buen momento para renovar el sustrato agotado tras la temporada de verano. Detalle en [septiembre](/articulos/que-plantar-huerto-urbano-septiembre/), [octubre](/articulos/que-plantar-huerto-urbano-octubre/) y [noviembre](/articulos/que-plantar-huerto-urbano-noviembre/).
+Segunda ventana fuerte de siembra del año: espinacas, lechugas de invierno, rabanitos, habas y crucíferas como la [coliflor](/articulos/como-cultivar-coliflor-en-maceta/) se siembran a finales de verano y en otoño para cosechar durante el otoño e invierno. Es también buen momento para renovar el sustrato agotado tras la temporada de verano. Detalle en [septiembre](/articulos/que-plantar-huerto-urbano-septiembre/), [octubre](/articulos/que-plantar-huerto-urbano-octubre/) y [noviembre](/articulos/que-plantar-huerto-urbano-noviembre/).
 
 ## Reglas generales que valen para cualquier mes
 

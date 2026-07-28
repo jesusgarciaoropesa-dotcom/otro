@@ -50,6 +50,13 @@ Toleran bien la **media sombra**, así que son la solución para balcones que no
 - **[Menta](/articulos/como-cultivar-menta-en-maceta/)**: siempre en maceta individual, porque es invasiva.
 - **[Albahaca](/articulos/como-cultivar-albahaca-en-maceta/)**: de calor; pinza las flores para que siga dando hoja.
 
+## Otras aromáticas para dar el salto
+
+Cuando le cojas el gusto, amplía la colección con estas dos, muy agradecidas en maceta soleada:
+
+- **[Eneldo](/articulos/como-cultivar-eneldo-en-maceta/)**: de sabor fresco para pescados y encurtidos, crece rápido desde semilla y atrae insectos beneficiosos.
+- **[Manzanilla](/articulos/como-cultivar-manzanilla-en-maceta/)**: sus florecitas se secan para infusiones caseras; resiste el sol y la sequía como las mediterráneas.
+
 ## Riego y cuidados generales
 
 - **Mediterráneas**: riega solo cuando el sustrato esté seco; el exceso de agua las pudre.
