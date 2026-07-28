@@ -16,7 +16,7 @@ faq:
 
 Tu planta de pimiento está **hermosa, frondosa y muy verde**… pero pasan las semanas y **no echa pimientos**. Es una de las consultas más repetidas del verano, y casi siempre se debe a un desequilibrio fácil de corregir: la planta está poniendo toda su energía en **hacer mata** en lugar de en **hacer fruto**.
 
-<figure><img width="1200" height="670" src="/images/articulos/pimiento-mucha-mata-pocos-frutos.jpg" alt="Planta de pimiento muy frondosa y verde, grande y sana pero sin frutos, en un huerto" /><figcaption>Una planta de pimiento enorme y sana pero sin frutos suele tener exceso de nitrógeno.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/pimiento-mucha-mata-pocos-frutos.jpg" alt="Planta de pimiento muy frondosa y verde en una maceta de terracota en un balcón urbano" /><figcaption>Una mata de pimiento muy frondosa vuelca la energía en la hoja: el equilibrio del abono es la clave para que cuaje más fruto.</figcaption></figure>
 
 ## Causa nº 1: exceso de nitrógeno
 
