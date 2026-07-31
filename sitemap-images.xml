@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://mihuertourbano.xyz/articulos/aceite-neem-huerto-como-usarlo/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/aceite-neem-bote.jpg</image:loc>
+      <image:title>Aceite de neem: cómo usarlo en el huerto contra plagas</image:title>
+      <image:caption>El aceite de neem corta plagas recurrentes como la mosca blanca o el minador porque interfiere en su reproducción. Aprende a diluirlo, mezclarlo y aplicarlo sin quemar las hojas.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://mihuertourbano.xyz/articulos/acolchado-mulching-huerto-balcon/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/regar-regadera-cuanta-agua.jpg</image:loc>
@@ -71,6 +79,14 @@
       <image:loc>https://mihuertourbano.xyz/images/articulos/sobres-semillas-kraft.jpg</image:loc>
       <image:title>Calendario de siembra completo para huerto en balcón (mes a mes)</image:title>
       <image:caption>Calendario de siembra mes a mes para un huerto urbano en balcón o terraza: qué sembrar, trasplantar y cosechar cada mes del año en clima mediterráneo.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mihuertourbano.xyz/articulos/ceniza-madera-huerto/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/ceniza-madera-huerto.jpg</image:loc>
+      <image:title>Ceniza de madera en el huerto: usos, dosis y precauciones</image:title>
+      <image:caption>La ceniza de madera aporta potasio y calcio y ayuda con babosas y hormigas, pero sube el pH y hay que usarla con cabeza. Aprende cómo y cuánta echar sin dañar tus plantas.</image:caption>
     </image:image>
   </url>
   <url>
@@ -938,6 +954,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://mihuertourbano.xyz/articulos/jabon-potasico-plagas-como-usarlo/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/jabon-potasico-pulverizar.jpg</image:loc>
+      <image:title>Jabón potásico: cómo usarlo contra las plagas del huerto</image:title>
+      <image:caption>El jabón potásico es el tratamiento ecológico más versátil contra pulgón, mosca blanca y cochinilla. Aprende cómo diluirlo, cuándo aplicarlo y los errores que debes evitar.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://mihuertourbano.xyz/articulos/jardin-hierbas-aromaticas-en-cocina/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/jardinera-aromaticas-barandilla.jpg</image:loc>
@@ -1450,6 +1474,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://mihuertourbano.xyz/articulos/remedios-caseros-plagas-que-no-funcionan/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/remedios-caseros-plagas.jpg</image:loc>
+      <image:title>Remedios caseros para plagas que NO funcionan (y qué usar)</image:title>
+      <image:caption>Leche para la mosca blanca, jabón de vajilla, agua de la lavadora, ajo a lo loco… Muchos remedios caseros virales no funcionan o dañan la planta. Te contamos cuáles evitar y qué usar.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://mihuertourbano.xyz/articulos/reutilizar-restos-cocina-abonar-huerto/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/aplicar-humus-lombriz-maceta.jpg</image:loc>
@@ -1530,11 +1562,27 @@
     </image:image>
   </url>
   <url>
+    <loc>https://mihuertourbano.xyz/articulos/tierra-diatomeas-huerto/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/tierra-diatomeas-espolvorear.jpg</image:loc>
+      <image:title>Tierra de diatomeas en el huerto: qué es y cómo usarla</image:title>
+      <image:caption>La tierra de diatomeas es un insecticida natural físico contra hormigas, cochinilla y babosas. Aprende cómo aplicarla, por qué solo funciona en seco y qué precauciones tomar.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://mihuertourbano.xyz/articulos/tierra-maceta-no-absorbe-agua-compactada/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/tierra-no-absorbe-agua.jpg</image:loc>
       <image:title>La tierra de la maceta no absorbe el agua: por qué y cómo arreglarlo</image:title>
       <image:caption>Si riegas y el agua resbala por los lados o se queda arriba sin empapar, tu sustrato está compactado o seco e hidrófobo. Te explicamos por qué pasa y cómo recuperarlo.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mihuertourbano.xyz/articulos/trampas-cromaticas-amarillas-plagas/</loc>
+    <image:image>
+      <image:loc>https://mihuertourbano.xyz/images/articulos/trampa-cromatica-amarilla-plagas.jpg</image:loc>
+      <image:title>Trampas cromáticas amarillas y azules: cómo funcionan</image:title>
+      <image:caption>Las trampas cromáticas adhesivas capturan insectos voladores y avisan de una plaga antes de que se dispare. Aprende cuándo usar la amarilla o la azul y cómo colocarlas bien.</image:caption>
     </image:image>
   </url>
   <url>
