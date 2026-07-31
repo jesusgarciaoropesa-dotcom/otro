@@ -34,11 +34,11 @@ Las plantas demasiado juntas, sin circulación de aire, favorecen la humedad est
 
 ## Plantas repelentes y asociación de cultivos
 
-Algunas aromáticas actúan como repelente natural de ciertos insectos: la albahaca cerca de tomates ayuda a repeler algunas plagas comunes, y el romero o la lavanda son poco atractivos para la mayoría de insectos, lo que reduce su incidencia en macetas cercanas.
+Algunas aromáticas actúan como repelente natural de ciertos insectos: la albahaca cerca de tomates ayuda a repeler algunas plagas comunes, y el romero o la lavanda son poco atractivos para la mayoría de insectos, lo que reduce su incidencia en macetas cercanas. Tienes la lista completa y dónde colocarlas en [plantas que repelen plagas en el huerto](/articulos/plantas-repelentes-plagas-huerto/), y las buenas parejas en [asociación de cultivos en maceta](/articulos/asociacion-cultivos-maceta-balcon/).
 
 ## Atrae insectos beneficiosos
 
-Las mariquitas se alimentan de pulgón de forma muy eficaz. Plantar flores como la caléndula cerca del huerto ayuda a atraer estos insectos beneficiosos de forma natural, reduciendo la necesidad de intervenir manualmente.
+Las mariquitas se alimentan de pulgón de forma muy eficaz. Plantar flores como la caléndula cerca del huerto ayuda a atraer estos insectos beneficiosos de forma natural, reduciendo la necesidad de intervenir manualmente. Te contamos cómo hacerlo (y cómo no espantarlos) en [cómo atraer insectos beneficiosos al huerto](/articulos/atraer-insectos-beneficiosos-huerto/).
 
 ## Cuarentena para plantas nuevas
 
