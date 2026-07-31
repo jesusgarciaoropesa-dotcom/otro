@@ -52,4 +52,6 @@ Si además de amarillear ves melaza pegajosa, moho negro o motas algodonosas, ha
 2. **Mira el patrón**: entre nervios (hierro), uniforme (nutrientes), con pegajosidad (plaga).
 3. **Piensa en la época**: en invierno, sospecha del frío.
 
+Eso sí, si el amarilleo es **brusco y viene con caída masiva de hojas**, no es un tema de abono: suele ser un problema de raíz por exceso de agua o [gomosis](/articulos/gomosis-hongos-raiz-citricos-limonero-seco/), y hay que actuar rápido sobre el riego.
+
 Con el limonero, la mayoría de amarilleos se corrigen ajustando riego, hierro y abonado. Para el cultivo completo, consulta [cómo cultivar un limonero en maceta](/articulos/como-cultivar-limonero-en-maceta/).

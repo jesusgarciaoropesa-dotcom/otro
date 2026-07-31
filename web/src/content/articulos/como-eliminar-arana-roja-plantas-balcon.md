@@ -48,4 +48,6 @@ La araña roja se reproduce mucho más rápido con calor y humedad ambiental baj
 - Pulveriza agua sobre las hojas de vez en cuando en los días más calurosos y secos del verano, como medida preventiva antes de que aparezcan síntomas.
 - Revisa el envés de las hojas de tomateras y pimientos con regularidad en verano, la época de mayor riesgo.
 
+Al final de la temporada, retira y tira (no al compost) las plantas muy afectadas, donde la araña roja pasa el invierno; y si esa zona arrastra el problema año tras año, plantéate [solarizar el suelo](/articulos/solarizar-suelo-eliminar-plagas/) en verano para limpiarlo.
+
 Si tras aplicar estos tratamientos las hojas siguen mostrando síntomas nuevos, revisa también si hay pulgón o mosca blanca al mismo tiempo: no es raro que aparezca más de una plaga a la vez en un balcón muy seco y caluroso. Consulta nuestra [guía de plagas y enfermedades del huerto urbano](/categorias/plagas-y-enfermedades/) para el resto de diagnósticos.

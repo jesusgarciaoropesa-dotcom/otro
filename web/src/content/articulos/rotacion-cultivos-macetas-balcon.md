@@ -53,4 +53,6 @@ La idea: a un cultivo de fruto exigente le sigue uno de hoja o una leguminosa, n
 - **Liliáceas**: ajo, cebolla, puerro.
 - **Leguminosas**: judía, guisante, haba (las que enriquecen).
 
+Y si una zona ha arrastrado plagas o enfermedad, antes de volver a sembrar puedes [solarizar el suelo](/articulos/solarizar-suelo-eliminar-plagas/) para dejar la tierra más limpia con el calor del verano.
+
 No hace falta obsesionarse: con no repetir la misma familia seguida y renovar la tierra de vez en cuando, tu balcón producirá mejor y con menos problemas año tras año. Para planificar las temporadas, apóyate en el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/).
