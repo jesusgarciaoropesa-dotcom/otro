@@ -43,6 +43,7 @@ Aunque estés en un piso alto, suelen llegar **con las plantas o el sustrato nue
 - **Trampas de cerveza**: entierra un recipiente pequeño a ras de sustrato con un dedo de cerveza. Los atrae y caen dentro. Vacíalo y repón cada pocos días.
 - **[Tierra de diatomeas](https://www.amazon.es/s?k=tierra+de+diatomeas&tag=mihuerto-herramientas-21)**: espolvoreada alrededor de las plantas forma una barrera abrasiva que no cruzan. Renuévala tras el riego o la lluvia, porque húmeda pierde efecto.
 - **Barrera de cobre**: una cinta de cobre alrededor de la maceta les da una pequeña descarga y no la cruzan. Es una solución muy limpia y duradera para macetas concretas.
+- **Cordón de ceniza seca**: un anillo de [ceniza de madera](/articulos/ceniza-madera-huerto/) alrededor de la maceta les molesta al pasar (pierde efecto al mojarse, así que hay que renovarlo).
 
 Evita la **sal**: mata al caracol pero daña el sustrato y las raíces de tus plantas.
 

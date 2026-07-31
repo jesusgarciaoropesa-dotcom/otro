@@ -49,4 +49,6 @@ Insectos como la mosca Encarsia formosa (avispa parasitoide) o las mariquitas se
 - Evita el exceso de nitrógeno, que produce hojas más blandas y atractivas para la plaga.
 - Mantén buena ventilación entre macetas, evitando amontonar plantas muy juntas.
 
+Y una advertencia: contra la mosca blanca **no funcionan** trucos virales como la leche o el jabón de vajilla (este último incluso quema la hoja); lo vemos en [remedios caseros para plagas que no funcionan](/articulos/remedios-caseros-plagas-que-no-funcionan/).
+
 Si además observas hojas amarillas o caídas junto con la presencia de mosca blanca, consulta nuestra guía general de [cómo prevenir plagas en un huerto urbano sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/) para reforzar la estrategia de fondo, no solo el tratamiento puntual.

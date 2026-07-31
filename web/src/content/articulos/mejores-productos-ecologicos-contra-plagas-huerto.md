@@ -24,7 +24,7 @@ Antes de recurrir a insecticidas químicos, estos son los productos ecológicos 
 
 El tratamiento más versátil y el primero que probar ante pulgón, mosca blanca o cochinilla. Actúa por contacto, disolviendo la capa protectora de estos insectos de cuerpo blando, sin dejar residuo tóxico. Diluir siempre según las instrucciones del envase, nunca usar detergente convencional en su lugar.
 
-**Recomendado para**: pulgón, mosca blanca, cochinilla algodonosa.
+**Recomendado para**: pulgón, mosca blanca, cochinilla algodonosa. Te explicamos la dilución y la forma de aplicarlo en [cómo usar el jabón potásico contra las plagas](/articulos/jabon-potasico-plagas-como-usarlo/).
 
 <a href="https://www.amazon.es/s?k=jabon+potasico+insecticida+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
@@ -32,7 +32,7 @@ El tratamiento más versátil y el primero que probar ante pulgón, mosca blanca
 
 El más versátil junto con el jabón potásico: además de actuar por contacto, interfiere en el ciclo reproductivo de muchos insectos, lo que lo hace especialmente útil para cortar plagas recurrentes como la mosca blanca o el minador de los cítricos. Aplícalo siempre a primera o última hora del día para evitar quemaduras por sol en las hojas tratadas.
 
-**Recomendado para**: mosca blanca, cochinilla, minador de los cítricos, prevención de brotes nuevos.
+**Recomendado para**: mosca blanca, cochinilla, minador de los cítricos, prevención de brotes nuevos. Cómo prepararlo y mezclarlo sin que se queme la hoja, en [cómo usar el aceite de neem](/articulos/aceite-neem-huerto-como-usarlo/).
 
 <a href="https://www.amazon.es/s?k=aceite+de+neem+para+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
@@ -42,7 +42,7 @@ Un método pasivo y muy barato: la mosca blanca y otros insectos voladores se si
 
 <figure><img width="1200" height="670" src="/images/articulos/trampa-amarilla-tomatera.jpg" alt="Trampa adhesiva amarilla sujeta con una pinza a un tutor junto a una tomatera en maceta, con insectos atrapados" /><figcaption>Una trampa amarilla captura adultos voladores y ayuda a monitorizar la plaga</figcaption></figure>
 
-**Recomendadas para**: mosca blanca, monitorización preventiva.
+**Recomendadas para**: mosca blanca, monitorización preventiva. Vemos cuándo usar la amarilla o la azul y cómo colocarlas en [cómo funcionan las trampas cromáticas](/articulos/trampas-cromaticas-amarillas-plagas/).
 
 <a href="https://www.amazon.es/s?k=trampas+cromaticas+amarillas+plagas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
 
@@ -70,5 +70,7 @@ A diferencia de los productos anteriores, estos no se aplican sobre las hojas, s
 - **Minador de los cítricos**: aceite de neem aplicado sobre los brotes nuevos en cuanto empiezan a salir. Consulta [minador de los cítricos](/articulos/minador-citricos-hojas-rizadas-limonero/).
 - **Gusano blanco en el sustrato**: extracción manual del cepellón (lo más efectivo en maceta) o nematodos beneficiosos regados en el sustrato. Consulta [gusano blanco en la maceta](/articulos/gusano-blanco-maceta-como-eliminarlo/).
 - **Araña roja**: jabón potásico combinado con pulverizaciones de agua para subir la humedad ambiental. Consulta [cómo eliminar la araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/).
+
+Para las plagas que caminan (hormigas, cochinilla, babosas), añade a la lista la [tierra de diatomeas](/articulos/tierra-diatomeas-huerto/), un insecticida físico que las deshidrata sin química. Y antes de probar recetas virales, échale un ojo a los [remedios caseros que NO funcionan](/articulos/remedios-caseros-plagas-que-no-funcionan/): te ahorrarás tiempo y algún disgusto.
 
 En todos los casos, aplica el tratamiento sobre toda la planta, no solo sobre la zona visiblemente afectada, y repite pasadas una o dos semanas para cortar el ciclo completo de la plaga.
