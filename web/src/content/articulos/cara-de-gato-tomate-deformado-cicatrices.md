@@ -16,7 +16,7 @@ faq:
 
 Recoges un tomate que en vez de redondo sale **deforme, con cicatrices profundas, agujeros y una especie de corcho** en la base. Da mal aspecto, pero **no es una plaga ni una enfermedad**: es la llamada **cara de gato** (o culo de gato), y tiene una explicación muy concreta.
 
-<figure><img width="1200" height="670" src="/images/articulos/cara-de-gato-tomate.jpg" alt="Tomate deforme con cicatrices profundas, agujeros y tejido corchoso marrón en la base, síntoma de cara de gato" /><figcaption>Cicatrices, agujeros y tejido corchoso en la base del tomate: la marca de la cara de gato.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cara-de-gato-tomate.jpg" alt="Tomate deforme sostenido en la mano con cicatrices profundas, agujeros y tejido corchoso marrón, síntoma de cara de gato" /><figcaption>Cicatrices, agujeros y tejido corchoso deformando el fruto: la marca inconfundible de la cara de gato.</figcaption></figure>
 
 ## Qué es (y qué no es)
 
