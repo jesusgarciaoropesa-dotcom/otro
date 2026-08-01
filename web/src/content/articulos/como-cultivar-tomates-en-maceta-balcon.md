@@ -65,5 +65,6 @@ El tomate es una planta muy exigente en nutrientes. Aporta un [abono rico en pot
 - **Tomates rajados o agrietados**: casi siempre por riego irregular; lo vemos en [por qué se rajan los tomates](/articulos/por-que-se-rajan-los-tomates/).
 - **Manchas amarillas que no maduran**: suele ser [maduración irregular por calor](/articulos/manchas-amarillas-tomates-maduracion-irregular/) o falta de potasio.
 - **Manchas oscuras en la base del fruto**: podredumbre apical, relacionada con riego irregular y falta de calcio.
+- **Frutos deformes con cicatrices y agujeros en el culo**: es [cara de gato](/articulos/cara-de-gato-tomate-deformado-cicatrices/), una malformación por frío en la floración, no una plaga.
 
 Si detectas plagas como pulgón o mosca blanca, consulta nuestra guía de [plagas y enfermedades del huerto urbano](../../categorias/plagas-y-enfermedades/) para tratamientos naturales.

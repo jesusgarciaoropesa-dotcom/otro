@@ -45,6 +45,6 @@ Las macetas son especialmente propensas porque se secan rápido y los altibajos 
 
 ## Ojo: no lo confundas con otros problemas
 
-Si la mancha está en un lateral del fruto y no en la base, o si ves podredumbre blanda con moho, probablemente sea otra cosa (un golpe, o un hongo). Si además las hojas amarillean, repasa [por qué se ponen amarillas las tomateras](/articulos/por-que-tomateras-se-ponen-amarillas/). El culo negro es muy reconocible: siempre en la base y con aspecto de cuero seco.
+Si la mancha está en un lateral del fruto y no en la base, o si ves podredumbre blanda con moho, probablemente sea otra cosa (un golpe, o un hongo). Y si en vez de una mancha plana ves **cicatrices, agujeros y tejido corchoso** deformando el culo, no es culo negro sino [cara de gato](/articulos/cara-de-gato-tomate-deformado-cicatrices/), una malformación por frío en la floración. Si además las hojas amarillean, repasa [por qué se ponen amarillas las tomateras](/articulos/por-que-tomateras-se-ponen-amarillas/). El culo negro es muy reconocible: siempre en la base y con aspecto de cuero seco.
 
 Con un riego constante, es de los problemas más fáciles de corregir en el huerto de balcón.
