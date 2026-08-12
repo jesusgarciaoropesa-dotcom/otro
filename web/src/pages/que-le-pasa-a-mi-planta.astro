@@ -1,0 +1,139 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/url';
+import { getCollection } from 'astro:content';
+import { primeraImagen, imagenTarjeta } from '../lib/articuloImagen';
+import { getCategoriaImagen } from '../data/categorias';
+import { gruposDiagnostico, tratamientosDiagnostico } from '../data/diagnostico';
+
+const todos = await getCollection('articulos');
+const porId = new Map(todos.map((a) => [a.id, a]));
+
+function resolver(ids: string[]) {
+  return ids
+    .map((id) => porId.get(id))
+    .filter((a): a is NonNullable<typeof a> => Boolean(a))
+    .map((a) => ({
+      id: a.id,
+      title: a.data.title,
+      description: a.data.description,
+      imagen: imagenTarjeta(a.body, getCategoriaImagen(a.data.categoria)),
+    }));
+}
+
+const grupos = gruposDiagnostico.map((g) => ({ ...g, items: resolver(g.articulos) }));
+const tratamientos = resolver(tratamientosDiagnostico);
+const totalGuias = new Set(gruposDiagnostico.flatMap((g) => g.articulos)).size;
+
+const title = '¿Qué le pasa a mi planta? Diagnóstico visual';
+const description =
+  'Encuentra qué le pasa a tu planta a partir de lo que ves: hojas amarillas, manchas, bichos, frutos con problemas… y su solución paso a paso.';
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: new URL(withBase('/'), Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name: '¿Qué le pasa a mi planta?', item: new URL(withBase('/que-le-pasa-a-mi-planta/'), Astro.site).toString() },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} slot="head" />
+
+  <nav class="mb-4 text-sm text-stone-600" aria-label="breadcrumb">
+    <a href={withBase('/')} class="hover:underline">Inicio</a>
+    <span class="mx-1">/</span>
+    <span class="text-stone-700">¿Qué le pasa a mi planta?</span>
+  </nav>
+
+  <header class="text-center">
+    <span class="text-4xl" aria-hidden="true">🔍🌱</span>
+    <h1 class="mt-3 font-(--font-display) text-3xl font-semibold text-(--color-hoja-oscuro) sm:text-4xl">
+      ¿Qué le pasa a mi planta?
+    </h1>
+    <p class="mx-auto mt-3 max-w-2xl text-lg leading-relaxed text-stone-700">
+      Elige lo que <strong>ves</strong> en tu planta y ve directo a la guía con el diagnóstico y la
+      solución. {totalGuias} problemas del huerto de balcón, ordenados por síntoma.
+    </p>
+  </header>
+
+  {/* Índice de saltos por síntoma */}
+  <nav aria-label="Síntomas" class="mt-8 flex flex-wrap justify-center gap-2">
+    {grupos.map((g) => (
+      <a
+        href={`#${g.id}`}
+        class="inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-semibold text-stone-800 shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:bg-(--color-crema) hover:text-(--color-tierra)"
+      >
+        <span aria-hidden="true">{g.emoji}</span>{g.titulo}
+      </a>
+    ))}
+  </nav>
+
+  {grupos.map((g) => (
+    <section id={g.id} class="mt-12 scroll-mt-24">
+      <div class="border-b border-stone-200 pb-3">
+        <h2 class="flex items-center gap-3 font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro)">
+          <span aria-hidden="true">{g.emoji}</span>{g.titulo}
+        </h2>
+        <p class="mt-1 text-stone-600">{g.descripcion}</p>
+      </div>
+      <ul class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {g.items.map((a) => (
+          <li>
+            <a
+              href={withBase(`/articulos/${a.id}/`)}
+              class="flex h-full flex-col overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-black/5 transition hover:-translate-y-1 hover:shadow-xl"
+            >
+              <img
+                src={withBase(a.imagen)}
+                alt=""
+                loading="lazy"
+                width="1200"
+                height="670"
+                class="h-36 w-full object-cover"
+              />
+              <div class="flex flex-1 flex-col p-4">
+                <h3 class="font-semibold text-stone-900">{a.title}</h3>
+                <p class="mt-1 line-clamp-2 text-sm text-stone-600">{a.description}</p>
+                <span class="mt-3 text-sm font-semibold text-(--color-tierra) group-hover:underline">
+                  Ver la solución →
+                </span>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  {/* Tratamientos y prevención */}
+  <section class="mt-16 rounded-2xl bg-(--color-crema) p-6 ring-1 ring-black/5 sm:p-8">
+    <h2 class="font-(--font-display) text-2xl font-semibold text-(--color-hoja-oscuro)">
+      🛡️ Tratamientos y prevención
+    </h2>
+    <p class="mt-1 text-stone-600">
+      Ya identificado el problema, estas son las armas naturales para tratarlo (y evitar que vuelva).
+    </p>
+    <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+      {tratamientos.map((a) => (
+        <li>
+          <a
+            href={withBase(`/articulos/${a.id}/`)}
+            class="group flex items-center gap-3 rounded-xl bg-white p-3 shadow-sm ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-md"
+          >
+            <img src={withBase(a.imagen)} alt="" loading="lazy" class="h-14 w-14 shrink-0 rounded-lg object-cover" />
+            <span class="text-sm font-medium text-stone-800 group-hover:text-(--color-tierra)">{a.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <p class="mt-10 text-center text-stone-600">
+    ¿No encuentras tu caso? Revisa todas las guías en
+    <a href={withBase('/categorias/plagas-y-enfermedades/')} class="font-semibold text-(--color-tierra) hover:underline">plagas y enfermedades</a>
+    o escríbenos por <a href={withBase('/contacto/')} class="font-semibold text-(--color-tierra) hover:underline">contacto</a>.
+  </p>
+</BaseLayout>
