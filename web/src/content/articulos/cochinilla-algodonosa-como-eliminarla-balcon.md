@@ -29,11 +29,15 @@ La cochinilla algodonosa es inconfundible:
 
 Es muy habitual en cítricos ([limoneros](/articulos/como-cultivar-limonero-en-maceta/), naranjos) y en plantas de hoja perenne.
 
+## No la confundas con un hongo
+
+Mucha gente ve las motas blancas y piensa en oídio o moho. La diferencia: el [oídio](/articulos/oidio-huerto-urbano-como-eliminarlo/) es un **polvo blanco seco** que se limpia con el dedo y no deja bicho; la cochinilla son **motas algodonosas con relieve**, pegadas, y debajo hay un insecto. Si al aplastar una mancha sale un **líquido anaranjado**, es cochinilla confirmada. Y las [manchas blancas de las hojas](/articulos/manchas-blancas-hojas-plantas-que-son/) tienen su propio artículo si dudas.
+
 ## Cómo eliminarla paso a paso
 
 1. **Infestación pequeña**: pasa un bastoncillo o algodón mojado en **alcohol** directamente sobre cada cochinilla. Disuelve su capa cerosa y las mata al instante.
 2. **Más cantidad**: pulveriza con **jabón potásico** (o unas gotas de jabón neutro en agua) cada 3-4 días, insistiendo en envés y axilas, que es donde se esconden.
-3. **Aceite de neem**: muy eficaz, actúa por contacto e ingestión y corta su ciclo. Tienes opciones en [mejores productos ecológicos contra plagas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/).
+3. **[Aceite de neem](/articulos/aceite-neem-huerto-como-usarlo/)**: muy eficaz, actúa por contacto e ingestión y corta su ciclo reproductivo, clave para que no rebrote. Combínalo con el [jabón potásico](/articulos/jabon-potasico-plagas-como-usarlo/), que además te sirve de emulsionante. Si la cochinilla es de las que se refugian en la tierra o el borde de la maceta, la [tierra de diatomeas](/articulos/tierra-diatomeas-huerto/) espolvoreada en seco también ayuda.
 4. **Limpia la melaza y la negrilla** con un paño húmedo para que la planta respire y no atraiga más insectos.
 5. **Controla las hormigas** a la vez, o volverán a instalar la plaga; te ayudamos en [cómo eliminar hormigas de las macetas](/articulos/como-eliminar-hormigas-macetas-balcon/).
 

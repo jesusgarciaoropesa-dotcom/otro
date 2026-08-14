@@ -30,6 +30,15 @@ Todavía hay margen para varios cultivos de clima fresco:
 
 Es plena temporada para plantar frutales de hoja caduca y frutos rojos en reposo, que enraízan durante el invierno. Échale un vistazo a [cómo cultivar arándanos en maceta](/articulos/como-cultivar-arandanos-en-maceta/) y a los [frutales enanos para terraza](/articulos/frutales-enanos-maceta-terraza/).
 
+## Qué cosechar en noviembre
+
+El otoño todavía deja buena cosecha en el balcón:
+
+- **Hojas de otoño**: lechugas, acelgas, rúcula, espinacas y canónigos, cortando hoja a hoja para que sigan produciendo.
+- **Coles de otoño**: brócoli, coliflor y kale sembrados en verano empiezan a estar listos (el kale, de hecho, mejora con el frío).
+- **Últimos frutos de verano**: recoge los tomates y pimientos que queden, aunque estén verdes, antes de la primera helada; madurarán en casa.
+- **Rabanitos** de las siembras de otoño.
+
 ## Protege del frío
 
 Llegan las primeras heladas. Protege lo sensible con un [mini-invernadero de balcón](/articulos/mini-invernadero-balcon-mejores-opciones/), una tela antiheladas en las noches más frías o arrimando las macetas a la pared, que retiene algo de calor. Para saber qué aguanta a la intemperie, consulta [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).

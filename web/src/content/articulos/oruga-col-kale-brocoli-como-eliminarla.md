@@ -27,6 +27,16 @@ Cultivas kale, brócoli o coles y, de repente, las hojas aparecen **agujereadas 
 
 Afecta a toda la familia de las brásicas: [kale](/articulos/como-cultivar-kale-col-rizada-en-maceta/), [brócoli](/articulos/como-cultivar-brocoli-en-maceta/), coles, coliflor y rúcula.
 
+## Las tres orugas más habituales
+
+Bajo el nombre de "oruga de la col" hay varias, y todas se tratan igual:
+
+- **Oruga de la mariposa blanca** (*Pieris*): verde aterciopelada o con manchas amarillas; la más común y voraz.
+- **Plusia o gusano medidor**: verde clarita, se mueve "midiendo" (arqueando el cuerpo); hace agujeros redondeados.
+- **Polilla de la col**: más pequeña, verde y muy nerviosa; se descuelga con un hilo si la molestas.
+
+No necesitas distinguirlas para actuar: la revisión manual y el Bt funcionan con las tres.
+
 ## Cómo eliminarla
 
 1. **Revisa el envés y retíralas a mano.** Es lo más eficaz en balcón: quita orugas y grupos de huevos amarillentos cada pocos días. Poco glamuroso, muy efectivo.
@@ -39,4 +49,10 @@ Afecta a toda la familia de las brásicas: [kale](/articulos/como-cultivar-kale-
 - **Revisa el envés** cada pocos días durante la temporada de mariposas (primavera y otoño).
 - **Fomenta la biodiversidad**: en un balcón equilibrado, pájaros y avispas ayudan a controlarlas.
 
-A diferencia de otras plagas, aquí la **inspección manual** es tu mejor arma: unas coles revisadas dos veces por semana rara vez sufren daños serios. Completa con [cómo prevenir plagas en el huerto urbano sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/).
+## Qué NO hacer
+
+- **Esperar a "ver el daño"**: cuando las hojas ya están reducidas a los nervios, la plaga lleva tiempo. Con brásicas, la revisión es preventiva, no reactiva.
+- **Fumigar con insecticidas de amplio espectro**: matan también a las avispas y pájaros que se comen las orugas, y las brásicas se comen, así que cuanto menos químico, mejor. El **Bt** es específico de orugas y no toca al resto.
+- **Compostar las hojas con huevos**: si retiras hojas con puestas amarillentas, tíralas a la basura, no al compost.
+
+A diferencia de otras plagas, aquí la **inspección manual** es tu mejor arma: unas coles revisadas dos veces por semana rara vez sufren daños serios. Completa con [cómo prevenir plagas en el huerto urbano sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/) y, para el resto de tratamientos naturales, la [comparativa de productos ecológicos](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/).

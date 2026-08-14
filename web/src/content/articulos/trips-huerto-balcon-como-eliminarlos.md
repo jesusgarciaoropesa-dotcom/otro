@@ -29,10 +29,18 @@ Los trips son difíciles de ver (miden 1-2 mm), pero su rastro es muy caracterí
 
 Le favorece el **ambiente seco y cálido**, típico del verano en balcón.
 
+## No los confundas con la araña roja
+
+Ambos dejan las hojas **punteadas y descoloridas** en verano, pero se distinguen fácil: la [araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/) deja un punteado **amarillento** y **telarañas muy finas**, mientras que los trips dejan un aspecto **plateado o metálico** con **puntitos negros** (sus excrementos) y **nada de telaraña**. Confirmarlo importa, porque el tratamiento y las trampas cambian.
+
+## Por qué conviene atajarlos pronto
+
+Más allá del daño estético, el mayor problema de los trips es que son **transmisores de virus** de planta (como el virus del bronceado del tomate). Un virus no tiene cura: la planta afectada se arranca. Por eso con los trips la **detección temprana** vale más que cualquier tratamiento: cuanto antes bajes la población, menos riesgo de contagio.
+
 ## Cómo eliminarlos
 
-1. **Trampas cromáticas azules**: los trips se sienten especialmente atraídos por el azul. Cuélgalas cerca de las plantas para detectarlos pronto y rebajar la población.
-2. **Jabón potásico o aceite de neem**: pulveriza cada 3-4 días, insistiendo en el **envés** y en las flores, que es donde se refugian. Opciones en [mejores productos ecológicos contra plagas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/).
+1. **[Trampas cromáticas](/articulos/trampas-cromaticas-amarillas-plagas/) azules**: los trips se sienten especialmente atraídos por el azul (a diferencia de casi todas las demás plagas, que van al amarillo). Cuélgalas cerca de las plantas para detectarlos pronto y rebajar la población.
+2. **[Jabón potásico](/articulos/jabon-potasico-plagas-como-usarlo/) o [aceite de neem](/articulos/aceite-neem-huerto-como-usarlo/)**: pulveriza cada 3-4 días, insistiendo en el **envés** y **dentro de las flores**, que es donde se refugian y donde no llega si vas con prisa. El neem, además, corta su reproducción, muy útil porque los trips encadenan generaciones muy rápido.
 3. **Retira hojas y flores muy afectadas** para bajar de golpe el número de individuos.
 4. **Sube la humedad**: pulverizar agua sobre las plantas (por la mañana) les molesta, porque prefieren el aire seco.
 

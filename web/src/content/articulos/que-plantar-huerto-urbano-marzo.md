@@ -45,6 +45,15 @@ Estos cultivos conviene empezarlos en semillero protegido (interior o [mini inve
 - Cilantro
 - Cebollino
 
+## Qué cosechar en marzo
+
+Marzo también es mes de recoger lo sembrado en otoño e invierno, antes de que suba a flor con el calor:
+
+- **Hojas de invierno**: las últimas espinacas, acelgas, canónigos y lechugas de invierno (coséchalas ya, porque con el calor espigan y amargan).
+- **Rabanitos** sembrados a finales de invierno.
+- **Guisantes y habas** de las siembras de otoño empiezan a dar sus primeras vainas.
+- **Ajos**: siguen engordando bajo tierra; aún les queda.
+
 ## Precauciones de marzo
 
 - Vigila el pronóstico de heladas tardías, especialmente en zonas de interior o de montaña: una helada nocturna puede matar plántulas recién trasplantadas.
