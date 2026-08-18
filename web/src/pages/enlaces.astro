@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/url';
+
+const title = 'Enlaces de MiHuertoUrbano';
+const description =
+  'Todo MiHuertoUrbano en un sitio: el diagnosticador de plantas, la calculadora de qué plantar y todas las guías del huerto de balcón.';
+
+// Botones del link-in-bio. Cada uno con su emoji, texto y destino.
+const enlaces = [
+  {
+    emoji: '🔍',
+    titulo: '¿Qué le pasa a mi planta?',
+    sub: 'Diagnóstico visual por síntoma',
+    href: '/que-le-pasa-a-mi-planta/',
+    destacado: true,
+  },
+  {
+    emoji: '🌱',
+    titulo: '¿Qué plantar en tu balcón?',
+    sub: 'Calculadora según tu luz y el mes',
+    href: '/que-plantar-en-tu-balcon/',
+  },
+  {
+    emoji: '🐛',
+    titulo: 'Plagas y enfermedades',
+    sub: 'Identifícalas y trátalas sin química',
+    href: '/categorias/plagas-y-enfermedades/',
+  },
+  {
+    emoji: '📚',
+    titulo: 'Todas las guías',
+    sub: 'Más de 200 artículos del huerto urbano',
+    href: '/articulos/',
+  },
+  {
+    emoji: '👩‍🌾',
+    titulo: 'Sobre nosotros',
+    sub: 'Quién está detrás de MiHuertoUrbano',
+    href: '/sobre-nosotros/',
+  },
+];
+---
+
+<BaseLayout title={title} description={description}>
+  <meta name="robots" content="noindex, follow" slot="head" />
+
+  <div class="mx-auto max-w-md text-center">
+    <img
+      src={withBase('/images/logo-full.png')}
+      alt="MiHuertoUrbano"
+      width="96"
+      height="99"
+      class="mx-auto h-24 w-auto"
+    />
+    <h1 class="mt-4 font-(--font-display) text-3xl font-semibold text-(--color-hoja-oscuro)">
+      MiHuertoUrbano
+    </h1>
+    <p class="mt-2 text-stone-600">
+      Cultiva en tu balcón, aunque creas que lo matas todo. 🌿<br />Elige a dónde quieres ir:
+    </p>
+
+    <nav class="mt-8 flex flex-col gap-4" aria-label="Enlaces principales">
+      {enlaces.map((e) => (
+        <a
+          href={withBase(e.href)}
+          class={`group flex items-center gap-4 rounded-2xl p-4 text-left shadow-md ring-1 transition hover:-translate-y-0.5 hover:shadow-xl ${
+            e.destacado
+              ? 'bg-(--color-hoja-oscuro) text-white ring-black/10'
+              : 'bg-white text-stone-900 ring-black/5'
+          }`}
+        >
+          <span class="text-3xl" aria-hidden="true">{e.emoji}</span>
+          <span class="flex-1">
+            <span class="block font-semibold">{e.titulo}</span>
+            <span class={`block text-sm ${e.destacado ? 'text-(--color-crema)/85' : 'text-stone-500'}`}>
+              {e.sub}
+            </span>
+          </span>
+          <span
+            aria-hidden="true"
+            class={`text-lg transition group-hover:translate-x-0.5 ${e.destacado ? 'text-(--color-mostaza)' : 'text-(--color-tierra)'}`}
+          >→</span>
+        </a>
+      ))}
+    </nav>
+
+    <p class="mt-8 text-sm text-stone-500">
+      🌐 <a href={withBase('/')} class="font-semibold text-(--color-tierra) hover:underline">mihuertourbano.xyz</a>
+    </p>
+  </div>
+</BaseLayout>
