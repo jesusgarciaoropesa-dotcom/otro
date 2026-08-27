@@ -17,7 +17,7 @@ faq:
 
 Una de las causas más silenciosas de que un huerto de balcón vaya regular es la **maceta pequeña**. La planta se queda enana, produce poco, se seca cada dos por tres y parece que "no hay manera", cuando en realidad solo le falta sitio para las raíces. Aquí tienes, cultivo a cultivo, cuánta maceta necesita cada uno.
 
-<figure><img width="1200" height="670" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón lleno de macetas de distintos tamaños con hortalizas y aromáticas" /><figcaption>Cada cultivo pide su tamaño de maceta: acertar es media cosecha.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/tamano-maceta-hortalizas.jpg" alt="Macetas ordenadas de menor a mayor en un balcón, de aromáticas pequeñas a una tomatera en maceta grande" /><figcaption>Cada cultivo pide su tamaño de maceta: acertar es media cosecha.</figcaption></figure>
 
 ## Por qué el tamaño de la maceta lo cambia todo
 

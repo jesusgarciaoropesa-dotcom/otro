@@ -16,7 +16,7 @@ faq:
 
 Preparas el semillero con ilusión, siembras, riegas… y pasan los días sin que asome nada. Es de las cosas más frustrantes cuando empiezas, y casi siempre se debe a una (o varias) de estas siete causas. La buena noticia: todas tienen solución fácil.
 
-<figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero con algunas plántulas germinadas y huecos sin germinar junto a una ventana" /><figcaption>Cuando no germina nada, casi siempre es la temperatura, el agua o la profundidad.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/semillas-no-germinan-semillero.jpg" alt="Bandeja de semillero con unas celdillas germinadas y otras vacías sin germinar, en un balcón" /><figcaption>Cuando no germina nada, casi siempre es la temperatura, el agua o la profundidad.</figcaption></figure>
 
 ## 1. La temperatura no acompaña (la causa nº 1)
 
