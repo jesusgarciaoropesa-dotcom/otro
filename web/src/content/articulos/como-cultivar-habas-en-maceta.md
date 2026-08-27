@@ -16,7 +16,7 @@ faq:
 
 Las habas son uno de los cultivos de otoño-invierno más agradecidos y fáciles: se siembran cuando casi todo se retira, aguantan el frío, apenas dan trabajo y encima **mejoran la tierra** fijando nitrógeno. En maceta funcionan muy bien si les das profundidad y un tutor.
 
-<figure><img width="1200" height="670" src="/images/articulos/cultivo-guisantes-maceta.jpg" alt="Planta de leguminosa trepando por un tutor en una maceta de balcón en otoño" /><figcaption>Como los guisantes, las habas son una legumbre de tiempo fresco ideal para sembrar en otoño.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-habas-maceta.jpg" alt="Planta de habas en flor sujeta a cañas en una maceta de barro en un balcón" /><figcaption>Las habas son una legumbre de tiempo fresco ideal para sembrar en otoño en el balcón.</figcaption></figure>
 
 ## Cuándo sembrar habas
 

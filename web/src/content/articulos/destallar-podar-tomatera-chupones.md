@@ -16,7 +16,7 @@ faq:
 
 Si cultivas tomate, seguro que has oído que hay que "quitarle los chupones" o "destallar", y quizá no tienes del todo claro qué es ni por qué. Es una de las tareas que más diferencia marca entre una tomatera que da mucho y una que se hace enorme y da poco. Vamos con ello.
 
-<figure><img width="1200" height="670" src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera guiada a un tutor en una maceta de balcón, con tallo principal limpio" /><figcaption>Una tomatera bien guiada y destallada concentra su energía en los frutos.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/destallar-tomatera-chupon.jpg" alt="Mano quitando con los dedos un chupón en la axila entre el tallo y una rama de una tomatera en maceta" /><figcaption>El chupón sale en la "V" entre el tallo principal y una rama: se pellizca con los dedos.</figcaption></figure>
 
 ## Qué es un chupón (y dónde sale)
 

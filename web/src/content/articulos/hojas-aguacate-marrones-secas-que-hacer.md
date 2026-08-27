@@ -16,7 +16,7 @@ faq:
 
 Tienes tu aguacate en maceta, precioso y creciendo, y de repente las hojas empiezan a ponerse **marrones por las puntas y los bordes**, secas y quebradizas. Es, con diferencia, la consulta número uno sobre el aguacate de interior. La buena noticia: casi nunca es grave, y se corrige cambiando un par de cosas del cuidado.
 
-<figure><img width="1200" height="670" src="/images/articulos/aguacate-desde-hueso.jpg" alt="Planta joven de aguacate cultivada en maceta junto a una ventana luminosa" /><figcaption>El aguacate en maceta es precioso, pero muy sensible a la cal del agua y al aire seco.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/hojas-aguacate-marrones.jpg" alt="Planta de aguacate en maceta de barro con las puntas y los bordes de las hojas secos y marrones" /><figcaption>Las puntas y bordes marrones son la queja más típica del aguacate en maceta.</figcaption></figure>
 
 ## Primero: ¿está realmente en peligro?
 

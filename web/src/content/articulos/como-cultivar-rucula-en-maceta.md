@@ -16,7 +16,7 @@ faq:
 
 Si quieres empezar con algo que salga **sí o sí** y rápido, la rúcula es tu cultivo. Germina en días, está lista en poco más de un mes, cabe en cualquier jardinera y rebrota cada vez que la cortas. Y el **otoño es su momento ideal**, porque con el fresco sale tierna y menos picante.
 
-<figure><img width="1200" height="670" src="/images/articulos/cultivo-lechuga-maceta.jpg" alt="Jardinera de balcón con hojas verdes tiernas listas para cosechar" /><figcaption>La rúcula es un cultivo de hoja de corte y rebrote: siembras una vez y cosechas varias.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-rucula-maceta.jpg" alt="Jardinera de barro llena de rúcula con sus hojas verdes dentadas listas para cosechar en un balcón" /><figcaption>La rúcula es un cultivo de hoja de corte y rebrote: siembras una vez y cosechas varias.</figcaption></figure>
 
 ## Por qué el otoño es su mejor época
 

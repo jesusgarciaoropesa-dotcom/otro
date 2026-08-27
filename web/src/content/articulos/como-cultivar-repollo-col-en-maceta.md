@@ -16,7 +16,7 @@ faq:
 
 El repollo es una de las hortalizas reinas del huerto de otoño-invierno: resistente, productivo y capaz de aguantar el frío como pocas. En maceta necesita espacio y comida, pero a cambio te da una cabeza generosa justo cuando el balcón tiene menos vida.
 
-<figure><img width="1200" height="670" src="/images/articulos/kale-col-rizada-maceta.jpg" alt="Planta de col de hojas grandes creciendo en una maceta de balcón en otoño" /><figcaption>La col es un cultivo de tiempo fresco que aguanta muy bien las heladas suaves.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/cultivo-repollo-col-maceta.jpg" alt="Repollo formando su cabeza compacta en una maceta de barro en un balcón en otoño" /><figcaption>La col es un cultivo de tiempo fresco que aguanta muy bien las heladas suaves.</figcaption></figure>
 
 ## Cuándo sembrar el repollo
 
