@@ -50,3 +50,5 @@ Es habitual sembrar 2-3 semillas por celdilla por seguridad. Si germinan todas, 
 Antes de pasar las plántulas a su maceta definitiva en el exterior, acostúmbralas gradualmente a las condiciones de fuera durante 5-7 días: empieza con una hora de exterior el primer día y ve aumentando, para evitar que el cambio de sol directo y viento las dañe de golpe.
 
 Cuando las plántulas tengan varias hojas verdaderas y raíces bien desarrolladas, consulta nuestra guía de [cuándo trasplantar plántulas de semillero a maceta definitiva](/articulos/cuando-trasplantar-plantulas-semillero/) para dar el último paso sin errores.
+
+¿Y si sembraste y no salió nada? No te desanimes: repasa [por qué no germinan tus semillas y cómo solucionarlo](/articulos/por-que-no-germinan-semillas-huerto/), porque casi siempre es un detalle fácil de corregir.
