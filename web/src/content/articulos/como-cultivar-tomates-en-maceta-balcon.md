@@ -60,7 +60,7 @@ El tomate es una planta muy exigente en nutrientes. Aporta un [abono rico en pot
 - **Flores que se caen sin cuajar**: temperaturas muy altas (>32°C) o muy bajas, o falta de polinización (puedes ayudar agitando suavemente la planta).
 - **Frutos pequeños que se caen o no maduran**: repasa las causas en [por qué se caen los frutos pequeños sin madurar](/articulos/se-caen-frutos-pequenos-sin-madurar/).
 - **Agujeros en los tomates con "serrín" alrededor**: es la [Tuta absoluta, la polilla del tomate](/articulos/tuta-absoluta-tomate-como-eliminarla/) o el [gusano del fruto (Heliothis)](/articulos/gusano-del-fruto-tomate-pimiento-heliothis/); actúa pronto para no perder la cosecha.
-- **Mucha hoja y pocos tomates**: suele ser exceso de nitrógeno o falta de poda de chupones; lo vemos en [mucha hoja y pocos tomates](/articulos/pocos-tomates-muchas-hojas-mas-cosecha/).
+- **Mucha hoja y pocos tomates**: suele ser exceso de nitrógeno o falta de poda de chupones; lo vemos en [mucha hoja y pocos tomates](/articulos/pocos-tomates-muchas-hojas-mas-cosecha/) y en la guía de [cómo destallar y podar la tomatera](/articulos/destallar-podar-tomatera-chupones/).
 - **Manchas duras y pálidas en el fruto**: pueden ser [picaduras de chinches](/articulos/chinches-huerto-tomate-como-eliminarlas/).
 - **Tomates rajados o agrietados**: casi siempre por riego irregular; lo vemos en [por qué se rajan los tomates](/articulos/por-que-se-rajan-los-tomates/).
 - **Manchas amarillas que no maduran**: suele ser [maduración irregular por calor](/articulos/manchas-amarillas-tomates-maduracion-irregular/) o falta de potasio.
