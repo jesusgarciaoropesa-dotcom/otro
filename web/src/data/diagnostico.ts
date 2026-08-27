@@ -33,6 +33,7 @@ export const gruposDiagnostico: GrupoDiagnostico[] = [
       'mildiu-tomatera-como-tratarlo',
       'manchas-blancas-hojas-plantas-que-son',
       'bordes-hojas-marrones-secos-causas',
+      'hojas-aguacate-marrones-secas-que-hacer',
     ],
   },
   {

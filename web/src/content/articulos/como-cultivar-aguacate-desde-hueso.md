@@ -47,6 +47,8 @@ Incluso más fácil: entierra el hueso en una maceta con [sustrato de calidad](/
 - **Riego regular** sin encharcar: el aguacate teme el exceso de agua.
 - **Pinza la punta** cuando alcance unos 30 cm para que ramifique y no crezca como un palo largo y desgarbado.
 
+Si con el tiempo ves que las **hojas se ponen marrones por las puntas o los bordes** (le pasa a casi todo el mundo), no te asustes: te lo explicamos en [hojas del aguacate marrones o secas: por qué pasa y cómo salvarlo](/articulos/hojas-aguacate-marrones-secas-que-hacer/).
+
 ## Cuídalo del frío
 
 El aguacate es **sensible al frío**: protégelo de heladas y de corrientes frías. En invierno, en la mayoría de climas, mejor dentro de casa.
