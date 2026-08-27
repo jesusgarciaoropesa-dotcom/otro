@@ -104,6 +104,7 @@ export const gruposDiagnostico: GrupoDiagnostico[] = [
     articulos: [
       'flores-tomate-caen-sin-cuajar',
       'flores-pimiento-se-caen-sin-cuajar',
+      'brocoli-coliflor-no-forma-cabeza',
       'pocos-tomates-muchas-hojas-mas-cosecha',
       'pimiento-mucha-mata-pocos-frutos',
     ],

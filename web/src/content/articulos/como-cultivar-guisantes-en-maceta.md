@@ -59,4 +59,4 @@ Recolecta las vainas cuando estén hinchadas pero todavía tiernas al tacto; dej
 - **Plantas débiles y caídas**: falta de tutor en variedades trepadoras, o exceso de sombra.
 - **Pulgón en brotes tiernos**: revisa los brotes nuevos regularmente; consulta [cómo eliminar el pulgón de forma natural](/articulos/como-eliminar-pulgon-plantas-balcon-natural/) si aparece.
 
-Consulta también nuestro [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/) para planificar la siembra de guisantes junto al resto de cultivos de temporada.
+Otra legumbre de tiempo fresco que se siembra en la misma época y mejora la tierra igual que los guisantes son las [habas en maceta](/articulos/como-cultivar-habas-en-maceta/). Consulta también nuestro [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/) para planificar la siembra junto al resto de cultivos de temporada.

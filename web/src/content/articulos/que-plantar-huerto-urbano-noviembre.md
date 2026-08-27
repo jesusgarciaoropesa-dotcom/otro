@@ -23,7 +23,7 @@ Noviembre marca la entrada del invierno en el huerto de balcón. La actividad ba
 Todavía hay margen para varios cultivos de clima fresco:
 
 - **Ajos**: si no los plantaste en octubre, aún estás a tiempo. Guía en [cómo cultivar ajos en maceta](/articulos/como-cultivar-ajos-en-maceta/).
-- **Habas y guisantes**: siembra directa, aguantan bien el frío y trepan por una caña. Tienes los [guisantes explicados aquí](/articulos/como-cultivar-guisantes-en-maceta/).
+- **Habas y guisantes**: siembra directa, aguantan bien el frío y trepan por una caña. Tienes las [habas explicadas aquí](/articulos/como-cultivar-habas-en-maceta/) y los [guisantes aquí](/articulos/como-cultivar-guisantes-en-maceta/).
 - **Hojas resistentes** (espinacas, acelgas, canónigos): en zonas de clima suave o bajo protección.
 
 ## Frutales y frutos rojos a raíz desnuda
