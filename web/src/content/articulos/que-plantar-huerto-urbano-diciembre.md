@@ -28,7 +28,7 @@ Las plantaciones son pocas y dependen mucho de tu clima:
 
 ## Protege del frío
 
-En las noches de helada, cobija lo más sensible con un [mini-invernadero de balcón](/articulos/mini-invernadero-balcon-mejores-opciones/) o una tela antiheladas. Los cultivos de invierno como el **kale y las coles** aguantan de sobra; de hecho, mejoran de sabor con el frío. Consulta qué aguanta a la intemperie en [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).
+En las noches de helada, cobija lo más sensible con un [mini-invernadero de balcón](/articulos/mini-invernadero-balcon-mejores-opciones/) o una tela antiheladas. Los cultivos de invierno como el **kale y las coles** aguantan de sobra; de hecho, mejoran de sabor con el frío. Tienes todos los trucos en [cómo proteger el huerto del frío y las heladas](/articulos/proteger-huerto-frio-heladas-balcon/), y qué aguanta a la intemperie en [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).
 
 ## Cosecha lo de temporada
 

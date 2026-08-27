@@ -46,3 +46,5 @@ Las plantas consumen mucha menos agua con el frío y la menor cantidad de horas 
 ## Planificación para la siguiente primavera
 
 El invierno es también un buen momento para planificar la siembra de primavera: revisa qué semillas necesitarás, cuándo empezar los semilleros de interior, y consulta el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) para no perder el momento óptimo de siembra cuando llegue marzo.
+
+Y para que lo poco que tengas fuera pase el invierno entero, repasa [cómo proteger el huerto del frío y las heladas](/articulos/proteger-huerto-frio-heladas-balcon/).
