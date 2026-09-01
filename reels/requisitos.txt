@@ -1,0 +1,3 @@
+# Dependencia de Python para generar los reels (proporciona ffmpeg).
+# Instalar con:  pip install -r reels/requisitos.txt
+imageio-ffmpeg>=0.5.1

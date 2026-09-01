@@ -1,0 +1,38 @@
+{
+  "slug": "aguacate-riego",
+  "marca": "MiHuertoUrbano",
+  "foto": "/images/articulos/hojas-aguacate-marrones.jpg",
+  "articulo": "/articulos/hojas-aguacate-marrones-secas-que-hacer/",
+  "duracion_slide": 3.4,
+  "slides": [
+    {
+      "kicker": "AGUACATE EN MACETA",
+      "titulo": "Tu aguacate no se está muriendo",
+      "destacado": "muriendo",
+      "subtitulo": "pero lo estás regando mal"
+    },
+    {
+      "kicker": "EL MOTIVO",
+      "titulo": "Cal del agua + aire seco",
+      "destacado": "seco",
+      "subtitulo": "le queman el borde de la hoja"
+    },
+    {
+      "kicker": "SOLUCIÓN 1",
+      "titulo": "Riega con agua de lluvia",
+      "destacado": "lluvia",
+      "subtitulo": "o del grifo reposada 24 h"
+    },
+    {
+      "kicker": "TRANQUILA",
+      "titulo": "Las hojas de abajo marrones",
+      "destacado": "marrones",
+      "subtitulo": "son las viejas: es normal"
+    },
+    {
+      "cta": true,
+      "pildora": "GUÁRDALO · GUÍA EN LA BIO",
+      "subtitulo": "Salva tu aguacate en 2 pasos"
+    }
+  ]
+}
