@@ -183,9 +183,15 @@ def html_fondo(foto_uri: str) -> str:
     """Capa de fondo (opaca): desenfoque + ventana nítida de la foto. Hace zoom."""
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {css_comun(foto_uri)}
-.blur{{position:absolute;inset:0;background:url('{foto_uri}') center/cover no-repeat;
-      filter:blur(34px) brightness(.78) saturate(1.05);transform:scale(1.15)}}
-.tinte{{position:absolute;inset:0;background:
+/* Color de seguridad: si por algún borde no llega la foto, se ve verde oscuro
+   de marca, nunca blanco. */
+.canvas{{background:{C['hoja_oscuro']}}}
+/* El fondo desenfocado sobresale del marco por los 4 lados para que el
+   desenfoque no deje bordes claros y cubra siempre hasta abajo. */
+.blur{{position:absolute;top:-140px;left:-140px;width:1360px;height:2200px;
+      background:url('{foto_uri}') center/cover no-repeat;
+      filter:blur(34px) brightness(.78) saturate(1.05)}}
+.tinte{{position:absolute;top:0;left:0;width:{W}px;height:2000px;background:
       linear-gradient(180deg, rgba(20,30,16,.55) 0%, rgba(20,30,16,.15) 22%,
       rgba(20,30,16,.15) 55%, rgba(15,22,12,.75) 100%)}}
 .ventana{{position:absolute;left:0;right:0;top:{WIN_TOP}px;height:{WIN_H}px;
@@ -220,11 +226,12 @@ def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
       letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
 .logo{{position:absolute;right:36px;top:{logo_top}px;width:150px;height:auto;
       filter:drop-shadow(0 4px 10px rgba(0,0,0,.45))}}
-.banda{{position:absolute;left:0;right:0;top:{band_top}px;bottom:0;
+.banda{{position:absolute;left:0;top:{band_top}px;width:{W}px;height:{H - band_top + 200}px;
       background:linear-gradient(180deg,
         rgba(63,107,58,0) 0%,
         rgba(36,64,31,.92) 14%,
-        rgba(20,32,16,.97) 46%,
+        rgba(20,32,16,.97) 40%,
+        rgba(12,18,10,.98) 62%,
         rgba(12,18,10,.98) 100%)}}
 .textos{{position:absolute;left:60px;right:60px;top:{band_top+120}px;text-align:center}}
 .kicker{{font-family:'Inter',sans-serif;font-weight:800;font-size:36px;
@@ -254,13 +261,18 @@ def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
 # --------------------------------------------------------------------------
 # Render de una capa a PNG con Chromium headless
 # --------------------------------------------------------------------------
+# Chromium headless deja sin pintar los últimos ~85 px de la ventana (aparece
+# blanco). Se renderiza con margen extra abajo y luego se recorta a W x H.
+RENDER_PAD = 120
+
+
 def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: bool):
     html_file = tmp / (out_png.stem + ".html")
     html_file.write_text(html, encoding="utf-8")
     cmd = [
         chrome, "--headless=new", "--no-sandbox", "--disable-gpu",
         "--hide-scrollbars", "--force-device-scale-factor=1",
-        f"--window-size={W},{H}", "--virtual-time-budget=4000",
+        f"--window-size={W},{H + RENDER_PAD}", "--virtual-time-budget=4000",
         f"--screenshot={out_png}",
     ]
     if transparente:
@@ -269,6 +281,11 @@ def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: b
     subprocess.run(cmd, check=True, capture_output=True)
     if not out_png.exists():
         sys.exit(f"ERROR: Chromium no generó {out_png}")
+    # Recortar el margen extra inferior para dejar exactamente W x H.
+    from PIL import Image
+    im = Image.open(out_png)
+    if im.size != (W, H):
+        im.crop((0, 0, W, H)).save(out_png)
 
 
 # --------------------------------------------------------------------------
