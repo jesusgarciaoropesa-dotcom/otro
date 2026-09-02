@@ -5,10 +5,10 @@
   "articulo": "/articulos/que-plantar-huerto-urbano-octubre/",
   "duracion_slide": 3.4,
   "slides": [
-    { "kicker": "CALENDARIO · OCTUBRE", "titulo": "Qué sembrar en octubre", "destacado": "octubre", "subtitulo": "en balcón y terraza" },
-    { "kicker": "SIEMBRA YA", "titulo": "Ajos, habas y guisantes", "destacado": "habas", "subtitulo": "el frío no los para" },
-    { "kicker": "HOJA Y RÁPIDO", "titulo": "Espinacas, rúcula y lechuga", "destacado": "rúcula", "subtitulo": "cosecha en pocas semanas" },
-    { "kicker": "TRUCO", "titulo": "Aprovecha el sol de otoño", "destacado": "sol", "subtitulo": "ponlas en la zona más luminosa" },
-    { "cta": true, "pildora": "GUÁRDALO · CALENDARIO EN LA BIO", "subtitulo": "La siembra de otoño, mes a mes" }
+    { "foto": "/images/articulos/ajos-maceta.jpg", "kicker": "CALENDARIO · OCTUBRE", "titulo": "Qué sembrar en octubre", "destacado": "octubre", "subtitulo": "en balcón y terraza" },
+    { "foto": "/images/articulos/cultivo-habas-maceta.jpg", "kicker": "SIEMBRA YA", "titulo": "Ajos, habas y guisantes", "destacado": "habas", "subtitulo": "el frío no los para" },
+    { "foto": "/images/articulos/cultivo-rucula-maceta.jpg", "kicker": "HOJA Y RÁPIDO", "titulo": "Espinacas, rúcula y lechuga", "destacado": "rúcula", "subtitulo": "cosecha en pocas semanas" },
+    { "foto": "/images/articulos/cultivo-lechuga-maceta.jpg", "kicker": "TRUCO", "titulo": "Aprovecha el sol de otoño", "destacado": "sol", "subtitulo": "ponlas en la zona más luminosa" },
+    { "foto": "/images/articulos/cultivo-guisantes-maceta.jpg", "cta": true, "pildora": "GUÁRDALO · CALENDARIO EN LA BIO", "subtitulo": "La siembra de otoño, mes a mes" }
   ]
 }

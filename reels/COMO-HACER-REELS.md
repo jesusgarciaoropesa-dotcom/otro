@@ -73,9 +73,17 @@ Consejos de copy:
    ```
 
    - `foto`: ruta como en la web (`/images/articulos/...`), o una ruta absoluta.
+     Es la foto general del reel (respaldo).
+   - **Foto por diapositiva (más dinámico):** cada diapositiva puede llevar su
+     propia `"foto"`. Usar una distinta en cada una hace el reel mucho menos
+     estático. Si una diapositiva no indica `foto`, usa la general.
    - `destacado`: la palabra del `titulo` que se subraya (debe aparecer tal cual
      en el titular).
    - Puedes poner más o menos de 5 diapositivas; la última con `"cta": true`.
+
+   **Movimiento:** el generador aplica texto animado, transiciones deslizadas y
+   zoom Ken Burns que alterna dirección. Ajustable con `--transicion`
+   (slideup, slideleft, fade, wipeup…) y `--trans-dur`.
 
 3. **Genera el vídeo:**
 

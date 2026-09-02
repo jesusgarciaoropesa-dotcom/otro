@@ -359,9 +359,19 @@ def main():
     chrome = find_chrome()
     ffmpeg = find_ffmpeg()
 
-    foto = resolve_foto(cfg["foto"])
-    foto_uri = data_uri(foto, "image/jpeg" if foto.suffix.lower() in (".jpg", ".jpeg") else "image/png")
     logo_uri = data_uri(WEB_PUBLIC / "images" / "logo-full.png", "image/png")
+    foto_defecto = cfg.get("foto")
+
+    # Caché de fotos ya convertidas a data-URI (por si varias diapositivas
+    # comparten la misma foto).
+    cache_uri: dict = {}
+
+    def uri_de(rel: str) -> str:
+        if rel not in cache_uri:
+            p = resolve_foto(rel)
+            mime = "image/jpeg" if p.suffix.lower() in (".jpg", ".jpeg") else "image/png"
+            cache_uri[rel] = data_uri(p, mime)
+        return cache_uri[rel]
 
     SALIDA.mkdir(parents=True, exist_ok=True)
     final = SALIDA / f"{slug}.mp4"
@@ -369,11 +379,19 @@ def main():
     with tempfile.TemporaryDirectory() as td:
         tmp = Path(td)
         clips = []
-        bg_html = html_fondo(foto_uri)
-        bg_png = tmp / "bg.png"
-        render_png(chrome, bg_html, bg_png, tmp, transparente=False)
+        cache_bg: dict = {}  # ruta-foto -> bg_png ya renderizado
 
         for i, slide in enumerate(slides):
+            # Cada diapositiva usa su propia foto, o la foto por defecto del reel.
+            rel = slide.get("foto") or foto_defecto
+            if not rel:
+                sys.exit("ERROR: falta 'foto' (ni en la diapositiva ni en el reel)")
+            if rel not in cache_bg:
+                bg_png = tmp / f"bg_{len(cache_bg):02d}.png"
+                render_png(chrome, html_fondo(uri_de(rel)), bg_png, tmp, transparente=False)
+                cache_bg[rel] = bg_png
+            bg_png = cache_bg[rel]
+
             fg_png = tmp / f"fg_{i:02d}.png"
             render_png(chrome, html_texto(slide, marca, logo_uri), fg_png, tmp, transparente=True)
             clip = tmp / f"slide_{i:02d}.mp4"
