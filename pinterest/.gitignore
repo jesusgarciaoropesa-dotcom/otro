@@ -1,2 +1,3 @@
-# Imágenes de pines generadas (se recrean con el script)
-salida/*.png
+# Salida regenerable de los pines (imágenes y textos); se recrean con el script
+salida/*
+!salida/.gitkeep
