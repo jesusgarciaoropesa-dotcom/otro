@@ -274,17 +274,27 @@ def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: b
 # --------------------------------------------------------------------------
 # Montaje de vídeo con ffmpeg
 # --------------------------------------------------------------------------
-def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int, zoom: float):
-    """Un clip por diapositiva: zoom lento sobre el fondo + texto estático encima."""
+def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int,
+               zoom: float, direccion: str):
+    """Un clip por diapositiva: Ken Burns (alternando dirección) + texto que
+    entra animado (deslizándose hacia arriba + fundido)."""
     frames = int(round(dur * fps))
-    inc = (zoom - 1.0) / max(frames - 1, 1)
-    # Se preescala x2 para que el zoompan quede suave (sin saltos de píxel).
+    denom = max(frames - 1, 1)
+    # Zoom basado en 'on' (nº de frame) para que sea suave; alterna acercar/alejar.
+    if direccion == "out":
+        zexpr = f"{zoom}-{(zoom-1):.6f}*on/{denom}"
+    else:
+        zexpr = f"1+{(zoom-1):.6f}*on/{denom}"
+    anim = 0.55  # duración de la entrada del texto (segundos)
+    desl = 80    # píxeles que se desliza el texto al entrar
+    # Preescalado x2 para que el zoompan no dé saltos de píxel.
     fc = (
         f"[0:v]scale={W*2}:{H*2},"
-        f"zoompan=z='min(zoom+{inc:.6f},{zoom})':d=1:"
-        f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
+        f"zoompan=z='{zexpr}':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':"
         f"s={W}x{H}:fps={fps}[bg];"
-        f"[bg][1:v]overlay=0:0,format=yuv420p[v]"
+        f"[1:v]format=rgba,fade=t=in:st=0:d={anim}:alpha=1[fg];"
+        f"[bg][fg]overlay=x=0:y='{desl}*(lt(t\\,{anim}))*(1-t/{anim})':"
+        f"format=auto,format=yuv420p[v]"
     )
     cmd = [
         ffmpeg, "-y",
@@ -298,12 +308,30 @@ def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int,
     subprocess.run(cmd, check=True, capture_output=True)
 
 
-def concat(ffmpeg: str, clips: list, out: Path, tmp: Path):
-    lista = tmp / "lista.txt"
-    lista.write_text("".join(f"file '{c}'\n" for c in clips), encoding="utf-8")
+def combinar(ffmpeg: str, clips: list, out: Path, dur: float, fps: int,
+             transicion: str, tdur: float):
+    """Une los clips con transiciones xfade (deslizado/fundido) en vez de cortes."""
+    if len(clips) == 1:
+        shutil.copy(clips[0], out)
+        return
+    inputs = []
+    for c in clips:
+        inputs += ["-i", str(c)]
+    filt = ""
+    prev = "[0:v]"
+    off = dur - tdur
+    for i in range(1, len(clips)):
+        etq = "[v]" if i == len(clips) - 1 else f"[x{i}]"
+        filt += (
+            f"{prev}[{i}:v]xfade=transition={transicion}:duration={tdur}:"
+            f"offset={off:.3f}{etq};"
+        )
+        prev = etq
+        off += dur - tdur
+    filt = filt.rstrip(";")
     cmd = [
-        ffmpeg, "-y", "-f", "concat", "-safe", "0", "-i", str(lista),
-        "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+        ffmpeg, "-y", *inputs, "-filter_complex", filt, "-map", "[v]",
+        "-r", str(fps), "-c:v", "libx264", "-preset", "medium", "-crf", "20",
         "-pix_fmt", "yuv420p", "-movflags", "+faststart", str(out),
     ]
     subprocess.run(cmd, check=True, capture_output=True)
@@ -316,7 +344,10 @@ def main():
     ap = argparse.ArgumentParser(description="Genera un reel de MiHuertoUrbano desde un JSON.")
     ap.add_argument("config", help="Ruta al JSON de configuración del reel")
     ap.add_argument("--fps", type=int, default=30)
-    ap.add_argument("--zoom", type=float, default=1.08, help="Zoom final del efecto Ken Burns")
+    ap.add_argument("--zoom", type=float, default=1.14, help="Zoom del efecto Ken Burns (1.14 = +14%)")
+    ap.add_argument("--transicion", default="slideup",
+                    help="Transición entre diapositivas (slideup, slideleft, smoothup, fade, wipeup...)")
+    ap.add_argument("--trans-dur", type=float, default=0.5, help="Duración de la transición (s)")
     args = ap.parse_args()
 
     cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))
@@ -346,13 +377,14 @@ def main():
             fg_png = tmp / f"fg_{i:02d}.png"
             render_png(chrome, html_texto(slide, marca, logo_uri), fg_png, tmp, transparente=True)
             clip = tmp / f"slide_{i:02d}.mp4"
-            clip_slide(ffmpeg, bg_png, fg_png, clip, dur, args.fps, args.zoom)
+            direccion = "in" if i % 2 == 0 else "out"
+            clip_slide(ffmpeg, bg_png, fg_png, clip, dur, args.fps, args.zoom, direccion)
             clips.append(clip)
             print(f"  ✓ diapositiva {i+1}/{len(slides)}")
 
-        concat(ffmpeg, clips, final, tmp)
+        combinar(ffmpeg, clips, final, dur, args.fps, args.transicion, args.trans_dur)
 
-    dur_total = dur * len(slides)
+    dur_total = dur * len(slides) - args.trans_dur * (len(slides) - 1)
     print(f"\n✅ Reel generado: {final}")
     print(f"   {W}x{H} · {dur_total:.1f}s · {len(slides)} diapositivas · {args.fps} fps")
 
