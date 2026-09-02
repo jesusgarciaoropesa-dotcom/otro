@@ -5,10 +5,10 @@
   "articulo": "/articulos/riego-por-goteo-casero-balcon-instalacion/",
   "duracion_slide": 3.4,
   "slides": [
-    { "kicker": "RIEGO AUTOMÁTICO", "titulo": "Deja de matar plantas por el riego", "destacado": "riego", "subtitulo": "monta un goteo casero" },
-    { "kicker": "LO BÁSICO", "titulo": "Un tubo, goteros y un programador", "destacado": "programador", "subtitulo": "más barato de lo que crees" },
-    { "kicker": "LA VENTAJA", "titulo": "Riega solo, hasta de vacaciones", "destacado": "vacaciones", "subtitulo": "cada maceta con su gotero" },
-    { "kicker": "TRUCO", "titulo": "Programa el riego al atardecer", "destacado": "atardecer", "subtitulo": "menos evaporación, menos gasto" },
-    { "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Instala tu riego por goteo paso a paso" }
+    { "foto": "/images/articulos/regar-regadera-cuanta-agua.jpg", "kicker": "RIEGO AUTOMÁTICO", "titulo": "Deja de matar plantas por el riego", "destacado": "riego", "subtitulo": "monta un goteo casero" },
+    { "foto": "/images/articulos/riego-goteo-macetas-balcon.jpg", "kicker": "LO BÁSICO", "titulo": "Un tubo, goteros y un programador", "destacado": "programador", "subtitulo": "más barato de lo que crees" },
+    { "foto": "/images/articulos/temporizador-riego-grifo.jpg", "kicker": "LA VENTAJA", "titulo": "Riega solo, hasta de vacaciones", "destacado": "vacaciones", "subtitulo": "cada maceta con su gotero" },
+    { "foto": "/images/articulos/botella-riego-lento.jpg", "kicker": "TRUCO", "titulo": "Programa el riego al atardecer", "destacado": "atardecer", "subtitulo": "menos evaporación, menos gasto" },
+    { "foto": "/images/articulos/riego-control-app-movil.jpg", "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Instala tu riego por goteo paso a paso" }
   ]
 }

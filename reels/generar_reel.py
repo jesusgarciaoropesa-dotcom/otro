@@ -345,8 +345,8 @@ def main():
     ap.add_argument("config", help="Ruta al JSON de configuración del reel")
     ap.add_argument("--fps", type=int, default=30)
     ap.add_argument("--zoom", type=float, default=1.14, help="Zoom del efecto Ken Burns (1.14 = +14%)")
-    ap.add_argument("--transicion", default="slideup",
-                    help="Transición entre diapositivas (slideup, slideleft, smoothup, fade, wipeup...)")
+    ap.add_argument("--transicion", default="fade",
+                    help="Transición entre diapositivas (fade recomendada; slideup/wipeup dejan una costura blanca)")
     ap.add_argument("--trans-dur", type=float, default=0.5, help="Duración de la transición (s)")
     args = ap.parse_args()
 

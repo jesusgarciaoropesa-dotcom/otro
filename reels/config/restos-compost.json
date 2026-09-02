@@ -5,10 +5,10 @@
   "articulo": "/articulos/reutilizar-restos-cocina-abonar-huerto/",
   "duracion_slide": 3.4,
   "slides": [
-    { "kicker": "COMPOST EN CASA", "titulo": "No tires los restos de cocina", "destacado": "restos", "subtitulo": "son abono gratis para tus plantas" },
-    { "kicker": "SÍ VALEN", "titulo": "Pieles, posos de café y cáscaras", "destacado": "café", "subtitulo": "materia rica para el compost" },
-    { "kicker": "EVITA", "titulo": "Nada de carne, lácteos ni aceite", "destacado": "carne", "subtitulo": "atraen bichos y huelen mal" },
-    { "kicker": "TRUCO", "titulo": "Trocéalo bien pequeño", "destacado": "pequeño", "subtitulo": "se descompone mucho antes" },
-    { "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Convierte tu basura en abono" }
+    { "foto": "/images/articulos/restos-cocina-compost-abonar.jpg", "kicker": "COMPOST EN CASA", "titulo": "No tires los restos de cocina", "destacado": "restos", "subtitulo": "son abono gratis para tus plantas" },
+    { "foto": "/images/articulos/vermicompostador-balcon.jpg", "kicker": "SÍ VALEN", "titulo": "Pieles, posos de café y cáscaras", "destacado": "café", "subtitulo": "materia rica para el compost" },
+    { "foto": "/images/articulos/que-no-echar-compost.jpg", "kicker": "EVITA", "titulo": "Nada de carne, lácteos ni aceite", "destacado": "carne", "subtitulo": "atraen bichos y huelen mal" },
+    { "foto": "/images/articulos/aplicar-humus-lombriz-maceta.jpg", "kicker": "TRUCO", "titulo": "Trocéalo bien pequeño", "destacado": "pequeño", "subtitulo": "se descompone mucho antes" },
+    { "foto": "/images/articulos/restos-cocina-compost-abonar.jpg", "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Convierte tu basura en abono" }
   ]
 }
