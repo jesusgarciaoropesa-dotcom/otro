@@ -17,7 +17,7 @@ faq:
 
 No hace falta tener un compostador para aprovechar algunos restos de cocina en tu huerto de balcón. Estos son los que puedes reutilizar de forma directa o casi directa, sin un proceso de compostaje completo.
 
-<figure><img width="1200" height="670" src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Mano esparciendo humus de lombriz sobre el sustrato de una maceta con una tomatera joven en un balcón" /><figcaption>Aplicando humus de lombriz como abono de fondo en una tomatera joven</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/restos-cocina-compost-abonar.jpg" alt="Cuenco con restos de cocina (pieles de verdura, posos de café y cáscaras de huevo) para compostar, junto a una maceta en un balcón" /><figcaption>Pieles, posos de café y cáscaras de huevo: materia prima para abonar el huerto</figcaption></figure>
 
 ## Posos de café
 

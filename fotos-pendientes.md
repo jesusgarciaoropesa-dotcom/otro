@@ -27,16 +27,16 @@ de `especificaciones-fotos-articulos.md`.
 - [x] Tamaño de maceta por hortaliza
 - [x] Semillas que no germinan
 
-## 🔴 Tanda 1 — prioritarias (prompts ya dados)
+## ✅ Tanda 1 — prioritarias (hechas)
 
-- [ ] `brocoli-coliflor-no-forma-cabeza` — brócoli espigado sin cabeza formada
-- [ ] `proteger-huerto-calor-extremo-verano` — malla de sombreo en verano
-- [ ] `atraer-polinizadores-balcon` — abeja en flor de calabacín (macro)
-- [ ] `acolchado-mulching-huerto-balcon` — tierra cubierta con acolchado de paja
-- [ ] `reutilizar-restos-cocina-abonar-huerto` — restos de cocina para compost (cenital)
-- [ ] `test-germinacion-semillas-viejas` — semillas germinando en servilleta húmeda
-- [ ] `como-prevenir-plagas-huerto-urbano-sin-pesticidas` — trampa amarilla + repelente
-- [ ] `errores-comunes-empezar-huerto-urbano` — planta sana vs. planta mustia
+- [x] `brocoli-coliflor-no-forma-cabeza` — brócoli espigado sin cabeza formada
+- [x] `proteger-huerto-calor-extremo-verano` — malla de sombreo en verano
+- [x] `atraer-polinizadores-balcon` — abeja en flor de calabacín (macro)
+- [x] `acolchado-mulching-huerto-balcon` — tierra cubierta con acolchado de paja
+- [x] `reutilizar-restos-cocina-abonar-huerto` — restos de cocina para compost (cenital)
+- [x] `test-germinacion-semillas-viejas` — semillas germinando en servilleta húmeda
+- [x] `como-prevenir-plagas-huerto-urbano-sin-pesticidas` — trampa amarilla + repelente
+- [x] `errores-comunes-empezar-huerto-urbano` — planta sana vs. planta mustia
 
 ## 🟡 Próximas tandas (candidatas, pedir prompts cuando toque)
 

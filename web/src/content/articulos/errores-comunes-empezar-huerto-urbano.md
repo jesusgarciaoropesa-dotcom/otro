@@ -17,7 +17,7 @@ faq:
 
 Casi todos los huertos urbanos que fracasan en las primeras semanas comparten los mismos errores. Conocerlos de antemano te ahorrará disgustos y plantas muertas.
 
-<figure><img width="1200" height="670" src="/images/articulos/planta-seca-vs-sana.jpg" alt="Dos macetas comparadas: una con la planta mustia y seca y otra con la misma planta verde y sana" /><figcaption>El mismo cultivo, muy distinto resultado según los cuidados</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/planta-sana-vs-mustia.jpg" alt="Comparación de la misma planta en dos macetas: una verde y sana y otra mustia con las hojas amarillas" /><figcaption>El mismo cultivo, muy distinto resultado según los cuidados</figcaption></figure>
 
 ## 1. Macetas demasiado pequeñas
 

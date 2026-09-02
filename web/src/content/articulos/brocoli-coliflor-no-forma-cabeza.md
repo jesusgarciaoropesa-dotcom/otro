@@ -16,7 +16,7 @@ faq:
 
 Es de las decepciones más típicas del huerto: tu brócoli o tu coliflor crece con unas hojas enormes y sanas… pero la cabeza no llega, o sale minúscula, o de repente se abre en florecillas amarillas. No es mala suerte: casi siempre es una de estas causas, y todas se pueden corregir.
 
-<figure><img width="1200" height="670" src="/images/articulos/brocoli-maceta.jpg" alt="Planta de brócoli en maceta de balcón con hojas grandes empezando a formar la cabeza central" /><figcaption>La pella es un ramo de flores inmaduras: darle fresco, alimento y espacio es la clave.</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/brocoli-espigado-sin-cabeza.jpg" alt="Planta de brócoli en maceta espigada y florecida, sin haber formado una cabeza central compacta" /><figcaption>Cuando el brócoli se espiga y florece sin formar pella: calor y estrés son las causas típicas</figcaption></figure>
 
 ## Primero, entiende qué es la "cabeza"
 

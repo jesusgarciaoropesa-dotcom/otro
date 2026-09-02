@@ -18,7 +18,7 @@ faq:
 
 La mejor estrategia contra las plagas en un huerto urbano no es tratarlas cuando ya han aparecido, sino crear condiciones que dificulten su aparición desde el principio. Estos son los hábitos que más reducen el riesgo.
 
-<figure><img width="1200" height="670" src="/images/articulos/pulgon-verde-tomatera.jpg" alt="Colonia de pulgones verdes agrupados en el tallo tierno y el envés de las hojas de una tomatera en un balcón" /><figcaption>Los pulgones se concentran en los brotes tiernos y el envés de las hojas</figcaption></figure>
+<figure><img width="1200" height="670" src="/images/articulos/prevencion-plagas-trampa-calendula.jpg" alt="Macetas de balcón con aromáticas, una tomatera con una trampa cromática amarilla y caléndulas como prevención natural de plagas" /><figcaption>Trampas amarillas y plantas repelentes como la caléndula previenen plagas sin pesticidas</figcaption></figure>
 
 ## Inspección regular, la medida más efectiva
 
