@@ -1,0 +1,40 @@
+{
+  "pines": [
+    {
+      "slug": "hojas-aguacate-marrones-secas-que-hacer",
+      "kicker": "AGUACATE EN MACETA",
+      "gancho": "Hojas del aguacate marrones",
+      "destacado": "marrones",
+      "subtitulo": "por qué pasa y cómo salvarlo"
+    },
+    {
+      "slug": "como-cultivar-aguacate-desde-hueso",
+      "kicker": "PASO A PASO",
+      "gancho": "Cultiva un aguacate desde el hueso",
+      "destacado": "hueso",
+      "subtitulo": "el método fácil que sí funciona"
+    },
+    {
+      "slug": "que-plantar-huerto-urbano-septiembre",
+      "kicker": "CALENDARIO",
+      "gancho": "Qué plantar en septiembre",
+      "destacado": "septiembre",
+      "subtitulo": "en balcón y terraza"
+    },
+    {
+      "slug": "riego-por-goteo-casero-balcon-instalacion",
+      "kicker": "RIEGO AUTOMÁTICO",
+      "gancho": "Riego por goteo casero",
+      "destacado": "goteo",
+      "subtitulo": "instálalo tú mismo en el balcón"
+    },
+    {
+      "slug": "como-cultivar-tomates-en-maceta-balcon",
+      "kicker": "GUÍA COMPLETA",
+      "gancho": "Tomates en maceta en el balcón",
+      "destacado": "maceta",
+      "subtitulo": "de la siembra a la cosecha",
+      "foto": "/images/articulos/como-cultivar-tomates-en-maceta-balcon/tomatera-cherry-entutorada.jpg"
+    }
+  ]
+}
