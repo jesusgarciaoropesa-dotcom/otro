@@ -1,0 +1,14 @@
+{
+  "slug": "aguacate-hueso",
+  "marca": "MiHuertoUrbano",
+  "foto": "/images/articulos/aguacate-desde-hueso.jpg",
+  "articulo": "/articulos/como-cultivar-aguacate-desde-hueso/",
+  "duracion_slide": 3.4,
+  "slides": [
+    { "kicker": "AGUACATE EN CASA", "titulo": "No tires el hueso del aguacate", "destacado": "hueso", "subtitulo": "puedes tener tu propio árbol" },
+    { "kicker": "PASO 1", "titulo": "Clava 3 palillos y al agua", "destacado": "agua", "subtitulo": "la base del hueso siempre mojada" },
+    { "kicker": "PASO 2", "titulo": "Luz y mucha paciencia", "destacado": "paciencia", "subtitulo": "tarda entre 3 y 8 semanas" },
+    { "kicker": "TRANQUILA", "titulo": "Si no brota a la primera", "destacado": "brota", "subtitulo": "prueba con otro hueso, es normal" },
+    { "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Cómo cultivar aguacate paso a paso" }
+  ]
+}

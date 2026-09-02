@@ -1,0 +1,14 @@
+{
+  "slug": "restos-compost",
+  "marca": "MiHuertoUrbano",
+  "foto": "/images/articulos/restos-cocina-compost-abonar.jpg",
+  "articulo": "/articulos/reutilizar-restos-cocina-abonar-huerto/",
+  "duracion_slide": 3.4,
+  "slides": [
+    { "kicker": "COMPOST EN CASA", "titulo": "No tires los restos de cocina", "destacado": "restos", "subtitulo": "son abono gratis para tus plantas" },
+    { "kicker": "SÍ VALEN", "titulo": "Pieles, posos de café y cáscaras", "destacado": "café", "subtitulo": "materia rica para el compost" },
+    { "kicker": "EVITA", "titulo": "Nada de carne, lácteos ni aceite", "destacado": "carne", "subtitulo": "atraen bichos y huelen mal" },
+    { "kicker": "TRUCO", "titulo": "Trocéalo bien pequeño", "destacado": "pequeño", "subtitulo": "se descompone mucho antes" },
+    { "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Convierte tu basura en abono" }
+  ]
+}
