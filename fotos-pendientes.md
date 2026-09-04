@@ -38,6 +38,10 @@ de `especificaciones-fotos-articulos.md`.
 - [x] `como-prevenir-plagas-huerto-urbano-sin-pesticidas` — trampa amarilla + repelente
 - [x] `errores-comunes-empezar-huerto-urbano` — planta sana vs. planta mustia
 
+## 📷 Artículos nuevos sin foto propia
+
+- [ ] `gomosis-frutales-hueso-durazno-ciruelo` — tronco de durazno con goma/resina (gomosis)
+
 ## 🟡 Próximas tandas (candidatas, pedir prompts cuando toque)
 
 Artículos con foto prestada y tema concreto que se beneficiarían de foto propia:

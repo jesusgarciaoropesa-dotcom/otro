@@ -18,6 +18,8 @@ Tenías un limonero precioso y, **de un día para otro**, empieza a amarillear y
 
 <figure><img width="1200" height="670" src="/images/articulos/gomosis-citrico-tronco.jpg" alt="Base del tronco de un limonero con la corteza oscura y goma o resina rezumando, síntoma de gomosis" /><figcaption>Manchas oscuras y goma en la base del tronco: el síntoma típico de la gomosis de los cítricos.</figcaption></figure>
 
+> ¿Tu árbol es un frutal de hueso (durazno, ciruelo, cerezo, albaricoque) y le sale goma en el tronco? Eso se maneja algo distinto: mira [gomosis en frutales de hueso](/articulos/gomosis-frutales-hueso-durazno-ciruelo/).
+
 ## La regla de oro: cambio brusco = problema de raíz
 
 Un amarilleo **lento y progresivo** suele ser falta de nutrientes (lo vemos en [hojas amarillas del limonero](/articulos/hojas-amarillas-limonero-citricos-maceta/)). Pero cuando la planta **se viene abajo de golpe**, el culpable casi siempre es la **raíz**, y detrás casi siempre está el **exceso de agua**.

@@ -84,6 +84,20 @@ Fórmula de 5 diapositivas: gancho → motivo → solución 1 → tranquiliza �
 
 ---
 
+## Estilo de respuestas en grupos de Facebook
+
+Cuando se responde a dudas en grupos (huerto/plantas):
+
+- Tono cercano, de tú, experto pero sencillo. Nada de sonar a bot.
+- **Máximo 2 emojis por comentario** (mejor 0-1). Nada de un emoji por línea.
+- Para listas de pasos, usar **guiones** (`-`), no emojis como viñetas.
+- Responder **útil primero**. En grupos ajenos, **no meter enlace** las primeras
+  veces (parece spam); soltar el enlace solo si alguien pregunta o es el grupo propio.
+- No corregir la especie de la planta de forma tajante en público; si hay duda,
+  dar el truco para que la persona lo compruebe.
+- No afirmar más de lo que se ve en una foto: si no se puede saber la causa exacta,
+  decirlo y dar el manejo que sirve igualmente.
+
 ## Publicación (importante)
 
 - El sitio se despliega solo con **GitHub Actions** (`.github/workflows/deploy-web.yml`)
