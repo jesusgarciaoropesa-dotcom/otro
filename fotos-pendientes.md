@@ -40,8 +40,8 @@ de `especificaciones-fotos-articulos.md`.
 
 ## 📷 Artículos nuevos sin foto propia
 
-- [ ] `gomosis-frutales-hueso-durazno-ciruelo` — tronco de durazno con goma/resina (gomosis)
-- [ ] `manchas-marrones-hojas-acelga-cercospora` — hoja de acelga con manchas redondas de cercospora
+- [x] `gomosis-frutales-hueso-durazno-ciruelo` — tronco de durazno con goma/resina (gomosis)
+- [x] `manchas-marrones-hojas-acelga-cercospora` — hoja de acelga con manchas redondas de cercospora
 
 ## 🟡 Próximas tandas (candidatas, pedir prompts cuando toque)
 

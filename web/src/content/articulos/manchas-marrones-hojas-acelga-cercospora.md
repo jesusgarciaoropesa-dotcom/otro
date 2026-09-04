@@ -16,6 +16,8 @@ faq:
 
 Tus acelgas van bien y, de pronto, las hojas se llenan de **manchas redondas de color marrón**, con un borde más oscuro y el centro claro. En algunas, el centro se seca y **se cae, dejando agujeros**. Es una de las consultas más típicas de la acelga y la remolacha, y casi siempre tiene el mismo culpable: la **cercospora**.
 
+<figure><img width="1200" height="670" src="/images/articulos/acelga-cercospora-manchas.jpg" alt="Hojas de acelga en una maceta de balcón con manchas circulares marrones de borde oscuro y centro claro, algunas agujereadas, síntoma de cercospora" /><figcaption>Manchas redondas con borde marrón y centro claro, algunas ya agujereadas: el sello de la cercospora.</figcaption></figure>
+
 ## Cómo reconocer la cercospora
 
 La cercospora (*Cercospora beticola*) es un hongo, y sus manchas son muy características:

@@ -16,6 +16,8 @@ faq:
 
 Tenías tu durazno (o ciruelo, o cerezo) tan tranquilo y, de repente, ves un **chorretón de goma pegajosa color ámbar o casi negra** saliendo del tronco. Si además lo "limpiaste" o le rascaste la corteza y salió **todavía más**, este artículo es para ti. Eso es **gomosis**, y tiene solución… si dejas de cometer el error más habitual.
 
+<figure><img width="1200" height="670" src="/images/articulos/gomosis-durazno-tronco-goma.jpg" alt="Tronco de un durazno con gotas y chorretones de resina ámbar y marrón rezumando de la corteza, síntoma de gomosis" /><figcaption>La goma ámbar rezumando del tronco es la señal inconfundible de la gomosis en frutales de hueso.</figcaption></figure>
+
 ## Qué es la gomosis
 
 La gomosis es la reacción típica de los **frutales de hueso** (los del género *Prunus*: durazno/melocotón, ciruelo, cerezo, albaricoque, almendro) ante una herida o una infección. El árbol **segrega esa goma para sellar la zona** y defenderse.
