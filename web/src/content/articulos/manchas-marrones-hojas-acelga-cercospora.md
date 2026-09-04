@@ -47,6 +47,10 @@ La cercospora se dispara cuando se juntan **calor y humedad sobre la hoja**:
 4. **Trata las hojas sanas con cobre** (caldo bordelés u oxicloruro de cobre). El cobre **previene** que se extienda; no borra las manchas que ya están.
 5. **Recoge y retira** todos los restos al final del cultivo.
 
+El cobre para tratar lo tienes como **caldo bordelés** u **oxicloruro de cobre**:
+
+<a href="https://www.amazon.es/s?k=caldo+bordeles+cobre+fungicida&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver cobre (caldo bordelés) en Amazon</a>
+
 ## Cómo prevenirla la próxima vez
 
 - **Rota el cultivo**: no siembres acelga ni remolacha en el mismo sitio dos temporadas seguidas.

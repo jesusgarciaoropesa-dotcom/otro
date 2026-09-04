@@ -49,6 +49,10 @@ Muchas veces es una **combinación**: una herida + humedad + un hongo aprovechad
 5. **Corrige la humedad.** Revisa el riego, asegúrate de que el suelo **drena bien** y aparta la tierra o el acolchado que esté pegado al tronco: el cuello tiene que respirar.
 6. **Poda solo en tiempo seco** y desinfecta la herramienta entre corte y corte. Si tienes que quitar una rama muy afectada, hazlo con un corte limpio en día seco. Repasa [cómo podar un frutal](/articulos/como-podar-frutal-en-maceta/) para no crear más heridas.
 
+El cobre lo encuentras fácil como **caldo bordelés** u **oxicloruro de cobre**:
+
+<a href="https://www.amazon.es/s?k=caldo+bordeles+cobre+fungicida&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver cobre (caldo bordelés) en Amazon</a>
+
 ## Cómo prevenirla
 
 - Poda en **época seca** y con herramienta limpia; sella los cortes grandes solo con pasta cicatrizante fungicida si acaso, nunca con barro.
