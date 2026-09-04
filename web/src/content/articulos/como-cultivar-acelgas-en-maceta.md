@@ -54,5 +54,6 @@ Al ser una planta de crecimiento continuo y cosecha prolongada, agradece un [apo
 - **Hojas amarillas**: normalmente falta de nutrientes, dado el crecimiento continuo que exige a la planta un aporte regular.
 - **Pencas duras y amargas**: riego irregular, sobre todo alternar sequía con riego abundante.
 - **Planta que deja de producir**: puede indicar que se ha cosechado en exceso de golpe; deja siempre suficientes hojas centrales para que la planta se recupere.
+- **Manchas marrones redondas en las hojas** (a veces agujereadas): suele ser cercospora, un hongo. Cómo reconocerla y tratarla en [manchas marrones en las hojas de la acelga](/articulos/manchas-marrones-hojas-acelga-cercospora/).
 
 Si te interesa otra hoja verde con cuidados parecidos, consulta también nuestra guía de [cómo cultivar espinacas en maceta todo el año](/articulos/como-cultivar-espinacas-en-maceta/).

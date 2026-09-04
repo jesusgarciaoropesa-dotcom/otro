@@ -51,7 +51,7 @@ Mientras tanto, ve cortando **algunas hojas exteriores** para ensalada o saltead
 
 - **Raíces pequeñas o deformes**: falta de aclareo, maceta poco profunda o sustrato con piedras.
 - **Raíz dura y fibrosa**: riego irregular o cosecha tardía.
-- **Hojas con manchas**: posible exceso de humedad; mejora la ventilación.
+- **Hojas con manchas marrones redondas**: suele ser cercospora, un hongo favorecido por el exceso de humedad; mejora la ventilación y no mojes las hojas. Te lo explicamos en [manchas marrones en las hojas de la acelga y la remolacha](/articulos/manchas-marrones-hojas-acelga-cercospora/).
 
 ## Otros cultivos de raíz
 
