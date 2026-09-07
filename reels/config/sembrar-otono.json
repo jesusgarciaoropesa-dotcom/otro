@@ -1,0 +1,16 @@
+{
+  "slug": "sembrar-otono",
+  "marca": "MiHuertoUrbano",
+  "foto": "/images/articulos/ajos-maceta.jpg",
+  "articulo": "/articulos/que-plantar-huerto-urbano-octubre/",
+  "duracion_slide": 3.0,
+  "slides": [
+    { "foto": "/images/articulos/cultivo-lechuga-maceta.jpg", "kicker": "CALENDARIO · OTOÑO", "titulo": "Qué sembrar en otoño", "destacado": "otoño", "subtitulo": "5 aciertos para tu balcón · guárdalo" },
+    { "foto": "/images/articulos/ajos-maceta.jpg", "kicker": "SIEMBRA 1", "titulo": "Ajos", "destacado": "Ajos", "subtitulo": "diente a diente; aguantan el frío" },
+    { "foto": "/images/articulos/cultivo-habas-maceta.jpg", "kicker": "SIEMBRA 2", "titulo": "Habas", "destacado": "Habas", "subtitulo": "siembra directa y muy agradecidas" },
+    { "foto": "/images/articulos/cultivo-guisantes-maceta.jpg", "kicker": "SIEMBRA 3", "titulo": "Guisantes", "destacado": "Guisantes", "subtitulo": "ocupan poco y el frío no los para" },
+    { "foto": "/images/articulos/cultivo-espinacas-maceta.jpg", "kicker": "SIEMBRA 4", "titulo": "Espinacas y acelgas", "destacado": "acelgas", "subtitulo": "hoja para todo el invierno" },
+    { "foto": "/images/articulos/cultivo-rucula-maceta.jpg", "kicker": "SIEMBRA 5", "titulo": "Rúcula y lechuga", "destacado": "rúcula", "subtitulo": "cosecha rápida en pocas semanas" },
+    { "foto": "/images/articulos/cultivo-repollo-col-maceta.jpg", "cta": true, "pildora": "GUÁRDALO · CALENDARIO EN LA BIO", "subtitulo": "Tu siembra de otoño, mes a mes" }
+  ]
+}
