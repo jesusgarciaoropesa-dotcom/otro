@@ -206,9 +206,10 @@ def html_fondo(foto_uri: str) -> str:
 
 
 def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
-    """Capa de texto (transparente y estática): marca, logo, banda y textos."""
+    """Capa de texto (transparente): banda y textos. Entra animada por diapositiva.
+    El nombre de marca y el logo NO van aquí: son una capa fija aparte (html_marca)
+    para que no se dupliquen ni se muevan en las transiciones."""
     band_top = WIN_BOTTOM - 25
-    logo_top = WIN_BOTTOM - 165
     if slide.get("cta"):
         bloque = f"""
       <div class="cta-pill">{escape(slide['pildora'])}</div>
@@ -221,11 +222,6 @@ def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
       <p class="sub">{escape(slide.get('subtitulo',''))}</p>"""
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {css_comun('')}
-.marca{{position:absolute;top:150px;left:0;right:0;text-align:center;
-      font-family:'Fraunces',serif;font-weight:800;font-size:52px;color:{C['crema']};
-      letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
-.logo{{position:absolute;right:36px;top:{logo_top}px;width:150px;height:auto;
-      filter:drop-shadow(0 4px 10px rgba(0,0,0,.45))}}
 .banda{{position:absolute;left:0;top:{band_top}px;width:{W}px;height:{H - band_top + 200}px;
       background:linear-gradient(180deg,
         rgba(63,107,58,0) 0%,
@@ -252,9 +248,26 @@ def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
 </style></head><body>
 <div class="canvas">
   <div class="banda"></div>
+  <div class="textos">{bloque}</div>
+</div></body></html>"""
+
+
+def html_marca(marca: str, logo_uri: str) -> str:
+    """Capa fija (transparente) con el nombre de marca y el logo. Se superpone
+    una sola vez sobre todo el vídeo, sin animación ni fundido, para que queden
+    siempre quietos y sin duplicarse."""
+    logo_top = WIN_BOTTOM - 165
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>
+{css_comun('')}
+.marca{{position:absolute;top:150px;left:0;right:0;text-align:center;
+      font-family:'Fraunces',serif;font-weight:800;font-size:52px;color:{C['crema']};
+      letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
+.logo{{position:absolute;right:36px;top:{logo_top}px;width:150px;height:auto;
+      filter:drop-shadow(0 4px 10px rgba(0,0,0,.45))}}
+</style></head><body>
+<div class="canvas">
   <div class="marca">{escape(marca)}</div>
   <img class="logo" src="{logo_uri}">
-  <div class="textos">{bloque}</div>
 </div></body></html>"""
 
 
@@ -321,6 +334,18 @@ def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int,
         "-t", f"{dur}", "-r", str(fps),
         "-c:v", "libx264", "-preset", "medium", "-crf", "20",
         "-pix_fmt", "yuv420p", str(out),
+    ]
+    subprocess.run(cmd, check=True, capture_output=True)
+
+
+def superponer_marca(ffmpeg: str, video: Path, marca_png: Path, out: Path, fps: int):
+    """Superpone la capa fija de marca (nombre + logo) sobre todo el vídeo."""
+    cmd = [
+        ffmpeg, "-y", "-i", str(video), "-i", str(marca_png),
+        "-filter_complex", "[0:v][1:v]overlay=0:0:format=auto,format=yuv420p[v]",
+        "-map", "[v]", "-r", str(fps),
+        "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+        "-pix_fmt", "yuv420p", "-movflags", "+faststart", str(out),
     ]
     subprocess.run(cmd, check=True, capture_output=True)
 
@@ -417,7 +442,13 @@ def main():
             clips.append(clip)
             print(f"  ✓ diapositiva {i+1}/{len(slides)}")
 
-        combinar(ffmpeg, clips, final, dur, args.fps, args.transicion, args.trans_dur)
+        # Unir diapositivas y, por último, superponer la capa fija de marca
+        # (nombre + logo) una sola vez, para que no se dupliquen ni se muevan.
+        sin_marca = tmp / "sin_marca.mp4"
+        combinar(ffmpeg, clips, sin_marca, dur, args.fps, args.transicion, args.trans_dur)
+        marca_png = tmp / "marca.png"
+        render_png(chrome, html_marca(marca, logo_uri), marca_png, tmp, transparente=True)
+        superponer_marca(ffmpeg, sin_marca, marca_png, final, args.fps)
 
     dur_total = dur * len(slides) - args.trans_dur * (len(slides) - 1)
     print(f"\n✅ Reel generado: {final}")
