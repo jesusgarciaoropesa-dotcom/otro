@@ -253,21 +253,18 @@ def html_texto(slide: dict, marca: str, logo_uri: str) -> str:
 
 
 def html_marca(marca: str, logo_uri: str) -> str:
-    """Capa fija (transparente) con el nombre de marca y el logo. Se superpone
-    una sola vez sobre todo el vídeo, sin animación ni fundido, para que queden
-    siempre quietos y sin duplicarse."""
-    logo_top = WIN_BOTTOM - 165
+    """Capa fija (transparente) con SOLO el nombre de marca, arriba. Se superpone
+    una sola vez sobre el vídeo, sin animación ni fundido. El logo (regadera) NO
+    se añade aquí porque las fotos de artículo ya lo llevan incrustado; ponerlo
+    otra vez lo duplicaba y, al moverse con el zoom, se veía doble."""
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {css_comun('')}
 .marca{{position:absolute;top:150px;left:0;right:0;text-align:center;
       font-family:'Fraunces',serif;font-weight:800;font-size:52px;color:{C['crema']};
       letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
-.logo{{position:absolute;right:36px;top:{logo_top}px;width:150px;height:auto;
-      filter:drop-shadow(0 4px 10px rgba(0,0,0,.45))}}
 </style></head><body>
 <div class="canvas">
   <div class="marca">{escape(marca)}</div>
-  <img class="logo" src="{logo_uri}">
 </div></body></html>"""
 
 
