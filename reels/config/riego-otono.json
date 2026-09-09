@@ -1,0 +1,14 @@
+{
+  "slug": "riego-otono",
+  "marca": "MiHuertoUrbano",
+  "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
+  "articulo": "/articulos/como-evitar-exceso-riego-hongo-macetas/",
+  "duracion_slide": 3.0,
+  "slides": [
+    { "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg", "kicker": "RIEGO · OTOÑO", "titulo": "El error que pudre tus plantas en otoño", "destacado": "pudre", "subtitulo": "seguir regando como en verano · guárdalo" },
+    { "foto": "/images/articulos/moho-blanco-tierra-macetas.jpg", "kicker": "POR QUÉ PASA", "titulo": "Con menos sol, la tierra tarda en secar", "destacado": "tarda en secar", "subtitulo": "raíces sin aire = se pudren" },
+    { "foto": "/images/articulos/regar-regadera-cuanta-agua.jpg", "kicker": "LA CLAVE", "titulo": "Mete el dedo antes de regar", "destacado": "el dedo", "subtitulo": "¿húmedo a 2-3 cm? no riegues" },
+    { "foto": "/images/articulos/mezclar-sustrato-perlita.jpg", "kicker": "Y ADEMÁS", "titulo": "Que drene bien y vacía el plato", "destacado": "drene", "subtitulo": "sin agua estancada bajo la maceta" },
+    { "foto": "/images/articulos/balcon-frondoso-beneficios.jpg", "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Riega mejor, no más" }
+  ]
+}

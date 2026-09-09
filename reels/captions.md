@@ -109,3 +109,30 @@ Guía completa: https://mihuertourbano.xyz/articulos/reutilizar-restos-cocina-ab
 
 #huertourbano #compost #huertoencasa #balcon
 ```
+
+---
+
+## 💧 El error de riego en otoño — `riego-otono.mp4`
+
+**Instagram:**
+```
+El error que pudre tus plantas en otoño: seguir regando como en verano 🍂
+
+Con menos sol y frío, la tierra tarda mucho más en secarse. Si riegas igual, las raíces se quedan sin aire y se pudren. La clave: mete el dedo 2-3 cm antes de regar; si notas humedad, no riegues. Y vacía siempre el plato de abajo.
+
+🔗 Guía completa en la bio → mihuertourbano.xyz
+Guárdalo para no matar tus plantas este otoño 🌱
+
+#huertourbano #riego #huertoencasa #balconverde #plantasenmaceta #jardineriaurbana #otoño #cultivarencasa
+```
+
+**Facebook:**
+```
+El error que pudre tus plantas en otoño: seguir regando como en verano 🍂
+
+Con menos sol la tierra tarda en secar, y las raíces se pudren. Antes de regar, mete el dedo 2-3 cm: si hay humedad, no riegues. Y vacía el plato de abajo 👇
+
+Guía completa: https://mihuertourbano.xyz/articulos/como-evitar-exceso-riego-hongo-macetas/
+
+#huertourbano #riego #huertoencasa #balcon
+```
