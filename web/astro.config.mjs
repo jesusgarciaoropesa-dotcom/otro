@@ -23,6 +23,16 @@ for (const archivo of fs.readdirSync(dirArticulos)) {
 // Dominio propio servido vía GitHub Pages con public/CNAME.
 export default defineConfig({
   site: 'https://mihuertourbano.xyz',
+  // Redirecciones 301 de artículos fusionados hacia su versión canónica, para
+  // concentrar la autoridad SEO en una sola página y no competir consigo mismos.
+  redirects: {
+    '/articulos/mejores-kits-riego-automatico-terraza/':
+      '/articulos/mejor-sistema-riego-automatico-macetas-balcon/',
+    '/articulos/huerto-urbano-principiantes-guia-completa/':
+      '/articulos/como-empezar-huerto-urbano-balcon/',
+    '/articulos/guia-frutales-en-maceta-balcon/':
+      '/articulos/frutales-enanos-maceta-terraza/',
+  },
   integrations: [
     sitemap({
       serialize(item) {

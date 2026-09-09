@@ -43,4 +43,4 @@ La instalación es prácticamente idéntica a la de un programador a pilas: se c
 
 ## Cuándo elegir esta opción frente a otras
 
-Si tu balcón no tiene enchufe cerca pero sí recibe algo de sol, un programador solar es la opción más cómoda a largo plazo frente a estar pendiente de cambiar pilas. Si además tu terraza no tiene ni grifo cercano, puedes combinarlo con un [kit con depósito y minibomba](/articulos/mejores-kits-riego-automatico-terraza/) para resolver ambos problemas a la vez.
+Si tu balcón no tiene enchufe cerca pero sí recibe algo de sol, un programador solar es la opción más cómoda a largo plazo frente a estar pendiente de cambiar pilas. Si además tu terraza no tiene ni grifo cercano, puedes combinarlo con un [kit con depósito y minibomba](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) para resolver ambos problemas a la vez.

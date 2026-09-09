@@ -3,7 +3,7 @@ title: "Cómo empezar un huerto urbano en el balcón paso a paso"
 description: "Guía completa para montar tu primer huerto urbano en el balcón: qué necesitas, cómo elegir el sitio y los primeros cultivos recomendados."
 categoria: "primeros-pasos"
 intencion: "informativa"
-keywords: ["huerto urbano balcón", "empezar huerto urbano", "huerto en balcón para principiantes"]
+keywords: ["huerto urbano balcón", "empezar huerto urbano", "huerto en balcón para principiantes", "huerto urbano para principiantes", "huerto urbano guía completa", "empezar huerto urbano desde cero"]
 pubDate: 2026-02-03
 pilar: true
 faq:

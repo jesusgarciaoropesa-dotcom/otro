@@ -1,9 +1,9 @@
 ---
 title: "Frutales enanos que puedes cultivar en maceta en terraza"
-description: "Selección de frutales enanos aptos para maceta en terraza o balcón: cuáles son los más agradecidos y qué necesita cada uno."
+description: "Qué frutales puedes cultivar en maceta en balcón o terraza: cítricos enanos, frutos rojos, higuera, granado, uva y más. Cuáles dan fruto de verdad y cómo cuidarlos."
 categoria: "frutales-en-maceta"
 intencion: "informativa"
-keywords: ["frutales enanos para maceta", "árboles frutales para terraza", "frutales para balcón"]
+keywords: ["frutales enanos para maceta", "árboles frutales para terraza", "frutales para balcón", "frutales en maceta", "qué frutal cultivar en terraza"]
 pubDate: 2026-03-06
 pilar: true
 faq:
@@ -46,10 +46,34 @@ Además de dar frutos (en variedades productivas, ya que también existen orname
 
 Aunque no son árboles, merecen mención: los frutos rojos en variedades compactas son muy productivos en maceta. Te contamos cómo cuidarlos y podarlos en nuestra guía de [cómo cultivar frambuesas y moras en maceta](/articulos/como-cultivar-frambuesas-moras-en-maceta/).
 
+## Los más fáciles para empezar: fresas y frutos rojos
+
+Si es tu primer frutal, empieza por aquí: son los que **antes y mejor fructifican** en balcón.
+
+- **[Fresas](/articulos/como-cultivar-fresas-en-balcon/)**: perfectas incluso en vertical, dan pronto y ocupan muy poco.
+- **[Arándanos](/articulos/como-cultivar-arandanos-en-maceta/)**: piden sustrato ácido y agua sin cal, pero merecen la pena.
+- **[Frambuesas y moras](/articulos/como-cultivar-frambuesas-moras-en-maceta/)**: en maceta grande y con un soporte, muy productivas.
+
+## Frutales mediterráneos y trepadoras para terraza
+
+Si tienes algo más de espacio y sol, estos son rústicos y agradecidos:
+
+- **[Higuera](/articulos/como-cultivar-higuera-en-maceta/)**: muy resistente y agradecida en maceta grande.
+- **[Granado enano](/articulos/como-cultivar-granado-enano-en-maceta/)**: bonito, resistente y productivo.
+- **[Uva / parra](/articulos/como-cultivar-uva-parra-en-maceta/)**: da racimos y una sombra natural preciosa en la terraza.
+- **[Kiwi](/articulos/como-cultivar-kiwi-en-maceta/)**: trepadora vigorosa que en maceta grande y con emparrado puede dar fruto; recuerda que suele necesitar planta macho y hembra.
+
+## Un caso especial: el aguacate
+
+El [aguacate desde hueso](/articulos/como-cultivar-aguacate-desde-hueso/) es un proyecto precioso y divertido, pero seamos honestos: **casi nunca da fruto en balcón**. Cultívalo por la planta, no por los aguacates.
+
 ## Qué tienen en común todos los frutales de maceta
 
 - **Maceta grande desde el principio**: mínimo 40 litros, e ir aumentando cada 2-3 años. Consulta nuestra [guía de compra de maceta para frutales de balcón](/articulos/mejor-maceta-frutales-balcon-guia-compra/) para acertar con el tamaño y el material.
+- **Sol pleno**: casi todos necesitan 6 horas o más de sol directo para fructificar.
+- **Riego regular**: en maceta se secan antes que en suelo; en verano, a menudo a diario.
 - **<a href="https://www.amazon.es/s?k=abono+frutales+maceta&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener">Abonado específico</a>**: los frutales en maceta agotan antes los nutrientes del sustrato que en tierra, necesitan aporte regular.
-- **Paciencia**: la mayoría tarda entre 1 y 3 años en dar su primera cosecha relevante.
+- **[Poda anual](/articulos/como-podar-frutal-en-maceta/)**: imprescindible para que fructifiquen y se mantengan a un tamaño manejable.
+- **Paciencia**: la mayoría tarda entre 1 y 3 años en dar su primera cosecha relevante; lo detallamos en [cuánto tarda en dar fruto un frutal en maceta](/articulos/cuanto-tarda-dar-fruto-frutal-maceta/).
 
 Si te decides por el más popular de todos, consulta nuestra guía específica de [cómo cultivar un limonero en maceta en el balcón](/articulos/como-cultivar-limonero-en-maceta/) para los detalles de cuidado.

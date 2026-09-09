@@ -58,4 +58,4 @@ Arma't de paciencia: suele tardar **3-5 años** en dar los primeros kiwis. Madur
 
 ## Otros frutales trepadores de terraza
 
-Si te atrae el kiwi, comparte espíritu con la [parra de uva](/articulos/como-cultivar-uva-parra-en-maceta/). Para ver todas las opciones, no te pierdas la [guía completa de frutales en maceta](/articulos/guia-frutales-en-maceta-balcon/).
+Si te atrae el kiwi, comparte espíritu con la [parra de uva](/articulos/como-cultivar-uva-parra-en-maceta/). Para ver todas las opciones, no te pierdas la [guía de frutales en maceta para balcón y terraza](/articulos/frutales-enanos-maceta-terraza/).

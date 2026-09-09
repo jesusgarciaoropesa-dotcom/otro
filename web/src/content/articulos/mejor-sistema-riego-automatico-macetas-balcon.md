@@ -3,7 +3,7 @@ title: "Mejor sistema de riego automático para macetas de balcón"
 description: "Comparativa de los sistemas de riego automático más recomendables para macetas de balcón: goteo con temporizador, kits solares y opciones económicas caseras."
 categoria: "riego-automatico"
 intencion: "comparativa"
-keywords: ["riego automático para macetas", "sistema de riego balcón", "mejor riego automático terraza"]
+keywords: ["riego automático para macetas", "sistema de riego balcón", "mejor riego automático terraza", "mejores kits de riego automático", "kit riego automático terraza"]
 pubDate: 2026-02-05
 pilar: true
 faq:
@@ -57,6 +57,15 @@ Para presupuestos muy ajustados o macetas puntuales, una botella de plástico in
 Si tu balcón no tiene enchufe cerca, existen programadores de riego alimentados por una pequeña placa solar integrada, que cargan una batería interna. Son algo más caros pero evitan el cambio frecuente de pilas. Lo vemos en detalle en la [guía del riego por goteo con programador solar](/articulos/riego-goteo-programador-solar-guia/).
 
 <a href="https://www.amazon.es/s?k=programador+riego+solar+grifo&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+## Qué kit elegir según cuántas macetas tengas
+
+Más allá del tipo de sistema, una forma rápida de decidir es por el número de macetas:
+
+- **5-10 macetas (empezando):** un kit básico con programador a pilas, manguera de 4-6 mm y goteros ajustables. Es el punto de entrada más económico y de sobra para un balcón pequeño o mediano.
+- **15-30 macetas (huerto ya consolidado):** kits ampliables, con programadores de más salidas o varias líneas de goteo en paralelo.
+- **Máximo control y ahorro de agua:** programador wifi con sensor de humedad, que riega según la humedad real del sustrato en vez de por horario fijo.
+- **Terraza sin grifo cerca:** kits con depósito propio y minibomba; no dependen de ninguna toma de agua fija, solo hay que rellenar el depósito.
 
 ## Nuestra recomendación
 
