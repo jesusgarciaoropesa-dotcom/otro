@@ -302,9 +302,13 @@ def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: b
 # Montaje de vídeo con ffmpeg
 # --------------------------------------------------------------------------
 def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int,
-               zoom: float, direccion: str):
+               zoom: float, direccion: str, primero: bool = False):
     """Un clip por diapositiva: Ken Burns (alternando dirección) + texto que
-    entra animado (deslizándose hacia arriba + fundido)."""
+    entra animado (deslizándose hacia arriba + fundido).
+
+    En la PRIMERA diapositiva el texto aparece al instante (sin fundido de
+    entrada): es el gancho, y en Instagram el 70% decide seguir o saltar en el
+    primer segundo. Si el primer fotograma sale sin texto, se pierde la gente."""
     frames = int(round(dur * fps))
     denom = max(frames - 1, 1)
     # Zoom basado en 'on' (nº de frame) para que sea suave; alterna acercar/alejar.
@@ -312,7 +316,8 @@ def clip_slide(ffmpeg: str, bg: Path, fg: Path, out: Path, dur: float, fps: int,
         zexpr = f"{zoom}-{(zoom-1):.6f}*on/{denom}"
     else:
         zexpr = f"1+{(zoom-1):.6f}*on/{denom}"
-    anim = 0.55  # duración de la entrada del texto (segundos)
+    # Gancho: sin entrada animada en la primera diapositiva (texto desde frame 0).
+    anim = 0.001 if primero else 0.55  # duración de la entrada del texto (segundos)
     desl = 80    # píxeles que se desliza el texto al entrar
     # Preescalado x2 para que el zoompan no dé saltos de píxel.
     fc = (
@@ -435,7 +440,8 @@ def main():
             render_png(chrome, html_texto(slide, marca, logo_uri), fg_png, tmp, transparente=True)
             clip = tmp / f"slide_{i:02d}.mp4"
             direccion = "in" if i % 2 == 0 else "out"
-            clip_slide(ffmpeg, bg_png, fg_png, clip, dur, args.fps, args.zoom, direccion)
+            clip_slide(ffmpeg, bg_png, fg_png, clip, dur, args.fps, args.zoom,
+                       direccion, primero=(i == 0))
             clips.append(clip)
             print(f"  ✓ diapositiva {i+1}/{len(slides)}")
 
