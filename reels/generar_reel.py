@@ -269,6 +269,100 @@ def html_marca(marca: str, logo_uri: str) -> str:
 
 
 # --------------------------------------------------------------------------
+# Plantilla de CARRUSEL (1080x1350, 4:5, imagen estática por diapositiva)
+# --------------------------------------------------------------------------
+# Los carruseles rinden mejor en el feed y en guardados (formato educativo).
+# Mismo estilo de marca que el reel, pero: relación 4:5, sin animación, texto
+# siempre visible, contador de páginas y pista "desliza" en la portada.
+CW, CH = 1080, 1350
+CWIN_TOP = 235          # borde superior de la ventana de la foto
+CWIN_H = 560            # alto de la ventana de la foto
+CWIN_BOTTOM = CWIN_TOP + CWIN_H
+
+
+def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: int) -> str:
+    """Una diapositiva de carrusel completa (fondo + texto + marca + contador)
+    en una sola imagen estática 1080x1350."""
+    fraunces = font_face("Fraunces", FONTS_DIR / "fraunces/files/fraunces-latin-wght-normal.woff2")
+    inter = font_face("Inter", FONTS_DIR / "inter/files/inter-latin-wght-normal.woff2")
+    band_top = CWIN_BOTTOM - 25
+    es_cta = bool(slide.get("cta"))
+    es_portada = indice == 0
+
+    if es_cta:
+        bloque = f"""
+      <div class="cta-pill">{escape(slide['pildora'])}</div>
+      <p class="sub cta-sub">{escape(slide.get('subtitulo',''))}</p>"""
+    else:
+        titulo_html = subrayar(slide["titulo"], slide.get("destacado", ""))
+        bloque = f"""
+      <p class="kicker">{escape(slide.get('kicker',''))}</p>
+      <h1 class="titular">{titulo_html}</h1>
+      <p class="sub">{escape(slide.get('subtitulo',''))}</p>"""
+
+    # Pista de deslizar solo en la portada; en la última (cta) no hace falta.
+    hint = '<div class="desliza">desliza →</div>' if es_portada else ""
+    # Contador de páginas (1/6) en todas menos la portada, para no recargar el gancho.
+    contador = "" if es_portada else f'<div class="contador">{indice+1}/{total}</div>'
+
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>
+{fraunces}
+{inter}
+*{{margin:0;padding:0;box-sizing:border-box}}
+html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
+.canvas{{position:relative;width:{CW}px;height:{CH}px;background:{C['hoja_oscuro']}}}
+.blur{{position:absolute;top:-140px;left:-140px;width:{CW+280}px;height:{CH+280}px;
+      background:url('{foto_uri}') center/cover no-repeat;
+      filter:blur(34px) brightness(.78) saturate(1.05)}}
+.tinte{{position:absolute;inset:0;background:
+      linear-gradient(180deg, rgba(20,30,16,.55) 0%, rgba(20,30,16,.12) 20%,
+      rgba(20,30,16,.12) 45%, rgba(15,22,12,.78) 100%)}}
+.ventana{{position:absolute;left:0;right:0;top:{CWIN_TOP}px;height:{CWIN_H}px;
+      background:url('{foto_uri}') center/cover no-repeat;
+      box-shadow:0 18px 40px rgba(0,0,0,.45)}}
+.banda{{position:absolute;left:0;top:{band_top}px;width:{CW}px;height:{CH-band_top}px;
+      background:linear-gradient(180deg,
+        rgba(63,107,58,0) 0%, rgba(36,64,31,.92) 16%,
+        rgba(20,32,16,.97) 42%, rgba(12,18,10,.98) 100%)}}
+.marca{{position:absolute;top:70px;left:0;right:0;text-align:center;
+      font-family:'Fraunces',serif;font-weight:800;font-size:44px;color:{C['crema']};
+      letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
+.contador{{position:absolute;top:80px;right:56px;font-family:'Inter',sans-serif;
+      font-weight:800;font-size:30px;color:{C['crema']};opacity:.9;
+      background:rgba(0,0,0,.35);padding:8px 18px;border-radius:999px}}
+.textos{{position:absolute;left:64px;right:64px;top:{band_top+70}px;text-align:center}}
+.kicker{{font-family:'Inter',sans-serif;font-weight:800;font-size:32px;
+      letter-spacing:5px;text-transform:uppercase;color:{C['mostaza_claro']};
+      margin-bottom:22px}}
+.titular{{font-family:'Fraunces',serif;font-weight:900;font-size:72px;
+      line-height:1.05;color:#fdfaf2;text-shadow:0 3px 14px rgba(0,0,0,.5)}}
+.titular .hl{{position:relative;white-space:nowrap}}
+.titular .hl::after{{content:'';position:absolute;left:4%;right:4%;bottom:-.10em;
+      height:10px;border-radius:6px;background:{C['mostaza']}}}
+.sub{{font-family:'Inter',sans-serif;font-weight:700;font-size:42px;color:#f3ede0;
+      margin-top:34px;text-shadow:0 2px 10px rgba(0,0,0,.5)}}
+.cta-pill{{display:inline-block;font-family:'Inter',sans-serif;font-weight:800;
+      font-size:40px;letter-spacing:1px;text-transform:uppercase;
+      color:{C['hoja_oscuro']};background:{C['mostaza']};
+      padding:24px 50px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.4)}}
+.cta-sub{{margin-top:40px}}
+.desliza{{position:absolute;bottom:70px;right:64px;font-family:'Inter',sans-serif;
+      font-weight:800;font-size:34px;color:{C['hoja_oscuro']};background:{C['mostaza']};
+      padding:16px 34px;border-radius:999px;box-shadow:0 8px 20px rgba(0,0,0,.4)}}
+</style></head><body>
+<div class="canvas">
+  <div class="blur"></div>
+  <div class="tinte"></div>
+  <div class="ventana"></div>
+  <div class="banda"></div>
+  <div class="marca">{escape(marca)}</div>
+  {contador}
+  <div class="textos">{bloque}</div>
+  {hint}
+</div></body></html>"""
+
+
+# --------------------------------------------------------------------------
 # Render de una capa a PNG con Chromium headless
 # --------------------------------------------------------------------------
 # Chromium headless deja sin pintar los últimos ~85 px de la ventana (aparece
@@ -276,13 +370,14 @@ def html_marca(marca: str, logo_uri: str) -> str:
 RENDER_PAD = 120
 
 
-def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: bool):
+def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: bool,
+               w: int = W, h: int = H):
     html_file = tmp / (out_png.stem + ".html")
     html_file.write_text(html, encoding="utf-8")
     cmd = [
         chrome, "--headless=new", "--no-sandbox", "--disable-gpu",
         "--hide-scrollbars", "--force-device-scale-factor=1",
-        f"--window-size={W},{H + RENDER_PAD}", "--virtual-time-budget=4000",
+        f"--window-size={w},{h + RENDER_PAD}", "--virtual-time-budget=4000",
         f"--screenshot={out_png}",
     ]
     if transparente:
@@ -291,11 +386,11 @@ def render_png(chrome: str, html: str, out_png: Path, tmp: Path, transparente: b
     subprocess.run(cmd, check=True, capture_output=True)
     if not out_png.exists():
         sys.exit(f"ERROR: Chromium no generó {out_png}")
-    # Recortar el margen extra inferior para dejar exactamente W x H.
+    # Recortar el margen extra inferior para dejar exactamente w x h.
     from PIL import Image
     im = Image.open(out_png)
-    if im.size != (W, H):
-        im.crop((0, 0, W, H)).save(out_png)
+    if im.size != (w, h):
+        im.crop((0, 0, w, h)).save(out_png)
 
 
 # --------------------------------------------------------------------------
@@ -392,6 +487,8 @@ def main():
     ap.add_argument("--transicion", default="fade",
                     help="Transición entre diapositivas (fade recomendada; slideup/wipeup dejan una costura blanca)")
     ap.add_argument("--trans-dur", type=float, default=0.5, help="Duración de la transición (s)")
+    ap.add_argument("--carrusel", action="store_true",
+                    help="En vez de un reel, genera las diapositivas como imágenes 1080x1350 para subir como carrusel")
     args = ap.parse_args()
 
     cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))
@@ -418,6 +515,31 @@ def main():
         return cache_uri[rel]
 
     SALIDA.mkdir(parents=True, exist_ok=True)
+
+    # ------------------------------------------------------------------
+    # Modo CARRUSEL: cada diapositiva -> una imagen 1080x1350 (.jpg)
+    # ------------------------------------------------------------------
+    if args.carrusel:
+        from PIL import Image
+        destino = SALIDA / f"{slug}-carrusel"
+        destino.mkdir(parents=True, exist_ok=True)
+        total = len(slides)
+        with tempfile.TemporaryDirectory() as td:
+            tmp = Path(td)
+            for i, slide in enumerate(slides):
+                rel = slide.get("foto") or foto_defecto
+                if not rel:
+                    sys.exit("ERROR: falta 'foto' (ni en la diapositiva ni en el reel)")
+                png = tmp / f"c_{i:02d}.png"
+                render_png(chrome, html_carrusel(slide, marca, uri_de(rel), i, total),
+                           png, tmp, transparente=False, w=CW, h=CH)
+                jpg = destino / f"{i+1:02d}.jpg"
+                Image.open(png).convert("RGB").save(jpg, quality=90)
+                print(f"  ✓ lámina {i+1}/{total} -> {jpg.name}")
+        print(f"\n✅ Carrusel generado: {destino}")
+        print(f"   {total} imágenes {CW}x{CH} (4:5) · súbelas en orden como carrusel")
+        return
+
     final = SALIDA / f"{slug}.mp4"
 
     with tempfile.TemporaryDirectory() as td:
