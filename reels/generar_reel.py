@@ -363,6 +363,61 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 
 
 # --------------------------------------------------------------------------
+# Plantilla "CHULETA" (infografía de referencia en una sola imagen 1080x1350)
+# --------------------------------------------------------------------------
+# Formato tipo "cheat sheet": título + grupos con sus ítems en chips + frase
+# de cierre. Es el formato que más se guarda y se envía por DM (las señales
+# que más pesan en el algoritmo). No necesita fotos: usa texto sobre crema.
+def html_chuleta(cfg: dict, marca: str) -> str:
+    fraunces = font_face("Fraunces", FONTS_DIR / "fraunces/files/fraunces-latin-wght-normal.woff2")
+    inter = font_face("Inter", FONTS_DIR / "inter/files/inter-latin-wght-normal.woff2")
+    grupos_html = ""
+    for g in cfg.get("grupos", []):
+        chips = "".join(f'<span class="chip">{escape(i)}</span>' for i in g.get("items", []))
+        grupos_html += f"""
+      <div class="grupo">
+        <div class="cab">{escape(g.get('cabecera',''))}</div>
+        <div class="chips">{chips}</div>
+      </div>"""
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>
+{fraunces}
+{inter}
+*{{margin:0;padding:0;box-sizing:border-box}}
+html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
+.canvas{{position:relative;width:{CW}px;height:{CH}px;background:{C['crema']};
+      padding:46px 44px;display:flex;flex-direction:column}}
+.borde{{position:absolute;inset:20px;border:3px solid {C['hoja']};border-radius:26px;
+      opacity:.55;pointer-events:none}}
+.marca{{font-family:'Fraunces',serif;font-weight:800;font-size:34px;color:{C['hoja']};
+      text-align:center;letter-spacing:.5px}}
+.titulo{{font-family:'Fraunces',serif;font-weight:900;font-size:64px;line-height:1.05;
+      color:{C['hoja_oscuro']};text-align:center;margin-top:14px}}
+.sub{{font-family:'Inter',sans-serif;font-weight:600;font-size:34px;color:#5a6b4f;
+      text-align:center;margin-top:14px;margin-bottom:8px}}
+.grupos{{flex:1;display:flex;flex-direction:column;justify-content:center;gap:26px}}
+.grupo{{}}
+.cab{{font-family:'Inter',sans-serif;font-weight:800;font-size:33px;letter-spacing:1px;
+      text-transform:uppercase;color:{C['crema']};background:{C['hoja']};
+      padding:16px 26px;border-radius:14px;text-align:center}}
+.chips{{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin-top:20px}}
+.chip{{font-family:'Inter',sans-serif;font-weight:700;font-size:34px;color:{C['hoja_oscuro']};
+      background:#fff;border:2px solid {C['mostaza']};padding:14px 28px;border-radius:999px;
+      box-shadow:0 3px 8px rgba(0,0,0,.06)}}
+.cierre{{font-family:'Inter',sans-serif;font-weight:700;font-size:29px;color:{C['crema']};
+      background:{C['hoja_oscuro']};padding:22px 28px;border-radius:16px;text-align:center;
+      line-height:1.3;margin-top:18px}}
+</style></head><body>
+<div class="canvas">
+  <div class="borde"></div>
+  <div class="marca">{escape(marca)}</div>
+  <h1 class="titulo">{escape(cfg.get('titulo',''))}</h1>
+  <p class="sub">{escape(cfg.get('subtitulo',''))}</p>
+  <div class="grupos">{grupos_html}</div>
+  <div class="cierre">{escape(cfg.get('cierre',''))}</div>
+</div></body></html>"""
+
+
+# --------------------------------------------------------------------------
 # Render de una capa a PNG con Chromium headless
 # --------------------------------------------------------------------------
 # Chromium headless deja sin pintar los últimos ~85 px de la ventana (aparece
@@ -494,10 +549,29 @@ def main():
     cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))
     slug = cfg.get("slug") or Path(args.config).stem
     marca = cfg.get("marca", "MiHuertoUrbano")
+    tipo = cfg.get("tipo", "reel")
     dur = float(cfg.get("duracion_slide", 3.4))
-    slides = cfg["slides"]
+    slides = cfg.get("slides", [])
 
     chrome = find_chrome()
+
+    # ------------------------------------------------------------------
+    # Modo CHULETA: una sola imagen 1080x1350 de referencia (cheat sheet)
+    # ------------------------------------------------------------------
+    if tipo == "chuleta":
+        from PIL import Image
+        SALIDA.mkdir(parents=True, exist_ok=True)
+        with tempfile.TemporaryDirectory() as td:
+            tmp = Path(td)
+            png = tmp / "chuleta.png"
+            render_png(chrome, html_chuleta(cfg, marca), png, tmp,
+                       transparente=False, w=CW, h=CH)
+            jpg = SALIDA / f"{slug}.jpg"
+            Image.open(png).convert("RGB").save(jpg, quality=92)
+        print(f"\n✅ Chuleta generada: {jpg}")
+        print(f"   1 imagen {CW}x{CH} (4:5) · lista para subir")
+        return
+
     ffmpeg = find_ffmpeg()
 
     logo_uri = data_uri(WEB_PUBLIC / "images" / "logo-full.png", "image/png")

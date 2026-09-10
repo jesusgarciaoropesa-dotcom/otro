@@ -1,0 +1,14 @@
+{
+  "slug": "luz-hortalizas-balcon",
+  "tipo": "chuleta",
+  "marca": "MiHuertoUrbano",
+  "articulo": "/articulos/cuantas-horas-sol-tiene-tu-balcon/",
+  "titulo": "¿Cuánta luz necesita cada hortaliza?",
+  "subtitulo": "Ubícala bien en tu balcón y producirá mucho más",
+  "grupos": [
+    { "cabecera": "Sol directo · 6 h o más", "items": ["Tomate", "Pimiento", "Berenjena", "Calabacín", "Fresas"] },
+    { "cabecera": "Sol moderado · 4-5 h", "items": ["Zanahoria", "Judías", "Ajo", "Cebolla", "Rabanitos"] },
+    { "cabecera": "Toleran semisombra · 3 h o menos", "items": ["Lechuga", "Espinaca", "Acelga", "Rúcula", "Perejil"] }
+  ],
+  "cierre": "La luz cambia con la estación: observa tu balcón un día entero antes de decidir dónde va cada maceta."
+}
