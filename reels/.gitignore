@@ -1,5 +1,7 @@
-# Vídeos generados (se recrean con el script; no se versionan)
-salida/*.mp4
+# Salidas generadas (vídeos e imágenes de carrusel): se recrean con el script,
+# no se versionan. Se conserva la carpeta con .gitkeep.
+salida/*
+!salida/.gitkeep
 
 # Caché de Python
 __pycache__/
