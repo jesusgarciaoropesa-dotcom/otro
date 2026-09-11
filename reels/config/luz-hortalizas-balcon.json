@@ -6,9 +6,27 @@
   "titulo": "¿Cuánta luz necesita cada hortaliza?",
   "subtitulo": "Ubícala bien en tu balcón y producirá mucho más",
   "grupos": [
-    { "cabecera": "Sol directo · 6 h o más", "items": ["Tomate", "Pimiento", "Berenjena", "Calabacín", "Fresas"] },
-    { "cabecera": "Sol moderado · 4-5 h", "items": ["Zanahoria", "Judías", "Ajo", "Cebolla", "Rabanitos"] },
-    { "cabecera": "Toleran semisombra · 3 h o menos", "items": ["Lechuga", "Espinaca", "Acelga", "Rúcula", "Perejil"] }
+    { "cabecera": "Sol directo · 6 h o más", "items": [
+      { "texto": "Tomate", "foto": "/images/articulos/cultivo-tomate-cherry-maceta.jpg" },
+      { "texto": "Pimiento", "foto": "/images/articulos/cultivo-pimiento-maceta.jpg" },
+      { "texto": "Berenjena", "foto": "/images/articulos/cultivo-berenjena-maceta.jpg" },
+      { "texto": "Calabacín", "foto": "/images/articulos/cultivo-calabacin-maceta.jpg" },
+      { "texto": "Fresas", "foto": "/images/articulos/cultivo-fresas-balcon.jpg" }
+    ] },
+    { "cabecera": "Sol moderado · 4-5 h", "items": [
+      { "texto": "Zanahoria", "foto": "/images/articulos/cultivo-zanahorias-maceta.jpg" },
+      { "texto": "Judías", "foto": "/images/articulos/judias-verdes-maceta.jpg" },
+      { "texto": "Ajo", "foto": "/images/articulos/ajos-maceta.jpg" },
+      { "texto": "Cebolla", "foto": "/images/articulos/cebollas-maceta.jpg" },
+      { "texto": "Rabanitos", "foto": "/images/articulos/cultivo-rabanitos-maceta.jpg" }
+    ] },
+    { "cabecera": "Toleran semisombra · 3 h o menos", "items": [
+      { "texto": "Lechuga", "foto": "/images/articulos/cultivo-lechuga-maceta.jpg" },
+      { "texto": "Espinaca", "foto": "/images/articulos/cultivo-espinacas-maceta.jpg" },
+      { "texto": "Acelga", "foto": "/images/articulos/cultivo-acelgas-maceta.jpg" },
+      { "texto": "Rúcula", "foto": "/images/articulos/cultivo-rucula-maceta.jpg" },
+      { "texto": "Perejil", "foto": "/images/articulos/cultivo-perejil-maceta.jpg" }
+    ] }
   ],
   "cierre": "La luz cambia con la estación: observa tu balcón un día entero antes de decidir dónde va cada maceta."
 }

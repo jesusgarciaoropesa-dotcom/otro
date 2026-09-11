@@ -368,16 +368,27 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 # Formato tipo "cheat sheet": título + grupos con sus ítems en chips + frase
 # de cierre. Es el formato que más se guarda y se envía por DM (las señales
 # que más pesan en el algoritmo). No necesita fotos: usa texto sobre crema.
-def html_chuleta(cfg: dict, marca: str) -> str:
+def html_chuleta(cfg: dict, marca: str, uri_de) -> str:
+    """Infografía de referencia con MINIATURA DE FOTO por ítem (más visual que
+    solo texto). Cada ítem puede ser un texto o {texto, foto}."""
     fraunces = font_face("Fraunces", FONTS_DIR / "fraunces/files/fraunces-latin-wght-normal.woff2")
     inter = font_face("Inter", FONTS_DIR / "inter/files/inter-latin-wght-normal.woff2")
     grupos_html = ""
     for g in cfg.get("grupos", []):
-        chips = "".join(f'<span class="chip">{escape(i)}</span>' for i in g.get("items", []))
+        items_html = ""
+        for it in g.get("items", []):
+            if isinstance(it, dict):
+                texto = it.get("texto", "")
+                foto = it.get("foto")
+            else:
+                texto, foto = it, None
+            thumb = (f'<div class="thumb" style="background-image:url({uri_de(foto)})"></div>'
+                     if foto else '<div class="thumb thumb-vacia"></div>')
+            items_html += f'<div class="item">{thumb}<div class="cap">{escape(texto)}</div></div>'
         grupos_html += f"""
       <div class="grupo">
         <div class="cab">{escape(g.get('cabecera',''))}</div>
-        <div class="chips">{chips}</div>
+        <div class="fila">{items_html}</div>
       </div>"""
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {fraunces}
@@ -385,27 +396,30 @@ def html_chuleta(cfg: dict, marca: str) -> str:
 *{{margin:0;padding:0;box-sizing:border-box}}
 html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 .canvas{{position:relative;width:{CW}px;height:{CH}px;background:{C['crema']};
-      padding:46px 44px;display:flex;flex-direction:column}}
-.borde{{position:absolute;inset:20px;border:3px solid {C['hoja']};border-radius:26px;
-      opacity:.55;pointer-events:none}}
-.marca{{font-family:'Fraunces',serif;font-weight:800;font-size:34px;color:{C['hoja']};
+      padding:40px 40px;display:flex;flex-direction:column}}
+.borde{{position:absolute;inset:18px;border:3px solid {C['hoja']};border-radius:26px;
+      opacity:.5;pointer-events:none}}
+.marca{{font-family:'Fraunces',serif;font-weight:800;font-size:32px;color:{C['hoja']};
       text-align:center;letter-spacing:.5px}}
-.titulo{{font-family:'Fraunces',serif;font-weight:900;font-size:64px;line-height:1.05;
-      color:{C['hoja_oscuro']};text-align:center;margin-top:14px}}
-.sub{{font-family:'Inter',sans-serif;font-weight:600;font-size:34px;color:#5a6b4f;
-      text-align:center;margin-top:14px;margin-bottom:8px}}
-.grupos{{flex:1;display:flex;flex-direction:column;justify-content:center;gap:26px}}
-.grupo{{}}
-.cab{{font-family:'Inter',sans-serif;font-weight:800;font-size:33px;letter-spacing:1px;
+.titulo{{font-family:'Fraunces',serif;font-weight:900;font-size:58px;line-height:1.05;
+      color:{C['hoja_oscuro']};text-align:center;margin-top:10px}}
+.sub{{font-family:'Inter',sans-serif;font-weight:600;font-size:30px;color:#5a6b4f;
+      text-align:center;margin-top:12px}}
+.grupos{{flex:1;display:flex;flex-direction:column;justify-content:center;gap:22px}}
+.cab{{font-family:'Inter',sans-serif;font-weight:800;font-size:30px;letter-spacing:1px;
       text-transform:uppercase;color:{C['crema']};background:{C['hoja']};
-      padding:16px 26px;border-radius:14px;text-align:center}}
-.chips{{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin-top:20px}}
-.chip{{font-family:'Inter',sans-serif;font-weight:700;font-size:34px;color:{C['hoja_oscuro']};
-      background:#fff;border:2px solid {C['mostaza']};padding:14px 28px;border-radius:999px;
-      box-shadow:0 3px 8px rgba(0,0,0,.06)}}
-.cierre{{font-family:'Inter',sans-serif;font-weight:700;font-size:29px;color:{C['crema']};
-      background:{C['hoja_oscuro']};padding:22px 28px;border-radius:16px;text-align:center;
-      line-height:1.3;margin-top:18px}}
+      padding:13px 24px;border-radius:12px;text-align:center}}
+.fila{{display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-top:18px}}
+.item{{width:172px;text-align:center}}
+.thumb{{width:150px;height:150px;margin:0 auto;border-radius:24px;
+      background-size:cover;background-position:center;border:4px solid {C['mostaza']};
+      box-shadow:0 5px 12px rgba(0,0,0,.14)}}
+.thumb-vacia{{background:#e7ddc7}}
+.cap{{font-family:'Inter',sans-serif;font-weight:700;font-size:28px;color:{C['hoja_oscuro']};
+      margin-top:12px;line-height:1.1}}
+.cierre{{font-family:'Inter',sans-serif;font-weight:700;font-size:28px;color:{C['crema']};
+      background:{C['hoja_oscuro']};padding:20px 26px;border-radius:16px;text-align:center;
+      line-height:1.3;margin-top:16px}}
 </style></head><body>
 <div class="canvas">
   <div class="borde"></div>
@@ -561,10 +575,19 @@ def main():
     if tipo == "chuleta":
         from PIL import Image
         SALIDA.mkdir(parents=True, exist_ok=True)
+        cache_ch: dict = {}
+
+        def uri_ch(rel: str) -> str:
+            if rel not in cache_ch:
+                p = resolve_foto(rel)
+                mime = "image/jpeg" if p.suffix.lower() in (".jpg", ".jpeg") else "image/png"
+                cache_ch[rel] = data_uri(p, mime)
+            return cache_ch[rel]
+
         with tempfile.TemporaryDirectory() as td:
             tmp = Path(td)
             png = tmp / "chuleta.png"
-            render_png(chrome, html_chuleta(cfg, marca), png, tmp,
+            render_png(chrome, html_chuleta(cfg, marca, uri_ch), png, tmp,
                        transparente=False, w=CW, h=CH)
             jpg = SALIDA / f"{slug}.jpg"
             Image.open(png).convert("RGB").save(jpg, quality=92)
