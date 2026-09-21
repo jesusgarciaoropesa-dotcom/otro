@@ -382,9 +382,11 @@ def html_chuleta(cfg: dict, marca: str, uri_de) -> str:
                 foto = it.get("foto")
             else:
                 texto, foto = it, None
+            nota = it.get("nota") if isinstance(it, dict) else None
             thumb = (f'<div class="thumb" style="background-image:url({uri_de(foto)})"></div>'
                      if foto else '<div class="thumb thumb-vacia"></div>')
-            items_html += f'<div class="item">{thumb}<div class="cap">{escape(texto)}</div></div>'
+            nota_html = f'<div class="nota">{escape(nota)}</div>' if nota else ''
+            items_html += f'<div class="item">{thumb}<div class="cap">{escape(texto)}</div>{nota_html}</div>'
         grupos_html += f"""
       <div class="grupo">
         <div class="cab">{escape(g.get('cabecera',''))}</div>
@@ -417,6 +419,8 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 .thumb-vacia{{background:#e7ddc7}}
 .cap{{font-family:'Inter',sans-serif;font-weight:700;font-size:28px;color:{C['hoja_oscuro']};
       margin-top:12px;line-height:1.1}}
+.nota{{font-family:'Inter',sans-serif;font-weight:600;font-size:23px;color:{C['tierra']};
+      margin-top:3px;line-height:1.1}}
 .cierre{{font-family:'Inter',sans-serif;font-weight:700;font-size:28px;color:{C['crema']};
       background:{C['hoja_oscuro']};padding:20px 26px;border-radius:16px;text-align:center;
       line-height:1.3;margin-top:16px}}
