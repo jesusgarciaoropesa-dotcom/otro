@@ -285,23 +285,25 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
     con el texto mínimo abajo sobre un degradado. Foto protagonista."""
     fraunces = font_face("Fraunces", FONTS_DIR / "fraunces/files/fraunces-latin-wght-normal.woff2")
     inter = font_face("Inter", FONTS_DIR / "inter/files/inter-latin-wght-normal.woff2")
-    es_cta = bool(slide.get("cta"))
-    es_portada = indice == 0
-
-    if es_cta:
-        bloque = f"""
-      <div class="cta-pill">{escape(slide['pildora'])}</div>
-      <p class="sub">{escape(slide.get('subtitulo',''))}</p>"""
-    else:
+    # Cada lámina: kicker (dorado) + titular + explicación + píldora dorada abajo
+    # que va guiando (Desliza → Sigue → Guarda esto), como en los carruseles propios.
+    kicker = slide.get('kicker', '')
+    sub = slide.get('subtitulo', '')
+    pildora = slide.get('pildora', '')
+    partes = []
+    if kicker:
+        partes.append(f'<p class="kicker">{escape(kicker)}</p>')
+    if slide.get('titulo'):
         titulo_html = subrayar(slide["titulo"], slide.get("destacado", ""))
-        sub = slide.get('subtitulo', '')
-        bloque = f"""
-      <p class="kicker">{escape(slide.get('kicker',''))}</p>
-      <h1 class="titular">{titulo_html}</h1>
-      {f'<p class="sub">{escape(sub)}</p>' if sub else ''}"""
+        partes.append(f'<h1 class="titular">{titulo_html}</h1>')
+    if sub:
+        partes.append(f'<p class="sub">{escape(sub)}</p>')
+    if pildora:
+        partes.append(f'<div class="pildora">{escape(pildora)}</div>')
+    bloque = "\n      ".join(partes)
 
-    hint = '<div class="desliza">desliza →</div>' if es_portada else ""
-    contador = "" if es_portada else f'<div class="contador">{indice+1}/{total}</div>'
+    hint = ""
+    contador = f'<div class="contador">{indice+1}/{total}</div>'
 
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {fraunces}
@@ -332,13 +334,10 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
       height:12px;border-radius:6px;background:{C['mostaza']}}}
 .sub{{font-family:'Inter',sans-serif;font-weight:700;font-size:44px;color:#f3ede0;
       margin-top:26px;line-height:1.2;text-shadow:0 2px 10px rgba(0,0,0,.7)}}
-.cta-pill{{display:inline-block;font-family:'Inter',sans-serif;font-weight:800;
-      font-size:40px;letter-spacing:1px;text-transform:uppercase;
-      color:{C['hoja_oscuro']};background:{C['mostaza']};
-      padding:24px 50px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.5)}}
-.desliza{{position:absolute;bottom:70px;right:70px;font-family:'Inter',sans-serif;
-      font-weight:800;font-size:34px;color:{C['hoja_oscuro']};background:{C['mostaza']};
-      padding:16px 34px;border-radius:999px;box-shadow:0 8px 20px rgba(0,0,0,.45)}}
+.pildora{{display:inline-block;font-family:'Inter',sans-serif;font-weight:800;
+      font-size:36px;color:{C['hoja_oscuro']};background:{C['mostaza']};
+      padding:18px 40px;border-radius:999px;margin-top:30px;
+      box-shadow:0 8px 22px rgba(0,0,0,.5)}}
 </style></head><body>
 <div class="canvas">
   <div class="foto"></div>
