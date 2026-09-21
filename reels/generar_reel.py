@@ -281,28 +281,26 @@ CWIN_BOTTOM = CWIN_TOP + CWIN_H
 
 
 def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: int) -> str:
-    """Una diapositiva de carrusel completa (fondo + texto + marca + contador)
-    en una sola imagen estática 1080x1350."""
+    """Una diapositiva de carrusel: FOTO GRANDE a pantalla completa (1080x1350)
+    con el texto mínimo abajo sobre un degradado. Foto protagonista."""
     fraunces = font_face("Fraunces", FONTS_DIR / "fraunces/files/fraunces-latin-wght-normal.woff2")
     inter = font_face("Inter", FONTS_DIR / "inter/files/inter-latin-wght-normal.woff2")
-    band_top = CWIN_BOTTOM - 25
     es_cta = bool(slide.get("cta"))
     es_portada = indice == 0
 
     if es_cta:
         bloque = f"""
       <div class="cta-pill">{escape(slide['pildora'])}</div>
-      <p class="sub cta-sub">{escape(slide.get('subtitulo',''))}</p>"""
+      <p class="sub">{escape(slide.get('subtitulo',''))}</p>"""
     else:
         titulo_html = subrayar(slide["titulo"], slide.get("destacado", ""))
+        sub = slide.get('subtitulo', '')
         bloque = f"""
       <p class="kicker">{escape(slide.get('kicker',''))}</p>
       <h1 class="titular">{titulo_html}</h1>
-      <p class="sub">{escape(slide.get('subtitulo',''))}</p>"""
+      {f'<p class="sub">{escape(sub)}</p>' if sub else ''}"""
 
-    # Pista de deslizar solo en la portada; en la última (cta) no hace falta.
     hint = '<div class="desliza">desliza →</div>' if es_portada else ""
-    # Contador de páginas (1/6) en todas menos la portada, para no recargar el gancho.
     contador = "" if es_portada else f'<div class="contador">{indice+1}/{total}</div>'
 
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
@@ -311,50 +309,40 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
 *{{margin:0;padding:0;box-sizing:border-box}}
 html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 .canvas{{position:relative;width:{CW}px;height:{CH}px;background:{C['hoja_oscuro']}}}
-.blur{{position:absolute;top:-140px;left:-140px;width:{CW+280}px;height:{CH+280}px;
-      background:url('{foto_uri}') center/cover no-repeat;
-      filter:blur(34px) brightness(.78) saturate(1.05)}}
-.tinte{{position:absolute;inset:0;background:
-      linear-gradient(180deg, rgba(20,30,16,.55) 0%, rgba(20,30,16,.12) 20%,
-      rgba(20,30,16,.12) 45%, rgba(15,22,12,.78) 100%)}}
-.ventana{{position:absolute;left:0;right:0;top:{CWIN_TOP}px;height:{CWIN_H}px;
-      background:url('{foto_uri}') center/cover no-repeat;
-      box-shadow:0 18px 40px rgba(0,0,0,.45)}}
-.banda{{position:absolute;left:0;top:{band_top}px;width:{CW}px;height:{CH-band_top}px;
-      background:linear-gradient(180deg,
-        rgba(63,107,58,0) 0%, rgba(36,64,31,.92) 16%,
-        rgba(20,32,16,.97) 42%, rgba(12,18,10,.98) 100%)}}
-.marca{{position:absolute;top:70px;left:0;right:0;text-align:center;
-      font-family:'Fraunces',serif;font-weight:800;font-size:44px;color:{C['crema']};
-      letter-spacing:.5px;text-shadow:0 2px 10px rgba(0,0,0,.55)}}
-.contador{{position:absolute;top:80px;right:56px;font-family:'Inter',sans-serif;
-      font-weight:800;font-size:30px;color:{C['crema']};opacity:.9;
-      background:rgba(0,0,0,.35);padding:8px 18px;border-radius:999px}}
-.textos{{position:absolute;left:64px;right:64px;top:{band_top+70}px;text-align:center}}
-.kicker{{font-family:'Inter',sans-serif;font-weight:800;font-size:32px;
-      letter-spacing:5px;text-transform:uppercase;color:{C['mostaza_claro']};
-      margin-bottom:22px}}
-.titular{{font-family:'Fraunces',serif;font-weight:900;font-size:72px;
-      line-height:1.05;color:#fdfaf2;text-shadow:0 3px 14px rgba(0,0,0,.5)}}
+/* La foto ocupa TODO el lienzo */
+.foto{{position:absolute;inset:0;background:url('{foto_uri}') center/cover no-repeat}}
+/* Degradado arriba (para marca) y fuerte abajo (para el texto) */
+.scrim{{position:absolute;inset:0;background:
+      linear-gradient(180deg, rgba(12,18,10,.55) 0%, rgba(12,18,10,0) 22%,
+      rgba(12,18,10,0) 40%, rgba(12,18,10,.72) 72%, rgba(10,15,8,.94) 100%)}}
+.marca{{position:absolute;top:60px;left:0;right:0;text-align:center;
+      font-family:'Fraunces',serif;font-weight:800;font-size:42px;color:{C['crema']};
+      letter-spacing:.5px;text-shadow:0 2px 12px rgba(0,0,0,.7)}}
+.contador{{position:absolute;top:66px;right:52px;font-family:'Inter',sans-serif;
+      font-weight:800;font-size:30px;color:#fff;
+      background:rgba(0,0,0,.4);padding:8px 20px;border-radius:999px}}
+.textos{{position:absolute;left:70px;right:70px;bottom:96px;text-align:left}}
+.kicker{{font-family:'Inter',sans-serif;font-weight:800;font-size:30px;
+      letter-spacing:4px;text-transform:uppercase;color:{C['mostaza_claro']};
+      margin-bottom:18px;text-shadow:0 2px 8px rgba(0,0,0,.7)}}
+.titular{{font-family:'Fraunces',serif;font-weight:900;font-size:82px;
+      line-height:1.02;color:#fff;text-shadow:0 3px 16px rgba(0,0,0,.65)}}
 .titular .hl{{position:relative;white-space:nowrap}}
-.titular .hl::after{{content:'';position:absolute;left:4%;right:4%;bottom:-.10em;
-      height:10px;border-radius:6px;background:{C['mostaza']}}}
-.sub{{font-family:'Inter',sans-serif;font-weight:700;font-size:42px;color:#f3ede0;
-      margin-top:34px;text-shadow:0 2px 10px rgba(0,0,0,.5)}}
+.titular .hl::after{{content:'';position:absolute;left:2%;right:2%;bottom:-.08em;
+      height:12px;border-radius:6px;background:{C['mostaza']}}}
+.sub{{font-family:'Inter',sans-serif;font-weight:700;font-size:44px;color:#f3ede0;
+      margin-top:26px;line-height:1.2;text-shadow:0 2px 10px rgba(0,0,0,.7)}}
 .cta-pill{{display:inline-block;font-family:'Inter',sans-serif;font-weight:800;
       font-size:40px;letter-spacing:1px;text-transform:uppercase;
       color:{C['hoja_oscuro']};background:{C['mostaza']};
-      padding:24px 50px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.4)}}
-.cta-sub{{margin-top:40px}}
-.desliza{{position:absolute;bottom:70px;right:64px;font-family:'Inter',sans-serif;
+      padding:24px 50px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.5)}}
+.desliza{{position:absolute;bottom:70px;right:70px;font-family:'Inter',sans-serif;
       font-weight:800;font-size:34px;color:{C['hoja_oscuro']};background:{C['mostaza']};
-      padding:16px 34px;border-radius:999px;box-shadow:0 8px 20px rgba(0,0,0,.4)}}
+      padding:16px 34px;border-radius:999px;box-shadow:0 8px 20px rgba(0,0,0,.45)}}
 </style></head><body>
 <div class="canvas">
-  <div class="blur"></div>
-  <div class="tinte"></div>
-  <div class="ventana"></div>
-  <div class="banda"></div>
+  <div class="foto"></div>
+  <div class="scrim"></div>
   <div class="marca">{escape(marca)}</div>
   {contador}
   <div class="textos">{bloque}</div>

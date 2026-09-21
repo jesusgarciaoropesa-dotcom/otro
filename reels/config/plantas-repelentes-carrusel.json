@@ -1,0 +1,13 @@
+{
+  "slug": "plantas-repelentes-plagas",
+  "marca": "MiHuertoUrbano",
+  "articulo": "/articulos/plantas-repelentes-plagas-huerto/",
+  "slides": [
+    { "foto": "/images/articulos/balcon-frondoso-beneficios.jpg", "kicker": "SIN QUÍMICOS", "titulo": "Plantas que espantan las plagas", "destacado": "espantan" },
+    { "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "kicker": "Repele el pulgón", "titulo": "Caléndula", "destacado": "Caléndula", "subtitulo": "y atrae mariquitas que se lo comen" },
+    { "foto": "/images/articulos/cultivo-albahaca-maceta.jpg", "kicker": "Contra la mosca blanca", "titulo": "Albahaca", "destacado": "Albahaca", "subtitulo": "plántala junto a los tomates" },
+    { "foto": "/images/articulos/cultivo-menta-maceta.jpg", "kicker": "Pulgón y hormigas", "titulo": "Menta", "destacado": "Menta", "subtitulo": "en maceta aparte: es invasiva" },
+    { "foto": "/images/articulos/ajos-maceta.jpg", "kicker": "Pulgón y araña roja", "titulo": "Ajo y cebollino", "destacado": "Ajo", "subtitulo": "su olor los mantiene lejos" },
+    { "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "cta": true, "pildora": "GUÁRDALO · GUÍA EN LA BIO", "subtitulo": "Tu balcón se defiende casi solo" }
+  ]
+}
