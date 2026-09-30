@@ -12,6 +12,8 @@ faq:
     respuesta: "Para pocas macetas, uno de gatillo de 1-2 litros basta. Si tienes muchas plantas o tratas a menudo, uno de presión previa (le das aire con una bomba y pulveriza solo) cansa mucho menos la mano y da un chorro más constante y fino."
   - pregunta: "¿Puedo usar el mismo pulverizador para agua y para tratamientos?"
     respuesta: "Es mejor tener uno reservado para tratamientos (aceites, jabones) y otro solo para agua, porque los restos de producto son difíciles de limpiar del todo y podrían dañar plantas sensibles. Si usas uno solo, enjuágalo muy bien entre usos."
+  - pregunta: "¿Cada cuánto hay que limpiar el pulverizador?"
+    respuesta: "Después de cada tratamiento. Nunca dejes el caldo dentro: los aceites y jabones obstruyen la boquilla y estropean las juntas. Enjuaga el depósito, pulveriza agua limpia para vaciar el tubo y la boquilla, y guárdalo seco y sin presión."
 ---
 
 Un pulverizador es una de esas herramientas humildes que usas más de lo que crees: para tratamientos ecológicos, humedecer semilleros, subir la humedad o dar un riego foliar. Elegir el adecuado hace que los tratamientos se repartan bien y de verdad funcionen.
@@ -51,6 +53,19 @@ Genera una niebla muy fina, ideal para **subir la humedad** alrededor de plantas
 **Recomendado para**: humedad ambiental y trabajo delicado con plántulas.
 
 <a href="https://www.amazon.es/s?k=nebulizador+atomizador+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+## En qué fijarte al elegir
+
+- **Capacidad**: para balcón, 1-2 litros van sobrados; más solo pesa y cansa.
+- **Boquilla regulable**: que pase de **chorro a niebla** girando la punta; la niebla fina es la que mejor cubre el envés de la hoja, donde se esconden las plagas.
+- **Materiales**: juntas y depósito que aguanten aceites y jabones sin degradarse.
+- **Comodidad**: en los de presión previa, mira que la bomba y el asa sean cómodas si vas a tratar muchas plantas.
+
+## Cómo mantenerlo para que dure
+
+- **Enjuágalo tras cada tratamiento**: nunca dejes el caldo dentro (obstruye la boquilla y pudre las juntas).
+- **Limpia la boquilla** con agua a contracorriente si empieza a salir a chorros irregulares.
+- **Guárdalo sin presión** y en sombra; el sol reseca las gomas.
 
 ## Nuestra recomendación
 

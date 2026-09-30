@@ -12,6 +12,8 @@ faq:
     respuesta: "Los de raíz poco profunda y ciclo corto: aromáticas, lechugas y hojas de corte, fresas y rabanitos. Los cultivos grandes y de raíz profunda (tomate, calabacín) van mejor en maceta al suelo."
   - pregunta: "¿Cuál es la mayor desventaja del huerto vertical?"
     respuesta: "El reparto desigual de luz y agua entre niveles: arriba llega más sol pero se seca antes, y abajo puede faltar luz. Colocar bien cada cultivo según su exigencia resuelve la mayor parte."
+  - pregunta: "¿El huerto vertical necesita más riego?"
+    respuesta: "Sí, sobre todo en los niveles altos, que reciben más sol y aire y se secan antes. Con poco volumen de sustrato la tierra aguanta menos, así que en verano toca regar más a menudo. Un pequeño sistema de goteo por niveles resuelve casi todo el problema."
 
 ---
 
@@ -34,6 +36,19 @@ En una estructura vertical de varios niveles, no todos reciben la misma cantidad
 ## Qué cultivos rentabilizan mejor el cultivo vertical
 
 Aromáticas, lechugas, fresas y otras plantas de raíz poco profunda aprovechan muy bien el formato vertical sin apenas penalización de producción, según detallamos en nuestra guía de [mejores plantas para cultivo vertical en balcón](/articulos/mejores-plantas-cultivo-vertical-balcon/). Los cultivos de fruto grande, en cambio, suelen rendir mejor en macetas individuales con más volumen de sustrato.
+
+## Un ejemplo con números
+
+Imagina **1 m² de suelo** de balcón:
+
+- **En horizontal**, caben unas **4-6 macetas** medianas (una lechuga o aromática grande por maceta).
+- **En vertical**, una torre o jardinera de bolsillos en ese mismo metro puede sostener **12-20 plantas** de hoja y aromáticas repartidas en niveles.
+
+Aunque cada planta del vertical rinda algo menos (menos sustrato), el **total sale claramente a favor** del vertical para hojas y aromáticas. Para un tomate o una berenjena, en cambio, una sola maceta grande al suelo gana.
+
+## El riego, el otro gran factor
+
+En vertical, **los niveles altos se secan mucho antes** (más sol, más aire, menos tierra). Si riegas a mano, tendrás que pasar más a menudo por arriba; agrupa cada cultivo por su sed y, si puedes, pon un pequeño **goteo por niveles**: es lo que iguala la producción entre pisos.
 
 ## Conclusión práctica
 

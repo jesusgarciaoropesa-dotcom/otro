@@ -12,6 +12,10 @@ faq:
     respuesta: "Casi siempre por sembrar demasiado juntos, exceso de nitrógeno o poca luz: la planta crece en hojas a costa de la raíz. Aclara las plántulas dejando espacio, no abones de más y dales buena luz."
   - pregunta: "¿Necesitan mucha profundidad de maceta?"
     respuesta: "No: con 15 cm de profundidad basta, lo que los hace perfectos para jardineras. Lo importante es un sustrato suelto para que el bulbo engorde sin obstáculos y un riego constante para que no piquen."
+  - pregunta: "¿Se comen las hojas del rabanito?"
+    respuesta: "Sí, y están buenas. Las hojas son comestibles, con un punto parecido al de la mostaza; van muy bien salteadas con ajo o en crema. Así aprovechas la planta entera en vez de tirar la mitad."
+  - pregunta: "¿Cuándo se pueden sembrar rabanitos?"
+    respuesta: "Casi todo el año en balcón, salvo en el pico de calor del verano (pican y se suben a flor) y en lo más crudo del invierno. Primavera y otoño son las mejores épocas. Germinan en 3-5 días, así que enseguida ves resultados."
 
 ---
 
@@ -49,6 +53,28 @@ Cosecha en cuanto la raíz asome ligeramente sobre la superficie del sustrato y 
 
 Al ser un ciclo tan corto, siembra un pequeño grupo nuevo cada 2 semanas en lugar de todo de una vez: así tendrás rabanitos frescos de forma escalonada durante toda la temporada en lugar de una única cosecha grande y puntual.
 
+## Cuándo sembrarlos
+
+Se pueden sembrar **casi todo el año** en balcón, salvo en el pico de calor del verano (con calor fuerte pican y se suben a flor) y en lo más crudo del invierno. **Primavera y otoño** son las mejores épocas. Germinan en 3-5 días.
+
+## Variedades para maceta
+
+- **Redondos** (tipo *Cherry Belle* o *Redondo rojo*): los clásicos, rápidos y de sabor suave.
+- **Alargados** (tipo *French Breakfast*): rojos con la punta blanca, algo más picantes y muy vistosos.
+
+Los dos van perfectos en jardinera; para empezar, cualquier sobre te sirve.
+
 ## Combínalos con otros cultivos
 
 Por su ciclo corto y poco espacio necesario, los rabanitos son ideales para intercalar entre plantas de crecimiento más lento (como tomates recién trasplantados), aprovechando el espacio libre mientras esas otras plantas todavía son pequeñas.
+
+## Problemas más comunes
+
+- **Todo hoja y sin bulbo**: sembrados muy juntos, exceso de nitrógeno o poca luz. Aclara, no abones de más y dales luz.
+- **Pican mucho o salen leñosos**: riego irregular o cosecha tardía. Riega constante y cógelos a tiempo.
+- **Se agrietan**: por un riego abundante tras varios días secos. Mantén la humedad regular.
+- **Agujeritos en las hojas**: pulgón o pulguilla; repasa [cómo prevenir plagas sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/).
+
+## No tires las hojas
+
+Las hojas del rabanito son **comestibles y ricas**, con un punto parecido al de la mostaza. Salteadas con ajo o en crema aprovechas la planta entera. Córtalas frescas, que se marchitan pronto.

@@ -12,6 +12,10 @@ faq:
     respuesta: "Sí: priorizando cultivos de alto rendimiento por espacio (aromáticas, hojas de corte, tomate cherry) y aprovechando el vertical con estanterías o jardineras colgantes multiplicas lo que cabe. Lo importante es la luz, más que los metros."
   - pregunta: "¿Es mejor tener mucho espacio o poco bien aprovechado?"
     respuesta: "Poco bien gestionado: no necesitas más superficie de la que puedas mantener con tu tiempo. Un balcón pequeño cuidado produce más que una terraza grande descuidada."
+  - pregunta: "¿Qué cultivos rinden más en poco espacio?"
+    respuesta: "Las aromáticas de corte (perejil, cebollino, albahaca), las hojas de corte (lechuga, rúcula, espinaca) y el tomate cherry en vertical. Todos dan mucho por maceta y de forma continua. Evita en poco espacio los que ocupan mucho y rinden poco: calabacín, melón, patata o maíz."
+  - pregunta: "¿Importa más la luz o los metros?"
+    respuesta: "La luz, con diferencia. Un balcón de 1 m² a pleno sol produce más que una terraza de 6 m² en sombra. Antes de contar metros, mira cuántas horas de sol directo recibe tu balcón."
 
 ---
 
@@ -45,6 +49,21 @@ A partir de 3-4 m² ya puedes plantearte un huerto más completo: un tomate o pi
 ## Aprovecha el espacio vertical si el suelo se queda corto
 
 Si tu balcón es muy pequeño, la solución no es renunciar a cultivar más, sino mirar hacia arriba: una [estructura de cultivo vertical](/categorias/cultivo-vertical/) puede triplicar la superficie útil sin ocupar más suelo del que ya tienes.
+
+## Los cultivos que más rinden por espacio
+
+Si vas justo de sitio, prioriza los que dan mucho por maceta y de forma continua:
+
+- **Aromáticas de corte** (perejil, cebollino, albahaca): cortas y rebrotan una y otra vez.
+- **Hojas de corte** (lechuga, rúcula, espinaca): cosechas hoja a hoja durante semanas sin arrancar la planta.
+- **Tomate cherry** con tutor: crece hacia arriba, así que ocupa poca base y produce muchísimo.
+- **Rabanitos**: ciclo cortísimo y siembra escalonada.
+
+Y **evita en poco espacio** los que ocupan mucho para lo que rinden: calabacín, melón, patata o maíz.
+
+## La luz manda más que los metros
+
+Antes de contar metros cuadrados, cuenta **horas de sol**. Un rincón de 1 m² a pleno sol produce más que una terraza grande en sombra. Comprueba cuánta luz directa recibe tu balcón con esta guía de [cuántas horas de sol tiene tu balcón](/articulos/cuantas-horas-sol-tiene-tu-balcon/): con menos de 3-4 horas, céntrate en hojas y aromáticas, que toleran la media sombra.
 
 ## No necesitas más espacio del que puedas mantener
 

@@ -12,6 +12,8 @@ faq:
     respuesta: "Los cultivos grandes y de raíz profunda o mucho peso (tomate, calabacín, frutales) y los que piden riego muy abundante, porque arriba se seca antes. Resérvalos para macetas al suelo."
   - pregunta: "¿Cómo organizo los cultivos por niveles?"
     respuesta: "Arriba, donde hay más sol pero se seca antes, pon lo que aguante más sequedad (aromáticas mediterráneas); abajo, lo que tolere algo de sombra y quiera más humedad (hojas). Agrupa por necesidad de agua para regar mejor."
+  - pregunta: "¿Puedo poner tomate en un huerto vertical?"
+    respuesta: "Un tomate cherry de mata pequeña sí, con un buen tutor y en el nivel de arriba (donde hay más sol y sitio para que caiga). Los tomates de mata grande, las berenjenas o los calabacines no: pesan mucho, necesitan más sustrato del que da un nivel y desestabilizan la estructura. Esos, a maceta al suelo."
 
 ---
 
@@ -32,6 +34,16 @@ Lechugas, espinacas y rúcula funcionan muy bien en torres y jardineras vertical
 ## Fresas
 
 Las fresas son uno de los cultivos estrella del cultivo vertical: su porte colgante aprovecha muy bien las <a href="https://www.amazon.es/s?k=torre+cultivo+apilable+fresas&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener">torres apilables</a> o las <a href="https://www.amazon.es/s?k=jardinera+vertical+bolsillos&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener">jardineras de bolsillos</a>, y los frutos quedan protegidos del contacto directo con el suelo, reduciendo el riesgo de podredumbre.
+
+## Un ejemplo de torre bien montada
+
+Si tienes una torre de 3-4 niveles, un reparto que funciona muy bien:
+
+- **Nivel de arriba** (más sol, se seca antes): **aromáticas mediterráneas** resistentes a la sequía (romero, tomillo, orégano) o **fresas** colgantes.
+- **Niveles del medio** (buena luz, humedad estable): **lechuga, rúcula y espinaca** de corte, que aprovechan para rebrotar varias veces.
+- **Nivel de abajo** (algo más de sombra, más húmedo): **perejil, cebollino** y más hojas que toleran menos sol.
+
+Así cada planta va donde mejor le viene y riegas de forma más pareja.
 
 ## Qué evitar en niveles altos
 
