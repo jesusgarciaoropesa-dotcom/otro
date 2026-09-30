@@ -12,6 +12,8 @@ faq:
     respuesta: "Sobre todo mantener y planificar: proteger los cultivos del frío, cosechar las hortalizas de invierno (coles, kale, acelgas), revisar herramientas y organizar las semillas y la temporada que empieza en enero. Es un mes de pausa activa."
   - pregunta: "¿El frío estropea los cultivos de invierno?"
     respuesta: "Al contrario, muchos mejoran: el kale y las coles se vuelven más dulces tras las primeras heladas. Lo que hay que evitar es el encharcamiento y proteger los cultivos más sensibles con un mini-invernadero o una tela en las noches de helada fuerte."
+  - pregunta: "¿Por qué se me pudren las plantas en invierno si casi no riego?"
+    respuesta: "Porque en invierno la tierra tarda muchísimo en secarse (poco sol, poca evaporación) y, si además llueve sobre las macetas o los platos acumulan agua, las raíces se asfixian. En diciembre el enemigo no es la sequía, es el exceso de humedad: riega solo cuando la tierra esté seca y vacía los platos."
 ---
 
 Diciembre es el mes de menos actividad en el huerto de balcón, pero no de parón total. Se planta poco, se cuida lo que resiste el frío y, sobre todo, es el momento perfecto para **planificar el año que empieza**. Un respiro con el que dejarlo todo a punto para el arranque de enero.
@@ -33,6 +35,16 @@ En las noches de helada, cobija lo más sensible con un [mini-invernadero de bal
 ## Cosecha lo de temporada
 
 Es momento de recoger las hortalizas de invierno que sembraste en otoño: acelgas, espinacas, lechugas de hoja y las primeras coles y brócolis. Ve cortando a demanda, que aguantan bien en la planta.
+
+## Cuidado con el encharcamiento
+
+En diciembre el enemigo no es la sequía, es el **exceso de agua**. Con poco sol la tierra tarda muchísimo en secarse, y si encima llueve sobre las macetas, las raíces se asfixian y se pudren. Para evitarlo:
+
+- **Riega solo cuando la tierra esté seca** al meter el dedo; muchas semanas casi no hará falta.
+- **Vacía los platos** bajo las macetas: nada de agua estancada.
+- Si llueve mucho, **arrima las macetas a la pared** o bajo el alero.
+
+Tienes el detalle en [cómo evitar el exceso de riego y los hongos](/articulos/como-evitar-exceso-riego-hongo-macetas/).
 
 ## El mejor mes para planificar
 

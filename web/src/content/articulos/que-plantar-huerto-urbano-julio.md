@@ -12,6 +12,8 @@ faq:
     respuesta: "Mucho más que en primavera. En pleno verano muchas macetas necesitan riego diario, y las más expuestas incluso dos veces al día. Riega temprano por la mañana o al atardecer, nunca al mediodía, y siempre al sustrato, no a las hojas."
   - pregunta: "¿Cómo protejo el huerto del calor extremo en julio?"
     respuesta: "Con tres medidas: una malla de sombreo unas horas al día en las plantas más sensibles, un acolchado sobre la tierra para conservar la humedad y agrupar las macetas para que se den sombra entre ellas. Y si te vas de vacaciones, deja montado un riego automático."
+  - pregunta: "¿Qué se cosecha en julio?"
+    respuesta: "El mes de más cosecha: tomates, pimientos, berenjenas, calabacines, pepinos y judías a pleno rendimiento, además de fresas. También se recogen y se ponen a curar los ajos y las cebollas cuando su hoja se seca."
 ---
 
 Julio es el mes más exigente del huerto de balcón. No es tanto de sembrar como de **sostener** lo que ya tienes en marcha bajo un sol de justicia. Con un buen riego, algo de sombra y cosechas frecuentes, el balcón aguanta en plena forma el pico del verano.
@@ -37,6 +39,14 @@ En las horas centrales el sol castiga mucho. Alivia a las plantas con una **mall
 ## Mantén los cultivos de verano
 
 Tomates, pimientos, berenjenas y pepinos están en plena producción. **Cosecha a menudo** (recoger el fruto maduro estimula nuevas flores), sigue con el destallado del tomate y abona con regularidad para sostener el ritmo.
+
+## Qué se cosecha en julio
+
+Es el mes de mayor cosecha del año en el balcón:
+
+- **Frutos de verano**: tomates, pimientos, berenjenas, calabacines y pepinos a pleno rendimiento.
+- **Judías verdes y fresas**: en plena producción; recoge a menudo.
+- **Ajos y cebollas**: cuando la hoja se seca y se dobla, se arrancan y se dejan **curar** a la sombra unos días antes de guardarlos.
 
 ## Aromáticas en su mejor momento
 

@@ -12,6 +12,8 @@ faq:
     respuesta: "Sí, es su época ideal. Los ajos se plantan en otoño para que enraícen antes del frío y se recolecten a principios del verano siguiente. Basta con enterrar los dientes con la punta hacia arriba en una maceta o jardinera honda."
   - pregunta: "¿Hay que cambiar el riego en octubre?"
     respuesta: "Sí, hay que reducirlo. Con menos calor y días más cortos las plantas transpiran mucho menos y la tierra tarda más en secarse, así que se riega bastante menos que en verano. Comprueba siempre la humedad antes de regar para no encharcar."
+  - pregunta: "¿Qué se cosecha en octubre?"
+    respuesta: "Las últimas hortalizas de verano rezagadas y las primeras hojas de otoño (rúcula, lechuga, rabanitos). Si tienes frutales, es temporada de granada, caqui, membrillo y últimas uvas."
 ---
 
 Octubre es, junto a la primavera, uno de los mejores momentos para sembrar en el balcón. El calor afloja, las plagas remiten y los **cultivos de hoja** encuentran su clima ideal. Además, es el mes de plantar ajos y cebollas y de preparar el huerto para el frío que se acerca.
@@ -37,6 +39,14 @@ Las **coles, el brócoli y el kale** que sembraste en semillero a final del vera
 ## Frutos rojos en reposo
 
 Empieza la temporada de plantar frutales de hoja caduca y frutos rojos a raíz desnuda. Si te apetece, mira [cómo cultivar frambuesas y moras en maceta](/articulos/como-cultivar-frambuesas-moras-en-maceta/).
+
+## Qué se cosecha en octubre
+
+Mientras siembras lo nuevo, el balcón aún da de comer:
+
+- **Rezagados del verano**: últimos tomates, pimientos y berenjenas antes de retirarlos.
+- **Primeras hojas de otoño**: rúcula, lechuga y rabanitos de las siembras de septiembre.
+- **Fruta de temporada**: si tienes frutales, granada, caqui, membrillo y las últimas uvas.
 
 ## Ajusta los cuidados al otoño
 

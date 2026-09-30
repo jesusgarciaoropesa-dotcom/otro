@@ -12,6 +12,8 @@ faq:
     respuesta: "Depende de tu zona. En climas suaves sí, sobre todo en la segunda quincena; en zonas de interior con riesgo de heladas tardías conviene esperar a que las noches se estabilicen o proteger las plántulas. Endurécelas unos días antes de sacarlas definitivamente al exterior."
   - pregunta: "¿Sigue habiendo peligro de heladas en abril?"
     respuesta: "En muchas zonas de interior, sí, sobre todo a primeros de mes. Vigila la previsión y ten a mano una protección (mini-invernadero o una tela) para las noches más frías antes de sacar los cultivos sensibles al calor."
+  - pregunta: "¿Qué se cosecha en abril?"
+    respuesta: "Las primeras hojas de primavera: lechugas, rúcula, espinacas y acelgas, además de rabanitos. En zonas de clima suave empiezan a estar los guisantes y las habas sembrados en otoño, y las primeras fresas."
 ---
 
 Abril es uno de los meses más agradecidos del calendario: las temperaturas suben, los días se alargan y el balcón se llena de vida. Es momento de sembrar a pleno rendimiento y de empezar a trasplantar, siempre con un ojo puesto en las **últimas heladas** de la primavera.
@@ -38,6 +40,14 @@ Todavía a tiempo de sembrar en semillero **calabacines y pepinos** para traspla
 ## Cuidados del mes
 
 Con el aumento de temperatura, el riego empieza a pedir más atención. Si prevés un verano ajetreado, es buen momento para plantearte un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/) antes de que apriete el calor.
+
+## Qué se cosecha en abril
+
+La primavera empieza a dar sus primeros frutos en el balcón:
+
+- **Hojas**: lechugas, rúcula, espinacas y acelgas, cortando a demanda.
+- **Rabanitos**: los que sembraste a principios de mes ya empiezan a estar.
+- **De otoño**: en climas suaves, primeros **guisantes y habas** sembrados en su día, y las **primeras fresas**.
 
 ## Vigilancia de plagas
 

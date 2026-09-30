@@ -12,6 +12,8 @@ faq:
     respuesta: "En zonas de invierno suave, sí: ajos, habas, guisantes y hojas resistentes como espinacas o acelgas. En zonas con heladas fuertes, mejor proteger los cultivos y centrarse en semilleros de interior."
   - pregunta: "¿Merece la pena empezar semilleros en enero?"
     respuesta: "Sí, si dispones de un sitio cálido y luminoso (o luz artificial): sembrar tomate, pimiento y berenjena en enero-febrero te da plantel listo para trasplantar en primavera. Sin calor suficiente, es mejor esperar."
+  - pregunta: "¿Qué se cosecha en enero en el balcón?"
+    respuesta: "Las hortalizas de invierno que sembraste en otoño: acelgas, espinacas, canónigos, lechugas de invierno, kale, coles y brócoli. Si tienes cítricos en maceta (limonero, naranjo, mandarino), enero es plena temporada de recolección."
 
 ---
 
@@ -52,6 +54,16 @@ Enero es un buen mes para empezar aromáticas en maceta dentro de casa, junto a 
 ## Qué NO hacer en enero
 
 Evita trasplantar plántulas jóvenes al exterior definitivo todavía, incluso en zonas suaves: espera a que pase el riesgo de heladas fuertes, normalmente a partir de marzo.
+
+## Qué se cosecha en enero
+
+Aunque se siembre poco, el balcón bien planificado **da cosecha** en pleno invierno:
+
+- **Hojas de invierno**: acelgas, espinacas, canónigos y lechugas de hoja, cortando a demanda.
+- **Brásicas**: kale, coles y brócoli, que además están más dulces tras las heladas.
+- **Cítricos en maceta**: es plena temporada de limones, naranjas y mandarinas.
+
+Ve cortando lo justo para consumir; en frío las plantas aguantan muy bien en la maceta.
 
 ## Aprovecha para revisar herramientas y sustratos
 

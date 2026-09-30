@@ -12,6 +12,8 @@ faq:
     respuesta: "Al contrario: es de los mejores meses para los cultivos de hoja y de frío, que con el calor del verano se subían a flor. Se acabó la temporada de tomate, pero empieza la de verduras de otoño-invierno."
   - pregunta: "¿Qué cultivos de verano puedo aprovechar aún en septiembre?"
     respuesta: "Los tomates, pimientos y berenjenas suelen dar sus últimas cosechas en septiembre antes de retirarlos. Aprovéchalos y ve preparando las macetas para la siembra de otoño."
+  - pregunta: "¿Qué se cosecha en septiembre?"
+    respuesta: "Las últimas hortalizas de verano (tomates, pimientos, berenjenas, calabacines) y, si tienes frutales, higos y uvas. A finales de mes empiezan a estar las primeras hojas de otoño sembradas a principios de septiembre."
 
 ---
 
@@ -31,6 +33,14 @@ Consulta también nuestra guía más completa de [qué sembrar en otoño en un h
 ## Qué hacer con los cultivos de verano que siguen produciendo
 
 Tomates, pimientos y berenjenas plantados en primavera suelen seguir dando fruto en septiembre, especialmente en climas con veranos largos. Mantén el riego y el abonado mientras sigan produciendo, pero empieza a planificar su sustitución progresiva a medida que la producción decaiga con la bajada de temperaturas.
+
+## Qué se cosecha en septiembre
+
+Septiembre es un mes de doble cosecha, de despedida y de estreno:
+
+- **Últimos frutos de verano**: tomates, pimientos, berenjenas y calabacines dan sus últimas tandas.
+- **Fruta de temporada**: si tienes frutales, es época de **higos y uvas**.
+- **Primeras hojas de otoño**: los rabanitos y las hojas de corte sembrados a principios de mes empiezan a dar.
 
 ## Renovar el sustrato agotado
 

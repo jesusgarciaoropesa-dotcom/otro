@@ -12,6 +12,8 @@ faq:
     respuesta: "Para sembrarlos desde semilla, sí es un poco tarde, pero todavía puedes plantar plántulas ya crecidas compradas en vivero y tendrás cosecha en verano. Lo que ya no conviene es empezar de cero desde semilla los cultivos de ciclo largo."
   - pregunta: "¿Qué es lo más importante del huerto en junio?"
     respuesta: "El riego y el entutorado. Sube la temperatura y las plantas beben mucho más, así que hay que ajustar la frecuencia; y los tomates, pimientos y trepadoras necesitan buenos tutores para aguantar el peso de la cosecha que se acerca."
+  - pregunta: "¿Qué se cosecha en junio?"
+    respuesta: "Arranca la cosecha del verano: primeros tomates y calabacines, pepinos, judías verdes, lechugas y fresas en pleno. Además, a final de mes empiezan a estar listos los ajos y las cebollas que plantaste en otoño."
 ---
 
 Junio abre el verano y el huerto de balcón está en plena efervescencia: los cultivos de primavera empiezan a dar sus frutos y todavía hay margen para las **últimas siembras de la temporada cálida**. Es un mes de sembrar lo que queda y, sobre todo, de cuidar bien lo que ya está en marcha.
@@ -37,6 +39,15 @@ Lo más importante de junio es el mantenimiento de lo que ya crece:
 ## Prepara el balcón para el calor
 
 El riego se vuelve el protagonista. Revisa cuánta agua piden tus macetas en [cuánta agua necesitan las plantas del huerto](/articulos/cuanta-agua-necesitan-plantas-huerto-balcon/) y, si aún no lo tienes, instala ya un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/): en pleno verano marca la diferencia. Un acolchado sobre el sustrato ayuda a conservar la humedad.
+
+## Qué se cosecha en junio
+
+Junio arranca la despensa del verano:
+
+- **Los primeros frutos**: tomates, calabacines y pepinos empiezan a dar.
+- **Judías verdes y lechugas**: en plena producción.
+- **Fresas**: en su mejor momento.
+- **Ajos y cebollas**: los plantados en otoño empiezan a estar a final de mes (cuando la hoja amarillea y se dobla).
 
 ## Vigila las plagas de calor
 
