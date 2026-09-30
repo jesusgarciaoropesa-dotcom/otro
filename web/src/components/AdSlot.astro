@@ -1,30 +1,18 @@
 ---
-// Nota: el prop se llama "adId" (no "slot") a propósito. Astro reserva el
-// atributo "slot" para asignar el elemento a un slot con nombre del
-// componente padre cuando se usa como hijo directo de otro componente; si
-// este prop se llamara "slot", el uso directo bajo <BaseLayout> haría que
-// Astro lo enrutara como slot-content en vez de pasarlo como prop, y el
-// anuncio desaparecería sin ningún error visible.
+// ANUNCIOS EN PAUSA (sept. 2026).
+// AdSense marcó el sitio como "contenido de poco valor". Mientras reforzamos
+// el contenido y crece el tráfico, no mostramos anuncios: un sitio joven con
+// poca visita y anuncios puntúa peor en la revisión, y el ingreso ahora es ~0.
+// Para reactivarlos: restaurar el bloque <ins class="adsbygoogle"> de abajo y
+// el cargador de AdSense en BaseLayout.astro. Se mantiene el componente y sus
+// props para no tocar las páginas que lo usan.
 interface Props {
   adId: string;
   label?: string;
   class?: string;
 }
-
-const { adId, label = 'Publicidad', class: className = '' } = Astro.props;
-const ADSENSE_CLIENT_ID = 'ca-pub-5086488459276769';
+// Props aceptadas pero no usadas mientras los anuncios están en pausa.
+const _props = Astro.props as Props;
+void _props;
 ---
-
-<div class={`my-6 flex flex-col items-center gap-1 ${className}`} data-ad-id={adId}>
-  <span class="text-[10px] uppercase tracking-wide text-stone-600">{label}</span>
-  <ins
-    class="adsbygoogle block w-full min-h-[100px] bg-stone-100"
-    style="display:block"
-    data-ad-client={ADSENSE_CLIENT_ID}
-    data-ad-slot={adId}
-    data-ad-format="auto"
-    data-full-width-responsive="true"></ins>
-  <script is:inline>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-</div>
+{/* Sin salida: los anuncios están en pausa. */}
