@@ -12,6 +12,8 @@ faq:
     respuesta: "Porque el eneldo hace una raíz principal larga (pivotante) que se resiente mucho con el trasplante. Sembrándolo directamente en su maceta definitiva evitas ese estrés y crece más fuerte y sano. Si usas semillero, trasplántalo muy joven y con cuidado."
   - pregunta: "¿Se pueden usar las semillas de eneldo?"
     respuesta: "Sí. Además de las hojas frescas, las semillas de eneldo se usan como especia (muy típicas en encurtidos y panes). Si dejas florecer la planta, forma unas umbelas amarillas que luego secan sus semillas, que puedes recolectar y guardar."
+  - pregunta: "¿Cuánto vive una planta de eneldo?"
+    respuesta: "El eneldo es anual: vive una sola temporada. Crece rápido, produce hoja durante unas semanas y luego florece y hace semilla. Para tener eneldo fresco de forma continua, siembra un poco cada 3-4 semanas en primavera y otra vez a final de verano en climas suaves."
 ---
 
 El eneldo es una aromática fina y elegante, de sabor fresco y anisado, imprescindible para pescados, salsas y encurtidos. Crece rápido, es fácil y sus hojas plumosas son muy decorativas. Solo hay que respetar una regla: no le gusta que le muevan las raíces.
@@ -44,6 +46,23 @@ Ve **cortando las hojas plumosas a demanda**, siempre de las puntas, para que la
 ## Deja alguna para semilla
 
 Si dejas florecer la planta, forma unas **umbelas amarillas** muy vistosas que atraen polinizadores. Al secarse, dan las **semillas de eneldo**, que se usan como especia (encurtidos, panes) y puedes [guardar para la próxima temporada](/articulos/guardar-recolectar-semillas-huerto/).
+
+## Siembra escalonada para tener siempre
+
+Como el eneldo florece y se agota en pocas semanas, el secreto es **sembrar un poco cada 3-4 semanas** durante la primavera (y otra tanda a final de verano donde el clima es suave). Así siempre tienes plantas jóvenes dando hoja tierna, en vez de una sola que se te espiga de golpe.
+
+## Buenos y malos vecinos
+
+El eneldo es un gran **aliado del balcón**: cuando florece, sus umbelas amarillas atraen a insectos beneficiosos (mariquitas, avispillas) que se comen el pulgón. Va bien cerca de **lechugas, pepinos y coles**. En cambio, **evita ponerlo pegado a las zanahorias** (son familia y pueden cruzarse y competir) y al hinojo.
+
+## Cómo conservarlo
+
+El eneldo **pierde casi todo el aroma al secarse**, así que olvídate de colgarlo en ramos como el romero. Para guardarlo:
+
+- **Congelado**: pica las hojas, mételas en una cubitera con un poco de agua o aceite y congela. Es la mejor forma de conservar su sabor.
+- **En aceite o mantequilla**: mezcla el picado con mantequilla blanda y congela en porciones para pescados.
+
+Usa las hojas siempre **crudas o añadidas al final** de la cocción: el calor prolongado se lleva su aroma.
 
 ## Problemas más comunes
 

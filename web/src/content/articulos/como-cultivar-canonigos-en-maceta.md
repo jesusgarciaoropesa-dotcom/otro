@@ -12,6 +12,10 @@ faq:
     respuesta: "En otoño e invierno, sobre todo. Prefieren el clima fresco: con calor germinan mal y espigan enseguida. Se pueden sembrar desde finales de verano hasta bien entrado el invierno en zonas de clima suave, para tener ensalada fresca en los meses fríos."
   - pregunta: "¿Cómo se cosechan los canónigos?"
     respuesta: "Se cortan las rosetas enteras a ras de tierra cuando tienen varias hojas, o se van cortando hojas exteriores para que la planta siga produciendo. Como crecen en rosetas pequeñas, se siembran juntos y se cosechan a puñados para la ensalada."
+  - pregunta: "¿Cuánto tardan los canónigos en estar listos?"
+    respuesta: "Entre 8 y 12 semanas desde la siembra, según el frío: en pleno invierno crecen despacio, pero aguantan perfectamente en la jardinera hasta que los necesites. Sembrando un puñado de semillas cada 2-3 semanas tienes cosecha escalonada durante todo el invierno."
+  - pregunta: "¿Aguantan las heladas los canónigos?"
+    respuesta: "Sí, son de las hojas más resistentes al frío que existen: soportan heladas ligeras sin problema e incluso mejoran su sabor tras un golpe de frío. Por eso son el cultivo estrella del balcón cuando ya casi nada crece."
 ---
 
 Los canónigos son una de las hojas más agradecidas para el balcón en los meses fríos: resisten el frío como pocas, crecen en poco espacio y apenas dan trabajo. Si echas de menos ensalada fresca en invierno, son tu cultivo.
@@ -47,6 +51,27 @@ En unas **semanas** ya tienes hojas para cortar. Puedes:
 - **Ir cortando hojas exteriores** para que la planta siga produciendo.
 
 Cosecha a puñados para la ensalada; son tiernos y de sabor suave.
+
+## Variedades para maceta
+
+Todas van bien en balcón, pero se agrupan en dos tipos:
+
+- **De hoja grande** (tipo *Verde de Holanda*): rosetas más grandes y de crecimiento algo más rápido; las más habituales y productivas.
+- **De hoja pequeña** (tipo *De Cambrai*): hoja más menuda y sabor más intenso, muy resistentes al frío.
+
+Para empezar, cualquier sobre de "canónigos" del súper de jardinería te sirve; son baratísimos y rinden muchísimo por semilla.
+
+## Siembra escalonada: cosecha todo el invierno
+
+El truco para no quedarte sin ensalada es **sembrar poco y a menudo**: echa un puñado de semillas **cada 2-3 semanas** desde final de verano. Así vas teniendo rosetas listas de forma continua en lugar de todas a la vez. Como ocupan tan poco, puedes aprovechar los **huecos entre macetas grandes** (entre los tutores del tomate que ya retiras, junto a los ajos, etc.).
+
+## Buenos vecinos
+
+Los canónigos conviven bien con casi todo por su porte bajo y su raíz superficial. Van especialmente bien intercalados con [ajos y cebollas](/articulos/como-cultivar-ajos-en-maceta/) —que además ayudan a ahuyentar plagas— y con otras hojas de invierno que comparten riego y época.
+
+## En la cocina
+
+Se comen **crudos**, en ensalada, con su sabor suave a nuez. Lávalos bien justo antes de usarlos (crecen pegados a la tierra y retienen restos) y sécalos con cuidado porque son delicados. Combinan de maravilla con frutos secos, granada o queso, y aguantan pocos días en la nevera, así que lo suyo es **cortarlos al momento** de la jardinera al plato.
 
 ## Problemas más comunes
 

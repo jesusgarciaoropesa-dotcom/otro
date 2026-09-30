@@ -12,6 +12,10 @@ faq:
     respuesta: "Con el blanqueado: unos días antes de cosechar se atan las hojas exteriores por encima o se tapa el centro de la luz. Al quedar el corazón sin sol, se vuelve más blanco, tierno y dulce, perdiendo buena parte del amargor característico."
   - pregunta: "¿Cuándo se planta la escarola?"
     respuesta: "Es un cultivo de finales de verano y otoño principalmente. Prefiere el clima fresco; con calor fuerte tiende a espigar y amarga más. Sembrada de agosto a octubre, se cosecha en otoño e invierno, aguantando bien el frío."
+  - pregunta: "¿Cuánto tarda la escarola en estar lista?"
+    respuesta: "Entre 80 y 100 días desde la siembra hasta la cosecha, según la variedad y el frío. A eso hay que sumarle los 10-15 días finales de blanqueado para que pierda el amargor. Es un cultivo pausado, pero muy agradecido y resistente durante el invierno."
+  - pregunta: "¿Qué diferencia hay entre escarola y endibia?"
+    respuesta: "Son parientes cercanas pero no lo mismo. La escarola se cultiva y blanquea en la propia maceta y se come su roseta rizada. La endibia (o endivia) se obtiene forzando en oscuridad la raíz de la achicoria para que brote ese cogollo blanco y compacto; es otro proceso distinto."
 ---
 
 La escarola es una de las mejores hojas para el otoño e invierno del balcón: resistente, productiva y con ese punto amargo que va tan bien en ensalada. Y con el truco del blanqueado puedes suavizarla hasta dejarla tierna y dulce.
@@ -51,6 +55,27 @@ Al quedar sin sol, el centro se vuelve **blanco, tierno y dulce**. Hazlo con la 
 ## Cuándo cosechar
 
 Cosecha la mata entera cuando esté bien formada y blanqueada, cortando por la base. Si esperas demasiado con calor, puede espigar y amargar.
+
+## Qué variedad elegir
+
+Hay dos grandes tipos, y los dos van bien en maceta:
+
+- **Escarola rizada** (tipo *frisée*): hojas finas, muy rizadas y de sabor más marcado. La más vistosa en ensalada.
+- **Escarola lisa** (de hoja ancha, tipo *escarola de invierno*): hoja más carnosa y algo más suave; suele aguantar aún mejor el frío.
+
+Para balcón, la **rizada** es la más agradecida y la que encontrarás con más facilidad en semilla.
+
+## Cuánto tarda y cómo escalonarla
+
+Cuenta unos **80-100 días** desde la siembra hasta cosechar, más los 10-15 días de blanqueado al final. Como cada mata ocupa su maceta, con **2 o 3 plantas sembradas con 2 semanas de diferencia** tienes escarola fresca durante buena parte del invierno sin agobiarte de golpe.
+
+## Buenos vecinos
+
+Convive bien con otras hojas de invierno que comparten riego y época: [lechuga](/articulos/como-cultivar-lechugas-huerto-urbano/), [canónigos](/articulos/como-cultivar-canonigos-en-maceta/) y [espinacas](/articulos/como-cultivar-espinacas-en-maceta/). Unos [ajos](/articulos/como-cultivar-ajos-en-maceta/) cerca ayudan a mantener a raya al pulgón.
+
+## En la cocina
+
+Su punto amargo la hace ideal para **ensaladas de invierno**, y combina de lujo con granada, nueces, naranja o un aliño con ajo y anchoa. Si aun blanqueada te resulta fuerte, escáldala unos segundos o úsala salteada: pierde amargor y queda estupenda con ajo.
 
 ## Problemas más comunes
 
