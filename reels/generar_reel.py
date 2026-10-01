@@ -304,6 +304,7 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
 
     hint = ""
     contador = f'<div class="contador">{indice+1}/{total}</div>'
+    es_portada = indice == 0
 
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {fraunces}
@@ -315,8 +316,11 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 .foto{{position:absolute;inset:0;background:url('{foto_uri}') center/cover no-repeat}}
 /* Degradado arriba (para marca) y fuerte abajo (para el texto) */
 .scrim{{position:absolute;inset:0;background:
-      linear-gradient(180deg, rgba(12,18,10,.55) 0%, rgba(12,18,10,0) 22%,
-      rgba(12,18,10,0) 40%, rgba(12,18,10,.72) 72%, rgba(10,15,8,.94) 100%)}}
+      linear-gradient(180deg, rgba(12,18,10,.58) 0%, rgba(12,18,10,0) 22%,
+      rgba(12,18,10,0) 38%, rgba(12,18,10,.78) 70%, rgba(8,12,6,.97) 100%)}}
+/* Viñeta cinematográfica: oscurece los bordes para dar profundidad y foco */
+.vineta{{position:absolute;inset:0;pointer-events:none;
+      background:radial-gradient(130% 90% at 50% 38%, rgba(0,0,0,0) 52%, rgba(0,0,0,.45) 100%)}}
 .marca{{position:absolute;top:60px;left:0;right:0;text-align:center;
       font-family:'Fraunces',serif;font-weight:800;font-size:42px;color:{C['crema']};
       letter-spacing:.5px;text-shadow:0 2px 12px rgba(0,0,0,.7)}}
@@ -329,6 +333,9 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
       margin-bottom:18px;text-shadow:0 2px 8px rgba(0,0,0,.7)}}
 .titular{{font-family:'Fraunces',serif;font-weight:900;font-size:82px;
       line-height:1.02;color:#fff;text-shadow:0 3px 16px rgba(0,0,0,.65)}}
+/* La portada pega más fuerte: titular más grande */
+.textos.port .titular{{font-size:104px;line-height:1.0}}
+.textos.port .sub{{font-size:46px}}
 .titular .hl{{position:relative;white-space:nowrap}}
 .titular .hl::after{{content:'';position:absolute;left:2%;right:2%;bottom:-.08em;
       height:12px;border-radius:6px;background:{C['mostaza']}}}
@@ -342,9 +349,10 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 <div class="canvas">
   <div class="foto"></div>
   <div class="scrim"></div>
+  <div class="vineta"></div>
   <div class="marca">{escape(marca)}</div>
   {contador}
-  <div class="textos">{bloque}</div>
+  <div class="textos{' port' if es_portada else ''}">{bloque}</div>
   {hint}
 </div></body></html>"""
 
