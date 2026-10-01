@@ -586,8 +586,6 @@ def main():
         print(f"   1 imagen {CW}x{CH} (4:5) · lista para subir")
         return
 
-    ffmpeg = find_ffmpeg()
-
     logo_uri = data_uri(WEB_PUBLIC / "images" / "logo-full.png", "image/png")
     foto_defecto = cfg.get("foto")
 
@@ -629,6 +627,7 @@ def main():
         return
 
     final = SALIDA / f"{slug}.mp4"
+    ffmpeg = find_ffmpeg()
 
     with tempfile.TemporaryDirectory() as td:
         tmp = Path(td)
