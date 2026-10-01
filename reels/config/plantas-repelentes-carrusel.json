@@ -1,13 +1,51 @@
 {
   "slug": "plantas-repelentes-plagas",
-  "marca": "MiHuertoUrbano",
+  "marca": "MiHuertoUrbano.xyz",
   "articulo": "/articulos/plantas-repelentes-plagas-huerto/",
   "slides": [
-    { "foto": "/images/articulos/balcon-frondoso-beneficios.jpg", "kicker": "PLAGAS SIN QUÍMICOS", "titulo": "Plantas que espantan las plagas", "destacado": "espantan", "subtitulo": "5 aliados que mantienen tu balcón a salvo.", "pildora": "Desliza 👉" },
-    { "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "kicker": "Repele el pulgón", "titulo": "Caléndula", "subtitulo": "Y atrae mariquitas, que se lo comen.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-albahaca-maceta.jpg", "kicker": "Contra la mosca blanca", "titulo": "Albahaca", "subtitulo": "Plántala pegada a los tomates.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-menta-maceta.jpg", "kicker": "Pulgón y hormigas", "titulo": "Menta", "subtitulo": "Siempre en maceta aparte: es invasiva.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/ajos-maceta.jpg", "kicker": "Pulgón y araña roja", "titulo": "Ajo y cebollino", "subtitulo": "Su olor los mantiene bien lejos.", "pildora": "Falta el cierre 👉" },
-    { "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "kicker": "En resumen", "titulo": "Tu balcón se defiende solo", "destacado": "solo", "subtitulo": "Intercálalas entre tus hortalizas, no en un rincón aparte.", "pildora": "Guarda esto 🌿" }
+    {
+      "foto": "/images/articulos/balcon-frondoso-beneficios.jpg",
+      "kicker": "PLAGAS SIN QUÍMICOS",
+      "titulo": "Plantas que espantan las plagas",
+      "destacado": "espantan",
+      "subtitulo": "5 aliados que mantienen tu balcón a salvo.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/plantas-repelentes-plagas.jpg",
+      "kicker": "Repele el pulgón",
+      "titulo": "Caléndula",
+      "subtitulo": "Y atrae mariquitas, que se lo comen.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-albahaca-maceta.jpg",
+      "kicker": "Contra la mosca blanca",
+      "titulo": "Albahaca",
+      "subtitulo": "Plántala pegada a los tomates.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-menta-maceta.jpg",
+      "kicker": "Pulgón y hormigas",
+      "titulo": "Menta",
+      "subtitulo": "Siempre en maceta aparte: es invasiva.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/ajos-maceta.jpg",
+      "kicker": "Pulgón y araña roja",
+      "titulo": "Ajo y cebollino",
+      "subtitulo": "Su olor los mantiene bien lejos.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/plantas-repelentes-plagas.jpg",
+      "kicker": "En resumen",
+      "titulo": "Tu balcón se defiende solo",
+      "destacado": "solo",
+      "subtitulo": "Intercálalas entre tus hortalizas, no en un rincón aparte.",
+      "pildora": "Guarda esto 🌿"
+    }
   ]
 }

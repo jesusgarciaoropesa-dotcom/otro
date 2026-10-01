@@ -1,22 +1,61 @@
 {
   "slug": "plantas-repelentes",
   "tipo": "chuleta",
-  "marca": "MiHuertoUrbano",
+  "marca": "MiHuertoUrbano.xyz",
   "articulo": "/articulos/plantas-repelentes-plagas-huerto/",
   "titulo": "Plantas que repelen plagas",
   "subtitulo": "Cultívalas entre tus macetas como barrera natural",
   "grupos": [
-    { "cabecera": "Intercálalas entre tus hortalizas", "items": [
-      { "texto": "Caléndula", "nota": "pulgón", "foto": "/images/articulos/prevencion-plagas-trampa-calendula.jpg" },
-      { "texto": "Albahaca", "nota": "mosca blanca", "foto": "/images/articulos/cultivo-albahaca-maceta.jpg" },
-      { "texto": "Romero", "nota": "varios insectos", "foto": "/images/articulos/cultivo-romero-balcon.jpg" },
-      { "texto": "Menta", "nota": "pulgón y hormigas", "foto": "/images/articulos/cultivo-menta-maceta.jpg" },
-      { "texto": "Ajo", "nota": "pulgón y araña roja", "foto": "/images/articulos/ajos-maceta.jpg" },
-      { "texto": "Cebollino", "nota": "pulgón", "foto": "/images/articulos/cultivo-cebollino-maceta.jpg" },
-      { "texto": "Tomillo", "nota": "orugas de la col", "foto": "/images/articulos/cultivo-tomillo-maceta.jpg" },
-      { "texto": "Salvia", "nota": "orugas", "foto": "/images/articulos/salvia-maceta.jpg" },
-      { "texto": "Cilantro", "nota": "pulgón", "foto": "/images/articulos/cultivo-cilantro-maceta.jpg" }
-    ] }
+    {
+      "cabecera": "Intercálalas entre tus hortalizas",
+      "items": [
+        {
+          "texto": "Caléndula",
+          "nota": "pulgón",
+          "foto": "/images/articulos/prevencion-plagas-trampa-calendula.jpg"
+        },
+        {
+          "texto": "Albahaca",
+          "nota": "mosca blanca",
+          "foto": "/images/articulos/cultivo-albahaca-maceta.jpg"
+        },
+        {
+          "texto": "Romero",
+          "nota": "varios insectos",
+          "foto": "/images/articulos/cultivo-romero-balcon.jpg"
+        },
+        {
+          "texto": "Menta",
+          "nota": "pulgón y hormigas",
+          "foto": "/images/articulos/cultivo-menta-maceta.jpg"
+        },
+        {
+          "texto": "Ajo",
+          "nota": "pulgón y araña roja",
+          "foto": "/images/articulos/ajos-maceta.jpg"
+        },
+        {
+          "texto": "Cebollino",
+          "nota": "pulgón",
+          "foto": "/images/articulos/cultivo-cebollino-maceta.jpg"
+        },
+        {
+          "texto": "Tomillo",
+          "nota": "orugas de la col",
+          "foto": "/images/articulos/cultivo-tomillo-maceta.jpg"
+        },
+        {
+          "texto": "Salvia",
+          "nota": "orugas",
+          "foto": "/images/articulos/salvia-maceta.jpg"
+        },
+        {
+          "texto": "Cilantro",
+          "nota": "pulgón",
+          "foto": "/images/articulos/cultivo-cilantro-maceta.jpg"
+        }
+      ]
+    }
   ],
   "cierre": "No acaban con una plaga ya instalada, pero bajan mucho la presión. Colócalas intercaladas entre las hortalizas, no en un rincón aparte."
 }

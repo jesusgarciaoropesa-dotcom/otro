@@ -1,14 +1,58 @@
 {
   "slug": "que-sembrar-octubre",
-  "marca": "MiHuertoUrbano",
+  "marca": "MiHuertoUrbano.xyz",
   "articulo": "/articulos/que-plantar-huerto-urbano-octubre/",
   "slides": [
-    { "foto": "/images/articulos/cultivo-lechuga-maceta.jpg", "kicker": "CALENDARIO · OCTUBRE", "titulo": "Qué sembrar en octubre", "destacado": "octubre", "subtitulo": "5 siembras que aguantan el frío en tu balcón.", "pildora": "Desliza 👉" },
-    { "foto": "/images/articulos/ajos-maceta.jpg", "kicker": "Fácil y agradecido", "titulo": "Ajos", "subtitulo": "Diente a diente, con la punta hacia arriba. Aguantan el frío.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-habas-maceta.jpg", "kicker": "Siembra directa", "titulo": "Habas", "subtitulo": "Muy resistentes y encima mejoran la tierra.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-guisantes-maceta.jpg", "kicker": "Ocupan poco", "titulo": "Guisantes", "subtitulo": "El frío no los para; ponles un tutor para que trepen.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-espinacas-maceta.jpg", "kicker": "Hoja todo el invierno", "titulo": "Espinacas", "subtitulo": "Cosecha hoja a hoja durante meses.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-rucula-maceta.jpg", "kicker": "Cosecha rápida", "titulo": "Rúcula", "subtitulo": "Lista en pocas semanas; resiembra cada 15 días.", "pildora": "Falta el cierre 👉" },
-    { "foto": "/images/articulos/cultivo-acelgas-maceta.jpg", "kicker": "GUÁRDATELO", "titulo": "Tu balcón no para en otoño", "destacado": "otoño", "subtitulo": "Calendario de siembra mes a mes en la guía.", "pildora": "Guarda esto 🌱" }
+    {
+      "foto": "/images/articulos/cultivo-lechuga-maceta.jpg",
+      "kicker": "CALENDARIO · OCTUBRE",
+      "titulo": "Qué sembrar en octubre",
+      "destacado": "octubre",
+      "subtitulo": "5 siembras que aguantan el frío en tu balcón.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/ajos-maceta.jpg",
+      "kicker": "Fácil y agradecido",
+      "titulo": "Ajos",
+      "subtitulo": "Diente a diente, con la punta hacia arriba. Aguantan el frío.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-habas-maceta.jpg",
+      "kicker": "Siembra directa",
+      "titulo": "Habas",
+      "subtitulo": "Muy resistentes y encima mejoran la tierra.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-guisantes-maceta.jpg",
+      "kicker": "Ocupan poco",
+      "titulo": "Guisantes",
+      "subtitulo": "El frío no los para; ponles un tutor para que trepen.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-espinacas-maceta.jpg",
+      "kicker": "Hoja todo el invierno",
+      "titulo": "Espinacas",
+      "subtitulo": "Cosecha hoja a hoja durante meses.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-rucula-maceta.jpg",
+      "kicker": "Cosecha rápida",
+      "titulo": "Rúcula",
+      "subtitulo": "Lista en pocas semanas; resiembra cada 15 días.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-acelgas-maceta.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Tu balcón no para en otoño",
+      "destacado": "otoño",
+      "subtitulo": "Calendario de siembra mes a mes en la guía.",
+      "pildora": "Guarda esto 🌱"
+    }
   ]
 }

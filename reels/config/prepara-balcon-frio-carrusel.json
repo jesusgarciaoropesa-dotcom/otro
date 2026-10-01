@@ -1,14 +1,58 @@
 {
   "slug": "prepara-balcon-frio",
-  "marca": "MiHuertoUrbano",
+  "marca": "MiHuertoUrbano.xyz",
   "articulo": "/articulos/proteger-huerto-frio-heladas-balcon/",
   "slides": [
-    { "foto": "/images/articulos/kale-col-rizada-maceta.jpg", "kicker": "OTOÑO · BALCÓN", "titulo": "Prepara tu balcón antes del frío", "destacado": "frío", "subtitulo": "5 gestos para que tus plantas pasen el invierno.", "pildora": "Desliza 👉" },
-    { "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg", "kicker": "Paso 1", "titulo": "Baja el riego", "subtitulo": "Con menos sol la tierra tarda en secar. Riega solo cuando esté seca al tacto.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/moho-blanco-tierra-macetas.jpg", "kicker": "Paso 2", "titulo": "Vacía los platos", "subtitulo": "El agua estancada bajo la maceta pudre las raíces.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/acolchado-mulching-tomatera.jpg", "kicker": "Paso 3", "titulo": "Acolcha la tierra", "subtitulo": "Una capa de paja u hojas secas protege la raíz y conserva humedad.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg", "kicker": "Paso 4", "titulo": "Protege de la helada", "subtitulo": "En noches muy frías, arrima a la pared o cubre con una tela.", "pildora": "Sigue 👉" },
-    { "foto": "/images/articulos/cultivo-habas-maceta.jpg", "kicker": "Paso 5", "titulo": "Siembra lo que aguanta", "subtitulo": "Ajos, habas, guisantes y hojas de invierno aún están a tiempo.", "pildora": "Falta el cierre 👉" },
-    { "foto": "/images/articulos/cultivo-lechuga-maceta.jpg", "kicker": "GUÁRDATELO", "titulo": "Tu balcón, listo para el frío", "destacado": "frío", "subtitulo": "Guía completa para proteger el huerto en la bio.", "pildora": "Guarda esto 🌿" }
+    {
+      "foto": "/images/articulos/kale-col-rizada-maceta.jpg",
+      "kicker": "OTOÑO · BALCÓN",
+      "titulo": "Prepara tu balcón antes del frío",
+      "destacado": "frío",
+      "subtitulo": "5 gestos para que tus plantas pasen el invierno.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
+      "kicker": "Paso 1",
+      "titulo": "Baja el riego",
+      "subtitulo": "Con menos sol la tierra tarda en secar. Riega solo cuando esté seca al tacto.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/moho-blanco-tierra-macetas.jpg",
+      "kicker": "Paso 2",
+      "titulo": "Vacía los platos",
+      "subtitulo": "El agua estancada bajo la maceta pudre las raíces.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/acolchado-mulching-tomatera.jpg",
+      "kicker": "Paso 3",
+      "titulo": "Acolcha la tierra",
+      "subtitulo": "Una capa de paja u hojas secas protege la raíz y conserva humedad.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
+      "kicker": "Paso 4",
+      "titulo": "Protege de la helada",
+      "subtitulo": "En noches muy frías, arrima a la pared o cubre con una tela.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-habas-maceta.jpg",
+      "kicker": "Paso 5",
+      "titulo": "Siembra lo que aguanta",
+      "subtitulo": "Ajos, habas, guisantes y hojas de invierno aún están a tiempo.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-lechuga-maceta.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Tu balcón, listo para el frío",
+      "destacado": "frío",
+      "subtitulo": "Guía completa para proteger el huerto en la bio.",
+      "pildora": "Guarda esto 🌿"
+    }
   ]
 }

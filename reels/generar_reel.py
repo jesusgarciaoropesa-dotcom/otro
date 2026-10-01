@@ -553,7 +553,7 @@ def main():
 
     cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))
     slug = cfg.get("slug") or Path(args.config).stem
-    marca = cfg.get("marca", "MiHuertoUrbano")
+    marca = cfg.get("marca", "MiHuertoUrbano.xyz")
     tipo = cfg.get("tipo", "reel")
     dur = float(cfg.get("duracion_slide", 3.4))
     slides = cfg.get("slides", [])
