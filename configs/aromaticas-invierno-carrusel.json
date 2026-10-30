@@ -1,0 +1,58 @@
+{
+  "slug": "aromaticas-invierno",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/guia-aromaticas-en-maceta-balcon/",
+  "slides": [
+    {
+      "foto": "/images/articulos/jardinera-aromaticas-barandilla.jpg",
+      "kicker": "AROMÁTICAS · INVIERNO",
+      "titulo": "Aromáticas que aguantan el invierno",
+      "destacado": "invierno",
+      "subtitulo": "Cuáles dejar fuera y cuáles acercar al cristal.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-romero-balcon.jpg",
+      "kicker": "Fuera, al sol",
+      "titulo": "Romero",
+      "subtitulo": "Mediterráneo y duro: aguanta el frío si la maceta drena bien.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-tomillo-maceta.jpg",
+      "kicker": "Fuera, al sol",
+      "titulo": "Tomillo",
+      "subtitulo": "Casi indestructible. En invierno, riega solo con la tierra seca.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/salvia-maceta.jpg",
+      "kicker": "Fuera, al sol",
+      "titulo": "Salvia",
+      "subtitulo": "Aguanta bien el frío. Recórtala en primavera y rebrota con fuerza.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-perejil-maceta.jpg",
+      "kicker": "Junto a la ventana",
+      "titulo": "Perejil",
+      "subtitulo": "Tolera algo de sombra; en lo más frío, mejor cerca del cristal.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-albahaca-maceta.jpg",
+      "kicker": "Ojo con esta",
+      "titulo": "Albahaca",
+      "subtitulo": "Es de verano: con el frío se pone negra. Vuelve a sembrarla en primavera.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-oregano-maceta.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Hierbas frescas todo el año",
+      "destacado": "todo el año",
+      "subtitulo": "La guía completa de aromáticas, en la web.",
+      "pildora": "Guarda esto 🌱"
+    }
+  ]
+}

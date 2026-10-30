@@ -1,0 +1,60 @@
+{
+  "slug": "coles-invierno",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/como-cultivar-kale-col-rizada-en-maceta/",
+  "slides": [
+    {
+      "foto": "/images/articulos/kale-col-rizada-maceta.jpg",
+      "kicker": "HUERTO DE INVIERNO",
+      "titulo": "Coles en maceta: lo que mejor aguanta el frío",
+      "destacado": "frío",
+      "subtitulo": "Brócoli, coliflor y kale en tu balcón.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/brocoli-maceta.jpg",
+      "kicker": "Una por maceta",
+      "titulo": "Brócoli",
+      "subtitulo": "Maceta de 25-30 cm de fondo. Tras cortar la pella, no lo arranques: da rebrotes.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/coliflor-maceta.jpg",
+      "kicker": "Sin parones",
+      "titulo": "Coliflor",
+      "subtitulo": "Riego constante: cualquier sequía arruina la pella.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/kale-col-rizada-maceta.jpg",
+      "kicker": "Mejora con el frío",
+      "titulo": "Kale",
+      "subtitulo": "Tras las heladas suaves sus hojas salen más dulces. Corta siempre las de fuera.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/oruga-col.jpg",
+      "kicker": "Su enemigo",
+      "titulo": "La oruga de la col",
+      "destacado": "oruga",
+      "subtitulo": "Revisa el envés cada pocos días y retira orugas y huevos a mano.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/brocoli-espigado-sin-cabeza.jpg",
+      "kicker": "Si no forma pella",
+      "titulo": "Calor, poca agua o maceta pequeña",
+      "destacado": "pella",
+      "subtitulo": "Son las tres causas más habituales.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/coliflor-maceta.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Verdura propia en pleno invierno",
+      "destacado": "invierno",
+      "subtitulo": "Guías de brócoli, coliflor y kale en la web.",
+      "pildora": "Guarda esto 🌱"
+    }
+  ]
+}
