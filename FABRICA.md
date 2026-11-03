@@ -22,12 +22,22 @@ Productor ──publicaciones (para_revisar)──▶ Revisor ──revisión + 
 | Estratega | sábado 9:47 | Elige los 3 temas de la semana siguiente con gancho, ángulo, guion y escenarios | reglas, propuestas aprobadas, informe del Analista, artículos | `plan_editorial` → *planificado* |
 | Fotógrafo | sábado 12:23 | Elige la foto de cada lámina con variedad de escenarios; pide las que faltan | plan, `fotos`, `fotos_uso`, `escenarios` | `plan_editorial.fotos` → *fotos_listas*, `fotos_pendientes` |
 | Productor | domingo 9:31 | Incorpora fotos nuevas, genera los carruseles, los sube aquí y crea las publicaciones | plan, `fotos_pendientes`, reglas | rama `redes`, `publicaciones` → *para_revisar*, plan → *producido* |
+| Lector de redes | miércoles 9:07 | Guarda tus números de Instagram (alcance, vistas, guardados) y los de la competencia (función de Supabase, no IA) | `competidores` | `redes_fotos` |
 | Revisor | domingo 12:47 | Comprueba datos, láminas, textos, enlaces y reglas; corrige lo pequeño; resumen a Jesús | publicaciones, artículos, reglas | `publicaciones.revision`, `informes` |
-| Publicador | cada 15 min | Publica lo aprobado cuando llega su hora (función de Supabase, no IA) | publicaciones *aprobada* | Meta, `publicaciones` |
+| Publicador | cada 15 min | Publica lo aprobado cuando llega su hora: carruseles, reels y, tras cada carrusel, su historia (función de Supabase, no IA) | publicaciones *aprobada* | Meta, `publicaciones` |
+| Informe mensual | día 1, 11:23 | Resume el mes: seguidores, alcance por formato, mejores posts y competencia | `redes_fotos`, `publicaciones` | `informes`, `propuestas` |
 
 La ficha de cada agente (misión, horario, a quién entrega) está en `centro.agentes`, y su última
 ejecución en la vista `centro.agentes_estado` (cada agente registra lo que hace en `centro.registro`).
 Si un agente no pasa, el siguiente cubre su parte (el Productor sabe elegir temas y fotos él solo).
+
+## Formatos
+
+- **Carrusel** (lunes, miércoles y viernes 13:30): láminas 4:5 en `carruseles/<slug>/NN.jpg`.
+- **Reel** (el día siguiente a su carrusel, 19:30): el mismo contenido en vídeo vertical 1080×1920 sin música,
+  `reels/<slug>.mp4`, con la lámina 01 como portada. Otra primera línea de texto.
+- **Historia** (sale sola justo después del carrusel): `carruseles/<slug>/historia.jpg`, hecha con
+  `herramientas/generar_historia.py` a partir de la portada.
 
 ## Propuestas y reglas
 
