@@ -29,7 +29,7 @@ Frambuesas y moras son **arbustos perennes** de raíces vigorosas, así que nece
 
 ## Sustrato y ubicación
 
-- Usa un [sustrato de calidad](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) rico en materia orgánica, con buen drenaje. La frambuesa agradece un pH ligeramente ácido.
+- Usa un [sustrato de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) rico en materia orgánica, con buen drenaje. La frambuesa agradece un pH ligeramente ácido.
 - **Sol**, pero con algo de sombra en las horas más duras del verano, sobre todo la frambuesa (el calor extremo la castiga). La mora es más resistente y aguanta mejor el pleno sol.
 
 ## Tutorado

@@ -88,7 +88,6 @@ export const gruposDiagnostico: GrupoDiagnostico[] = [
     descripcion: 'Manchas, grietas, deformaciones o podredumbre en tomates, pimientos o calabacines.',
     articulos: [
       'culo-negro-tomate-podredumbre-apical',
-      'culo-negro-pimiento',
       'por-que-se-rajan-los-tomates',
       'manchas-amarillas-tomates-maduracion-irregular',
       'cara-de-gato-tomate-deformado-cicatrices',

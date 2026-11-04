@@ -48,7 +48,7 @@ Un niño no espera cuatro meses a un tomate. Lo que engancha es la **recompensa 
 ## Un par de cuidados
 
 - **Seguridad**: en balcones altos, vigila la barandilla y que las macetas estén bien sujetas; repasa [cómo proteger las plantas del viento](/articulos/proteger-plantas-viento-balcon/) (y de caídas).
-- **Sin químicos**: con niños, control de plagas siempre natural; mira [remedios caseros contra plagas](/articulos/remedios-caseros-contra-plagas-huerto-urbano/).
+- **Sin químicos**: con niños, control de plagas siempre natural; mira [remedios caseros contra plagas](/articulos/remedios-caseros-plagas-que-no-funcionan/).
 
 ## Un buen plan para empezar
 

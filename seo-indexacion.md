@@ -81,6 +81,20 @@ internos entrantes):
   intención de búsqueda distinta (que no se solapen las keywords). Más trabajo,
   solo si de verdad son dos temas distintos.
 
+**Segunda tanda (nov. 2026, rama `seo-noviembre`)**, tras leer Search Console por API
+(61 páginas "Rastreada: actualmente sin indexar", las más antiguas de la web):
+
+4. `mejor-tierra-macetas-hortalizas-guia-compra` → `mejor-sustrato-huerto-urbano-maceta`.
+5. `culo-negro-pimiento` → `culo-negro-tomate-podredumbre-apical` (63 % de texto común).
+6. `riego-automatico-app-movil-mejores-dispositivos` → `mejor-sistema-riego-automatico-macetas-balcon`.
+7. `remedios-caseros-contra-plagas-huerto-urbano` → `remedios-caseros-plagas-que-no-funcionan` (la indexada).
+
+Además: limonero y naranjo diferenciados (el limonero es el cítrico MÁS sensible al
+frío; antes se decía lo contrario), romero/tomillo/orégano con secciones propias, y
+datos de clima de AEMET (Toledo 3260B) + fuentes en las guías de temporada.
+Regla: **no escribir experiencias personales inventadas** en los artículos; el valor
+añadido sale de datos de la zona comprobables, tablas y fuentes citadas.
+
 > Los clústeres de tomate, plagas, compost y vertical **NO son duplicados**: son
 > subtemas distintos (autoridad temática buena). No tocarlos.
 

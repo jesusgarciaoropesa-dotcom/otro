@@ -81,4 +81,4 @@ Tienes el resumen de opciones realistas en [frutales enanos para maceta y terraz
 - **Maceta sin agujeros de drenaje**: por muy grande que sea, si no drena se encharca y pudre la raíz. Repásalo en [cómo evitar el exceso de riego y los hongos](/articulos/como-evitar-exceso-riego-hongo-macetas/).
 - **Meter varias plantas grandes juntas**: compiten por el agua. Una planta grande, una maceta.
 
-Si vas a comprar, te ayudamos a elegir en [las mejores macetas para el balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) y con [qué tierra poner en cada una](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/). Y si estás empezando de cero, no te pierdas [cómo montar tu huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).
+Si vas a comprar, te ayudamos a elegir en [las mejores macetas para el balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) y con [qué tierra poner en cada una](/articulos/mejor-sustrato-huerto-urbano-maceta/). Y si estás empezando de cero, no te pierdas [cómo montar tu huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).

@@ -1,9 +1,10 @@
 ---
 title: "Cómo cultivar orégano en maceta en el balcón"
-description: "Guía para cultivar orégano en maceta en un balcón: sustrato, riego, luz, poda y cómo conseguir el máximo aroma en las hojas."
+description: "Cómo cultivar orégano en maceta: diferencias con el orégano griego y la mejorana, riego para más aroma, cuándo cosecharlo para secar y qué le pasa en invierno."
 categoria: "que-plantar"
 intencion: "informativa"
-keywords: ["cultivar orégano en maceta", "orégano en balcón cuidados", "cómo plantar orégano en maceta"]
+keywords: ["cultivar orégano en maceta", "orégano en balcón cuidados", "cómo plantar orégano en maceta", "orégano griego maceta", "diferencia orégano y mejorana"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-07
 faq:
   - pregunta: "¿Por qué el orégano con menos agua tiene más sabor?"
@@ -41,9 +42,30 @@ Deja secar el sustrato casi por completo entre riego y riego, igual que con el r
 
 Cuanto más "estresada" está la planta por sol y sequía moderada (dentro de lo razonable, sin llegar a marchitarse), más concentra los aceites esenciales responsables de su aroma. Un orégano regado en exceso o en semisombra crece más frondoso, pero con mucho menos sabor.
 
+## Orégano, orégano griego o mejorana
+
+Se confunden mucho en el vivero porque son parientes cercanos, pero no saben igual:
+
+| Planta | Sabor | En maceta |
+|---|---|---|
+| Orégano común (*Origanum vulgare*) | Intenso, algo amargo | Muy resistente al frío y a la sequía |
+| Orégano griego (*O. vulgare* subsp. *hirtum*) | El más aromático, el de pizza y ensaladas | Igual de fácil; búscalo si quieres sabor |
+| Orégano dorado ('Aureum') | Suave | Más decorativo que culinario |
+| Mejorana (*Origanum majorana*) | Más dulce y delicado | Más sensible al frío: protégela en invierno |
+
+Si la etiqueta solo dice "orégano", frota una hoja: el griego tiene un olor mucho más fuerte y picante.
+
 ## Controla su tendencia a extenderse
 
 El orégano se propaga por rizomas subterráneos y puede llegar a ocupar toda una maceta compartida en una temporada. Si lo cultivas junto a otras aromáticas, dale su propia maceta individual o revisa y recorta las raíces que invadan el espacio de las plantas vecinas cada cierto tiempo.
+
+## Cuándo cosecharlo para secar
+
+Para usarlo fresco, corta puntas cuando quieras. Para secarlo y guardarlo, el mejor momento es **cuando empiezan a abrirse las primeras flores**, a media mañana y con la planta seca: es cuando las hojas tienen más aceites esenciales. Corta los tallos dejando 8-10 cm sobre la tierra, átalos en ramilletes y cuélgalos boca abajo en un sitio seco y oscuro. Tienes el paso a paso en [cómo secar y conservar hierbas aromáticas](/articulos/como-secar-conservar-hierbas-aromaticas/).
+
+## En invierno parece que se muere (y no)
+
+El orégano común pierde gran parte de las hojas y tallos con el frío y se queda casi a ras de tierra. Es normal: las raíces siguen vivas y rebrota con fuerza en primavera. Corta los tallos secos, riega muy poco hasta que veas brotes nuevos y no lo tires.
 
 ## Poda
 

@@ -4,6 +4,7 @@ description: "Guía para cultivar guisantes en maceta en un balcón: variedad, m
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar guisantes en maceta", "guisantes en balcón cuidados", "cuándo sembrar guisantes en maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-07
 faq:
   - pregunta: "¿Cuándo se siembran los guisantes en el balcón?"
@@ -53,6 +54,21 @@ Con 4-6 horas de sol directo es suficiente; no necesitan tanto sol como un tomat
 
 Recolecta las vainas cuando estén hinchadas pero todavía tiernas al tacto; dejarlas demasiado tiempo en la planta endurece el guisante y reduce el sabor. Cuanto más recolectas, más sigue produciendo la planta durante varias semanas.
 
+## ¿Siembra de otoño o de final de invierno en el interior?
+
+En zonas de interior con heladas, como Toledo, hay dos opciones y cada una tiene su riesgo:
+
+| | Siembra de otoño (octubre - noviembre) | Siembra de final de invierno (febrero - marzo) |
+|---|---|---|
+| Cosecha | Abril - mayo | Mayo - junio |
+| Ventaja | La planta llega a primavera ya grande y cosechas antes | No pasa los meses de más heladas |
+| Riesgo | Las heladas fuertes de enero pueden dañar plantas y flores tempranas | El calor de junio (máximas medias de 30 °C) acorta la cosecha |
+| Consejo | Variedades rústicas y la maceta pegada a una pared resguardada | Siembra lo antes posible en cuanto pasen las heladas fuertes |
+
+Las plantas de guisante soportan heladas ligeras (hasta unos -2 °C), pero las **flores y las vainas son lo más delicado**: una helada en plena floración puede dejarte sin cosecha aunque la planta sobreviva. Si en marzo ves flores y se anuncia helada, tapa la planta esa noche.
+
+Cuando las máximas pasan de forma continuada de unos 25-30 °C, el guisante deja de florecer y las vainas se endurecen. En el interior eso suele llegar a principios de junio, así que no te retrases en la siembra de febrero.
+
 ## Problemas comunes
 
 - **Pocas flores o vainas vacías**: falta de polinización o riego irregular durante la floración.
@@ -60,3 +76,9 @@ Recolecta las vainas cuando estén hinchadas pero todavía tiernas al tacto; dej
 - **Pulgón en brotes tiernos**: revisa los brotes nuevos regularmente; consulta [cómo eliminar el pulgón de forma natural](/articulos/como-eliminar-pulgon-plantas-balcon-natural/) si aparece.
 
 Otra legumbre de tiempo fresco que se siembra en la misma época y mejora la tierra igual que los guisantes son las [habas en maceta](/articulos/como-cultivar-habas-en-maceta/). Consulta también nuestro [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/) para planificar la siembra junto al resto de cultivos de temporada.
+
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
+- South Dakota State University Extension, [tolerancia a las heladas de las hortalizas comunes](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables).

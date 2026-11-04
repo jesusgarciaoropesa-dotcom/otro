@@ -37,7 +37,7 @@ Una maceta sin agujeros de drenaje (o con el agujero tapado por el plato) acumul
 
 ## 5. Sustrato inadecuado
 
-Usar tierra de jardín en lugar de un sustrato específico para maceta es otro clásico: se compacta, no drena bien y asfixia las raíces. Un sustrato universal de calidad, aligerado con perlita, es una inversión pequeña que marca una diferencia enorme. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) para saber qué mirar en la etiqueta antes de comprar.
+Usar tierra de jardín en lugar de un sustrato específico para maceta es otro clásico: se compacta, no drena bien y asfixia las raíces. Un sustrato universal de calidad, aligerado con perlita, es una inversión pequeña que marca una diferencia enorme. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-sustrato-huerto-urbano-maceta/) para saber qué mirar en la etiqueta antes de comprar.
 
 ## 6. No anticipar el riego en ausencias
 

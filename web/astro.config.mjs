@@ -32,9 +32,20 @@ export default defineConfig({
       '/articulos/como-empezar-huerto-urbano-balcon/',
     '/articulos/guia-frutales-en-maceta-balcon/':
       '/articulos/frutales-enanos-maceta-terraza/',
+    '/articulos/mejor-tierra-macetas-hortalizas-guia-compra/':
+      '/articulos/mejor-sustrato-huerto-urbano-maceta/',
+    '/articulos/culo-negro-pimiento/':
+      '/articulos/culo-negro-tomate-podredumbre-apical/',
+    '/articulos/riego-automatico-app-movil-mejores-dispositivos/':
+      '/articulos/mejor-sistema-riego-automatico-macetas-balcon/',
+    '/articulos/remedios-caseros-contra-plagas-huerto-urbano/':
+      '/articulos/remedios-caseros-plagas-que-no-funcionan/',
   },
   integrations: [
     sitemap({
+      // Fuera del sitemap: el buscador interno y la página de enlaces (noindex),
+      // que no son contenido para mostrar en Google.
+      filter: (pagina) => !/\/(buscar|enlaces)\/$/.test(new URL(pagina).pathname),
       serialize(item) {
         const { pathname } = new URL(item.url);
         if (lastmodPorRuta[pathname]) item.lastmod = lastmodPorRuta[pathname];

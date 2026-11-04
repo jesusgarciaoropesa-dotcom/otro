@@ -4,6 +4,7 @@ description: "Guía práctica para proteger tu huerto de balcón del frío y las
 categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["proteger huerto de las heladas", "proteger plantas del frío balcón", "huerto urbano en invierno heladas"]
+updatedDate: 2026-11-04
 pubDate: 2026-08-28
 faq:
   - pregunta: "¿A partir de qué temperatura hay que proteger las plantas?"
@@ -26,6 +27,22 @@ No todo hay que protegerlo. Distingue:
 - **Delicados (sufren pronto)**: los restos del verano como tomate, pimiento, berenjena, albahaca y, sobre todo, tropicales como el [aguacate](/articulos/hojas-aguacate-marrones-secas-que-hacer/), que lo pasa mal ya por debajo de 5-10 °C.
 
 Tienes la lista completa de lo que resiste en [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).
+
+## Cuánto hiela de verdad en el interior
+
+Para hacerse una idea, estos son los valores medios de la estación de AEMET en Toledo (1981-2010). En un balcón de ciudad suele helar algo menos que en la estación, pero el patrón es el mismo:
+
+| Mes | Mínima media | Días de helada |
+|---|---|---|
+| Octubre | 10,2 °C | 0 |
+| Noviembre | 5,3 °C | 3,3 |
+| Diciembre | 2,5 °C | 9,8 |
+| Enero | 1,3 °C | 12,7 |
+| Febrero | 2,6 °C | 6,9 |
+| Marzo | 5,0 °C | 2,3 |
+| Abril | 7,2 °C | 0,3 |
+
+Unos 35 días de helada al año, casi todos entre diciembre y febrero, y alguna helada tardía en marzo o incluso en abril. Por eso en el interior no conviene sacar tomates y pimientos al balcón antes de mediados de abril.
 
 ## Truco 1: coloca bien las macetas
 
@@ -56,3 +73,7 @@ Con el frío, la planta bebe poquísimo y la tierra tarda en secarse. **Riega mu
 El frío no viene solo. Si tu balcón está expuesto, repasa también cómo [proteger las plantas del viento](/articulos/proteger-plantas-viento-balcon/) y de la [lluvia y el granizo](/articulos/proteger-huerto-balcon-lluvia-granizo/), habituales estos meses.
 
 Con estos cuidados, tu huerto pasará el invierno y estará listo para arrancar con fuerza en primavera. Para saber qué toca cada mes, sigue el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) y la guía de [qué plantar en diciembre](/articulos/que-plantar-huerto-urbano-diciembre/).
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).

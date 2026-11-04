@@ -4,6 +4,7 @@ description: "Guía para cultivar espinacas en maceta en un balcón durante todo
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar espinacas en maceta", "espinacas en balcón", "espinacas todo el año en maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-04-21
 faq:
   - pregunta: "¿Por qué se me suben a flor las espinacas tan pronto?"
@@ -49,8 +50,28 @@ El principal desencadenante es una combinación de temperaturas altas y días la
 
 Se puede cosechar hoja a hoja, cortando las exteriores y dejando que la planta siga produciendo desde el centro, de forma similar a como se recomienda con las [lechugas](/articulos/como-cultivar-lechugas-huerto-urbano/). Esto alarga mucho el periodo de cosecha de cada planta.
 
+## Calendario en el interior peninsular
+
+En zonas de interior como Toledo, el reto de la espinaca no es el frío, sino el calor que llega pronto: en mayo las máximas medias ya rondan los 24 °C y en junio los 30 °C (AEMET), y con días largos la planta se espiga enseguida. Por eso aquí la temporada buena es otoño y final de invierno:
+
+| Mes | Qué hacer |
+|---|---|
+| Septiembre - octubre | Siembra principal. Germina rápido con el suelo aún templado |
+| Noviembre - enero | Crece despacio pero aguanta; ve cortando hojas exteriores |
+| Febrero - marzo | Segunda siembra, para cosechar en primavera |
+| Abril | Últimas siembras, mejor en media sombra y con variedades lentas al espigado |
+| Mayo - agosto | Evítala: se sube a flor. Pásate a la acelga, que aguanta el calor |
+
+Con unas 7 heladas de media en febrero y casi 13 en enero, una espinaca ya crecida y acostumbrada al frío suele aguantar las heladas ligeras de un balcón; lo que se resiente son las plántulas recién nacidas. Si siembras en pleno invierno, hazlo en semillero o bajo un [mini invernadero](/articulos/mini-invernadero-balcon-mejores-opciones/).
+
 ## Siembra escalonada para tener espinacas todo el año
 
 Siembra un pequeño grupo nuevo cada 3-4 semanas durante otoño, invierno e inicio de primavera (evitando pleno verano salvo con variedades específicas resistentes al calor) para tener una producción continua sin depender de una única cosecha grande.
 
 Consulta también el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) para ver en qué meses concretos conviene sembrar según tu clima.
+
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
+- South Dakota State University Extension, [tolerancia a las heladas de las hortalizas comunes](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables).

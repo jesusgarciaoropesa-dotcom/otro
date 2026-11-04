@@ -4,6 +4,7 @@ description: "Guía completa para cultivar lechugas en maceta en un balcón: var
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar lechugas en maceta", "lechuga en balcón", "cómo plantar lechuga en maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-02-27
 faq:
   - pregunta: "¿Cuánto tarda en crecer la lechuga en maceta?"
@@ -55,6 +56,20 @@ Con las variedades de hoja suelta, corta solo las hojas exteriores más grandes 
 
 En lugar de sembrar toda la maceta de golpe, siembra una tanda nueva cada 2-3 semanas. Así, cuando termines de cosechar una maceta, la siguiente ya estará lista, garantizando lechuga fresca de forma continua.
 
+## Qué lechuga sembrar cada mes en el interior
+
+En un clima de interior, con inviernos de heladas y veranos de 34-35 °C de máxima media en julio y agosto (AEMET, Toledo), la clave de la lechuga es cambiar de variedad según la época:
+
+| Época | Qué sembrar | Cuidado principal |
+|---|---|---|
+| Febrero - abril | Lechugas de primavera: romana, batavia, hoja de roble | Protege las plántulas de las últimas heladas de marzo |
+| Mayo - junio | Variedades resistentes al espigado, en media sombra | El calor la sube a flor: riego constante y sombra por la tarde |
+| Julio - agosto | Mejor no sembrar en exterior | Si lo intentas, en semillero a la sombra y para trasplantar en septiembre |
+| Septiembre - octubre | Segunda temporada buena: hoja de roble, cogollos, escarola | Las noches frescas la dejan tierna y dulce |
+| Noviembre - enero | Variedades de invierno (busca en el sobre "de invierno" o "resistente al frío") | Las plántulas pequeñas sufren más con las heladas que las adultas |
+
+Las lechugas adultas toleran heladas ligeras (hasta unos -2 °C), aunque las hojas pueden quedar marcadas. En el interior conviene tener a mano una manta térmica o un [mini invernadero](/articulos/mini-invernadero-balcon-mejores-opciones/) para las noches más frías de diciembre a febrero.
+
 ## Problemas comunes
 
 - **Amargor**: normalmente por exceso de calor o riego irregular.
@@ -63,3 +78,9 @@ En lugar de sembrar toda la maceta de golpe, siembra una tanda nueva cada 2-3 se
 - **Planta cortada de raíz a nivel del suelo**: no es un mordisco en las hojas, sino un tallo seccionado por la base; probablemente sea [gusano gris](/articulos/gusano-gris-lechugas-como-eliminarlo/), no una plaga que come hoja.
 
 Consulta también nuestro [calendario de siembra](/categorias/calendario-de-siembra/) para saber en qué meses es mejor sembrar lechuga según tu zona.
+
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
+- South Dakota State University Extension, [tolerancia a las heladas de las hortalizas comunes](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables).

@@ -1,11 +1,14 @@
 ---
-title: "Mejor sustrato para huerto urbano en maceta"
-description: "Comparativa de los tipos de sustrato más recomendables para un huerto urbano en maceta, según el cultivo y el nivel de experiencia."
+title: "Mejor sustrato (tierra) para macetas de huerto: guía de compra"
+description: "Qué sustrato comprar para un huerto en maceta: tipos según el cultivo, qué mirar en la etiqueta, cuántos litros necesitas y los errores más comunes al comprar."
 categoria: "herramientas-y-comparativas"
 intencion: "comparativa"
-keywords: ["mejor sustrato para huerto urbano", "sustrato para macetas hortalizas", "tierra para huerto en maceta"]
+keywords: ["mejor sustrato para huerto urbano", "mejor tierra para macetas de hortalizas", "qué tierra comprar para macetas", "sustrato para macetas hortalizas"]
 pubDate: 2026-03-11
+updatedDate: 2026-11-04
 faq:
+  - pregunta: "¿Qué debo mirar en la etiqueta del sustrato?"
+    respuesta: "Tres cosas: la composición (turba o fibra de coco para la humedad, con perlita o vermiculita para la aireación), el pH (la mayoría de hortalizas prefieren 6-7) y si incluye abono de base de liberación lenta para las primeras semanas."
   - pregunta: "¿Sirve la tierra del jardín para un huerto en maceta?"
     respuesta: "No. La tierra de jardín se compacta en una maceta, drena mal y pierde aireación. Usa siempre un sustrato formulado para macetas, que mantiene el equilibrio de agua y aire en un volumen reducido."
   - pregunta: "¿Qué sustrato compro si solo voy a comprar un tipo?"
@@ -14,7 +17,18 @@ faq:
     respuesta: "Una vez al año como norma general, al inicio de la primavera. El sustrato se agota de nutrientes con el tiempo incluso abonando, así que renuévalo o refréscalo mezclándolo con sustrato nuevo."
 ---
 
-Elegir un buen sustrato es una de las decisiones que más impacto tiene en el éxito de un huerto urbano, y sin embargo se le presta mucha menos atención que a las macetas o el riego.
+Elegir un buen sustrato es una de las decisiones que más impacto tiene en el éxito de un huerto urbano, y sin embargo se le presta mucha menos atención que a las macetas o el riego. Aquí tienes los tipos que merecen la pena según lo que vayas a cultivar, qué mirar en la etiqueta antes de comprar y cuántos litros vas a necesitar.
+
+## Resumen rápido: qué sustrato para cada cultivo
+
+| Cultivo | Sustrato | pH aproximado | Extra recomendado |
+|---|---|---|---|
+| Lechugas, espinacas, acelgas | Universal de calidad | 6-7 | 20 % de perlita |
+| Tomates, pimientos, berenjenas | Específico para hortalizas | 6-6,8 | Abono de base y compost |
+| Aromáticas mediterráneas (romero, tomillo, orégano) | Universal | 6,5-7,5 | 30-40 % de perlita o arena gruesa |
+| Limonero y otros cítricos | Específico para cítricos | 6-6,5 | Buen drenaje en el fondo |
+| Arándanos | Para acidófilas | 4,5-5,5 | Riego con agua poco calcárea |
+| Semilleros | Específico para semilleros | 5,5-6,5 | Textura fina, sin abono fuerte |
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
 
@@ -63,6 +77,34 @@ Muchos huertos urbanos avanzados mezclan su propio sustrato: sustrato universal 
 **Recomendado para**: quien ya tiene experiencia y quiere ajustar la mezcla a cada cultivo.
 
 <a href="https://www.amazon.es/s?k=perlita+y+fibra+de+coco+para+sustrato&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+## Qué mirar en la etiqueta
+
+- **Composición**: busca una mezcla con turba o fibra de coco (retención de humedad) combinada con perlita o vermiculita (aireación y drenaje).
+- **pH indicado**: la mayoría de hortalizas prefieren un pH neutro a ligeramente ácido (6-7). Compruébalo sobre todo si vas a cultivar especies con necesidades especiales, como los arándanos.
+- **Abono de base**: muchos sustratos ya incluyen un abono de liberación lenta para las primeras semanas, así que no hace falta abonar nada más trasplantar.
+- **Conductividad (CE)**: algunas marcas la indican. Para semilleros y plantas jóvenes, mejor valores bajos; un sustrato muy cargado de sales puede quemar las raíces finas.
+
+## Cuántos litros necesitas
+
+El volumen de la maceta es, prácticamente, el sustrato que tienes que comprar. Como referencia:
+
+| Maceta | Litros aproximados | Para qué |
+|---|---|---|
+| 20 cm de diámetro | 4-5 L | Aromáticas, rabanitos, una lechuga |
+| 30 cm de diámetro | 12-15 L | Acelgas, espinacas, fresas |
+| 40 cm de diámetro | 30-35 L | Tomate, pimiento, berenjena |
+| Jardinera de 80 × 20 cm | 25-30 L | Lechugas en hilera, ajos, cebollas |
+| Saco de cultivo de 50 L | 50 L | Patatas, calabacín |
+
+Suma las macetas que vas a llenar antes de ir a la tienda: los sacos suelen venir de 20, 50 u 80 litros y el grande casi siempre sale más barato por litro. Si dudas del tamaño de maceta, mira nuestra [guía de tamaño de maceta para cada hortaliza](/articulos/tamano-maceta-cada-hortaliza-guia/).
+
+## Errores comunes al comprar
+
+- **Elegir por precio sin mirar la composición**: los sustratos más baratos suelen llevar menos materiales de aireación y se compactan antes.
+- **Un único saco genérico para cultivos muy distintos**: un arándano y un tomate necesitan un pH muy diferente.
+- **Comprar "tierra vegetal" o "tierra de jardín"**: está pensada para enmendar parterres, no para macetas.
+- **No renovar el sustrato**: incluso el mejor se agota; abajo te explicamos cuándo hacerlo.
 
 ## Cómo elegir si solo vas a comprar un tipo
 

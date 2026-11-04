@@ -74,4 +74,4 @@ Genera una niebla muy fina, ideal para **subir la humedad** alrededor de plantas
 - **Terraza grande**: opción 3 (mochila).
 - **Humedad y semilleros**: opción 4 (nebulizador).
 
-Reserva un pulverizador **solo para tratamientos** (aceites y jabones cuestan de limpiar) y otro para agua. Con él aplicarás mejor los [remedios caseros contra plagas](/articulos/remedios-caseros-contra-plagas-huerto-urbano/) y los [productos ecológicos](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) que tu huerto necesite.
+Reserva un pulverizador **solo para tratamientos** (aceites y jabones cuestan de limpiar) y otro para agua. Con él aplicarás mejor los [remedios caseros contra plagas](/articulos/remedios-caseros-plagas-que-no-funcionan/) y los [productos ecológicos](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/) que tu huerto necesite.

@@ -4,6 +4,7 @@ description: "Guía de siembra para enero en huertos de balcón: qué cultivos a
 categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en enero", "siembra enero huerto urbano", "calendario siembra invierno balcón"]
+updatedDate: 2026-11-04
 pubDate: 2026-03-08
 faq:
   - pregunta: "¿Qué se puede sembrar en enero en el balcón?"
@@ -31,6 +32,18 @@ En zonas costeras o de inviernos suaves, puedes sembrar directamente:
 - [Guisantes](/articulos/como-cultivar-guisantes-en-maceta/)
 - Ajos y cebollas (si no lo hiciste en otoño)
 - Espinacas
+
+## Enero en el interior: el mes más frío
+
+Si vives en el interior peninsular, enero es el mes en que menos se siembra fuera. Con datos de AEMET para Toledo, es el mes más frío del año: mínimas medias de 1,3 °C, unos 12,7 días de helada y casi 8 días de niebla de media. Con el sustrato tan frío, la mayoría de semillas apenas germinan en el exterior.
+
+| Situación de tu balcón | Qué puedes sembrar fuera en enero |
+|---|---|
+| Interior, balcón expuesto o al norte | Prácticamente nada: dedica el mes a semilleros dentro de casa |
+| Interior, balcón al sur y resguardado | Ajos y habas, si no los sembraste en otoño |
+| Costa o zonas de inviernos suaves | Habas, guisantes, espinacas, ajos y cebollas |
+
+Lo que sí rinde en enero en el interior es lo que ya está crecido: acelgas, espinacas, kale y coles aguantan en la maceta y se cosechan a demanda.
 
 ## Siembra en semillero protegido
 
@@ -68,3 +81,7 @@ Ve cortando lo justo para consumir; en frío las plantas aguantan muy bien en la
 ## Aprovecha para revisar herramientas y sustratos
 
 Enero, con menos trabajo de siembra activa, es un buen momento para revisar el estado de tus macetas, limpiar herramientas y reponer [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/) de cara a la temporada que se avecina.
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
