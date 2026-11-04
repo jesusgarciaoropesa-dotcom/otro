@@ -20,25 +20,54 @@ from pathlib import Path
 AQUI = Path(__file__).resolve().parent.parent
 MODELO = AQUI / "voces" / "es_ES-davefx-medium.onnx"
 MARGEN_ANTES = 0.45   # la voz entra cuando el texto ya está en pantalla
-MARGEN_DESPUES = 0.7  # respiro antes de la siguiente lámina
+MARGEN_DESPUES = 0.5  # respiro antes de la siguiente lámina
 MIN_DUR = 5.5
 
 EMOJI = re.compile("[\U0001F000-\U0001FAFF☀-➿️‍👉🌱]")
 
-def texto_lamina(s: dict) -> str:
-    partes = [s.get("titulo", ""), s.get("subtitulo", "")]
-    t = ". ".join(p.strip().rstrip(".") for p in partes if p and p.strip())
-    t = EMOJI.sub("", t).replace("·", ",").replace("MiHuertoUrbano.xyz", "Mi Huerto Urbano punto xyz")
-    return re.sub(r"\s+", " ", t).strip() + "."
+PAUSA_TITULO = 0.55   # silencio entre titular y frase
+PAUSA_COMA = 0.28     # silencio en comas
+PAUSA_PUNTO = 0.40    # silencio en dos puntos, punto y coma y puntos intermedios
+VELOCIDAD = 1.08      # >1 = más despacio
+ENTONACION = 0.55     # menos variación = voz más estable
 
-def sintetizar(modelo: Path, texto: str, salida: Path, velocidad: float = 1.0) -> float:
+def limpiar(t: str) -> str:
+    t = EMOJI.sub("", t or "").replace("·", ",").replace("MiHuertoUrbano.xyz", "Mi Huerto Urbano punto xyz")
+    return re.sub(r"\s+", " ", t).strip()
+
+def trozos_lamina(s: dict):
+    """Lista de (texto, silencio_despues). Titular y frase van separados y cada coma lleva su pausa."""
+    out = []
+    tit, sub = limpiar(s.get("titulo", "")), limpiar(s.get("subtitulo", ""))
+    if tit:
+        out.append((tit.rstrip(".") + ".", PAUSA_TITULO if sub else 0))
+    if sub:
+        partes = re.split(r"([,;:.])\s+", sub)
+        for i in range(0, len(partes), 2):
+            txt = partes[i].strip()
+            sep = partes[i + 1] if i + 1 < len(partes) else ""
+            if not txt:
+                continue
+            pausa = PAUSA_COMA if sep == "," else (PAUSA_PUNTO if sep else 0)
+            # La coma se mantiene al final del trozo para que la entonación quede "abierta"
+            out.append((txt.rstrip(".") + (sep if sep and sep in ",;:" else "."), pausa))
+    return out
+
+_VOZ = {}
+def sintetizar(modelo: Path, trozos, salida: Path) -> float:
     from piper import PiperVoice
     from piper.config import SynthesisConfig
-    voz = PiperVoice.load(str(modelo))
+    voz = _VOZ.get(str(modelo)) or _VOZ.setdefault(str(modelo), PiperVoice.load(str(modelo)))
+    cfg = SynthesisConfig(length_scale=VELOCIDAD, noise_scale=ENTONACION)
+    sr = voz.config.sample_rate
+    audio = bytearray()
+    for texto, pausa in trozos:
+        for chunk in voz.synthesize(texto, syn_config=cfg):
+            audio += chunk.audio_int16_bytes
+        audio += b"\x00\x00" * int(sr * pausa)
     with wave.open(str(salida), "wb") as w:
-        voz.synthesize_wav(texto, w, syn_config=SynthesisConfig(length_scale=velocidad))
-    with wave.open(str(salida)) as w:
-        return w.getnframes() / w.getframerate()
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr); w.writeframes(bytes(audio))
+    return len(audio) / 2 / sr
 
 def ffmpeg() -> str:
     import imageio_ffmpeg
@@ -59,7 +88,7 @@ def main():
         wavs, largos = [], []
         for i, s in enumerate(slides):
             w = td / f"v{i}.wav"
-            largos.append(sintetizar(Path(a.modelo), texto_lamina(s), w))
+            largos.append(sintetizar(Path(a.modelo), trozos_lamina(s), w))
             wavs.append(w)
         necesaria = round(max(MIN_DUR, max(largos) + MARGEN_ANTES + MARGEN_DESPUES + a.trans_dur), 1)
         if a.accion == "medir":
