@@ -390,7 +390,7 @@
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/cultivo-limonero-maceta.jpg</image:loc>
       <image:title>Cómo cultivar un limonero en maceta en el balcón</image:title>
-      <image:caption>Guía completa para cultivar un limonero enano en maceta en un balcón o terraza: variedad recomendada, maceta, riego, abonado y poda.</image:caption>
+      <image:caption>Cómo cultivar un limonero en maceta en el balcón: qué variedad elegir (Meyer, Eureka, Lisboa), cómo protegerlo de las heladas, riego, abonado y por qué amarillea.</image:caption>
     </image:image>
   </url>
   <url>
@@ -422,7 +422,7 @@
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/cultivo-oregano-maceta.jpg</image:loc>
       <image:title>Cómo cultivar orégano en maceta en el balcón</image:title>
-      <image:caption>Guía para cultivar orégano en maceta en un balcón: sustrato, riego, luz, poda y cómo conseguir el máximo aroma en las hojas.</image:caption>
+      <image:caption>Cómo cultivar orégano en maceta: diferencias con el orégano griego y la mejorana, riego para más aroma, cuándo cosecharlo para secar y qué le pasa en invierno.</image:caption>
     </image:image>
   </url>
   <url>
@@ -494,7 +494,7 @@
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/cultivo-romero-balcon.jpg</image:loc>
       <image:title>Cómo cultivar romero en balcón (guía de cuidados)</image:title>
-      <image:caption>Cuidados básicos para cultivar romero en maceta en un balcón: riego, luz, poda y cómo evitar los errores más comunes con esta aromática.</image:caption>
+      <image:caption>Cómo cultivar romero en maceta en el balcón: erguido o rastrero, cuánto regar, cómo podarlo sin dejar huecos y qué hacer en cada época del año.</image:caption>
     </image:image>
   </url>
   <url>
@@ -526,7 +526,7 @@
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/cultivo-tomillo-maceta.jpg</image:loc>
       <image:title>Cómo cultivar tomillo en maceta en el balcón</image:title>
-      <image:caption>Guía para cultivar tomillo en maceta en un balcón: sustrato, riego, luz, poda y cómo evitar los errores más comunes con esta aromática.</image:caption>
+      <image:caption>Cómo cultivar tomillo en maceta: qué tipo elegir (común, limonero, serpol, salsero), el sustrato pobre que necesita, poda y cómo renovarlo antes de que se vuelva leñoso.</image:caption>
     </image:image>
   </url>
   <url>
@@ -770,19 +770,11 @@
     </image:image>
   </url>
   <url>
-    <loc>https://mihuertourbano.xyz/articulos/culo-negro-pimiento/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/culo-negro-pimiento.jpg</image:loc>
-      <image:title>Culo negro del pimiento: por qué se pudre la punta y solución</image:title>
-      <image:caption>La mancha marrón, seca y hundida en la punta del pimiento es culo negro (podredumbre apical). No es un hongo: es calcio que no llega por riego irregular. Te explicamos cómo evitarlo.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://mihuertourbano.xyz/articulos/culo-negro-tomate-podredumbre-apical/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/culo-negro-tomate.jpg</image:loc>
-      <image:title>Culo negro del tomate: por qué pasa y cómo evitarlo</image:title>
-      <image:caption>El culo negro del tomate (podredumbre apical) no es un hongo ni una plaga: es un problema de calcio y riego. Te explicamos por qué aparece y cómo solucionarlo en maceta.</image:caption>
+      <image:title>Culo negro en tomate y pimiento: por qué pasa y cómo evitarlo</image:title>
+      <image:caption>El culo negro (podredumbre apical) del tomate, el pimiento y la berenjena no es un hongo ni una plaga: es calcio que no llega por riego irregular. Causas y solución en maceta.</image:caption>
     </image:image>
   </url>
   <url>
@@ -1101,16 +1093,8 @@
     <loc>https://mihuertourbano.xyz/articulos/mejor-sustrato-huerto-urbano-maceta/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/mezclar-sustrato-perlita.jpg</image:loc>
-      <image:title>Mejor sustrato para huerto urbano en maceta</image:title>
-      <image:caption>Comparativa de los tipos de sustrato más recomendables para un huerto urbano en maceta, según el cultivo y el nivel de experiencia.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://mihuertourbano.xyz/articulos/mejor-tierra-macetas-hortalizas-guia-compra/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/mezclar-sustrato-perlita.jpg</image:loc>
-      <image:title>Mejor tierra para macetas de hortalizas: guía de compra</image:title>
-      <image:caption>Guía de compra para elegir la tierra o sustrato adecuado para macetas de hortalizas: qué mirar en la etiqueta y errores comunes al comprar.</image:caption>
+      <image:title>Mejor sustrato (tierra) para macetas de huerto: guía de compra</image:title>
+      <image:caption>Qué sustrato comprar para un huerto en maceta: tipos según el cultivo, qué mirar en la etiqueta, cuántos litros necesitas y los errores más comunes al comprar.</image:caption>
     </image:image>
   </url>
   <url>
@@ -1562,19 +1546,11 @@
     </image:image>
   </url>
   <url>
-    <loc>https://mihuertourbano.xyz/articulos/remedios-caseros-contra-plagas-huerto-urbano/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/tratamientos-ecologicos-tomatera.jpg</image:loc>
-      <image:title>Remedios caseros contra plagas en el huerto urbano</image:title>
-      <image:caption>Remedios caseros más efectivos contra las plagas comunes de un huerto urbano: jabón potásico, ajo, infusión de ortiga y otros tratamientos naturales.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://mihuertourbano.xyz/articulos/remedios-caseros-plagas-que-no-funcionan/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/remedios-caseros-plagas.jpg</image:loc>
-      <image:title>Remedios caseros para plagas que NO funcionan (y qué usar)</image:title>
-      <image:caption>Leche para la mosca blanca, jabón de vajilla, agua de la lavadora, ajo a lo loco… Muchos remedios caseros virales no funcionan o dañan la planta. Te contamos cuáles evitar y qué usar.</image:caption>
+      <image:title>Remedios caseros contra plagas: cuáles funcionan y cuáles no</image:title>
+      <image:caption>Remedios caseros contra plagas del huerto en maceta: los que funcionan (jabón potásico, neem, ajo, alcohol, trampas) con sus dosis, y los virales que no sirven o dañan la planta.</image:caption>
     </image:image>
   </url>
   <url>
@@ -1591,14 +1567,6 @@
       <image:loc>https://mihuertourbano.xyz/images/articulos/mezclar-sustrato-perlita.jpg</image:loc>
       <image:title>Cómo reutilizar y regenerar la tierra de las macetas</image:title>
       <image:caption>No tires la tierra usada de tus macetas: se puede reutilizar. Te explicamos cómo regenerar el sustrato agotado de un año a otro para ahorrar dinero y cultivar mejor.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://mihuertourbano.xyz/articulos/riego-automatico-app-movil-mejores-dispositivos/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/riego-control-app-movil.jpg</image:loc>
-      <image:title>Riego automático con app móvil: los mejores dispositivos</image:title>
-      <image:caption>Comparativa de los mejores dispositivos de riego automático controlables desde el móvil, con sensores de humedad, para un huerto urbano de balcón.</image:caption>
     </image:image>
   </url>
   <url>
