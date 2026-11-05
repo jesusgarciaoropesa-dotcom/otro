@@ -37,9 +37,11 @@ El velo se vende por su peso en gramos por metro cuadrado: cuanto más pesa, má
 
 | Gramaje | Luz que deja pasar | Protección aproximada | En el balcón |
 |---|---|---|---|
-| ~19 g/m² (fino) | 85 % | 1-2 °C | Se puede dejar puesto días seguidos sobre hojas y semilleros |
-| ~30 g/m² (medio) | 70 % | 2-3 °C | Buen término medio para noches de helada suave |
-| ~50 g/m² (grueso) | 50 % | 3-4 °C | Solo en olas de frío; quítalo después para que la planta tenga luz |
+| [~19 g/m² (fino)](https://www.amazon.es/s?k=velo+antiheladas+17g&tag=mihuerto-herramientas-21) | 85 % | 1-2 °C | Se puede dejar puesto días seguidos sobre hojas y semilleros |
+| [~30 g/m² (medio)](https://www.amazon.es/s?k=velo+antiheladas+30g&tag=mihuerto-herramientas-21) | 70 % | 2-3 °C | Buen término medio para noches de helada suave |
+| [~50 g/m² (grueso)](https://www.amazon.es/s?k=velo+antiheladas+50g&tag=mihuerto-herramientas-21) | 50 % | 3-4 °C | Solo en olas de frío; quítalo después para que la planta tenga luz |
+
+Pulsa el gramaje para ver opciones y precios en Amazon. En tiendas españolas es habitual encontrar el velo fino como "17 g/m²".
 
 *La protección real depende de cómo lo pongas (que llegue hasta la maceta, sin huecos) y del viento. Datos en grados Fahrenheit en el original, convertidos a Celsius y redondeados.*
 
