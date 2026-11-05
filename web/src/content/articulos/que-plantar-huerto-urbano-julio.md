@@ -5,6 +5,7 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en julio en balcón", "siembra de julio huerto urbano", "qué sembrar en julio en maceta"]
 pubDate: 2026-07-21
+updatedDate: 2026-11-05
 faq:
   - pregunta: "¿Se puede sembrar algo en julio con tanto calor?"
     respuesta: "Poco y con cuidado. Julio es más de mantener que de sembrar: puedes hacer siembras escalonadas de judías, rabanitos y lechugas resistentes al calor, siempre en semillero a la sombra o al fresco de la tarde, y hacia final de mes empezar los semilleros de coles y puerros para el otoño."
@@ -27,6 +28,10 @@ Las siembras son pocas y hay que hacerlas con cabeza, mejor en semillero a la so
 - **Judías verdes**: aún puedes hacer una última siembra para cosechar en otoño.
 - **Rabanitos y lechugas de verano**: siembras escalonadas con variedades resistentes al calor, protegidas del sol de mediodía.
 - **Semilleros de otoño**: hacia final de mes, arranca **puerros, coles, brócoli y kale** en semillero para trasplantarlos en septiembre.
+
+## Qué evitar sembrar en pleno verano
+
+Las hojas de ensalada de ciclo corto (lechugas, espinacas, rúcula) tienden a "subirse a flor" con temperaturas muy altas y pierden calidad y sabor. Es mejor esperar a finales de agosto o septiembre para volver a sembrarlas, o hacerlo en la zona más sombreada del balcón.
 
 ## El riego, lo primero
 

@@ -5,6 +5,7 @@ categoria: "calendario-de-siembra"
 intencion: "informativa"
 keywords: ["qué plantar en noviembre en balcón", "siembra de noviembre huerto urbano", "qué sembrar en noviembre en maceta"]
 pubDate: 2026-07-21
+updatedDate: 2026-11-05
 faq:
   - pregunta: "¿Qué se puede plantar en noviembre?"
     respuesta: "Ajos, habas y guisantes en siembra directa, y cultivos de hoja resistentes al frío (espinacas, acelgas, canónigos) sobre todo en zonas de clima suave o bajo protección. También es buen mes para plantar frutales de hoja caduca y frutos rojos a raíz desnuda."
@@ -25,6 +26,19 @@ Todavía hay margen para varios cultivos de clima fresco:
 - **Ajos**: si no los plantaste en octubre, aún estás a tiempo. Guía en [cómo cultivar ajos en maceta](/articulos/como-cultivar-ajos-en-maceta/).
 - **Habas y guisantes**: siembra directa, aguantan bien el frío y trepan por una caña. Tienes las [habas explicadas aquí](/articulos/como-cultivar-habas-en-maceta/) y los [guisantes aquí](/articulos/como-cultivar-guisantes-en-maceta/).
 - **Hojas resistentes** (espinacas, acelgas, canónigos): en zonas de clima suave o bajo protección.
+
+## En el interior, noviembre ya es tarde para casi todo
+
+En el interior peninsular el otoño es corto: se pasa del calor a las primeras heladas en pocas semanas. Con datos de AEMET para Toledo, la mínima media baja de 14,9 °C en septiembre a 5,3 °C en noviembre, y en noviembre ya hay de media unos 3 días de helada. Por eso, lo que no se sembró en septiembre y octubre conviene dejarlo para primavera o sembrarlo bajo protección.
+
+| Cuándo | Qué sembrar | Por qué en ese momento |
+|---|---|---|
+| Septiembre | Lechugas, espinacas, rabanitos, trasplante de coles y coliflor | Necesitan semanas de crecimiento antes de las heladas |
+| Octubre | Habas, guisantes, más espinacas, canónigos | Toleran el frío moderado y arraigan antes del invierno |
+| Octubre - noviembre | Ajos y cebollas | Pasan el invierno bajo tierra y arrancan en primavera |
+| Noviembre | Solo cultivos muy rústicos (ajos, habas) | Con el sustrato frío, el resto apenas germina |
+
+Si llegas tarde a una siembra, ponla en semillero dentro de casa o bajo un [mini invernadero](/articulos/mini-invernadero-balcon-mejores-opciones/) y trasplanta cuando tenga unas hojas.
 
 ## Frutales y frutos rojos a raíz desnuda
 
@@ -48,3 +62,7 @@ Llegan las primeras heladas. Protege lo sensible con un [mini-invernadero de bal
 **Riega muy poco**: con el frío la tierra se mantiene húmeda mucho tiempo y el exceso de agua favorece los hongos. Aprovecha para limpiar, retirar restos de la temporada anterior y llevarlos al compost.
 
 Para seguir el hilo del invierno, mira [qué plantar en diciembre](/articulos/que-plantar-huerto-urbano-diciembre/) y el [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/).
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).

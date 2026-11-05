@@ -53,4 +53,4 @@ Junio arranca la despensa del verano:
 
 Con la subida de temperaturas se disparan la [araña roja](/articulos/como-eliminar-arana-roja-plantas-balcon/) y la [mosca blanca](/articulos/como-eliminar-mosca-blanca-huerto-balcon/). Revisa el envés de las hojas con regularidad, porque en verano las poblaciones crecen muy rápido.
 
-Para ver qué te espera en lo más duro del verano, sigue con [qué plantar en verano](/articulos/que-plantar-huerto-urbano-verano/) y consulta el [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/).
+Para ver qué te espera en lo más duro del verano, sigue con [qué plantar en julio](/articulos/que-plantar-huerto-urbano-julio/) y consulta el [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/).

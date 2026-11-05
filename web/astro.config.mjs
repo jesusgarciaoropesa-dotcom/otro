@@ -26,6 +26,12 @@ export default defineConfig({
   // Redirecciones 301 de artículos fusionados hacia su versión canónica, para
   // concentrar la autoridad SEO en una sola página y no competir consigo mismos.
   redirects: {
+    '/articulos/que-sembrar-otono-huerto-terraza/':
+      '/articulos/que-plantar-huerto-urbano-noviembre/',
+    '/articulos/que-plantar-huerto-urbano-verano/':
+      '/articulos/que-plantar-huerto-urbano-julio/',
+    '/articulos/jardin-hierbas-aromaticas-en-cocina/':
+      '/articulos/huerto-aromaticas-interior-poca-luz/',
     '/articulos/mejores-kits-riego-automatico-terraza/':
       '/articulos/mejor-sistema-riego-automatico-macetas-balcon/',
     '/articulos/huerto-urbano-principiantes-guia-completa/':

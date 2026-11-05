@@ -70,6 +70,6 @@ Ve **cortando a demanda**, siempre menos de un tercio de la planta cada vez. Cua
 
 ## Por dónde empezar
 
-Si es tu primera vez, arranca con las [mejores aromáticas para principiantes](/articulos/mejores-aromaticas-para-principiantes/) y monta un [jardín de aromáticas en la cocina](/articulos/jardin-hierbas-aromaticas-en-cocina/) o, si tienes poca luz, un [huerto de aromáticas de interior](/articulos/huerto-aromaticas-interior-poca-luz/). Para saber cuál te va según tu balcón, usa la [calculadora de qué plantar](/que-plantar-en-tu-balcon/).
+Si es tu primera vez, arranca con las [mejores aromáticas para principiantes](/articulos/mejores-aromaticas-para-principiantes/) y monta un [huerto de aromáticas en la cocina o en interior](/articulos/huerto-aromaticas-interior-poca-luz/), incluso con poca luz. Para saber cuál te va según tu balcón, usa la [calculadora de qué plantar](/que-plantar-en-tu-balcon/).
 
 Con tres o cuatro macetas bien elegidas tendrás hierbas frescas para cocinar durante todo el año, con muy poco trabajo. Las aromáticas son, sin duda, el mejor primer paso en el huerto de balcón.
