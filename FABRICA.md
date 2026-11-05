@@ -36,6 +36,8 @@ Si un agente no pasa, el siguiente cubre su parte (el Productor sabe elegir tema
 - **Carrusel** (lunes, miércoles y viernes 13:30): láminas 4:5 en `carruseles/<slug>/NN.jpg`.
 - **Reel** (el día siguiente a su carrusel, 19:30): el mismo contenido en vídeo vertical 1080×1920 sin música,
   `reels/<slug>.mp4`, con la lámina 01 como portada. Otra primera línea de texto.
+  Voz en off con `herramientas/voz_reel.py`: voz **em_alex de Kokoro** (elegida por Jesús el 5-11-2026;
+  gratis y de uso comercial libre; el modelo se descarga solo la primera vez). La de Piper queda con `--motor piper`.
 - **Historia** (sale sola justo después del carrusel): `carruseles/<slug>/historia.jpg`, hecha con
   `herramientas/generar_historia.py` a partir de la portada.
 
