@@ -51,6 +51,7 @@ Evita materiales que se **apelmacen** (impiden que entre el agua) o que puedan t
 ## Cuándo viene mejor
 
 - **En verano**: es cuando más ahorra riego y más protege del calor. Combínalo con [protección del calor extremo](/articulos/proteger-huerto-calor-extremo-verano/).
+- **En invierno**: abriga la raíz del frío. Combínalo con las medidas para [proteger el huerto del frío y las heladas](/articulos/proteger-huerto-frio-heladas-balcon/).
 - **En cultivos exigentes en agua**: tomate, pimiento, calabacín.
 - Junto a un [riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/), para exprimir el ahorro de agua.
 

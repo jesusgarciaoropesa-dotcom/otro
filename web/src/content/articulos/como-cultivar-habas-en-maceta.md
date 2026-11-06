@@ -20,7 +20,7 @@ Las habas son uno de los cultivos de otoño-invierno más agradecidos y fáciles
 
 ## Cuándo sembrar habas
 
-Las habas son un cultivo de **clima fresco**. La siembra típica es en **otoño (octubre-noviembre)** para cosechar en primavera; en zonas de invierno muy duro, se retrasa a **finales de invierno**. No les gusta el calor: si las siembras tarde, el calor de primavera las corta antes de tiempo.
+Las habas son un cultivo de **clima fresco**. La siembra típica es en **otoño (octubre-noviembre)** para cosechar en primavera (mira [qué más plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/)); en zonas de invierno muy duro, se retrasa a **finales de invierno**. No les gusta el calor: si las siembras tarde, el calor de primavera las corta antes de tiempo.
 
 Se siembran **directamente** en su maceta definitiva, porque no les gusta el trasplante. Entierra cada haba a unos 3-4 cm de profundidad.
 
@@ -33,7 +33,7 @@ Se siembran **directamente** en su maceta definitiva, porque no les gusta el tra
 
 ## Cuidados
 
-- **Riego regular** sin encharcar, sobre todo cuando florecen y cuajan las vainas. Con el frío, poca agua; en primavera, más.
+- **Riego regular** sin encharcar, sobre todo cuando florecen y cuajan las vainas. Con el frío, poca agua ([cuánto regar en invierno](/articulos/riego-invierno-huerto-macetas-cuanto-regar/)); en primavera, más.
 - **Sol**: pleno sol, aunque en otoño-invierno agradecen toda la luz posible.
 - **Aporca un poco** la base cuando crezcan, para darles estabilidad frente al viento.
 

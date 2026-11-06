@@ -41,9 +41,11 @@ Cítricos jóvenes (como un limonero recién plantado), aromáticas mediterráne
 
 ## Riego en invierno
 
-Las plantas consumen mucha menos agua con el frío y la menor cantidad de horas de luz. Reduce claramente la frecuencia de riego respecto al resto del año; el exceso de riego en invierno es un riesgo mayor que la falta de agua, ya que el sustrato tarda mucho más en secarse con las bajas temperaturas.
+Las plantas consumen mucha menos agua con el frío y la menor cantidad de horas de luz. Reduce claramente la frecuencia de riego respecto al resto del año; el exceso de riego en invierno es un riesgo mayor que la falta de agua, ya que el sustrato tarda mucho más en secarse con las bajas temperaturas. Tienes los detalles en [cuánto regar el huerto en invierno](/articulos/riego-invierno-huerto-macetas-cuanto-regar/).
 
 ## Planificación para la siguiente primavera
+
+Si quieres ir mes a mes, mira [qué plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/) y [qué plantar en diciembre](/articulos/que-plantar-huerto-urbano-diciembre/).
 
 El invierno es también un buen momento para planificar la siembra de primavera: revisa qué semillas necesitarás, cuándo empezar los semilleros de interior, y consulta el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) para no perder el momento óptimo de siembra cuando llegue marzo.
 

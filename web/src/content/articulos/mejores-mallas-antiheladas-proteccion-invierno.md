@@ -19,7 +19,7 @@ faq:
     respuesta: "Pocos, pero suficientes para muchas heladas suaves: según la tabla del fabricante Agribon, de 1 a 2 °C un velo fino (unos 19 g/m²), de 2 a 3 °C uno de 30 g/m² y de 3 a 4 °C uno de 50 g/m². En heladas fuertes hay que sumar otras medidas: arrimar las macetas a la pared, proteger la raíz o usar un mini-invernadero."
 ---
 
-En invierno, una helada puede echar a perder en una noche los cultivos que llevas meses cuidando. En maceta el frío pega más, porque las raíces quedan más expuestas que en el suelo. Con la protección adecuada, tu huerto de balcón supera el invierno sin bajas.
+En invierno, una helada puede echar a perder en una noche los cultivos que llevas meses cuidando. En maceta el frío pega más, porque las raíces quedan más expuestas que en el suelo. Con la protección adecuada, tu huerto de balcón supera el invierno sin bajas. La malla es una pieza más: el plan completo está en [cómo proteger el huerto del frío y las heladas](/articulos/proteger-huerto-frio-heladas-balcon/).
 
 <figure><img width="1200" height="670" src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Mini-invernadero de estantería en un balcón protegiendo las plantas del frío del invierno" /><figcaption>Un mini-invernadero o un velo antiheladas protegen los cultivos en las noches de hielo</figcaption></figure>
 

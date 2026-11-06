@@ -26,6 +26,9 @@ export default defineConfig({
   // Redirecciones 301 de artículos fusionados hacia su versión canónica, para
   // concentrar la autoridad SEO en una sola página y no competir consigo mismos.
   redirects: {
+    // URL rota con un espacio (%20) que aparece en Search Console
+    '/articulos/culo-negro- tomate-podredumbre-apical/':
+      '/articulos/culo-negro-tomate-podredumbre-apical/',
     '/articulos/que-sembrar-otono-huerto-terraza/':
       '/articulos/que-plantar-huerto-urbano-noviembre/',
     '/articulos/que-plantar-huerto-urbano-verano/':
