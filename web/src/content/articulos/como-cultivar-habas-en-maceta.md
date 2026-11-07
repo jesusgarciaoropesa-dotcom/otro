@@ -18,6 +18,12 @@ Las habas son uno de los cultivos de otoño-invierno más agradecidos y fáciles
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-habas-maceta.jpg" alt="Planta de habas en flor sujeta a cañas en una maceta de barro en un balcón" /><figcaption>Las habas son una legumbre de tiempo fresco ideal para sembrar en otoño en el balcón.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de habas:
+
+<a href="https://www.amazon.es/s?k=semillas+de+habas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Cuándo sembrar habas
 
 Las habas son un cultivo de **clima fresco**. La siembra típica es en **otoño (octubre-noviembre)** para cosechar en primavera (mira [qué más plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/)); en zonas de invierno muy duro, se retrasa a **finales de invierno**. No les gusta el calor: si las siembras tarde, el calor de primavera las corta antes de tiempo.

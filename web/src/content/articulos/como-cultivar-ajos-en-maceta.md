@@ -23,6 +23,12 @@ El ajo es uno de los cultivos más fáciles y agradecidos para empezar en un bal
   <figcaption>Los ajos se plantan casi solos: un diente por hueco y a esperar.</figcaption>
 </figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para plantar, mejor ajos de siembra que los del súper (que a veces vienen tratados para que no broten):
+
+<a href="https://www.amazon.es/s?k=ajos+para+plantar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver ajos de siembra en Amazon</a>
+
 ## Qué diente plantar
 
 No se planta la cabeza entera, sino los **dientes sueltos**. Separa una cabeza de ajo y elige los dientes exteriores, que son los más grandes: cuanto mayor sea el diente, mayor será la cabeza que produzca. Usa ajos ecológicos o de siembra; los del supermercado a veces llevan antigerminante y brotan mal.

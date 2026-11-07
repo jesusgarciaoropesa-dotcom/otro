@@ -19,6 +19,12 @@ Una de las causas más silenciosas de que un huerto de balcón vaya regular es l
 
 <figure><img width="1200" height="670" src="/images/articulos/tamano-maceta-hortalizas.jpg" alt="Macetas ordenadas de menor a mayor en un balcón, de aromáticas pequeñas a una tomatera en maceta grande" /><figcaption>Cada cultivo pide su tamaño de maceta: acertar es media cosecha.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si te faltan macetas grandes o jardineras, aquí puedes comparar tamaños:
+
+<a href="https://www.amazon.es/s?k=jardinera+huerto+grande&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jardineras en Amazon</a>
+
 ## Por qué el tamaño de la maceta lo cambia todo
 
 La maceta es la despensa y el depósito de agua de la planta. Cuanto más sustrato, **más agua y más nutrientes** disponibles, y más estable es todo: no se calienta ni se seca tan rápido. Una raíz apretada en poco volumen vive estresada, y ese estrés se traduce en menos hojas, menos flores y menos fruto.

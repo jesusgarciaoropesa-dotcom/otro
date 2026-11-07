@@ -19,6 +19,12 @@ La poda de un frutal en maceta cumple una función distinta a la de un árbol en
 
 <figure><img width="1200" height="670" src="/images/articulos/podar-frutal-maceta.jpg" alt="Manos podando con tijeras de podar una rama de un frutal joven en maceta en un balcón" /><figcaption>Poda de mantenimiento en un frutal de maceta</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para podar bien hace falta una tijera de podar de calidad y bien afilada:
+
+<a href="https://www.amazon.es/s?k=tijeras+de+podar&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tijeras de podar en Amazon</a>
+
 ## Cuándo podar
 
 La mayoría de frutales de hoja caduca (limonero es una excepción, ver más abajo) se podan en invierno, durante el reposo vegetativo, cuando la planta no está en fase activa de crecimiento y el estrés de la poda es menor. Hazlo siempre con unas [buenas tijeras de podar](/articulos/mejores-tijeras-podar-huerto-balcon/) limpias y afiladas: un corte limpio cicatriza mejor y evita transmitir enfermedades.

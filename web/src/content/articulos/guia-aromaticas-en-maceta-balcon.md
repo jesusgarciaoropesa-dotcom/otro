@@ -19,6 +19,12 @@ Las aromáticas son la mejor puerta de entrada al huerto de balcón: ocupan poco
 
 <figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera con varias hierbas aromáticas en la barandilla de un balcón" /><figcaption>Con unas pocas macetas de aromáticas tienes hierbas frescas para cocinar todo el año</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si vas a juntar varias aromáticas, una jardinera alargada para la barandilla o el suelo te ahorra espacio:
+
+<a href="https://www.amazon.es/s?k=jardinera+balcon+rectangular&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jardineras en Amazon</a>
+
 ## Primero: agrupa según necesidades
 
 El secreto para que convivan bien es **juntar las que quieren lo mismo**. Se dividen en dos grandes grupos:

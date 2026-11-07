@@ -20,6 +20,14 @@ No hace falta tener jardín ni un gran terreno para compostar: con un compostado
 
 <figure><img width="1200" height="654" src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si prefieres no fabricarlo tú, hay compostadores domésticos y vermicompostadores pensados para piso:
+
+<a href="https://www.amazon.es/s?k=compostador+domestico+cocina&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver compostadores en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=vermicompostador&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver vermicompostadores en Amazon</a>
+
 ## Qué necesitas
 
 - Un [compostador compacto para balcón](/articulos/compostador-de-balcon-mejores-opciones/) (de los muchos modelos cerrados que evitan malos olores e insectos)

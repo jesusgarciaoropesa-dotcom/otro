@@ -21,6 +21,12 @@ Una de las preguntas más habituales al plantearse una estructura de cultivo ver
 
 <figure><img width="1200" height="670" src="/images/articulos/torre-vertical-fresas-lechugas.jpg" alt="Torre de cultivo vertical con fresas y lechugas junto a macetas en el suelo de un balcón" /><figcaption>El vertical multiplica plantas por metro cuadrado de suelo</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si quieres probar el formato vertical, aquí tienes jardineras de bolsillos y torres de cultivo:
+
+<a href="https://www.amazon.es/s?k=jardinera+vertical+bolsillos&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jardineras verticales en Amazon</a>
+
 ## Por qué el cultivo vertical puede producir más por metro cuadrado de suelo
 
 La ventaja principal del cultivo vertical no es que cada planta individual produzca más, sino que permite colocar muchas más plantas en la misma superficie de suelo, aprovechando el espacio en altura que de otra forma quedaría vacío. En un balcón pequeño, esto puede significar duplicar o triplicar el número de plantas cultivadas sin ampliar la superficie disponible.
