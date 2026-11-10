@@ -18,6 +18,14 @@ Si tus hojas amanecen con un aspecto **plateado y salpicado de puntitos negros**
 
 <figure><img width="1200" height="670" src="/images/articulos/trips-hoja.jpg" alt="Hoja con manchas plateadas y puntitos negros diminutos, daño característico de los trips" /><figcaption>Los trips dejan las hojas plateadas y salpicadas de puntitos negros.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para los trips, trampas azules como alerta y jabón potásico para pulverizar:
+
+<a href="https://www.amazon.es/s?k=trampas+cromaticas+azules&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver trampas azules en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jabón potásico en Amazon</a>
+
 ## Cómo reconocer los trips
 
 Los trips son difíciles de ver (miden 1-2 mm), pero su rastro es muy característico:

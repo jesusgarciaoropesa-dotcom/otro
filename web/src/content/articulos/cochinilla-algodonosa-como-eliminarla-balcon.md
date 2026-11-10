@@ -18,6 +18,12 @@ Ves unos puntos blancos, como motitas de algodón, en los tallos o el envés de 
 
 <figure><img width="1200" height="670" src="/images/articulos/cochinilla-algodonosa.jpg" alt="Cochinilla algodonosa: motas blancas algodonosas en el tallo y el envés de las hojas de una planta en maceta" /><figcaption>La cochinilla se protege con una capa cerosa blanca de aspecto algodonoso.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si la infestación pasa de unas pocas cochinillas, el aceite de neem es de lo más eficaz:
+
+<a href="https://www.amazon.es/s?k=aceite+de+neem+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver aceite de neem en Amazon</a>
+
 ## Cómo identificarla
 
 La cochinilla algodonosa es inconfundible:

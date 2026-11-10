@@ -18,6 +18,14 @@ El acolchado o *mulching* es uno de esos trucos sencillos que cambian mucho el h
 
 <figure><img width="1200" height="670" src="/images/articulos/acolchado-mulching-tomatera.jpg" alt="Maceta de balcón con una tomatera y la superficie del sustrato cubierta con acolchado de paja" /><figcaption>Una capa de acolchado (paja) sobre el sustrato reduce la evaporación y espacia los riegos</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si no tienes material a mano, la paja o la corteza de pino para acolchar se compran en bolsas pequeñas:
+
+<a href="https://www.amazon.es/s?k=paja+acolchado+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver paja para acolchado en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=corteza+de+pino+jardin&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver corteza de pino en Amazon</a>
+
 ## Para qué sirve
 
 Una simple capa sobre el sustrato hace varias cosas a la vez:

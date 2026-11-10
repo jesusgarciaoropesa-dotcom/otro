@@ -18,6 +18,12 @@ Riegas tus macetas y, al mover la planta, se levanta una **nube de mosquitos neg
 
 <figure><img width="1200" height="670" src="/images/articulos/mosca-sustrato-macetas.jpg" alt="Trampa cromática amarilla llena de mosquitos de la mosca del sustrato clavada en la tierra de una maceta en un balcón" /><figcaption>Las trampas amarillas cazan a los mosquitos adultos y ayudan a controlar la plaga.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Las trampas cromáticas amarillas son lo primero que conviene tener a mano contra los adultos:
+
+<a href="https://www.amazon.es/s?k=trampas+cromaticas+amarillas+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver trampas amarillas en Amazon</a>
+
 ## Cómo saber que es mosca del sustrato
 
 - **Mosquitos negros muy pequeños** (2-4 mm) que revolotean lento sobre la tierra y las hojas bajas.

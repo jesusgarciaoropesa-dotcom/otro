@@ -18,6 +18,12 @@ En el suelo de un huerto hay una despensa enorme de nutrientes; en una maceta, n
 
 <figure><img width="1200" height="670" src="/images/articulos/aplicar-humus-lombriz-maceta.jpg" alt="Aplicando humus de lombriz como abono en una maceta del huerto de balcón" /><figcaption>En maceta el sustrato se agota rápido: reponer nutrientes con regularidad es esencial</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Un abono suave y fácil de dosificar en maceta es el humus de lombriz:
+
+<a href="https://www.amazon.es/s?k=humus+de+lombriz&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver humus de lombriz en Amazon</a>
+
 ## Por qué en maceta hay que abonar sí o sí
 
 El sustrato de una maceta lleva nutrientes para unas pocas semanas. A partir de ahí, la planta se queda "a dieta": la propia planta los consume y el **riego frecuente los va lavando** por el drenaje. Si no repones, el crecimiento se para, las hojas amarillean y la cosecha cae. Es una de las causas del [amarilleo en tomateras](/articulos/por-que-tomateras-se-ponen-amarillas/).

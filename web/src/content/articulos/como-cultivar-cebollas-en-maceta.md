@@ -23,8 +23,6 @@ La cebolla no es el cultivo más rápido, pero sí uno muy agradecido para macet
   <figcaption>En jardinera y desde bulbito, las cebollas dan pocos problemas.</figcaption>
 </figure>
 
-*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
-
 Si quieres empezar por lo fácil, aquí tienes bulbitos de cebolla para plantar:
 
 <a href="https://www.amazon.es/s?k=bulbos+de+cebolla+para+plantar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver bulbitos de cebolla en Amazon</a>

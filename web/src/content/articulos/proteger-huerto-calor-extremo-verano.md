@@ -18,6 +18,12 @@ Una ola de calor puede echar a perder en pocos días un huerto de balcón que ib
 
 <figure><img width="1200" height="670" src="/images/articulos/malla-sombreo-calor-verano.jpg" alt="Balcón con hortalizas en maceta protegidas por una malla de sombreo durante el calor del verano" /><figcaption>Una malla de sombreo en las horas centrales protege las plantas del calor extremo</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+En las olas de calor, una malla de sombreo es lo que más se nota:
+
+<a href="https://www.amazon.es/s?k=malla+de+sombreo&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver mallas de sombreo en Amazon</a>
+
 ## Da sombra en las horas centrales
 
 El sol del mediodía en verano es el que más castiga. Reducirlo unas horas alivia muchísimo:

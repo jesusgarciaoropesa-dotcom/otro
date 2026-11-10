@@ -19,6 +19,12 @@ Cuando llega el frío, el huerto de balcón no se para, pero sí cambia de ritmo
 
 <figure><img width="1200" height="670" src="/images/articulos/mini-invernadero-estanteria-balcon.jpg" alt="Mini-invernadero de balcón cubriendo macetas para protegerlas del frío en invierno" /><figcaption>Un mini-invernadero, la pared cercana y una tela antiheladas bastan para pasar el invierno.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para las noches de helada, lo más práctico es tener una tela antihelada lista:
+
+<a href="https://www.amazon.es/s?k=tela+antihelada+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tela antihelada en Amazon</a>
+
 ## Primero: qué peligra y qué no
 
 No todo hay que protegerlo. Distingue:
