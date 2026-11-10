@@ -262,13 +262,13 @@ h2 {{ font-size: 25pt; letter-spacing: -.01em; }}
 .cal .dias {{ width: 14mm; text-align: right; color: var(--suave); font-size: 7.8pt; font-variant-numeric: tabular-nums; }}
 .cal td {{ border-bottom: .5pt solid var(--linea); }}
 .cal tr.grupo th {{ text-align: left; font-family: Fraunces; font-size: 11pt; color: var(--tierra); font-weight: 600; padding: 4mm 0 1.2mm; border-bottom: .8pt solid var(--tierra); }}
-.cal td.m {{ padding: 0; background-image: linear-gradient(90deg, rgba(0,0,0,.06) .5pt, transparent .5pt); }}
-.cal td.m:nth-child(3), .cal td.m:nth-child(4), .cal td.m:nth-child(14) {{ background-color: rgba(36,64,31,.05); }}
+.cal td.m {{ padding: 0; }}
+.cal td.m:nth-child(3), .cal td.m:nth-child(4), .cal td.m:nth-child(14) {{ background-color: #eeeee4 !important; }}
 .cal td.m.on i {{ display: block; height: 3.3mm; background: var(--hoja); margin: 0; }}
 .cal td.m.on.ini i {{ border-radius: 2mm 0 0 2mm; margin-left: .6mm; }}
 .cal td.m.on.fin i {{ border-radius: 0 2mm 2mm 0; margin-right: .6mm; }}
 .cal td.m.on.ini.fin i {{ border-radius: 2mm; }}
-.cal tbody tr:not(.grupo):nth-child(even) td {{ background-color: rgba(250,243,230,.55); }}
+.cal tbody tr:not(.grupo):nth-child(even) td {{ background-color: #fcf7ee; }}
 .nota-tabla {{ font-size: 7.6pt; color: var(--suave); margin-top: 4mm; }}
 
 /* mes a mes */
