@@ -459,6 +459,11 @@ with sync_playwright() as p:
     pg.pdf(path=str(SALIDA), format="A4", print_background=True, prefer_css_page_size=True)
     b.close()
 tmp.unlink()
+import subprocess
+if shutil.which("qpdf"):  # PDF "linealizado": el móvil lo enseña mientras se descarga
+    lin = SALIDA.with_suffix(".lin.pdf")
+    subprocess.run(["qpdf", "--linearize", str(SALIDA), str(lin)], check=True)
+    lin.replace(SALIDA)
 PUBLICO.parent.mkdir(parents=True, exist_ok=True)
 shutil.copy(SALIDA, PUBLICO)
 print(SALIDA, f"{SALIDA.stat().st_size / 1e6:.1f} MB", N, "cultivos")
