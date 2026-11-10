@@ -5,6 +5,7 @@ import ShareButtons from '../components/ShareButtons.astro';
 import EquipoRecomendado from '../components/EquipoRecomendado.astro';
 import SerieCultivos from '../components/SerieCultivos.astro';
 import MesNav from '../components/MesNav.astro';
+import CalendarioDescarga from '../components/CalendarioDescarga.astro';
 import { getCategoria, getCategoriaImagen } from '../data/categorias';
 import { withBase } from '../lib/url';
 
@@ -230,6 +231,8 @@ const faqLd =
   </article>
 
   <MesNav slugActual={slug} />
+
+  <CalendarioDescarga categoria={categoria} />
 
   <SerieCultivos slugActual={slug} />
 

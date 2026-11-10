@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { withBase } from '../lib/url';
+import CalendarioDescarga from '../components/CalendarioDescarga.astro';
 import { cultivos, meses } from '../data/calculadora-cultivos';
 
 // Mes actual por defecto (para que el usuario vea resultados al entrar).
@@ -227,6 +228,8 @@ const faqLd = {
       ))}
     </div>
   </section>
+
+  <CalendarioDescarga siempre />
 
   <script type="application/json" id="datos-cultivos" set:html={JSON.stringify(datos)} />
   <script is:inline>
