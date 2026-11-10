@@ -305,6 +305,16 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
     hint = ""
     contador = f'<div class="contador">{indice+1}/{total}</div>'
     es_portada = indice == 0
+    # Opcionales por lámina, para fotos con lo importante abajo o a un lado:
+    #   "posicion": "70% center"  -> qué parte de la foto se ve (CSS background-position)
+    #   "texto": "arriba"         -> el texto va arriba y deja ver la parte de abajo de la foto
+    posicion = slide.get("posicion", "center")
+    arriba = slide.get("texto") == "arriba"
+    extra_css = ""
+    if arriba:
+        extra_css = (".scrim{background:linear-gradient(180deg, rgba(8,12,6,.92) 0%, rgba(12,18,10,.80) 30%, "
+                     "rgba(12,18,10,0) 58%, rgba(12,18,10,0) 88%, rgba(12,18,10,.45) 100%)}"
+                     ".textos{top:170px;bottom:auto}")
 
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {fraunces}
@@ -313,7 +323,7 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
 html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
 .canvas{{position:relative;width:{CW}px;height:{CH}px;background:{C['hoja_oscuro']}}}
 /* La foto ocupa TODO el lienzo */
-.foto{{position:absolute;inset:0;background:url('{foto_uri}') center/cover no-repeat}}
+.foto{{position:absolute;inset:0;background:url('{foto_uri}') {posicion}/cover no-repeat}}
 /* Degradado arriba (para marca) y fuerte abajo (para el texto) */
 .scrim{{position:absolute;inset:0;background:
       linear-gradient(180deg, rgba(12,18,10,.58) 0%, rgba(12,18,10,0) 22%,
@@ -345,6 +355,7 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
       font-size:36px;color:{C['hoja_oscuro']};background:{C['mostaza']};
       padding:18px 40px;border-radius:999px;margin-top:30px;
       box-shadow:0 8px 22px rgba(0,0,0,.5)}}
+{extra_css}
 </style></head><body>
 <div class="canvas">
   <div class="foto"></div>
