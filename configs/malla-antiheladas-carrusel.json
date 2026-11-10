@@ -19,25 +19,29 @@
       "pildora": "Sigue 👉"
     },
     {
-      "foto": "/images/articulos/frutal-enano-terraza.jpg",
+      "foto": "/images/articulos/velo-antiheladas-escarcha.jpg",
       "kicker": "Opción 2",
       "titulo": "Funda para frutales",
       "subtitulo": "Un saco con cordón para envolver un frutal o una planta grande.",
-      "pildora": "Sigue 👉"
+      "pildora": "Sigue 👉",
+      "posicion": "64% center",
+      "texto": "arriba"
     },
     {
-      "foto": "/images/articulos/semillero-plantulas-ventana.jpg",
+      "foto": "/images/articulos/mini-invernadero-estanteria-balcon.jpg",
       "kicker": "Opción 3",
       "titulo": "Mini-invernadero",
       "subtitulo": "Resguarda varias macetas a la vez y te sirve para los semilleros.",
       "pildora": "Sigue 👉"
     },
     {
-      "foto": "/images/articulos/tamano-maceta-hortalizas.jpg",
+      "foto": "/images/articulos/malla-antiheladas-macetas-balcon.jpg",
       "kicker": "Opción 4",
       "titulo": "Abriga también la maceta",
       "subtitulo": "En maceta la raíz sufre más: envuélvela con plástico de burbujas o arpillera.",
-      "pildora": "Sigue 👉"
+      "pildora": "Sigue 👉",
+      "posicion": "30% center",
+      "texto": "arriba"
     },
     {
       "foto": "/images/articulos/malla-sombreo-calor-verano.jpg",
