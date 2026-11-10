@@ -1,0 +1,59 @@
+{
+  "slug": "exceso-riego",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/como-evitar-exceso-riego-hongo-macetas/",
+  "slides": [
+    {
+      "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
+      "kicker": "S.O.S. BALCÓN",
+      "titulo": "¿Hojas amarillas? No es sed",
+      "destacado": "No es sed",
+      "subtitulo": "Le sobra agua, y tiene arreglo.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+      "kicker": "Primero, comprueba",
+      "titulo": "La prueba del dedo",
+      "subtitulo": "Mete un dedo dos o tres centímetros en la tierra: si está húmeda, no riegues.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/tierra-no-absorbe-agua.jpg",
+      "kicker": "La causa",
+      "titulo": "Raíces sin aire",
+      "subtitulo": "El agua de más desplaza el aire, las raíces se asfixian y aparecen los hongos.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/moho-blanco-tierra-macetas.jpg",
+      "kicker": "Señales de alarma",
+      "titulo": "Moho, olor y tallo blando",
+      "subtitulo": "Tierra siempre húmeda, olor a podrido o la base del tallo oscura.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/regar-regadera-cuanta-agua.jpg",
+      "kicker": "Cómo arreglarlo",
+      "titulo": "Espacia los riegos",
+      "subtitulo": "Deja que el sustrato se seque un poco entre un riego y el siguiente.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
+      "kicker": "Y además",
+      "titulo": "Fuera el plato con agua",
+      "subtitulo": "Libera los agujeros de drenaje y, si está muy mal, trasplanta a sustrato nuevo.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/riego-goteo-macetas-balcon.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Ante la duda, no riegues",
+      "destacado": "no riegues",
+      "subtitulo": "Todas las señales y cómo corregirlo, en la guía.",
+      "pildora": "Guarda esto 🌱"
+    }
+  ],
+  "duracion_slide": 9.1
+}
