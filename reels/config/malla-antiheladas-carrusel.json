@@ -1,0 +1,62 @@
+{
+  "slug": "malla-antiheladas",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/mejores-mallas-antiheladas-proteccion-invierno/",
+  "slides": [
+    {
+      "foto": "/images/articulos/poner-velo-antiheladas-maceta-manos.jpg",
+      "kicker": "INVIERNO · HELADAS",
+      "titulo": "Una tela blanca contra la helada",
+      "destacado": "helada",
+      "subtitulo": "Funciona, si no la confundes con la de sombreo.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/velo-antiheladas-escarcha-detalle.jpg",
+      "kicker": "Opción 1",
+      "titulo": "Velo antiheladas",
+      "subtitulo": "Sube unos grados bajo la tela y deja pasar luz, aire y agua.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/velo-antiheladas-escarcha.jpg",
+      "kicker": "Opción 2",
+      "titulo": "Funda para frutales",
+      "subtitulo": "Un saco con cordón para envolver un frutal o una planta grande.",
+      "pildora": "Sigue 👉",
+      "posicion": "64% center",
+      "texto": "arriba"
+    },
+    {
+      "foto": "/images/articulos/mini-invernadero-estanteria-balcon.jpg",
+      "kicker": "Opción 3",
+      "titulo": "Mini-invernadero",
+      "subtitulo": "Resguarda varias macetas a la vez y te sirve para los semilleros.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/malla-antiheladas-macetas-balcon.jpg",
+      "kicker": "Opción 4",
+      "titulo": "Abriga también la maceta",
+      "subtitulo": "En maceta la raíz sufre más: envuélvela con plástico de burbujas o arpillera.",
+      "pildora": "Sigue 👉",
+      "posicion": "30% center",
+      "texto": "arriba"
+    },
+    {
+      "foto": "/images/articulos/malla-sombreo-calor-verano.jpg",
+      "kicker": "El error",
+      "titulo": "No es la malla de sombreo",
+      "subtitulo": "El velo guarda calor en invierno; la de sombreo da fresco en verano.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/balcon-otono-amanecer.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Tu huerto, a salvo del hielo",
+      "destacado": "hielo",
+      "subtitulo": "La comparativa completa de protecciones está en la guía.",
+      "pildora": "Guarda esto 🌱"
+    }
+  ]
+}
