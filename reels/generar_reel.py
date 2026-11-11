@@ -293,12 +293,25 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
     partes = []
     if kicker:
         partes.append(f'<p class="kicker">{escape(kicker)}</p>')
+    # "caja": "todo" -> titular en cajas verdes con la palabra destacada en dorado;
+    #         "destacado" -> solo la palabra destacada en una caja dorada.
+    caja = slide.get("caja") or ""
     if slide.get('titulo'):
         titulo_html = subrayar(slide["titulo"], slide.get("destacado", ""))
-        partes.append(f'<h1 class="titular">{titulo_html}</h1>')
+        if caja == "todo":
+            partes.append(f'<h1 class="titular caja"><span class="l">{titulo_html}</span></h1>')
+        elif caja == "destacado":
+            partes.append(f'<h1 class="titular cajadest">{titulo_html}</h1>')
+        else:
+            partes.append(f'<h1 class="titular">{titulo_html}</h1>')
     if sub:
         partes.append(f'<p class="sub">{escape(sub)}</p>')
-    if pildora:
+    # "palabra": en la última lámina, «Comenta PALABRA y te paso la guía» (la función
+    # comentarios de Supabase detecta la palabra y se manda la guía por privado).
+    if slide.get("palabra"):
+        partes.append(f'<div class="comenta"><b>Comenta «{escape(slide["palabra"].upper())}»</b>'
+                      f'<span>{escape(slide.get("palabra_texto") or "y te paso la guía por privado")}</span></div>')
+    elif pildora:
         partes.append(f'<div class="pildora">{escape(pildora)}</div>')
     bloque = "\n      ".join(partes)
 
@@ -355,6 +368,19 @@ html,body{{width:{CW}px;height:{CH}px;overflow:hidden}}
       font-size:36px;color:{C['hoja_oscuro']};background:{C['mostaza']};
       padding:18px 40px;border-radius:999px;margin-top:30px;
       box-shadow:0 8px 22px rgba(0,0,0,.5)}}
+.titular.caja{{text-shadow:none;line-height:1.22!important}}
+.titular.cajadest{{line-height:1.16!important}}
+.titular.caja .l{{background:rgba(36,64,31,.94);color:#fff;padding:.02em .2em;border-radius:16px;
+      line-height:1.32;box-decoration-break:clone;-webkit-box-decoration-break:clone}}
+.titular.caja .hl{{color:{C['mostaza']};white-space:nowrap}}
+.titular.caja,.titular.cajadest{{margin-top:34px}}
+.titular.caja .hl::after,.titular.cajadest .hl::after{{display:none}}
+.titular.cajadest .hl{{background:{C['mostaza']};color:{C['hoja_oscuro']};padding:0 .16em;border-radius:14px;
+      text-shadow:none;box-decoration-break:clone;-webkit-box-decoration-break:clone;white-space:nowrap}}
+.comenta{{margin-top:30px;background:{C['mostaza']};color:{C['hoja_oscuro']};border-radius:30px;
+      padding:26px 36px;box-shadow:0 10px 26px rgba(0,0,0,.5);display:inline-block}}
+.comenta b{{display:block;font-family:'Fraunces',serif;font-weight:900;font-size:58px;line-height:1.05}}
+.comenta span{{display:block;font-family:'Inter',sans-serif;font-weight:700;font-size:32px;margin-top:6px}}
 {extra_css}
 </style></head><body>
 <div class="canvas">
