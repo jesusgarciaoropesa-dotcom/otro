@@ -293,16 +293,17 @@ def html_carrusel(slide: dict, marca: str, foto_uri: str, indice: int, total: in
     partes = []
     if kicker:
         partes.append(f'<p class="kicker">{escape(kicker)}</p>')
-    # "caja": "todo" -> titular en cajas verdes con la palabra destacada en dorado;
-    #         "destacado" -> solo la palabra destacada en una caja dorada.
-    caja = slide.get("caja") or ""
+    # "caja": "destacado" -> la palabra destacada en una caja dorada (por defecto en la portada);
+    #         "todo" -> titular en cajas verdes; "" o "no" -> subrayado como antes.
+    # Decidido por Jesús (11-11-2026): en la portada, la palabra destacada va en caja dorada.
+    caja = slide.get("caja", "destacado" if indice == 0 and slide.get("destacado") else "") or ""
     if slide.get('titulo'):
         titulo_html = subrayar(slide["titulo"], slide.get("destacado", ""))
         if caja == "todo":
             partes.append(f'<h1 class="titular caja"><span class="l">{titulo_html}</span></h1>')
         elif caja == "destacado":
             partes.append(f'<h1 class="titular cajadest">{titulo_html}</h1>')
-        else:
+        else:   # "" o "no"
             partes.append(f'<h1 class="titular">{titulo_html}</h1>')
     if sub:
         partes.append(f'<p class="sub">{escape(sub)}</p>')
