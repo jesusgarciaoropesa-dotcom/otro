@@ -63,21 +63,44 @@ MOTOR = "gemini"   # "gemini" (voz Achird, elegida por Jesús), "kokoro" (em_ale
 def texto_gemini(trozos) -> str:
     return " ".join(t for t, _ in trozos)
 
-def sintetizar_gemini(trozos, salida: Path):
+_GEM = {}   # audios de Gemini preparados para este reel
+
+def preparar_gemini(slides):
+    """Busca los audios de Gemini del reel: uno por lámina (si ya están todos) o uno para el guion entero
+    troceado en frases. Devuelve True si hay voz de Gemini para todas las láminas."""
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     import voz_gemini as G
-    r = G.descargar(texto_gemini(trozos))
-    if not r:
+    _GEM.clear()
+    con_texto = {i: trozos_lamina(s) for i, s in enumerate(slides) if trozos_lamina(s)}
+    por_lamina = {i: G.descargar(texto_gemini(t), estilo=G.ESTILO_LIBRE) for i, t in con_texto.items()}
+    if por_lamina and all(por_lamina.values()):
+        _GEM.update(modo="lamina", audios=por_lamina)
+        return True
+    trozos, sr = G.repartir_entero({i: [x for x, _ in t] for i, t in con_texto.items()})
+    if trozos:
+        _GEM.update(modo="entero", trozos=trozos, sr=sr, pausas={i: [p for _, p in t] for i, t in con_texto.items()})
+        return True
+    _GEM.update(modo=None, entero_existe=sr is not None, con_texto=con_texto)
+    return False
+
+def sintetizar_gemini(trozos, salida: Path, i: int):
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import voz_gemini as G
+    if _GEM.get("modo") == "lamina":
+        pcm, sr = _GEM["audios"][i]
+        pcm = G.recortar(pcm, sr)
+    elif _GEM.get("modo") == "entero":
+        sr = _GEM["sr"]
+        pcm = b"".join(t + b"\x00\x00" * int(sr * p) for t, p in zip(_GEM["trozos"][i], _GEM["pausas"][i]))
+    else:
         return None
-    pcm, sr = r
-    pcm = G.recortar(pcm, sr)
     with wave.open(str(salida), "wb") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr); w.writeframes(pcm)
     return len(pcm) / 2 / sr
 
-def sintetizar(modelo: Path, trozos, salida: Path) -> float:
+def sintetizar(modelo: Path, trozos, salida: Path, i: int = 0) -> float:
     if MOTOR == "gemini":
-        return sintetizar_gemini(trozos, salida)
+        return sintetizar_gemini(trozos, salida, i)
     if MOTOR == "kokoro":
         return sintetizar_kokoro(trozos, salida)
     return sintetizar_piper(modelo, trozos, salida)
@@ -129,21 +152,25 @@ def main():
     if a.accion == "pedido":
         sys.path.insert(0, str(Path(__file__).resolve().parent))
         import voz_gemini as G
-        textos = [texto_gemini(trozos_lamina(s)) for s in slides if trozos_lamina(s)]
-        sentencias = G.sql_pedido(G.pedido(textos))
-        print("\n".join(sentencias) if sentencias else "-- Ya están todos los audios de Gemini.")
+        if preparar_gemini(slides):
+            print("-- Ya están todos los audios de Gemini.")
+        elif not _GEM["entero_existe"]:   # un solo audio para todo el reel (cupo diario pequeño)
+            frases = {i: [x for x, _ in t] for i, t in _GEM["con_texto"].items()}
+            print("\n".join(G.sql_pedido(G.pedido([G.guion_entero(frases)]))))
+        else:                              # el entero no se troceó bien: uno por lámina
+            textos = [texto_gemini(t) for t in _GEM["con_texto"].values()]
+            print("\n".join(G.sql_pedido(G.pedido(textos, estilo=G.ESTILO_LIBRE))))
         return
+    if MOTOR == "gemini" and not preparar_gemini(slides):
+        print("AVISO: faltan audios de Gemini (lanza 'pedido' y ejecuta su SQL). Uso la voz de Kokoro.", file=sys.stderr)
+        MOTOR = "kokoro"
     with tempfile.TemporaryDirectory() as td:
         td = Path(td)
         wavs, largos = [], []
         for i, s in enumerate(slides):
             w = td / f"v{i}.wav"
-            largos.append(sintetizar(Path(a.modelo), trozos_lamina(s), w) if trozos_lamina(s) else 0.0)
+            largos.append(sintetizar(Path(a.modelo), trozos_lamina(s), w, i) if trozos_lamina(s) else 0.0)
             wavs.append(w)
-        if MOTOR == "gemini" and any(x is None for x in largos):
-            print("AVISO: faltan audios de Gemini (lanza 'pedido' y ejecuta su SQL). Uso la voz de Kokoro.", file=sys.stderr)
-            MOTOR = "kokoro"
-            largos = [sintetizar(Path(a.modelo), trozos_lamina(s), w) if trozos_lamina(s) else 0.0 for s, w in zip(slides, wavs)]
         # láminas sin texto: un silencio corto para que el montaje no falle
         for x, w in zip(largos, wavs):
             if not w.exists():
