@@ -1,0 +1,40 @@
+{
+ "slug": "malla-antiheladas",
+ "_nota": "Ejemplo del ESTILO VISUAL (generar_visual.py). Datos sacados del artículo de mallas antiheladas.",
+ "articulo": "/articulos/mejores-mallas-antiheladas-proteccion-invierno/",
+ "palabra": "HELADA",
+ "slides": [
+  {"tipo": "portada", "foto": "/images/articulos/poner-velo-antiheladas-maceta-manos.jpg",
+   "titulo": "La tela blanca que salva tus macetas de la helada", "destacado": "tela blanca",
+   "sello": {"arriba": "sube", "cifra": "1-4 °C", "abajo": "bajo la tela"}},
+  {"tipo": "versus", "titulo": "Ojo: no es la malla de sombreo", "destacado": "malla de sombreo",
+   "texto": "Se parecen en la tienda, pero hacen lo contrario.",
+   "izquierda": {"foto": "/images/articulos/velo-antiheladas-escarcha-detalle.jpg", "titulo": "Velo antiheladas", "items": ["Blanco y fino", "Guarda el calor", "Invierno"], "bien": true},
+   "derecha": {"foto": "/images/articulos/malla-sombreo-calor-verano.jpg", "titulo": "Malla de sombreo", "items": ["Oscura", "Da sombra y fresco", "Verano"], "bien": false},
+   "conclusion": "No se pueden intercambiar: **la de sombreo no te salva de la helada.**"},
+  {"tipo": "filas", "titulo": "¿Qué grosor comprar?", "texto": "Cuanto más pesa, más abriga… y menos luz deja pasar.",
+   "filas": [
+    {"grande": "19", "unidad": "g/m² · fino", "barra": 85, "linea": "Deja pasar el 85 % de la luz", "detalle": "Puede quedarse puesto varios días", "valor": "1-2 °C", "valor_pie": "de protección", "destacar": true},
+    {"grande": "30", "unidad": "g/m² · medio", "barra": 70, "linea": "Deja pasar el 70 %", "detalle": "Noches de helada suave", "valor": "2-3 °C", "valor_pie": "de protección"},
+    {"grande": "50", "unidad": "g/m² · grueso", "barra": 50, "linea": "Deja pasar el 50 %", "detalle": "Solo en olas de frío, y quítalo después", "valor": "3-4 °C", "valor_pie": "de protección"}],
+   "fuente": "Datos aproximados de la tabla del fabricante Agribon."},
+  {"tipo": "pasos", "titulo": "Cómo ponerlo bien", "destacado": "bien", "foto": "/images/articulos/poner-velo-antiheladas-maceta-manos.jpg", "posicion": "55% center",
+   "pasos": [
+    {"titulo": "Por la tarde", "texto": "Antes de que caiga el sol, para atrapar el calor de la tierra."},
+    {"titulo": "Que no toque las hojas", "texto": "Apóyalo en 3-4 cañas o un arco de alambre."},
+    {"titulo": "Bájalo hasta la maceta", "texto": "Sujeto con una goma o pinzas. Si queda abierto, entra el frío."},
+    {"titulo": "Junta las macetas", "texto": "Contra la pared: con un trozo tapas varias."}]},
+  {"tipo": "foto", "foto": "/images/articulos/malla-antiheladas-macetas-balcon.jpg", "posicion": "30% center",
+   "titulo": "Abriga también la raíz", "destacado": "la raíz",
+   "texto": "En maceta sufre más que en el suelo. Envuelve la maceta y súmale el velo por encima.",
+   "recuadro": {"titulo": "3 formas de abrigar la maceta", "items": ["Plástico de burbujas alrededor", "Arpillera o saco de yute", "Elevarla del suelo frío"]}},
+  {"tipo": "tarjetas", "titulo": "¿Cuál te hace falta?",
+   "tarjetas": [
+    {"foto": "/images/articulos/velo-antiheladas-escarcha-detalle.jpg", "etiqueta": "Lo general y barato", "titulo": "Velo antiheladas", "texto": "Para hortalizas y hojas en noches frías"},
+    {"foto": "/images/articulos/velo-antiheladas-escarcha.jpg", "posicion": "64% center", "etiqueta": "Un frutal o planta grande", "titulo": "Funda con cordón", "texto": "Fácil de poner y quitar, y te sirve cada invierno"},
+    {"foto": "/images/articulos/mini-invernadero-estanteria-balcon.jpg", "etiqueta": "Varias macetas o semilleros", "titulo": "Mini-invernadero", "texto": "Un microclima para todas a la vez"},
+    {"foto": "/images/articulos/malla-antiheladas-macetas-balcon.jpg", "posicion": "30% center", "etiqueta": "Heladas fuertes", "titulo": "+ Proteger la maceta", "texto": "Súmalo a cualquiera de las otras"}]},
+  {"tipo": "cierre", "foto": "/images/articulos/balcon-otono-amanecer.jpg", "titulo": "Que este invierno no se te hiele nada", "destacado": "nada",
+   "guardar": "Guárdalo para la primera noche de helada", "palabra": "HELADA"}
+ ]
+}
