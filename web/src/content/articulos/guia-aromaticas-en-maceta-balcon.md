@@ -13,6 +13,11 @@ faq:
     respuesta: "Sí, siempre que agrupes las que tienen las mismas necesidades. Las mediterráneas de sol y poca agua (romero, tomillo, salvia, orégano) van juntas; las de más agua y algo de sombra (perejil, cilantro, menta) por otro lado. La menta, además, mejor sola porque es invasiva."
   - pregunta: "¿Las aromáticas necesitan mucho sol?"
     respuesta: "Depende. Las mediterráneas quieren sol pleno (6 horas o más). El perejil, el cilantro, la menta o el cebollino toleran bien la media sombra, así que son ideales para balcones que no reciben sol directo todo el día. Elige según la luz real de tu balcón."
+claves:
+  - "Agrupa según necesidades: no mezcles en la misma maceta una mediterránea con una de mucha agua."
+  - "Romero, tomillo, orégano, salvia y laurel quieren sol y poco riego."
+  - "Perejil, cilantro, cebollino, menta y albahaca piden más agua y aguantan media sombra; la menta, siempre sola."
+  - "Corta a demanda, nunca más de un tercio de la planta, y pinza las puntas para que ramifiquen."
 ---
 
 Las aromáticas son la mejor puerta de entrada al huerto de balcón: ocupan poco, se usan a diario en la cocina y la mayoría son muy fáciles. Esta guía reúne todo lo que necesitas para montar tu propio jardín de hierbas, con enlace a la ficha completa de cada una.

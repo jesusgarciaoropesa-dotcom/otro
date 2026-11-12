@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Qué necesita un frutal enano para producir en maceta?"
     respuesta: "Una maceta grande (a partir de 40 litros en adultos) con buen drenaje, mucho sol, un abonado adecuado y una poda de control. Con esos cuidados, un frutal enano rinde muy bien en terraza."
 
+claves:
+  - "Limonero, naranjo, higuera, granado y arándano tienen variedades enanas que viven bien en maceta."
+  - "Si es tu primer frutal, empieza por fresas y frutos rojos: son los que antes fructifican."
+  - "Pide maceta de 40 litros o más, 6 horas de sol, riego regular, abonado y poda anual."
+  - "Ten paciencia: la mayoría tarda 1-3 años en dar una cosecha relevante; el aguacate casi nunca da fruto en balcón."
 ---
 
 No hace falta tener un jardín para disfrutar de fruta propia. Existen variedades enanas de muchos frutales clásicos, desarrolladas específicamente para vivir toda su vida en una maceta grande.

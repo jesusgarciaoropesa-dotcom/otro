@@ -13,6 +13,11 @@ faq:
     respuesta: "Un kit básico de aromáticas (albahaca, perejil, cilantro): es la opción más económica y con menor riesgo de fracaso, y funciona incluso en una cocina o un alféizar."
   - pregunta: "¿Qué kit reduce más el riesgo de fracaso por riego?"
     respuesta: "Los kits con maceta autorregante: el depósito de agua compensa los olvidos y el riego irregular, que es el error más común entre principiantes."
+claves:
+  - "Un kit junta maceta, sustrato y semillas en una sola compra para empezar sin dudas."
+  - "Primera vez: kit de aromáticas. Quieres hortalizas sin complicarte con el riego: kit autorregante."
+  - "Balcón muy pequeño: kit con estructura vertical. Te gusta el proceso completo: kit de semillero."
+  - "Antes de comprar, comprueba que la luz de tu balcón encaja con lo que vas a cultivar."
 ---
 
 Un kit de huerto urbano reúne en una sola compra los elementos básicos para empezar (maceta, sustrato, semillas y a veces herramientas), evitando tener que decidir y comprar cada pieza por separado. Estas son las categorías más recomendables según tu perfil.

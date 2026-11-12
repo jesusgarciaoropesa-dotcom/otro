@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cuánto sol necesita un huerto de balcón?"
     respuesta: "La mayoría de hortalizas de fruto piden 6 horas o más de sol directo; con menos luz, apuesta por hojas y aromáticas, que toleran media sombra. Antes de nada, observa cuántas horas de sol recibe de verdad tu balcón."
 
+claves:
+  - "Mira primero tus horas de sol directo: con 6 o más vale casi todo; con menos de 3, hojas verdes y menta."
+  - "Macetas de 30-40 cm de hondo para tomate, pimiento y berenjena; 15-20 cm para hojas y aromáticas."
+  - "Usa sustrato universal con un 20-30% de perlita o fibra de coco, nunca tierra de jardín."
+  - "Empieza por rabanitos, lechugas, albahaca o perejil y organiza el riego desde el primer día."
 ---
 
 Montar un huerto urbano en el balcón no requiere jardín, ni grandes conocimientos de jardinería, ni una [inversión elevada](/articulos/cuanto-cuesta-montar-huerto-urbano-en-casa/). Si dudas entre balcón o huerto de suelo, aquí comparamos [huerto urbano frente a huerto tradicional](/articulos/huerto-urbano-vs-huerto-tradicional/). Con unas macetas, sustrato de calidad y un poco de sol, cualquier balcón o terraza puede convertirse en una pequeña despensa de hortalizas y aromáticas frescas.

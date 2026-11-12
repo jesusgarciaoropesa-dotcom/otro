@@ -22,6 +22,8 @@ const articulos = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     pilar: z.boolean().default(false),
+    // Caja "Lo esencial": 3-4 puntos resumen que se muestran arriba del artículo.
+    claves: z.array(z.string()).min(3).max(4).optional(),
     faq: z.array(z.object({ pregunta: z.string(), respuesta: z.string() })).optional(),
   }),
 });

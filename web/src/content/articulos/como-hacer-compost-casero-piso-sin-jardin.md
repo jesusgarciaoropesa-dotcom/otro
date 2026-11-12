@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cuánto tarda en estar listo el compost?"
     respuesta: "Según el método y la temperatura, entre 2 y 4 meses. Estará listo cuando sea una tierra oscura, homogénea y con olor agradable, sin que se reconozcan los restos originales."
 
+claves:
+  - "Basta un compostador cerrado y compacto: restos de cocina más material seco como cartón u hojas."
+  - "Alterna capas verdes (húmedas) y marrones (secas) y remueve cada 4-5 días para evitar olores."
+  - "Nada de carne, pescado, lácteos, comida con aceite ni plantas con plagas."
+  - "Está listo en 2-4 meses; mézclalo 1 parte de compost por 3-4 de sustrato."
 ---
 
 No hace falta tener jardín ni un gran terreno para compostar: con un compostador compacto y unos hábitos sencillos, puedes convertir tus restos de cocina en abono de calidad para tu huerto urbano.

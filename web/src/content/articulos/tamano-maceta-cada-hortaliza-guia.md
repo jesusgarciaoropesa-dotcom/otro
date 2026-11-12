@@ -13,6 +13,11 @@ faq:
     respuesta: "Una maceta algo grande casi nunca es un problema (retiene más humedad y da margen a la raíz); el error habitual es al revés, quedarse corto. El único riesgo de una maceta enorme con una planta pequeña es que el exceso de sustrato húmedo favorezca el encharcamiento, así que cuida el drenaje y no riegues de más."
   - pregunta: "¿Qué es más importante, la profundidad o los litros?"
     respuesta: "Depende del cultivo. En hortalizas de raíz (zanahoria, remolacha) manda la profundidad; en las de mucha planta y fruto (tomate, calabacín) importa el volumen total de sustrato, porque de ahí sacan agua y nutrientes. La anchura también cuenta: reparte el volumen entre alto y ancho según lo que cultives."
+claves:
+  - "15-20 cm de hondo bastan para lechugas, rabanitos, fresas y aromáticas."
+  - "25-30 cm para zanahoria, remolacha, ajos, cebollas, guisantes y judías."
+  - "Tomate: 30-40 cm y 15-20 litros por planta; calabacín, 20 litros o más; frutales, 40-50 litros."
+  - "Una planta grande por maceta y siempre con agujeros de drenaje."
 ---
 
 Una de las causas más silenciosas de que un huerto de balcón vaya regular es la **maceta pequeña**. La planta se queda enana, produce poco, se seca cada dos por tres y parece que "no hay manera", cuando en realidad solo le falta sitio para las raíces. Aquí tienes, cultivo a cultivo, cuánta maceta necesita cada uno.

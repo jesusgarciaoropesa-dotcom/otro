@@ -13,6 +13,11 @@ faq:
     respuesta: "Calabacines, berenjenas y tomates de mata grande: necesitan mucha superficie y volumen de sustrato, y en balcones muy pequeños rinden poco para lo que ocupan, salvo variedades enanas específicas."
   - pregunta: "¿Qué tomate funciona mejor en maceta compacta?"
     respuesta: "El tomate cherry o cóctel: produce en abundancia en macetas relativamente pequeñas y es mucho más agradecido en espacios reducidos que las variedades de mata grande."
+claves:
+  - "Lechugas, rúcula y espinacas baby se cosechan hoja a hoja y dan mucho en poco sitio."
+  - "Los rabanitos son lo más rápido: listos en 3-4 semanas."
+  - "Albahaca, perejil y cilantro caben en macetas de 15-20 cm y el tomate cherry rinde más que el de mata grande."
+  - "Si el espacio es muy pequeño, evita calabacín, berenjena y tomate de mata grande."
 ---
 
 Cuando el espacio es realmente limitado, no todas las hortalizas son igual de rentables. Estas son las que ofrecen mejor relación entre espacio ocupado y cosecha obtenida.

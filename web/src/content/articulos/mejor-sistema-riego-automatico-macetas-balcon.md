@@ -16,6 +16,11 @@ faq:
     respuesta: "Puedes usar un depósito o garrafa con una pequeña bomba conectada al programador, y si tampoco tienes enchufe cerca existen programadores de riego con placa solar integrada."
   - pregunta: "¿Cuántos días aguanta el riego casero con botellas?"
     respuesta: "Una botella invertida con agujeros en el tapón libera agua durante 3-5 días como máximo y solo para macetas puntuales. Para ausencias más largas o muchas macetas necesitas goteo con programador."
+claves:
+  - "Para 5-20 macetas, lo más equilibrado es un kit de goteo con programador a pilas y goteros regulables."
+  - "Los programadores con app y sensor de humedad dan control a distancia, pero cuestan más y dependen de la conexión."
+  - "Para un fin de semana basta una botella invertida; no sirve para más de 3-5 días."
+  - "Sin grifo cerca, busca kits con depósito y minibomba; sin enchufe, programador solar."
 ---
 
 Si has perdido plantas por olvidarte de regar en vacaciones o simplemente quieres liberarte de la tarea diaria, un sistema de riego automático es la mejora que más impacto tiene en un huerto de balcón. Estas son las opciones más recomendables según presupuesto y número de macetas.

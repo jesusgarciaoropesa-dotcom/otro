@@ -19,6 +19,8 @@ Si tu limonero o mandarino en maceta saca hojas nuevas que se quedan rizadas, on
 
 <figure><img width="1200" height="670" src="/images/articulos/minador-citricos.jpg" alt="Hojas de limonero con galerías plateadas serpenteantes del minador de los cítricos" /><figcaption>El minador deja galerías serpenteantes en las hojas jóvenes del limonero.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué es exactamente
 
 El minador de los cítricos (*Phyllocnistis citrella*) es una larva diminuta de polilla que, nada más eclosionar, se introduce dentro del tejido de una hoja recién brotada y se alimenta abriendo galerías mientras se desplaza por su interior. Como la hoja todavía está en pleno crecimiento cuando esto ocurre, el daño interno hace que se deforme, se rice y quede ondulada de manera permanente a medida que termina de desarrollarse.
@@ -41,5 +43,7 @@ Es importante tener expectativas realistas: una hoja que ya ha sido minada y se 
 - **Retira las hojas muy afectadas**: no arregla nada, pero reduce la población de larvas que puedan completar su ciclo y generar la siguiente generación.
 - **Evita el abonado nitrogenado excesivo**: un exceso de nitrógeno estimula brotes nuevos tiernos en exceso, justamente el tejido que más atrae a esta plaga.
 - **Revisa los brotes nuevos cada semana** durante las épocas de mayor crecimiento (primavera-verano), para tratar en cuanto aparezcan los primeros síntomas y no cuando ya haya varias hojas afectadas.
+
+<a href="https://www.amazon.es/s?k=aceite+de+neem+para+plantas&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver aceite de neem en Amazon</a>
 
 Consulta también nuestra guía de [cómo cultivar un limonero en maceta en el balcón](/articulos/como-cultivar-limonero-en-maceta/) para el resto de cuidados básicos del cultivo.

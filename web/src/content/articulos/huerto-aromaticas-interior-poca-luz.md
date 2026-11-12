@@ -20,6 +20,8 @@ Cuando la luz natural disponible en interior es realmente escasa (ventana peque�
 
 <figure><img width="1200" height="670" src="/images/articulos/barra-led-cultivo-aromaticas.jpg" alt="Barra LED de cultivo iluminando macetas de albahaca, perejil y romero en una estantería de interior al atardecer" /><figcaption>Una barra LED bajo la balda basta para complementar la luz natural de las aromáticas de interior</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Aromáticas que mejor toleran poca luz
 
 - **Menta**: de las más tolerantes a la sombra entre todas las aromáticas habituales; consulta [cómo cultivarla sin que invada el resto](/articulos/como-cultivar-menta-en-maceta/).
@@ -37,6 +39,8 @@ Si tras un mes las plantas muestran tallos largos y débiles "estirándose" haci
 ## Cómo combinar luz natural y artificial
 
 No hace falta sustituir completamente la luz natural: complementarla con unas horas de [luz artificial](/articulos/mejores-luces-led-cultivo-interior/) (por ejemplo, al atardecer, cuando la luz natural ya es escasa) suele ser suficiente para mejorar notablemente el desarrollo sin necesidad de tener la lámpara encendida todo el día.
+
+<a href="https://www.amazon.es/s?k=lampara+led+cultivo+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver lámparas LED de cultivo en Amazon</a>
 
 ## Si tus aromáticas están en la cocina
 
