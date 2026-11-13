@@ -794,14 +794,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://mihuertourbano.xyz/articulos/errores-comunes-empezar-huerto-urbano/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/planta-sana-vs-mustia.jpg</image:loc>
-      <image:title>Errores comunes al empezar un huerto urbano (y cómo evitarlos)</image:title>
-      <image:caption>Los fallos más frecuentes al montar un huerto urbano por primera vez: exceso de riego, mala elección de plantas, macetas pequeñas y más.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://mihuertourbano.xyz/articulos/errores-frecuentes-riego-automatico/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/riego-goteo-macetas-balcon.jpg</image:loc>
@@ -938,14 +930,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://mihuertourbano.xyz/articulos/hortalizas-que-crecen-a-la-sombra/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/balcon-sombra-cultivos-hoja.jpg</image:loc>
-      <image:title>Hortalizas que crecen a la sombra en un balcón</image:title>
-      <image:caption>Qué hortalizas se pueden cultivar con éxito en un balcón con poca luz directa o sombra parcial, y cómo adaptar los cuidados a esa menor exposición solar.</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://mihuertourbano.xyz/articulos/huerto-aromaticas-interior-poca-luz/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/barra-led-cultivo-aromaticas.jpg</image:loc>
@@ -965,8 +949,8 @@
     <loc>https://mihuertourbano.xyz/articulos/huerto-urbano-balcon-orientado-norte/</loc>
     <image:image>
       <image:loc>https://mihuertourbano.xyz/images/articulos/balcon-sombra-cultivos-hoja.jpg</image:loc>
-      <image:title>Huerto urbano en un balcón orientado al norte: qué plantar</image:title>
-      <image:caption>Qué plantar en un huerto urbano de balcón orientado al norte, con poca luz solar directa, y cómo maximizar los resultados en esas condiciones.</image:caption>
+      <image:title>Huerto en balcón con poca luz o al norte: qué plantar</image:title>
+      <image:caption>Qué hortalizas y aromáticas crecen en un balcón orientado al norte o con sombra, qué evitar y cómo aprovechar al máximo la poca luz que llega.</image:caption>
     </image:image>
   </url>
   <url>
@@ -1087,14 +1071,6 @@
       <image:loc>https://mihuertourbano.xyz/images/articulos/mezclar-sustrato-perlita.jpg</image:loc>
       <image:title>Mejor sustrato (tierra) para macetas de huerto: guía de compra</image:title>
       <image:caption>Qué sustrato comprar para un huerto en maceta: tipos según el cultivo, qué mirar en la etiqueta, cuántos litros necesitas y los errores más comunes al comprar.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://mihuertourbano.xyz/articulos/mejores-aromaticas-para-principiantes/</loc>
-    <image:image>
-      <image:loc>https://mihuertourbano.xyz/images/articulos/jardinera-aromaticas-barandilla.jpg</image:loc>
-      <image:title>Mejores aromáticas para principiantes en huerto urbano</image:title>
-      <image:caption>Qué hierbas aromáticas son las más fáciles de mantener para quien empieza un huerto urbano, según necesidad de riego, luz y resistencia a errores.</image:caption>
     </image:image>
   </url>
   <url>
