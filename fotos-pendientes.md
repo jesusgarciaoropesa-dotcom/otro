@@ -36,7 +36,7 @@ de `especificaciones-fotos-articulos.md`.
 - [x] `reutilizar-restos-cocina-abonar-huerto` — restos de cocina para compost (cenital)
 - [x] `test-germinacion-semillas-viejas` — semillas germinando en servilleta húmeda
 - [x] `como-prevenir-plagas-huerto-urbano-sin-pesticidas` — trampa amarilla + repelente
-- [x] `errores-comunes-empezar-huerto-urbano` — planta sana vs. planta mustia
+- [x] `errores-comunes-empezar-huerto-urbano` — planta sana vs. planta mustia (fusionado el 13-11 en `como-empezar-huerto-urbano-balcon`)
 
 ## 📷 Artículos nuevos sin foto propia
 

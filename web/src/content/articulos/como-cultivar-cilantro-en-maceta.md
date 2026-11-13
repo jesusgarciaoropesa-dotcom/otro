@@ -55,4 +55,4 @@ Corta las hojas exteriores cuando la planta tenga al menos 10-15 cm de altura, d
 
 Al ser un ciclo relativamente corto y propenso a subirse a flor, siembra un pequeño grupo nuevo cada 2-3 semanas para tener cilantro fresco de forma continuada en lugar de depender de una única siembra.
 
-Si buscas otras aromáticas más resistentes a errores de principiante, consulta nuestra comparativa de [mejores aromáticas para principiantes en huerto urbano](/articulos/mejores-aromaticas-para-principiantes/).
+Si buscas otras aromáticas más resistentes a errores de principiante, consulta nuestra comparativa de [mejores aromáticas para principiantes en huerto urbano](/articulos/guia-aromaticas-en-maceta-balcon/#las-5-más-fáciles-para-empezar).

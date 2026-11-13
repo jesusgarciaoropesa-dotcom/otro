@@ -53,4 +53,4 @@ Poda regularmente las puntas para favorecer un crecimiento más tupido en lugar 
 
 La menta se reproduce muy fácilmente por esquejes: corta un tallo sano, colócalo en un vaso de agua hasta que emitan raíces (1-2 semanas) y trasplanta a una maceta nueva. Es la forma más rápida de tener varias macetas sin comprar plantas adicionales.
 
-Si buscas más opciones fáciles de mantener, consulta nuestra comparativa de [mejores aromáticas para principiantes en huerto urbano](/articulos/mejores-aromaticas-para-principiantes/).
+Si buscas más opciones fáciles de mantener, consulta nuestra comparativa de [mejores aromáticas para principiantes en huerto urbano](/articulos/guia-aromaticas-en-maceta-balcon/#las-5-más-fáciles-para-empezar).

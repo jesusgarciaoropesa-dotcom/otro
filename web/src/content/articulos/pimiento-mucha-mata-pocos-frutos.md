@@ -40,7 +40,7 @@ En balcones cerrados o con poco viento, las flores no siempre se polinizan solas
 
 El pimiento necesita **6 horas o más de sol directo**. Con menos luz crece buscándola (larguirucho y con hoja) pero da poca cosecha.
 
-**Solución:** colócalo en el punto más soleado del balcón. Si tu sitio tiene poca luz, es mejor apostar por [cultivos que toleran la sombra](/articulos/hortalizas-que-crecen-a-la-sombra/), porque el pimiento rendirá poco.
+**Solución:** colócalo en el punto más soleado del balcón. Si tu sitio tiene poca luz, es mejor apostar por [cultivos que toleran la sombra](/articulos/huerto-urbano-balcon-orientado-norte/), porque el pimiento rendirá poco.
 
 ## ¿Y aclarar hojas ayuda?
 

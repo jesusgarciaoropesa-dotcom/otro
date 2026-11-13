@@ -3,9 +3,10 @@ title: "Cómo empezar un huerto urbano en el balcón paso a paso"
 description: "Guía completa para montar tu primer huerto urbano en el balcón: qué necesitas, cómo elegir el sitio y los primeros cultivos recomendados."
 categoria: "primeros-pasos"
 intencion: "informativa"
-keywords: ["huerto urbano balcón", "empezar huerto urbano", "huerto en balcón para principiantes", "huerto urbano para principiantes", "huerto urbano guía completa", "empezar huerto urbano desde cero"]
+keywords: ["huerto urbano balcón", "empezar huerto urbano", "huerto en balcón para principiantes", "huerto urbano para principiantes", "huerto urbano guía completa", "empezar huerto urbano desde cero", "errores huerto urbano", "fallos huerto urbano principiantes"]
 pubDate: 2026-02-03
 pilar: true
+updatedDate: 2026-11-13
 faq:
   - pregunta: "¿Qué necesito para empezar un huerto en el balcón?"
     respuesta: "Lo básico: macetas con buen drenaje, un sustrato de calidad (no tierra de jardín), semillas o plantel de cultivos fáciles y una forma de regar. Con eso y unas horas de sol al día ya puedes arrancar sin gastar mucho."
@@ -13,6 +14,8 @@ faq:
     respuesta: "Rabanitos (listos en 25-30 días), lechugas de hoja, aromáticas como albahaca y perejil, y judías de mata baja. Son rápidos y agradecidos; deja tomates, pimientos y berenjenas para cuando cojas soltura con el riego y la luz."
   - pregunta: "¿Cuánto sol necesita un huerto de balcón?"
     respuesta: "La mayoría de hortalizas de fruto piden 6 horas o más de sol directo; con menos luz, apuesta por hojas y aromáticas, que toleran media sombra. Antes de nada, observa cuántas horas de sol recibe de verdad tu balcón."
+  - pregunta: "¿Es malo regar todos los días por si acaso?"
+    respuesta: "Sí: regar por rutina sin comprobar el sustrato provoca encharcamiento y pudrición de raíces, que mata más plantas que la sequía. Riega solo cuando la tierra lo pida, comprobando la humedad con el dedo."
 
 claves:
   - "Mira primero tus horas de sol directo: con 6 o más vale casi todo; con menos de 3, hojas verdes y menta."
@@ -69,6 +72,20 @@ El riego irregular es la causa número uno de que un huerto de balcón fracase. 
 ## 6. Ten paciencia con las primeras semanas
 
 Las primeras 2-3 semanas tras la siembra o el trasplante son las más delicadas. Vigila que el sustrato no se seque completamente y protege las plántulas de vientos fuertes hasta que estén bien establecidas.
+
+## Los errores que más se repiten
+
+Casi todos los huertos de balcón que fracasan en las primeras semanas comparten los mismos fallos. Conocerlos de antemano te ahorrará disgustos:
+
+- **Macetas demasiado pequeñas**: se secan en horas en verano y limitan las raíces. Comprueba el tamaño mínimo de cada cultivo: una lechuga necesita mucho menos que un tomate.
+- **Regar todos los días "por si acaso"**: el exceso de agua ahoga las raíces y favorece hongos, y es más dañino que quedarse corto puntualmente. Mete un dedo 2-3 cm en el sustrato: si aún está húmedo, espera.
+- **Elegir plantas por gusto y no por la luz**: un tomate en un balcón orientado al norte es la receta de la frustración. Mira primero tus horas de sol y elige después (si tu balcón tiene poca luz, aquí tienes [qué plantar en un balcón al norte o con sombra](/articulos/huerto-urbano-balcon-orientado-norte/)).
+- **Macetas sin drenaje**: sin agujeros, o con el agujero tapado por el plato, el agua se acumula en la base y pudre las raíces.
+- **Tierra de jardín en vez de sustrato**: se compacta y asfixia las raíces; mira qué buscar en la etiqueta en la guía del [mejor sustrato para maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/).
+- **No prever el riego en ausencias**: si vas a estar fuera más de 2-3 días, deja montado un riego sencillo antes de irte.
+- **Ignorar los primeros síntomas de plagas**: pulgón, mosca blanca u hongos se controlan mucho mejor al principio. Revisa una vez por semana el envés de las hojas y consulta la [sección de plagas y enfermedades](/categorias/plagas-y-enfermedades/) si ves algo raro.
+
+La mayoría de los fracasos no son por falta de "mano verde", sino por estos pequeños errores de base. Corrígelos desde el principio y aprenderás mucho más rápido.
 
 ## ¿Prefieres empezar con todo en un mismo pack?
 

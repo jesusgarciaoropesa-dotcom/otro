@@ -61,4 +61,4 @@ Señales: sustrato totalmente seco y separado de las paredes, hojas mustias y cr
 3. **Riego moderado y constante**, sin encharcar ni dejar secar del todo.
 4. **Paciencia**: dale un par de semanas antes de rendirte. Muchas rebrotan desde la base.
 
-No tires una planta por su aspecto: rasca el tallo, diagnostica riego y dale una oportunidad. Y para no volver a llegar a ese punto, revisa los [errores comunes al empezar un huerto urbano](/articulos/errores-comunes-empezar-huerto-urbano/).
+No tires una planta por su aspecto: rasca el tallo, diagnostica riego y dale una oportunidad. Y para no volver a llegar a ese punto, revisa los [errores comunes al empezar un huerto urbano](/articulos/como-empezar-huerto-urbano-balcon/#los-errores-que-más-se-repiten).

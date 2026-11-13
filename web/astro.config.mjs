@@ -49,6 +49,12 @@ export default defineConfig({
       '/articulos/mejor-sistema-riego-automatico-macetas-balcon/',
     '/articulos/remedios-caseros-contra-plagas-huerto-urbano/':
       '/articulos/remedios-caseros-plagas-que-no-funcionan/',
+    '/articulos/hortalizas-que-crecen-a-la-sombra/':
+      '/articulos/huerto-urbano-balcon-orientado-norte/',
+    '/articulos/mejores-aromaticas-para-principiantes/':
+      '/articulos/guia-aromaticas-en-maceta-balcon/',
+    '/articulos/errores-comunes-empezar-huerto-urbano/':
+      '/articulos/como-empezar-huerto-urbano-balcon/',
   },
   integrations: [
     sitemap({

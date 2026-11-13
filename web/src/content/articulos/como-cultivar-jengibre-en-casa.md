@@ -51,4 +51,4 @@ El jengibre necesita su tiempo: entre **8 y 10 meses** desde la plantación. Sab
 
 ## Un cultivo diferente para tu balcón
 
-El jengibre es un cultivo poco común que da mucho juego y sorprende. Si te gusta salir de lo típico, también puedes probar con otros cultivos fáciles y agradecidos como los [rabanitos](/articulos/como-cultivar-rabanitos-en-balcon/) o construir tu colección de [aromáticas para principiantes](/articulos/mejores-aromaticas-para-principiantes/). Y revisa el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/) para el resto del año.
+El jengibre es un cultivo poco común que da mucho juego y sorprende. Si te gusta salir de lo típico, también puedes probar con otros cultivos fáciles y agradecidos como los [rabanitos](/articulos/como-cultivar-rabanitos-en-balcon/) o construir tu colección de [aromáticas para principiantes](/articulos/guia-aromaticas-en-maceta-balcon/#las-5-más-fáciles-para-empezar). Y revisa el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/) para el resto del año.
