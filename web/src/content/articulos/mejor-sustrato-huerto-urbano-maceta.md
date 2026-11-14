@@ -6,6 +6,11 @@ intencion: "comparativa"
 keywords: ["mejor sustrato para huerto urbano", "mejor tierra para macetas de hortalizas", "qué tierra comprar para macetas", "sustrato para macetas hortalizas"]
 pubDate: 2026-03-11
 updatedDate: 2026-11-04
+claves:
+  - "No uses tierra de jardín: en maceta se compacta y drena mal."
+  - "Para empezar, un universal de calidad con un 20 % de perlita vale para hojas y aromáticas."
+  - "Tomates y pimientos piden sustrato para hortalizas; cítricos, uno específico, y arándanos, uno para acidófilas."
+  - "El volumen de tus macetas es el sustrato que necesitas: súmalas antes de comprar."
 faq:
   - pregunta: "¿Qué debo mirar en la etiqueta del sustrato?"
     respuesta: "Tres cosas: la composición (turba o fibra de coco para la humedad, con perlita o vermiculita para la aireación), el pH (la mayoría de hortalizas prefieren 6-7) y si incluye abono de base de liberación lenta para las primeras semanas."

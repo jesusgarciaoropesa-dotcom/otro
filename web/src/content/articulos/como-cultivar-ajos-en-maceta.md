@@ -5,6 +5,11 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar ajos en maceta", "plantar ajos balcón", "cómo sembrar ajos en casa"]
 pubDate: 2026-07-20
+claves:
+  - "Planta dientes sueltos (los exteriores, más grandes) de ajo de siembra, no la cabeza entera."
+  - "Época: otoño, de octubre a diciembre, para cosechar a principios de verano."
+  - "Maceta de al menos 20 cm de fondo; cada diente con la punta hacia arriba, a 3-4 cm y separados 10 cm."
+  - "Riego moderado sin encharcar y cosecha cuando se sequen y amarilleen las hojas de abajo."
 faq:
   - pregunta: "¿Cuándo se plantan los ajos?"
     respuesta: "Lo más habitual es plantarlos en otoño (octubre-diciembre) para cosechar a principios de verano. También pueden plantarse a finales de invierno, aunque las cabezas suelen salir algo más pequeñas."

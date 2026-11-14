@@ -5,6 +5,11 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar cebollas en maceta", "plantar cebolla balcón", "cebollas en huerto urbano"]
 pubDate: 2026-07-20
+claves:
+  - "Empieza con bulbitos de siembra: es lo más fácil y adelanta mucho la cosecha."
+  - "Maceta ancha de 15-20 cm de fondo: la raíz es poco profunda, así que prima el ancho."
+  - "Bulbitos apenas cubiertos, con la punta hacia arriba y a unos 10 cm entre sí."
+  - "Cuando las hojas se doblen y se sequen, deja de regar, arráncalas y cúralas a la sombra."
 faq:
   - pregunta: "¿Es mejor plantar cebollas de bulbito o de semilla?"
     respuesta: "Para empezar, de bulbito (los pequeños bulbos de siembra). Enraízan rápido, son más fáciles y adelantan mucho la cosecha frente a la semilla, que requiere más tiempo y cuidado en semillero."

@@ -5,6 +5,11 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar habas en maceta", "cuándo sembrar habas", "habas en el balcón"]
 pubDate: 2026-08-28
+claves:
+  - "Se siembran en otoño (octubre-noviembre), directamente en su maceta, a 3-4 cm de profundidad."
+  - "Maceta de al menos 25-30 cm de fondo, 15-20 cm entre plantas y un tutor desde el principio."
+  - "Contra el pulgón negro: despunta los 10 cm de arriba cuando cuajen las primeras vainas."
+  - "Al terminar, corta la planta y deja las raíces: enriquecen el sustrato con nitrógeno."
 faq:
   - pregunta: "¿Cuándo se siembran las habas?"
     respuesta: "En la mayor parte de España se siembran en otoño, entre octubre y noviembre, para cosechar en primavera. En zonas de invierno muy frío se puede esperar a finales de invierno (febrero). Son un cultivo de tiempo fresco: aguantan bien el frío y no les va el calor fuerte."

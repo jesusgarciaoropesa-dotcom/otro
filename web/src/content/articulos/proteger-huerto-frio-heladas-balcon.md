@@ -6,6 +6,11 @@ intencion: "informativa"
 keywords: ["proteger huerto de las heladas", "proteger plantas del frío balcón", "huerto urbano en invierno heladas"]
 updatedDate: 2026-11-04
 pubDate: 2026-08-28
+claves:
+  - "Espinaca, acelga, col, ajos y habas aguantan el frío; tomate, pimiento, albahaca y aguacate, no."
+  - "Arrima las macetas a la pared de la casa y agrúpalas: el muro suelta de noche el calor del día."
+  - "Las noches de helada, tela antiheladas por encima y plástico de burbujas o arpillera en la maceta."
+  - "Riega mucho menos y siempre de día: frío más exceso de agua pudre las raíces."
 faq:
   - pregunta: "¿A partir de qué temperatura hay que proteger las plantas?"
     respuesta: "Depende del cultivo. Los de hoja de invierno (espinaca, acelga, col, canónigos) aguantan heladas suaves sin problema. Los delicados que aún queden del verano (tomate, pimiento, albahaca, aguacate) sufren ya por debajo de 5-10 °C. Como norma, cuando el pronóstico anuncie 0 °C o menos, protege todo lo que no sea claramente rústico."

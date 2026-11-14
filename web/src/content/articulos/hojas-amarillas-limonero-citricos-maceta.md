@@ -5,6 +5,11 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["hojas amarillas limonero", "limonero maceta hojas amarillas", "clorosis cítricos maceta"]
 pubDate: 2026-07-21
+claves:
+  - "Amarillo con nervios verdes: falta de hierro; quelato de hierro y agua con menos cal."
+  - "Hojas amarillas, blandas y que caen con la tierra siempre húmeda: exceso de riego, la causa nº 1."
+  - "Amarilleo uniforme y lento: faltan nutrientes; abono para cítricos en primavera y verano."
+  - "En invierno, perder alguna hoja por el frío es normal; si hay melaza o motas, busca cochinilla."
 faq:
   - pregunta: "¿Por qué se ponen amarillas las hojas de mi limonero en maceta?"
     respuesta: "Las causas más habituales son el riego incorrecto (por exceso más que por defecto), la falta de hierro o nutrientes (clorosis), el frío del invierno y las plagas como la cochinilla. El patrón del amarilleo ayuda a distinguir cuál es: entre nervios suele ser hierro; hojas blandas y caídas, exceso de agua."

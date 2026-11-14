@@ -5,6 +5,11 @@ categoria: "primeros-pasos"
 intencion: "informativa"
 keywords: ["riego en invierno", "cuánto regar en invierno", "regar plantas con frío maceta"]
 pubDate: 2026-08-28
+claves:
+  - "En invierno el error no es quedarse corto, sino pasarse: el exceso de agua pudre las raíces."
+  - "Mete el dedo 2-3 cm en la tierra y riega solo si está seca; una maceta puede aguantar húmeda una semana o más."
+  - "Riega por la mañana o al mediodía, nunca al anochecer, y vacía siempre el plato."
+  - "Si tienes riego automático, reduce mucho la frecuencia o pásalo a manual estos meses."
 faq:
   - pregunta: "¿Cada cuánto se riega en invierno?"
     respuesta: "Mucho menos que en verano: según el clima y la planta, puede ser una vez por semana o incluso cada diez días. No hay una cifra fija; la regla es meter el dedo en la tierra y regar solo cuando los primeros 2-3 cm están secos. Con el frío, la evaporación y el consumo de la planta caen en picado, así que la tierra se mantiene húmeda mucho más tiempo."

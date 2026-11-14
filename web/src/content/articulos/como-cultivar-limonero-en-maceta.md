@@ -6,6 +6,11 @@ intencion: "informativa"
 keywords: ["limonero en maceta", "cultivar limonero en balcón", "limonero enano cuidados", "limonero heladas maceta", "limonero cuatro estaciones"]
 pubDate: 2026-03-04
 updatedDate: 2026-11-04
+claves:
+  - "Compra una planta injertada y enana; Meyer es la más fácil y aguanta algo mejor el frío."
+  - "Maceta de al menos 40-50 cm de diámetro, sustrato que drene bien y el sitio más soleado del balcón."
+  - "Es el cítrico más sensible al frío: de noviembre a marzo, pegado a la pared, maceta aislada y velo en las heladas."
+  - "Riega cuando se sequen los primeros centímetros y abona con abono para cítricos en primavera y verano."
 faq:
   - pregunta: "¿Qué temperatura aguanta un limonero en maceta?"
     respuesta: "Es el cítrico más sensible al frío: a partir de unos -3 °C deja de crecer y entre -4 y -6 °C se dañan los brotes jóvenes. En maceta las raíces están más expuestas que en el suelo, así que conviene protegerlo en cuanto se anuncien heladas."

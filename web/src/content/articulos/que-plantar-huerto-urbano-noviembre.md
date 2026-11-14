@@ -6,6 +6,11 @@ intencion: "informativa"
 keywords: ["qué plantar en noviembre en balcón", "siembra de noviembre huerto urbano", "qué sembrar en noviembre en maceta"]
 pubDate: 2026-07-21
 updatedDate: 2026-11-05
+claves:
+  - "Aún estás a tiempo de plantar ajos y de sembrar habas y guisantes directos en maceta."
+  - "En el interior, noviembre ya es tarde para casi todo: solo cultivos muy rústicos."
+  - "Cosecha hojas, coles de otoño y los últimos tomates y pimientos antes de la primera helada."
+  - "Riega muy poco y ten lista la tela antiheladas para las primeras noches de hielo."
 faq:
   - pregunta: "¿Qué se puede plantar en noviembre?"
     respuesta: "Ajos, habas y guisantes en siembra directa, y cultivos de hoja resistentes al frío (espinacas, acelgas, canónigos) sobre todo en zonas de clima suave o bajo protección. También es buen mes para plantar frutales de hoja caduca y frutos rojos a raíz desnuda."

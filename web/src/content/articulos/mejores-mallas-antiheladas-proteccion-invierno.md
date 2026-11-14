@@ -6,6 +6,11 @@ intencion: "comparativa"
 keywords: ["malla antiheladas", "proteger plantas del frío balcón", "velo protección invierno huerto"]
 pubDate: 2026-07-21
 updatedDate: 2026-11-05
+claves:
+  - "El velo antiheladas es la protección más versátil y barata: deja pasar luz, aire y agua."
+  - "Según la tabla de Agribon, protege 1-2 °C el fino (~19 g/m²), 2-3 °C el de 30 g/m² y 3-4 °C el de 50 g/m²."
+  - "Ponlo por la tarde, sin que toque las hojas y cerrado hasta la maceta para que no entre el aire frío."
+  - "En heladas fuertes, protege también la raíz envolviendo la maceta con plástico de burbujas o arpillera."
 faq:
   - pregunta: "¿Qué es el velo o malla antiheladas?"
     respuesta: "Es una tela blanca ligera y translúcida (tejido no tejido) que se coloca sobre las plantas para protegerlas del frío. Retiene algo de calor y sube unos grados la temperatura bajo ella, dejando pasar la luz, el aire y el agua, así que puede quedarse puesta varios días."
