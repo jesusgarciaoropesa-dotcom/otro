@@ -8,7 +8,7 @@
    "kicker": "ESTA SEMANA EN EL BALCÓN",
    "titulo": "Siembra canónigos ya",
    "destacado": "canónigos",
-   "subtitulo": "Bastan 15 cm de maceta y aguantan heladas, pero el riego de más les trae hongos.",
+   "subtitulo": "Bastan 15 cm de maceta y aguantan heladas ligeras, pero el riego de más les trae hongos.",
    "pildora": "Desliza 👉"
   },
   {
@@ -30,7 +30,9 @@
    "kicker": "El truco",
    "titulo": "Poco y a menudo",
    "subtitulo": "Un puñado cada 2-3 semanas y tendrás ensalada todo el invierno. Aprovecha los huecos junto a los ajos.",
-   "pildora": "Sigue 👉"
+   "pildora": "Sigue 👉",
+   "texto": "arriba",
+   "posicion": "35% center"
   },
   {
    "foto": "/images/articulos/cuantas-horas-sol-balcon.jpg",

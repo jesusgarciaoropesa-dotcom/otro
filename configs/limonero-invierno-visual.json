@@ -3,31 +3,121 @@
  "articulo": "/articulos/como-cultivar-limonero-en-maceta/",
  "palabra": "LIMONERO",
  "slides": [
-  {"tipo": "portada", "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
-   "titulo": "Tu limonero en maceta ante el frío", "destacado": "frío",
-   "sello": {"arriba": "resguárdalo bajo", "cifra": "3-5 °C", "abajo": "y del viento"}},
-  {"tipo": "foto", "foto": "/images/articulos/balcon-orientado-sur.jpg",
-   "titulo": "Sol y refugio", "destacado": "refugio",
+  {
+   "tipo": "portada",
+   "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+   "titulo": "El error que deja tu limonero sin hojas en invierno",
+   "destacado": "sin hojas",
+   "sello": {
+    "arriba": "resguárdalo bajo",
+    "cifra": "3-5 °C",
+    "abajo": "y del viento"
+   }
+  },
+  {
+   "tipo": "foto",
+   "foto": "/images/articulos/balcon-orientado-sur.jpg",
+   "titulo": "Sol y refugio",
+   "destacado": "refugio",
    "texto": "Necesita el máximo sol posible y quedar a salvo del frío.",
-   "recuadro": {"titulo": "Dónde ponerlo en invierno", "items": ["El punto más soleado", "Orientación sur", "Resguardado del viento"]}},
-  {"tipo": "versus", "titulo": "El error: regar como en verano", "destacado": "regar como en verano",
+   "recuadro": {
+    "titulo": "Dónde ponerlo en invierno",
+    "items": [
+     "El punto más soleado",
+     "Orientación sur",
+     "Resguardado del viento"
+    ]
+   }
+  },
+  {
+   "tipo": "versus",
+   "titulo": "El error: regar como en verano",
+   "destacado": "regar como en verano",
    "texto": "En invierno el riego es mucho más espaciado.",
-   "izquierda": {"foto": "/images/articulos/hojas-caidas-planta-maceta.jpg", "titulo": "Como en verano", "items": ["Cada 2-3 días", "Raíz encharcada", "Hojas que caen"], "bien": false},
-   "derecha": {"foto": "/images/articulos/cultivo-limonero-maceta.jpg", "titulo": "En invierno", "items": ["Mucho más espaciado", "Solo con los primeros cm secos", "Buen drenaje"], "bien": true},
-   "conclusion": "El encharcamiento es **su principal enemigo.**"},
-  {"tipo": "pasos", "titulo": "Si suelta la hoja de golpe", "destacado": "de golpe", "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
+   "izquierda": {
+    "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+    "titulo": "Como en verano",
+    "items": [
+     "Cada 2-3 días",
+     "Raíz encharcada",
+     "Hojas que caen"
+    ],
+    "bien": false
+   },
+   "derecha": {
+    "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+    "titulo": "En invierno",
+    "items": [
+     "Mucho más espaciado",
+     "Solo con los primeros cm secos",
+     "Buen drenaje"
+    ],
+    "bien": true
+   },
+   "conclusion": "El encharcamiento es **su principal enemigo.**"
+  },
+  {
+   "tipo": "pasos",
+   "titulo": "Si suelta la hoja de golpe",
+   "destacado": "de golpe",
+   "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
    "pasos": [
-    {"titulo": "Sospecha de la raíz", "texto": "Casi siempre es exceso de agua o gomosis."},
-    {"titulo": "Corrige el riego", "texto": "Espera a que se sequen los primeros centímetros."},
-    {"titulo": "Mejora el drenaje", "texto": "Un 20 % de perlita en el sustrato evita el encharcamiento."},
-    {"titulo": "Actúa rápido", "texto": "Cuanto antes corrijas riego y drenaje, mejor."}]},
-  {"tipo": "tarjetas", "titulo": "Hojas amarillas: ¿qué le pasa?", "destacado": "¿qué le pasa?",
+    {
+     "titulo": "Sospecha de la raíz",
+     "texto": "Casi siempre es exceso de agua o gomosis."
+    },
+    {
+     "titulo": "Corrige el riego",
+     "texto": "Espera a que se sequen los primeros centímetros."
+    },
+    {
+     "titulo": "Mejora el drenaje",
+     "texto": "Un 20 % de perlita en el sustrato evita el encharcamiento."
+    },
+    {
+     "titulo": "Actúa rápido",
+     "texto": "Cuanto antes corrijas riego y drenaje, mejor."
+    }
+   ]
+  },
+  {
+   "tipo": "tarjetas",
+   "titulo": "Hojas amarillas: ¿qué le pasa?",
+   "destacado": "¿qué le pasa?",
    "tarjetas": [
-    {"foto": "/images/articulos/hojas-caidas-planta-maceta.jpg", "etiqueta": "Amarillea y se cae", "titulo": "Exceso de riego", "texto": "Espacia el riego y revisa el drenaje"},
-    {"foto": "/images/articulos/limonero-hojas-amarillas.jpg", "etiqueta": "Con los nervios verdes", "titulo": "Falta de hierro", "texto": "Abono para cítricos rico en hierro"},
-    {"foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg", "etiqueta": "Sin resguardo", "titulo": "El frío", "texto": "Protégelo del viento y las heladas"},
-    {"foto": "/images/articulos/cultivo-limonero-maceta.jpg", "etiqueta": "Revisa también", "titulo": "Cochinilla", "texto": "Mira el envés de las hojas y los tallos"}]},
-  {"tipo": "cierre", "foto": "/images/articulos/cultivo-limonero-maceta.jpg", "titulo": "Que tu limonero pase bien el invierno", "destacado": "invierno",
-   "guardar": "Guárdalo para cuando bajen las temperaturas", "palabra": "LIMONERO"}
+    {
+     "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+     "etiqueta": "Amarillea y se cae",
+     "titulo": "Exceso de riego",
+     "texto": "Espacia el riego y revisa el drenaje"
+    },
+    {
+     "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
+     "etiqueta": "Con los nervios verdes",
+     "titulo": "Falta de hierro",
+     "texto": "Abono para cítricos rico en hierro"
+    },
+    {
+     "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
+     "etiqueta": "Sin resguardo",
+     "titulo": "El frío",
+     "texto": "Protégelo del viento y las heladas"
+    },
+    {
+     "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+     "etiqueta": "Revisa también",
+     "titulo": "Cochinilla",
+     "texto": "Mira el envés de las hojas y los tallos"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+   "titulo": "Que tu limonero pase bien el invierno",
+   "destacado": "invierno",
+   "guardar": "Guárdalo para cuando bajen las temperaturas",
+   "palabra": "LIMONERO"
+  }
  ]
 }

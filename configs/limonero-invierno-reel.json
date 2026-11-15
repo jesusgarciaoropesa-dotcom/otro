@@ -15,7 +15,7 @@
    "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
    "kicker": "El frío",
    "titulo": "Resguárdalo bien",
-   "subtitulo": "Del viento y de temperaturas por debajo de 3-5 °C: elige el rincón más protegido.",
+   "subtitulo": "Del viento y del frío por debajo de 3-5 °C.",
    "pildora": "Sigue 👉"
   },
   {
@@ -29,21 +29,21 @@
    "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
    "kicker": "El error",
    "titulo": "Regar como en verano",
-   "subtitulo": "En invierno, riega solo cuando los primeros centímetros estén secos. El encharcamiento es su enemigo.",
+   "subtitulo": "Riega solo con los primeros centímetros secos: el encharcamiento es su enemigo.",
    "pildora": "Sigue 👉"
   },
   {
    "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
    "kicker": "Señal de alarma",
    "titulo": "Si suelta la hoja de golpe",
-   "subtitulo": "Casi siempre es la raíz por exceso de agua. Corrige riego y drenaje: un 20 % de perlita ayuda.",
+   "subtitulo": "Casi siempre es la raíz por exceso de agua: corrige riego y drenaje.",
    "pildora": "Sigue 👉"
   },
   {
    "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
    "kicker": "Hojas amarillas",
    "titulo": "El patrón te dice la causa",
-   "subtitulo": "Exceso de riego, falta de hierro (nervios verdes) o frío. La poda, a finales de invierno.",
+   "subtitulo": "Exceso de riego, falta de hierro con nervios verdes, o frío.",
    "pildora": "Sigue 👉"
   },
   {
@@ -55,5 +55,5 @@
    "pildora": "Guarda esto 🌱"
   }
  ],
- "duracion_slide": 10.5
+ "duracion_slide": 8.7
 }

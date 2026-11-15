@@ -8,7 +8,7 @@
    "kicker": "ESTA SEMANA EN EL BALCÓN",
    "titulo": "Siembra canónigos ya",
    "destacado": "canónigos",
-   "subtitulo": "Bastan 15 cm de maceta y aguantan heladas, pero el riego de más les trae hongos.",
+   "subtitulo": "Bastan 15 cm de maceta, pero el riego de más les trae hongos.",
    "pildora": "Desliza 👉"
   },
   {
@@ -22,21 +22,23 @@
    "foto": "/images/articulos/lechugas-baby-alfeizar-cocina.jpg",
    "kicker": "Cómo",
    "titulo": "Siembra directa y juntos",
-   "subtitulo": "A voleo o en líneas, con muy poca tierra encima y el sustrato húmedo hasta que germinen.",
+   "subtitulo": "A voleo, con muy poca tierra encima y húmedo hasta que germinen.",
    "pildora": "Sigue 👉"
   },
   {
    "foto": "/images/articulos/ajos-brotados-jardinera.jpg",
    "kicker": "El truco",
    "titulo": "Poco y a menudo",
-   "subtitulo": "Un puñado cada 2-3 semanas y tendrás ensalada todo el invierno. Aprovecha los huecos junto a los ajos.",
-   "pildora": "Sigue 👉"
+   "subtitulo": "Un puñado cada 2-3 semanas y tendrás ensalada todo el invierno.",
+   "pildora": "Sigue 👉",
+   "texto": "arriba",
+   "posicion": "35% center"
   },
   {
    "foto": "/images/articulos/cuantas-horas-sol-balcon.jpg",
    "kicker": "Qué vigilar",
    "titulo": "Riega con mesura",
-   "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila para evitar hongos.",
+   "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila.",
    "pildora": "Sigue 👉"
   },
   {
@@ -55,5 +57,5 @@
    "pildora": "Guarda esto 🌱"
   }
  ],
- "duracion_slide": 9.7
+ "duracion_slide": 8.4
 }
