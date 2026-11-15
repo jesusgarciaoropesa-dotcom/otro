@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Los guisantes necesitan mucho abono?"
     respuesta: "No demasiado nitrógeno: como legumbres, fijan su propio nitrógeno del aire y con exceso crecen en hoja a costa de las vainas. Un sustrato equilibrado y riego constante bastan."
 
+claves:
+  - "Se siembran en otoño o a finales de invierno, nunca con el calor fuerte."
+  - "Maceta de al menos 30-40 cm de profundidad; las trepadoras necesitan tutor de 1,5-2 m desde la siembra."
+  - "La planta aguanta heladas ligeras, pero flores y vainas son delicadas: tápalas si hiela en floración."
+  - "Cosecha las vainas hinchadas pero tiernas: cuanto más recoges, más produce."
 ---
 
 Los guisantes son de los cultivos de temporada fría más agradecidos para maceta: toleran bien el frío moderado, no necesitan mucho calor para producir, y a diferencia de muchas hortalizas de verano, dan una cosecha temprana que llega cuando el resto del huerto todavía está arrancando.

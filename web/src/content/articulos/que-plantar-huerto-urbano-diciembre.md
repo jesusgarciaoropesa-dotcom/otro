@@ -14,6 +14,11 @@ faq:
     respuesta: "Al contrario, muchos mejoran: el kale y las coles se vuelven más dulces tras las primeras heladas. Lo que hay que evitar es el encharcamiento y proteger los cultivos más sensibles con un mini-invernadero o una tela en las noches de helada fuerte."
   - pregunta: "¿Por qué se me pudren las plantas en invierno si casi no riego?"
     respuesta: "Porque en invierno la tierra tarda muchísimo en secarse (poco sol, poca evaporación) y, si además llueve sobre las macetas o los platos acumulan agua, las raíces se asfixian. En diciembre el enemigo no es la sequía, es el exceso de humedad: riega solo cuando la tierra esté seca y vacía los platos."
+claves:
+  - "Se planta poco: habas y guisantes en clima suave, los últimos ajos y frutales a raíz desnuda."
+  - "Kale y coles aguantan el frío de sobra; lo más sensible, tápalo en noches de helada."
+  - "El enemigo es el exceso de agua: riega solo con la tierra seca y vacía los platos."
+  - "Es el mejor mes para planificar: limpia herramientas, ordena semillas y decide qué cultivarás."
 ---
 
 Diciembre es el mes de menos actividad en el huerto de balcón, pero no de parón total. Se planta poco, se cuida lo que resiste el frío y, sobre todo, es el momento perfecto para **planificar el año que empieza**. Un respiro con el que dejarlo todo a punto para el arranque de enero.

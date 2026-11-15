@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cuándo se siembran las espinacas en el balcón?"
     respuesta: "Las mejores épocas son el otoño y el final del invierno, porque prosperan con frescor. Con siembra escalonada cada pocas semanas puedes tener hojas de forma casi continua fuera del calor del verano."
 
+claves:
+  - "Basta una maceta de 20-25 cm de profundidad y toleran la semisombra."
+  - "Su mejor temporada es otoño, invierno e inicio de primavera: con calor y días largos se suben a flor."
+  - "Cosecha hoja a hoja, cortando las exteriores, para alargar la producción."
+  - "Siembra un grupo nuevo cada 3-4 semanas para tener espinacas de forma continua."
 ---
 
 Las espinacas son una de las hojas verdes más agradecidas para un huerto de balcón, con la ventaja de que, eligiendo bien la variedad y la época, se pueden mantener en producción prácticamente todo el año.

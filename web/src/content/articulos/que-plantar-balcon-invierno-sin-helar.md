@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿El frío estropea las plantas del balcón?"
     respuesta: "Las de clima cálido (tomate, albahaca, cítricos tiernos) sí sufren y hay que protegerlas o retirarlas; las rústicas de invierno lo toleran e incluso mejoran de sabor con el frío. La clave es elegir cultivos adecuados a la estación."
 
+claves:
+  - "Habas, guisantes, espinacas, acelgas, ajos, cebollas y lechugas de invierno toleran bien el frío."
+  - "Cítricos jóvenes, aromáticas delicadas y cultivos de verano necesitan protección si hiela."
+  - "Sin invernadero: manta térmica por la noche, macetas juntas, pegadas a la pared y elevadas del suelo."
+  - "Riega mucho menos: en invierno el exceso de agua es más peligroso que la falta."
 ---
 
 El invierno no tiene por qué ser un parón total del huerto urbano. Con las especies adecuadas y algunas medidas de protección sencillas, es posible mantener cultivo activo incluso en zonas con heladas moderadas.

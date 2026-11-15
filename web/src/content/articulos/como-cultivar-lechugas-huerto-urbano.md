@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cómo se cosecha la lechuga para que siga creciendo?"
     respuesta: "Corta solo las hojas exteriores, las más grandes, dejando intacto el cogollo central: la planta seguirá produciendo hojas nuevas durante semanas. Es el sistema de corte y sigue, mucho más productivo que arrancar la mata entera."
 
+claves:
+  - "Una maceta de 20-25 cm de profundidad es suficiente; la de hoja suelta es la más fácil."
+  - "Prefiere sol suave o semisombra: con calor fuerte espiga y amarga."
+  - "Sustrato siempre húmedo sin encharcar: el riego irregular es la principal causa de amargor."
+  - "Corta las hojas exteriores y siembra una tanda nueva cada 2-3 semanas para no quedarte sin lechuga."
 ---
 
 La lechuga es uno de los cultivos más agradecidos para empezar un huerto urbano: crece rápido, ocupa poco y se puede sembrar de forma escalonada para tener cosecha casi todo el año.

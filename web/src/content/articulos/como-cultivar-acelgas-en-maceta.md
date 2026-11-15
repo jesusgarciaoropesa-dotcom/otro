@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Qué profundidad de maceta necesitan las acelgas?"
     respuesta: "Con unos 20-25 cm de profundidad van bien. Al ser plantas grandes y productivas, agradecen un buen volumen de sustrato y un riego constante para no volverse fibrosas."
 
+claves:
+  - "Maceta de al menos 25-30 cm de profundidad con sustrato rico en materia orgánica."
+  - "Aguanta el calor mejor que la espinaca y tolera el frío moderado; vale para semisombra (4-5 horas de sol)."
+  - "Cosecha hoja a hoja dejando el centro intacto y producirá durante meses."
+  - "Abona cada 3-4 semanas en la temporada de más producción."
 ---
 
 La acelga es de las hojas verdes más agradecidas para maceta: más resistente al calor que la espinaca, tolera bien el frío moderado, y con la técnica de recolección adecuada una sola planta puede seguir produciendo hoja durante varios meses seguidos.

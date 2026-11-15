@@ -18,6 +18,8 @@ Un día miras tus macetas y la tierra aparece cubierta de una **capa blanca y al
 
 <figure><img width="1200" height="670" src="/images/articulos/moho-blanco-tierra-macetas.jpg" alt="Capa de moho blanco y algodonoso sobre la superficie del sustrato húmedo de una maceta grande en un balcón" /><figcaption>El moho blanco en la superficie avisa de exceso de humedad y poca ventilación.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué es exactamente ese moho blanco
 
 Es un **hongo saprófito**: se alimenta de la materia orgánica en descomposición del sustrato (restos vegetales, mantillo), no de las raíces vivas de tu planta. Por eso, en sí mismo, no la ataca. Aparece como un **fieltro blanco superficial** que puede extenderse si las condiciones de humedad se mantienen.
@@ -49,5 +51,7 @@ Es, en el fondo, el mismo problema de base que la [pudrición de raíces por exc
 - **Asegura el drenaje:** agujeros libres en la base y nunca un plato con agua estancada.
 - **Usa un buen sustrato aireado:** una mezcla con perlita drena y airea mucho mejor. Lo vemos en [el mejor sustrato para huerto en maceta](/articulos/mejor-sustrato-huerto-urbano-maceta/).
 - **No entierres restos orgánicos frescos** en la maceta: aliméntalos antes en el [compost](/articulos/como-hacer-compost-casero-piso-sin-jardin/).
+
+<a href="https://www.amazon.es/s?k=perlita+para+sustrato&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver perlita en Amazon</a>
 
 En cuanto ajustas el riego y la ventilación, el moho blanco desaparece solo y no vuelve. Si además notas mosquitos revoloteando sobre la tierra, suele ir de la mano con la [mosca del sustrato](/articulos/mosca-sustrato-mosquitos-macetas-eliminar/), que comparte la misma causa: sustrato demasiado húmedo.

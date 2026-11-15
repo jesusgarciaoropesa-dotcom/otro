@@ -19,6 +19,8 @@ El exceso de riego es, junto con la falta de él, una de las causas más comunes
 
 <figure><img width="1200" height="670" src="/images/articulos/exceso-riego-hongo-maceta.jpg" alt="Planta en maceta con el sustrato encharcado, aspecto mustio y moho blanco en la superficie de la tierra" /><figcaption>Sustrato encharcado y moho: señales claras de exceso de riego</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo saber si el problema es exceso y no falta de riego
 
 Antes de regar más, comprueba el sustrato metiendo un dedo 2-3 cm de profundidad. Si notas humedad y aun así la planta muestra hojas caídas o amarillas, el problema probablemente sea exceso de riego, no falta de él.
@@ -39,6 +41,10 @@ Las raíces necesitan oxígeno, no solo agua. Un sustrato permanentemente satura
 2. **Espacia los riegos** hasta que el sustrato se seque parcialmente entre uno y otro, en lugar de mantenerlo húmedo de forma constante.
 3. **Retira platos con agua acumulada** tras el riego; dejar la maceta reposando en agua estancada es una de las causas más frecuentes de encharcamiento crónico.
 4. **En casos avanzados**, puede ser necesario trasplantar la planta a [sustrato nuevo](/articulos/mejor-sustrato-huerto-urbano-maceta/), retirando con cuidado el sustrato saturado y las raíces claramente podridas.
+
+<a href="https://www.amazon.es/s?k=arlita+drenaje+macetas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver arlita para drenaje en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=sustrato+universal+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato universal en Amazon</a>
 
 ## Prevención con riego automático
 
