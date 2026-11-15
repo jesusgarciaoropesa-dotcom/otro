@@ -1,0 +1,59 @@
+{
+ "slug": "limonero-invierno",
+ "marca": "MiHuertoUrbano.xyz",
+ "articulo": "/articulos/como-cultivar-limonero-en-maceta/",
+ "slides": [
+  {
+   "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+   "kicker": "FRUTALES · INVIERNO",
+   "titulo": "Tu limonero ante el frío",
+   "destacado": "frío",
+   "subtitulo": "Sol y menos agua, pero hay un error que lo deja sin hojas.",
+   "pildora": "Desliza 👉"
+  },
+  {
+   "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
+   "kicker": "El frío",
+   "titulo": "Resguárdalo bien",
+   "subtitulo": "Del viento y de temperaturas por debajo de 3-5 °C: elige el rincón más protegido.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/balcon-orientado-sur.jpg",
+   "kicker": "La luz",
+   "titulo": "Todo el sol posible",
+   "subtitulo": "Orientación sur o el punto más soleado de tu balcón.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+   "kicker": "El error",
+   "titulo": "Regar como en verano",
+   "subtitulo": "En invierno, riega solo cuando los primeros centímetros estén secos. El encharcamiento es su enemigo.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
+   "kicker": "Señal de alarma",
+   "titulo": "Si suelta la hoja de golpe",
+   "subtitulo": "Casi siempre es la raíz por exceso de agua. Corrige riego y drenaje: un 20 % de perlita ayuda.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
+   "kicker": "Hojas amarillas",
+   "titulo": "El patrón te dice la causa",
+   "subtitulo": "Exceso de riego, falta de hierro (nervios verdes) o frío. La poda, a finales de invierno.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
+   "kicker": "GUÁRDATELO",
+   "titulo": "¿Dónde pasa el invierno tu limonero?",
+   "destacado": "invierno",
+   "subtitulo": "Maceta, sustrato, abonado y poda, en la guía.",
+   "pildora": "Guarda esto 🌱",
+   "palabra": "LIMONERO"
+  }
+ ]
+}
