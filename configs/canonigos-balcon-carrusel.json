@@ -12,7 +12,7 @@
    "pildora": "Desliza 👉"
   },
   {
-   "foto": "/images/articulos/sobres-semillas-kraft.jpg",
+   "foto": "/images/articulos/semillas-no-germinan-semillero.jpg",
    "kicker": "Qué sembrar",
    "titulo": "Ahora es su momento",
    "subtitulo": "Con calor germinan mal y espigan; con el fresco de ahora van de maravilla.",
@@ -35,14 +35,14 @@
    "posicion": "35% center"
   },
   {
-   "foto": "/images/articulos/cuantas-horas-sol-balcon.jpg",
+   "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
    "kicker": "Qué vigilar",
    "titulo": "Riega con mesura",
    "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila para evitar hongos.",
    "pildora": "Sigue 👉"
   },
   {
-   "foto": "/images/articulos/balcon-sombra-cultivos-hoja.jpg",
+   "foto": "/images/articulos/canonigos-maceta.jpg",
    "kicker": "Qué cosechar",
    "titulo": "Rosetas en 8-12 semanas",
    "subtitulo": "Córtalas enteras a ras de tierra o ve quitando las hojas de fuera.",
@@ -51,9 +51,9 @@
   {
    "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
    "kicker": "GUÁRDATELO",
-   "titulo": "¿Qué has sembrado ya?",
-   "destacado": "sembrado",
-   "subtitulo": "Para este invierno: variedades, buenos vecinos y problemas, en la guía.",
+   "titulo": "¿Te animas con ellos?",
+   "destacado": "animas",
+   "subtitulo": "En la guía tienes qué variedades elegir, con qué plantas combinarlos y cómo resolver sus problemas.",
    "pildora": "Guarda esto 🌱",
    "palabra": "SIEMBRA"
   }
