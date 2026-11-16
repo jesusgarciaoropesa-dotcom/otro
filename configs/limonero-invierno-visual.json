@@ -16,7 +16,7 @@
   },
   {
    "tipo": "foto",
-   "foto": "/images/articulos/balcon-orientado-sur.jpg",
+   "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
    "titulo": "Sol y refugio",
    "destacado": "refugio",
    "texto": "Necesita el máximo sol posible y quedar a salvo del frío.",
@@ -27,7 +27,8 @@
      "Orientación sur",
      "Resguardado del viento"
     ]
-   }
+   },
+   "posicion": "18% center"
   },
   {
    "tipo": "versus",
@@ -35,7 +36,7 @@
    "destacado": "regar como en verano",
    "texto": "En invierno el riego es mucho más espaciado.",
    "izquierda": {
-    "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+    "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
     "titulo": "Como en verano",
     "items": [
      "Cada 2-3 días",
@@ -52,7 +53,8 @@
      "Solo con los primeros cm secos",
      "Buen drenaje"
     ],
-    "bien": true
+    "bien": true,
+    "posicion": "30% center"
    },
    "conclusion": "El encharcamiento es **su principal enemigo.**"
   },
@@ -60,7 +62,7 @@
    "tipo": "pasos",
    "titulo": "Si suelta la hoja de golpe",
    "destacado": "de golpe",
-   "foto": "/images/articulos/mezclar-sustrato-perlita.jpg",
+   "foto": "/images/articulos/gomosis-citrico-tronco.jpg",
    "pasos": [
     {
      "titulo": "Sospecha de la raíz",
@@ -86,28 +88,31 @@
    "destacado": "¿qué le pasa?",
    "tarjetas": [
     {
-     "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+     "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
      "etiqueta": "Amarillea y se cae",
      "titulo": "Exceso de riego",
-     "texto": "Espacia el riego y revisa el drenaje"
+     "texto": "Espacia el riego y revisa el drenaje",
+     "posicion": "50% 40%"
     },
     {
      "foto": "/images/articulos/limonero-hojas-amarillas.jpg",
      "etiqueta": "Con los nervios verdes",
      "titulo": "Falta de hierro",
-     "texto": "Abono para cítricos rico en hierro"
-    },
-    {
-     "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
-     "etiqueta": "Sin resguardo",
-     "titulo": "El frío",
-     "texto": "Protégelo del viento y las heladas"
+     "texto": "Abono para cítricos rico en hierro",
+     "posicion": "60% 15%"
     },
     {
      "foto": "/images/articulos/cultivo-limonero-maceta.jpg",
-     "etiqueta": "Revisa también",
-     "titulo": "Cochinilla",
-     "texto": "Mira el envés de las hojas y los tallos"
+     "etiqueta": "Sin resguardo",
+     "titulo": "El frío",
+     "texto": "Protégelo del viento y las heladas",
+     "posicion": "25% 30%"
+    },
+    {
+     "foto": "/images/articulos/minador-citricos.jpg",
+     "etiqueta": "Hojas nuevas rizadas",
+     "titulo": "Minador",
+     "texto": "No es problema de riego ni de abono"
     }
    ]
   },
