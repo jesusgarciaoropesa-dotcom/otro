@@ -40,7 +40,7 @@ Con más de ~32 ºC, las **flores no cuajan** aunque la planta esté sana, así 
 
 El tomate necesita **6 horas o más de sol directo**. Con menos luz, crece buscándola (larguirucho, con hoja) pero da poca cosecha.
 
-**Solución:** colócalo en el punto más soleado; si tu balcón tiene poca luz, es mejor apostar por [cultivos que toleran la sombra](/articulos/hortalizas-que-crecen-a-la-sombra/).
+**Solución:** colócalo en el punto más soleado; si tu balcón tiene poca luz, es mejor apostar por [cultivos que toleran la sombra](/articulos/huerto-urbano-balcon-orientado-norte/).
 
 ## Resumen para tener más tomates
 

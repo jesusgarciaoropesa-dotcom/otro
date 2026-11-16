@@ -21,6 +21,8 @@ El laurel es una de esas plantas que, una vez tienes, no vuelves a comprar sus h
   <figcaption>Un laurel en maceta te da hoja fresca durante años con muy pocos cuidados.</figcaption>
 </figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Una planta agradecida y longeva
 
 El laurel es perenne y muy resistente: bien cuidado, te acompaña **muchos años** en la misma maceta. Al ser mediterráneo, está acostumbrado a veranos secos y no necesita apenas mimos, lo que lo hace ideal si no quieres complicarte.
@@ -35,6 +37,8 @@ El laurel es perenne y muy resistente: bien cuidado, te acompaña **muchos años
 Aquí está el único punto donde se suele fallar: el laurel **tolera la sequía mucho mejor que el exceso de agua**. Riega solo cuando los primeros centímetros del sustrato estén secos, y asegúrate de que la maceta tiene buen drenaje. El encharcamiento le pudre las raíces.
 
 Usa un [sustrato de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) con buen drenaje, mejor si le añades algo de arena o perlita.
+
+<a href="https://www.amazon.es/s?k=perlita+para+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver perlita en Amazon</a>
 
 ## Poda para mantenerlo compacto
 

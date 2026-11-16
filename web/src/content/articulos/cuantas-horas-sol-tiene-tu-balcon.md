@@ -46,7 +46,7 @@ Ese número es tu dato clave. Ojo: en invierno el sol está más bajo y da basta
 
 - **Mucho sol (6 h o más)**: tomate, pimiento, berenjena, pepino, fresas, aromáticas mediterráneas (romero, tomillo).
 - **Sol medio (4-6 h)**: judías, zanahorias, rabanitos, la mayoría de hortalizas.
-- **Toleran semisombra (3-4 h o luz indirecta)**: lechugas, espinacas, acelgas, rúcula, perejil, menta. Tienes la lista completa en [hortalizas que crecen a la sombra](/articulos/hortalizas-que-crecen-a-la-sombra/).
+- **Toleran semisombra (3-4 h o luz indirecta)**: lechugas, espinacas, acelgas, rúcula, perejil, menta. Tienes la lista completa en [qué plantar en un balcón con poca luz](/articulos/huerto-urbano-balcon-orientado-norte/).
 
 ## Si te falta luz
 

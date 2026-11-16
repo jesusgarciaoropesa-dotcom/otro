@@ -3,16 +3,24 @@ title: "Mejor sistema de riego automático para macetas de balcón"
 description: "Comparativa de los sistemas de riego automático más recomendables para macetas de balcón: goteo con temporizador, kits solares y opciones económicas caseras."
 categoria: "riego-automatico"
 intencion: "comparativa"
-keywords: ["riego automático para macetas", "sistema de riego balcón", "mejor riego automático terraza", "mejores kits de riego automático", "kit riego automático terraza"]
+keywords: ["riego automático para macetas", "sistema de riego balcón", "mejor riego automático terraza", "mejores kits de riego automático", "kit riego automático terraza", "riego automático con app móvil", "programador riego wifi"]
 pubDate: 2026-02-05
+updatedDate: 2026-11-04
 pilar: true
 faq:
+  - pregunta: "¿Merece la pena un riego automático con app móvil para el balcón?"
+    respuesta: "Para la mayoría de balcones, un kit de goteo con temporizador convencional es suficiente y más fácil de mantener. El control por app y los sensores de humedad compensan si viajas a menudo o tienes cultivos delicados donde un fallo de riego sale caro."
   - pregunta: "¿Qué sistema de riego automático es mejor para un balcón?"
     respuesta: "Para la mayoría de balcones (5-20 macetas), un kit de riego por goteo con temporizador conectado al grifo: es fiable, de coste moderado y se amplía fácilmente según crece el huerto."
   - pregunta: "¿Qué hago si mi balcón no tiene grifo cerca?"
     respuesta: "Puedes usar un depósito o garrafa con una pequeña bomba conectada al programador, y si tampoco tienes enchufe cerca existen programadores de riego con placa solar integrada."
   - pregunta: "¿Cuántos días aguanta el riego casero con botellas?"
     respuesta: "Una botella invertida con agujeros en el tapón libera agua durante 3-5 días como máximo y solo para macetas puntuales. Para ausencias más largas o muchas macetas necesitas goteo con programador."
+claves:
+  - "Para 5-20 macetas, lo más equilibrado es un kit de goteo con programador a pilas y goteros regulables."
+  - "Los programadores con app y sensor de humedad dan control a distancia, pero cuestan más y dependen de la conexión."
+  - "Para un fin de semana basta una botella invertida; no sirve para más de 3-5 días."
+  - "Sin grifo cerca, busca kits con depósito y minibomba; sin enchufe, programador solar."
 ---
 
 Si has perdido plantas por olvidarte de regar en vacaciones o simplemente quieres liberarte de la tarea diaria, un sistema de riego automático es la mejora que más impacto tiene en un huerto de balcón. Estas son las opciones más recomendables según presupuesto y número de macetas.
@@ -38,12 +46,22 @@ Un kit compuesto por manguera de 4-6 mm, goteros ajustables y un programador de 
 
 ## 2. Sistemas con app móvil y sensor de humedad
 
-Los programadores conectados por wifi/bluetooth permiten regar desde el móvil y algunos incorporan sensores de humedad del sustrato para regar solo cuando hace falta, ahorrando agua.
+Los programadores conectados por wifi o bluetooth permiten regar desde el móvil y algunos incorporan sensores de humedad del sustrato para regar solo cuando hace falta, ahorrando agua. Dentro de esta familia hay tres niveles:
 
-**Ventajas**: control remoto, riego más inteligente y eficiente.
-**Inconvenientes**: precio más elevado y dependencia de la conexión/batería del dispositivo.
+| Nivel | Qué hace | Para quién |
+|---|---|---|
+| Programador con app (wifi o bluetooth) | Activar, pausar o cambiar el horario desde el móvil | Quien viaja y quiere ajustar el riego a distancia |
+| Con sensor de humedad | Riega según la humedad real del sustrato, no por horario | Quien quiere ahorrar agua y evitar encharcamientos |
+| Con alertas | Avisa al móvil si el depósito se vacía, baja la presión o falla el sensor | Cultivos delicados donde un fallo no detectado sale caro |
+
+**Wifi o bluetooth**: con bluetooth solo puedes manejarlo cuando estás cerca (a unos metros); para controlarlo desde fuera de casa necesitas un modelo wifi o una pasarela (*hub*) que lo conecte a internet. Comprueba que la señal wifi llega bien al balcón antes de comprar.
+
+**Ventajas**: control remoto, riego más inteligente y eficiente, avisos ante fallos.
+**Inconvenientes**: precio más elevado, dependencia de la conexión y de la batería del dispositivo, y más configuración inicial que un programador mecánico.
 
 <a href="https://www.amazon.es/s?k=programador+riego+wifi+sensor+humedad&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
+Si ya tienes goteo funcionando y solo quieres saber cuándo regar, un [medidor de humedad de la tierra](/articulos/mejores-medidores-humedad-tierra-macetas/) es una alternativa mucho más barata.
 
 ## 3. Riego automático casero con botellas de plástico
 

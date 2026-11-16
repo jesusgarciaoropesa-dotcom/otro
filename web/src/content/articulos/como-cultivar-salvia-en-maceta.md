@@ -55,4 +55,4 @@ Ve **cortando hojas a demanda** durante todo el año; en climas suaves es perenn
 
 ## Otras aromáticas mediterráneas
 
-Si te va la salvia, comparte sol y cuidados con el [romero](/articulos/como-cultivar-romero-en-balcon/), el [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) y el [orégano](/articulos/como-cultivar-oregano-en-maceta/): puedes juntarlas en una misma jardinera soleada. Si empiezas con aromáticas, mira las [mejores aromáticas para principiantes](/articulos/mejores-aromaticas-para-principiantes/).
+Si te va la salvia, comparte sol y cuidados con el [romero](/articulos/como-cultivar-romero-en-balcon/), el [tomillo](/articulos/como-cultivar-tomillo-en-maceta/) y el [orégano](/articulos/como-cultivar-oregano-en-maceta/): puedes juntarlas en una misma jardinera soleada. Si empiezas con aromáticas, mira las [mejores aromáticas para principiantes](/articulos/guia-aromaticas-en-maceta-balcon/#las-5-más-fáciles-para-empezar).

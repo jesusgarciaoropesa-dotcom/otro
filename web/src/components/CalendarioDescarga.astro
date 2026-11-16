@@ -1,0 +1,138 @@
+---
+// Caja "Calendario de siembra en PDF a cambio del correo".
+// El formulario envía el correo a Brevo (lista "Calendario de siembra", doble confirmación).
+// Al confirmar en el correo, Brevo abre el PDF: /descargables/calendario-siembra-balcon-interior.pdf
+import { withBase } from '../lib/url';
+
+interface Props {
+  /** Categoría del artículo: solo se enseña en las de siembra y primeros pasos. */
+  categoria?: string;
+  /** true para enseñarla siempre (páginas sueltas). */
+  siempre?: boolean;
+}
+
+const { categoria = '', siempre = false } = Astro.props;
+const CATEGORIAS = ['calendario-de-siembra', 'que-plantar', 'primeros-pasos'];
+const visible = siempre || CATEGORIAS.includes(categoria);
+
+const ACCION =
+  'https://51787af8.sibforms.com/serve/MUIFAOsSzoxgcX3dRIt44gYfYh2blCeO8TqevrmrBHxd43dGMDYi8sW47MSw-FOZXMURKuzSH63gP-bsfE1Gfdnglc_Pi8oIN3yHE1S6KmRG90e8M97oSVg8rDkID8OPVRMvdaLu6243kHD226rW3IMMZXZRVJd_JSDJA3PaMWVOlDA9T9pz9NRFI1JgQsDne7E0yPfsfrUILzwxHg==';
+---
+
+{visible && (
+  <section
+    id="calendario-pdf"
+    aria-labelledby="calendario-pdf-titulo"
+    class="not-prose mt-10 overflow-hidden rounded-2xl border border-(--color-hoja)/30 bg-(--color-crema) shadow-md"
+  >
+    <div class="grid gap-5 p-5 sm:grid-cols-[auto_1fr] sm:p-6">
+      <div aria-hidden="true" class="hidden h-24 w-20 shrink-0 rotate-[-4deg] flex-col rounded-lg bg-white p-2 shadow-md ring-1 ring-black/10 sm:flex">
+        <span class="text-[9px] font-bold uppercase tracking-wider text-(--color-tierra)">PDF</span>
+        <span class="mt-1 font-(--font-display) text-xs font-semibold leading-tight text-(--color-hoja-oscuro)">Calendario de siembra</span>
+        <span class="mt-auto grid grid-cols-6 gap-0.5">
+          {Array.from({ length: 18 }).map((_, i) => (
+            <span class={`h-1.5 rounded-sm ${i % 3 === 0 ? 'bg-(--color-mostaza)' : i % 2 ? 'bg-(--color-hoja)/60' : 'bg-stone-200'}`} />
+          ))}
+        </span>
+      </div>
+      <div>
+        <span class="text-xs font-semibold uppercase tracking-widest text-(--color-tierra)">Gratis · PDF de 2 páginas</span>
+        <h2 id="calendario-pdf-titulo" class="mt-1 font-(--font-display) text-xl font-semibold text-(--color-hoja-oscuro) sm:text-2xl">
+          Tu calendario de siembra en maceta, mes a mes
+        </h2>
+        <p class="mt-2 text-stone-700">
+          44 cultivos para balcón y terraza del interior peninsular, con cuándo sembrar cada uno y cómo
+          ajustarlo a las heladas. Para imprimir y tenerlo a mano.
+        </p>
+
+        <form class="mt-4" method="POST" action={ACCION} data-calendario novalidate>
+          <label for="calendario-email" class="sr-only">Tu correo</label>
+          <div class="flex flex-col gap-2 sm:flex-row">
+            <input
+              id="calendario-email"
+              name="EMAIL"
+              type="email"
+              required
+              autocomplete="email"
+              inputmode="email"
+              placeholder="Tu correo"
+              class="min-w-0 flex-1 rounded-xl border border-stone-300 bg-white px-4 py-3 text-base text-stone-900 shadow-sm outline-none focus:border-(--color-hoja) focus:ring-2 focus:ring-(--color-hoja)/30"
+            />
+            <button
+              type="submit"
+              class="rounded-xl bg-(--color-hoja) px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-(--color-hoja-oscuro) disabled:opacity-60"
+            >
+              Quiero el calendario
+            </button>
+          </div>
+          <!-- Trampa para robots: las personas no la ven ni la rellenan -->
+          <input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off" aria-hidden="true" class="absolute -left-[9999px] h-px w-px opacity-0" />
+          <input type="hidden" name="locale" value="es" />
+          <label class="mt-3 flex items-start gap-2 text-sm text-stone-600">
+            <input type="checkbox" name="consentimiento" required class="mt-0.5 h-4 w-4 accent-(--color-hoja)" />
+            <span>
+              Acepto recibir el calendario y algún correo ocasional de MiHuertoUrbano con consejos de temporada.
+              Puedo darme de baja cuando quiera. <a href={withBase('/politica-de-privacidad/')} class="text-(--color-tierra) underline">Privacidad</a>.
+            </span>
+          </label>
+          <p data-mensaje role="status" aria-live="polite" class="mt-3 hidden rounded-xl px-4 py-3 text-sm"></p>
+        </form>
+      </div>
+    </div>
+  </section>
+)}
+
+<script>
+  const MENSAJES = {
+    ok: '¡Casi está! Te hemos enviado un correo: pulsa el botón de confirmar y se abrirá tu calendario. Si no lo ves, mira en spam o promociones.',
+    correo: 'Ese correo no parece válido. Revísalo y prueba otra vez.',
+    consentimiento: 'Marca la casilla para poder enviarte el calendario.',
+    error: 'No se ha podido completar la suscripción. Inténtalo de nuevo en un momento.',
+  };
+
+  document.querySelectorAll<HTMLFormElement>('form[data-calendario]').forEach((form) => {
+    const msg = form.querySelector<HTMLElement>('[data-mensaje]')!;
+    const boton = form.querySelector<HTMLButtonElement>('button[type=submit]')!;
+    const enseñar = (texto: string, ok: boolean) => {
+      msg.textContent = texto;
+      msg.className = `mt-3 rounded-xl px-4 py-3 text-sm ${ok ? 'bg-(--color-hoja)/10 text-(--color-hoja-oscuro)' : 'bg-red-50 text-red-800'}`;
+    };
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = (form.elements.namedItem('EMAIL') as HTMLInputElement).value.trim();
+      const acepta = (form.elements.namedItem('consentimiento') as HTMLInputElement).checked;
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return enseñar(MENSAJES.correo, false);
+      if (!acepta) return enseñar(MENSAJES.consentimiento, false);
+      if ((form.elements.namedItem('email_address_check') as HTMLInputElement).value) return enseñar(MENSAJES.ok, true);
+
+      const datos = new FormData(form);
+      datos.delete('consentimiento');
+      boton.disabled = true;
+      boton.textContent = 'Enviando…';
+      try {
+        let ok = false;
+        try {
+          const r = await fetch(form.action + '?isAjax=1', { method: 'POST', body: datos });
+          const j = await r.json().catch(() => null);
+          ok = r.ok && (!j || j.success !== false);
+          if (j && j.success === false) enseñar(MENSAJES.correo, false);
+        } catch {
+          // Si el navegador no deja leer la respuesta, se envía igualmente
+          await fetch(form.action, { method: 'POST', body: datos, mode: 'no-cors' });
+          ok = true;
+        }
+        if (ok) {
+          enseñar(MENSAJES.ok, true);
+          form.reset();
+          (window as any).gtag?.('event', 'calendario_suscripcion');
+        }
+      } catch {
+        enseñar(MENSAJES.error, false);
+      } finally {
+        boton.disabled = false;
+        boton.textContent = 'Quiero el calendario';
+      }
+    });
+  });
+</script>

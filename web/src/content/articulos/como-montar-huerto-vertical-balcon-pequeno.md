@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cómo se riega un huerto vertical sin que se seque arriba?"
     respuesta: "El agua tiende a bajar, así que los niveles altos se secan antes: agrúpalos por necesidad de agua, coloca arriba lo que aguante más sequedad y valora un goteo que reparta por niveles. Revisa más a menudo la parte superior."
 
+claves:
+  - "Un huerto vertical aprovecha paredes y barandillas y multiplica la superficie de cultivo."
+  - "Opciones: torres apilables, paneles de bolsillos de fieltro, jardineras de barandilla o hidroponía en tubos."
+  - "Arriba aromáticas, fresas y lechugas; abajo menta y perejil. Tomates y berenjenas, mejor en maceta normal."
+  - "Riega con goteo, mejor una línea por nivel, y revisa el anclaje si hay viento."
 ---
 
 Cuando el suelo del balcón se queda pequeño, la solución no es renunciar a cultivar más, sino mirar hacia arriba. Un huerto vertical bien planteado puede triplicar la superficie de cultivo disponible en el mismo espacio.

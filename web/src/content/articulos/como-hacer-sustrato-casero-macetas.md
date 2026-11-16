@@ -18,6 +18,16 @@ Comprar sustrato en saco es cómodo, pero prepararlo tú sale **más barato**, t
 
 <figure><img width="1200" height="670" src="/images/articulos/mezclar-sustrato-perlita.jpg" alt="Mezclando sustrato con perlita y compost para preparar una mezcla casera para macetas" /><figcaption>Un buen sustrato casero combina base, aireante y materia orgánica</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Los ingredientes que más vas a necesitar son fibra de coco, perlita y humus de lombriz:
+
+<a href="https://www.amazon.es/s?k=fibra+de+coco+sustrato&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver fibra de coco en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=perlita+para+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver perlita en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=humus+de+lombriz&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver humus de lombriz en Amazon</a>
+
 ## Los tres ingredientes de todo buen sustrato
 
 Un sustrato de maceta tiene que hacer tres cosas a la vez: **retener agua y nutrientes**, **airearse y drenar**, y **alimentar** a la planta. Por eso se combina:

@@ -28,7 +28,7 @@ Septiembre marca la transición del verano al otoño y es el mes clave para arra
 - **Rabanitos**: su ciclo corto permite aprovechar el buen tiempo residual de principios de septiembre con siembras escalonadas.
 - **Habas**: en zonas con otoños suaves, se pueden empezar a sembrar a finales de septiembre.
 
-Consulta también nuestra guía más completa de [qué sembrar en otoño en un huerto de terraza](/articulos/que-sembrar-otono-huerto-terraza/) para el resto de opciones de esta temporada.
+Consulta también [qué plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/), con el calendario de otoño para el interior.
 
 ## Qué hacer con los cultivos de verano que siguen produciendo
 

@@ -5,6 +5,11 @@ categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar ajos en maceta", "plantar ajos balcón", "cómo sembrar ajos en casa"]
 pubDate: 2026-07-20
+claves:
+  - "Planta dientes sueltos (los exteriores, más grandes) de ajo de siembra, no la cabeza entera."
+  - "Época: otoño, de octubre a diciembre, para cosechar a principios de verano."
+  - "Maceta de al menos 20 cm de fondo; cada diente con la punta hacia arriba, a 3-4 cm y separados 10 cm."
+  - "Riego moderado sin encharcar y cosecha cuando se sequen y amarilleen las hojas de abajo."
 faq:
   - pregunta: "¿Cuándo se plantan los ajos?"
     respuesta: "Lo más habitual es plantarlos en otoño (octubre-diciembre) para cosechar a principios de verano. También pueden plantarse a finales de invierno, aunque las cabezas suelen salir algo más pequeñas."
@@ -23,13 +28,17 @@ El ajo es uno de los cultivos más fáciles y agradecidos para empezar en un bal
   <figcaption>Los ajos se plantan casi solos: un diente por hueco y a esperar.</figcaption>
 </figure>
 
+Para plantar, mejor ajos de siembra que los del súper (que a veces vienen tratados para que no broten):
+
+<a href="https://www.amazon.es/s?k=ajos+para+plantar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver ajos de siembra en Amazon</a>
+
 ## Qué diente plantar
 
 No se planta la cabeza entera, sino los **dientes sueltos**. Separa una cabeza de ajo y elige los dientes exteriores, que son los más grandes: cuanto mayor sea el diente, mayor será la cabeza que produzca. Usa ajos ecológicos o de siembra; los del supermercado a veces llevan antigerminante y brotan mal.
 
 ## Cuándo plantar
 
-La época clásica es el **otoño (octubre a diciembre)** para cosechar a principios de verano. El ajo necesita pasar un periodo de frío para formar bien la cabeza, así que esa siembra de otoño-invierno es la que mejor funciona. También puede plantarse a finales de invierno, aunque las cabezas suelen salir algo más pequeñas.
+La época clásica es el **otoño (octubre a diciembre)** para cosechar a principios de verano (los verás en [qué plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/) y en [diciembre](/articulos/que-plantar-huerto-urbano-diciembre/)). El ajo necesita pasar un periodo de frío para formar bien la cabeza, así que esa siembra de otoño-invierno es la que mejor funciona. También puede plantarse a finales de invierno, aunque las cabezas suelen salir algo más pequeñas.
 
 ## Cómo plantarlo
 
@@ -42,7 +51,7 @@ La época clásica es el **otoño (octubre a diciembre)** para cosechar a princi
 El ajo es de bajo mantenimiento:
 
 - **Sol**: cuanto más directo, mejor.
-- **Riego moderado**: la tierra ligeramente húmeda, sin encharcar nunca (el exceso de agua pudre las cabezas). En invierno apenas necesitará riego; en primavera, algo más.
+- **Riego moderado**: la tierra ligeramente húmeda, sin encharcar nunca (el exceso de agua pudre las cabezas). En invierno apenas necesitará riego ([cuánto regar en invierno](/articulos/riego-invierno-huerto-macetas-cuanto-regar/)); en primavera, algo más.
 - **Deja de regar** una o dos semanas antes de la cosecha para que la cabeza cure y se conserve mejor.
 - Si aparecen tallos florales (escapos), córtalos: así la planta concentra la energía en la cabeza.
 

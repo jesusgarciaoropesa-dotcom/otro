@@ -18,6 +18,14 @@ El viento es el enemigo silencioso de los balcones altos. No hace tanto ruido co
 
 <figure><img width="1200" height="670" src="/images/articulos/jardineras-escalonadas-pared.jpg" alt="Jardineras junto a una pared en un balcón, colocación que ayuda a resguardar las plantas del viento" /><figcaption>Aprovechar paredes y esquinas resguardadas protege las plantas del viento constante</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para barandillas expuestas, una malla cortavientos y unos buenos tutores:
+
+<a href="https://www.amazon.es/s?k=malla+cortavientos+balcon&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver mallas cortavientos en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=tutores+para+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tutores en Amazon</a>
+
 ## Por qué el viento hace daño
 
 - **Reseca**: aumenta mucho la evaporación, así que el sustrato y las hojas pierden agua a toda velocidad. Es la causa nº 1 de plantas que se marchitan pese a regarlas.

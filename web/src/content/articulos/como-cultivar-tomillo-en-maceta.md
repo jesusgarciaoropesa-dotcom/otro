@@ -1,9 +1,10 @@
 ---
 title: "Cómo cultivar tomillo en maceta en el balcón"
-description: "Guía para cultivar tomillo en maceta en un balcón: sustrato, riego, luz, poda y cómo evitar los errores más comunes con esta aromática."
+description: "Cómo cultivar tomillo en maceta: qué tipo elegir (común, limonero, serpol, salsero), el sustrato pobre que necesita, poda y cómo renovarlo antes de que se vuelva leñoso."
 categoria: "que-plantar"
 intencion: "informativa"
-keywords: ["cultivar tomillo en maceta", "tomillo en balcón cuidados", "cómo plantar tomillo en maceta"]
+keywords: ["cultivar tomillo en maceta", "tomillo en balcón cuidados", "cómo plantar tomillo en maceta", "tipos de tomillo", "tomillo limonero maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-07
 faq:
   - pregunta: "¿Por qué al tomillo le perjudica un sustrato demasiado rico?"
@@ -41,6 +42,19 @@ El error más común con el tomillo no es regar poco, sino demasiado. Deja que e
 
 A diferencia de la mayoría de hortalizas, abonar en exceso o usar un sustrato muy rico en nutrientes hace que el tomillo crezca más blando, con menos aroma y más propenso a pudrirse. Un sustrato pobre y bien drenado, casi de secano, es lo que da las plantas más compactas y aromáticas.
 
+## Qué tomillo elegir
+
+No hay un solo tomillo. Estos son los que más se encuentran en vivero y para qué sirve cada uno:
+
+| Tipo | Aspecto | Uso |
+|---|---|---|
+| Tomillo común (*Thymus vulgaris*) | Matita compacta de hoja pequeña gris verdosa | El de cocina por excelencia: guisos, carnes, asados |
+| Tomillo limonero (*Thymus × citriodorus*) | Hoja algo más grande, a veces variegada | Aroma a limón: pescados, ensaladas, infusiones |
+| Serpol (*Thymus serpyllum*) | Rastrero, forma una alfombra | Bordes de jardinera y entre otras plantas |
+| Tomillo salsero (*Thymus zygis*) | Silvestre en buena parte de la península | El clásico para aliñar aceitunas |
+
+Si solo vas a tener uno, el común; si te gusta cocinar pescado, añade un limonero.
+
 ## Poda
 
 Poda ligeramente después de la floración, recortando un tercio de la planta para evitar que se vuelva leñosa y desnuda por la base. Sin esta poda de mantenimiento, el tomillo tiende a "abrirse" con el tiempo y perder densidad en el centro.
@@ -48,6 +62,13 @@ Poda ligeramente después de la floración, recortando un tercio de la planta pa
 ## Cómo recolectar sin dañar la planta
 
 Corta ramas enteras en lugar de arrancar hojas sueltas, igual que con el romero. El tomillo se seca muy bien colgado boca abajo en un lugar ventilado y conserva su aroma durante meses.
+
+## Renuévalo cada 3-4 años
+
+El tomillo es una planta de vida corta en maceta: a los 3-4 años se vuelve muy leñoso, con el centro vacío y pocas hojas, aunque lo hayas podado bien. No es que lo estés haciendo mal, es su ciclo. Antes de que llegue ese punto, saca plantas nuevas:
+
+1. **Por esqueje**: en primavera, corta puntas de 5-8 cm sin flor, quita las hojas de abajo y plántalas en sustrato con arena, siempre algo húmedo hasta que enraícen.
+2. **Por acodo**: dobla una rama baja hasta la tierra, sujétala con una piedra o una grapa y en unas semanas echará raíces; luego córtala y trasplántala.
 
 ## Problemas comunes
 

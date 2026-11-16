@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Qué pasa si siembro fuera de época?"
     respuesta: "El cultivo germina peor, crece con dificultad o se sube a flor antes de producir, porque cada planta necesita su rango de temperatura. Respetar la época de siembra es una de las claves para no llevarse decepciones."
 
+claves:
+  - "Guía para clima mediterráneo: si tu zona es muy fría o muy calurosa, mueve las fechas 2-3 semanas."
+  - "Marzo arranca la siembra fuerte: tomates, pimientos y berenjenas en semillero; lechugas, rabanitos y guisantes directos en maceta."
+  - "Septiembre a noviembre es la segunda gran ventana: espinacas, lechugas de invierno, habas y coles."
+  - "En verano lo crítico es el riego: deja resuelto el riego automático antes del calor fuerte."
 ---
 
 ¿Prefieres verlo filtrado para tu caso? Usa nuestra [calculadora de qué plantar en tu balcón](/que-plantar-en-tu-balcon/), que te dice qué sembrar según tu luz y el mes. Este calendario es una guía general para clima mediterráneo (la mayoría de España). Si tu zona tiene inviernos muy fríos o veranos extremos, ajusta las fechas 2-3 semanas según tu clima local.

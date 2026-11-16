@@ -19,6 +19,8 @@ Si al remover el sustrato de una maceta te encuentras larvas blanquecinas en for
 
 <figure><img width="1200" height="670" src="/images/articulos/gusano-blanco-larva-sustrato.jpg" alt="Larva blanca en forma de C con cabeza marrón sobre sustrato oscuro sacada de una maceta" /><figcaption>El gusano blanco, larva de escarabajo, vive en el sustrato y come raíces</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo identificarlo con seguridad
 
 Tres rasgos lo confirman: cuerpo curvado en forma de C, color blanco o gris translúcido con la parte final del abdomen algo más oscura, cabeza dura de color marrón, y tres pares de patas concentradas cerca de la cabeza (sin patas en el resto del cuerpo). Suelen aparecer varios juntos en la misma maceta, no de uno en uno.
@@ -36,6 +38,8 @@ Casi siempre llegan con sustrato, compost o tierra de jardín no tratada que se 
 - **Extracción manual (lo más efectivo en maceta)**: saca el cepellón completo de la maceta, remueve bien todo el sustrato con la mano y retira cada larva que encuentres. Al ser un volumen de sustrato limitado y manejable, es perfectamente posible eliminarlas todas de una vez, algo que en jardín abierto no es viable.
 - **Revisa las raíces mientras lo haces**: aprovecha para comprobar si hay raíces mordidas o dañadas y retira las que estén claramente podridas o secas antes de devolver la planta a la maceta.
 - **[Nematodos beneficiosos](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/)**: si prefieres no remover todo el sustrato, o quieres asegurarte de eliminar también las larvas que no has visto, los nematodos entomopatógenos se riegan disueltos en agua y parasitan específicamente este tipo de larva sin dañar la planta.
+
+<a href="https://www.amazon.es/s?k=nematodos+beneficiosos+gusano+blanco&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver nematodos beneficiosos en Amazon</a>
 
 ## Prevención
 

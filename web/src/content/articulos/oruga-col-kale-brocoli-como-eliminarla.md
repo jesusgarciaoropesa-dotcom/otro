@@ -18,6 +18,14 @@ Cultivas kale, brócoli o coles y, de repente, las hojas aparecen **agujereadas 
 
 <figure><img width="1200" height="670" src="/images/articulos/oruga-col.jpg" alt="Oruga verde sobre una hoja de kale agujereada, con excrementos oscuros, en una maceta" /><figcaption>Las orugas verdes y los agujeros en las hojas delatan la plaga de la col.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Lo que mejor funciona contra la oruga de la col es la malla antiinsectos y el Bacillus thuringiensis:
+
+<a href="https://www.amazon.es/s?k=malla+antiinsectos+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver malla antiinsectos en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=bacillus+thuringiensis&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver Bacillus thuringiensis en Amazon</a>
+
 ## Cómo identificarla
 
 - **Orugas verdes** (a veces aterciopeladas o con rayas) en el envés y sobre las hojas.

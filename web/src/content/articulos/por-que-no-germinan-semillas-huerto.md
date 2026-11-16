@@ -18,6 +18,8 @@ Preparas el semillero con ilusión, siembras, riegas… y pasan los días sin qu
 
 <figure><img width="1200" height="670" src="/images/articulos/semillas-no-germinan-semillero.jpg" alt="Bandeja de semillero con unas celdillas germinadas y otras vacías sin germinar, en un balcón" /><figcaption>Cuando no germina nada, casi siempre es la temperatura, el agua o la profundidad.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## 1. La temperatura no acompaña (la causa nº 1)
 
 La mayoría de las hortalizas necesitan **calor para germinar**, entre 18 y 25 °C en el sustrato. Si siembras demasiado pronto, con noches frías, las semillas se quedan **paradas** esperando, y muchas acaban pudriéndose antes de arrancar. Es el fallo más común con diferencia.
@@ -29,6 +31,8 @@ La mayoría de las hortalizas necesitan **calor para germinar**, entre 18 y 25 �
 El punto de humedad es delicado. Si el sustrato está **encharcado**, las semillas se **pudren** por falta de oxígeno. Si se **seca** entre riegos, la germinación se corta de golpe y ya no arranca.
 
 **Solución:** mantén el sustrato **húmedo como una esponja escurrida**, ni charco ni polvo. Pulveriza con espray en lugar de echar chorros, y tapa el semillero con un plástico o tapa transparente hasta que broten para conservar la humedad.
+
+<a href="https://www.amazon.es/s?k=semillero+con+tapa+transparente&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semilleros con tapa en Amazon</a>
 
 ## 3. Las has enterrado demasiado
 
@@ -53,6 +57,8 @@ A veces no es que fallen: es que **aún no les toca**. Los rabanitos asoman en 3
 Sembrar en tierra de jardín compactada, en sustrato reutilizado con hongos o en algo que forma costra al secarse dificulta que la plántula emerja.
 
 **Solución:** usa un sustrato **fino, esponjoso y limpio** para semilleros. Tienes las claves en [qué sustrato usar](/articulos/mejor-sustrato-huerto-urbano-maceta/). Si aparece moho o los brotes caen nada más salir, suele ser exceso de humedad y poca ventilación.
+
+<a href="https://www.amazon.es/s?k=sustrato+para+semilleros&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato para semilleros en Amazon</a>
 
 ## 7. Luz: algunas la necesitan, otras la odian
 

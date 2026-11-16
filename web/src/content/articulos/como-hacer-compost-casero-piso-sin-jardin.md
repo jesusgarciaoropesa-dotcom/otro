@@ -14,11 +14,24 @@ faq:
   - pregunta: "¿Cuánto tarda en estar listo el compost?"
     respuesta: "Según el método y la temperatura, entre 2 y 4 meses. Estará listo cuando sea una tierra oscura, homogénea y con olor agradable, sin que se reconozcan los restos originales."
 
+claves:
+  - "Basta un compostador cerrado y compacto: restos de cocina más material seco como cartón u hojas."
+  - "Alterna capas verdes (húmedas) y marrones (secas) y remueve cada 4-5 días para evitar olores."
+  - "Nada de carne, pescado, lácteos, comida con aceite ni plantas con plagas."
+  - "Está listo en 2-4 meses; mézclalo 1 parte de compost por 3-4 de sustrato."
 ---
 
 No hace falta tener jardín ni un gran terreno para compostar: con un compostador compacto y unos hábitos sencillos, puedes convertir tus restos de cocina en abono de calidad para tu huerto urbano.
 
 <figure><img width="1200" height="654" src="/images/articulos/vermicompostador-balcon.jpg" alt="Vermicompostador verde de bandejas apiladas junto a un cubo de restos orgánicos en un balcón urbano" /><figcaption>Vermicompostador de bandejas: compost de calidad en el rincón de un balcón</figcaption></figure>
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si prefieres no fabricarlo tú, hay compostadores domésticos y vermicompostadores pensados para piso:
+
+<a href="https://www.amazon.es/s?k=compostador+domestico+cocina&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver compostadores en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=vermicompostador&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver vermicompostadores en Amazon</a>
 
 ## Qué necesitas
 

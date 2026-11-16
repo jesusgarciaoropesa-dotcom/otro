@@ -18,6 +18,12 @@ Si quieres empezar con algo que salga **sí o sí** y rápido, la rúcula es tu 
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-rucula-maceta.jpg" alt="Jardinera de barro llena de rúcula con sus hojas verdes dentadas listas para cosechar en un balcón" /><figcaption>La rúcula es un cultivo de hoja de corte y rebrote: siembras una vez y cosechas varias.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de rúcula:
+
+<a href="https://www.amazon.es/s?k=semillas+de+rucula&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Por qué el otoño es su mejor época
 
 La rúcula es de **tiempo fresco**. Con el calor del verano se vuelve **picante, amarga y espiga** enseguida (sube a flor y deja de dar hoja buena). En **otoño y primavera**, en cambio, crece tierna, suave y sin prisa por florecer. Por eso ahora es un cultivo redondo para el balcón.

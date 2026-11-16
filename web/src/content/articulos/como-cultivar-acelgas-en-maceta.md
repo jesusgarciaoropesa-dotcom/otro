@@ -4,6 +4,7 @@ description: "Guía para cultivar acelgas en maceta en un balcón: maceta, riego
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar acelgas en maceta", "acelgas en balcón cuidados", "cómo sembrar acelgas en maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-07
 faq:
   - pregunta: "¿Cómo se cosecha la acelga para que siga produciendo?"
@@ -13,6 +14,11 @@ faq:
   - pregunta: "¿Qué profundidad de maceta necesitan las acelgas?"
     respuesta: "Con unos 20-25 cm de profundidad van bien. Al ser plantas grandes y productivas, agradecen un buen volumen de sustrato y un riego constante para no volverse fibrosas."
 
+claves:
+  - "Maceta de al menos 25-30 cm de profundidad con sustrato rico en materia orgánica."
+  - "Aguanta el calor mejor que la espinaca y tolera el frío moderado; vale para semisombra (4-5 horas de sol)."
+  - "Cosecha hoja a hoja dejando el centro intacto y producirá durante meses."
+  - "Abona cada 3-4 semanas en la temporada de más producción."
 ---
 
 La acelga es de las hojas verdes más agradecidas para maceta: más resistente al calor que la espinaca, tolera bien el frío moderado, y con la técnica de recolección adecuada una sola planta puede seguir produciendo hoja durante varios meses seguidos.
@@ -49,6 +55,21 @@ La clave está en cosechar hoja a hoja, no la planta entera: corta las hojas ext
 
 Al ser una planta de crecimiento continuo y cosecha prolongada, agradece un [aporte de abono](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) cada 3-4 semanas durante la temporada de más producción, para mantener el ritmo de hojas nuevas.
 
+## La acelga en un clima de interior
+
+La acelga es la hoja verde que mejor lleva los extremos del interior peninsular: aguanta el verano mucho mejor que la espinaca o la lechuga y pasa el invierno en la maceta. Eso sí, en cada época se comporta distinto:
+
+| Época | Cómo se comporta | Qué hacer |
+|---|---|---|
+| Marzo - mayo | Crecimiento fuerte | Mejor época de siembra; germina bien con el suelo por encima de unos 10 °C |
+| Junio - agosto | Aguanta, pero sufre con 35 °C o más | Media sombra por la tarde y riego constante para que no amargue |
+| Septiembre - octubre | Segundo empujón | Segunda siembra o trasplante para tener hoja todo el invierno |
+| Diciembre - febrero | Casi se para | Las heladas fuertes queman las hojas exteriores; córtalas y rebrota desde el centro |
+
+Como referencia, la acelga soporta heladas ligeras (hasta unos -2 °C) sin daños serios. En Toledo hay de media casi 10 días de helada en diciembre y casi 13 en enero (AEMET), así que en las noches más frías merece la pena acercar la maceta a la pared o taparla con una manta térmica.
+
+Un truco de las acelgas en maceta: si al final del invierno la planta empieza a echar un tallo central alto (se sube a flor), ya no producirá más hojas buenas. Es el momento de sembrar una nueva.
+
 ## Problemas comunes
 
 - **Hojas amarillas**: normalmente falta de nutrientes, dado el crecimiento continuo que exige a la planta un aporte regular.
@@ -57,3 +78,9 @@ Al ser una planta de crecimiento continuo y cosecha prolongada, agradece un [apo
 - **Manchas marrones redondas en las hojas** (a veces agujereadas): suele ser cercospora, un hongo. Cómo reconocerla y tratarla en [manchas marrones en las hojas de la acelga](/articulos/manchas-marrones-hojas-acelga-cercospora/).
 
 Si te interesa otra hoja verde con cuidados parecidos, consulta también nuestra guía de [cómo cultivar espinacas en maceta todo el año](/articulos/como-cultivar-espinacas-en-maceta/).
+
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
+- South Dakota State University Extension, [tolerancia a las heladas de las hortalizas comunes](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables).

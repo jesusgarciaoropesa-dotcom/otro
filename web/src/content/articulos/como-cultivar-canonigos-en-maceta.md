@@ -81,4 +81,4 @@ Se comen **crudos**, en ensalada, con su sabor suave a nuez. Lávalos bien justo
 
 ## Otras hojas de invierno
 
-Si te gustan los canónigos, prueba también con [espinacas](/articulos/como-cultivar-espinacas-en-maceta/), [lechugas](/articulos/como-cultivar-lechugas-huerto-urbano/), [acelgas](/articulos/como-cultivar-acelgas-en-maceta/) y [escarola](/articulos/como-cultivar-escarola-en-maceta/), que comparten época. Mira el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/) y las [hortalizas que crecen a la sombra](/articulos/hortalizas-que-crecen-a-la-sombra/).
+Si te gustan los canónigos, prueba también con [espinacas](/articulos/como-cultivar-espinacas-en-maceta/), [lechugas](/articulos/como-cultivar-lechugas-huerto-urbano/), [acelgas](/articulos/como-cultivar-acelgas-en-maceta/) y [escarola](/articulos/como-cultivar-escarola-en-maceta/), que comparten época. Mira el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/) y [qué plantar en un balcón con poca luz](/articulos/huerto-urbano-balcon-orientado-norte/).

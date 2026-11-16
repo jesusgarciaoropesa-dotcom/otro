@@ -4,6 +4,7 @@ description: "Guía completa para cultivar un naranjo enano en maceta en un balc
 categoria: "frutales-en-maceta"
 intencion: "informativa"
 keywords: ["naranjo enano en maceta", "cultivar naranjo en balcón", "naranjo enano cuidados"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-07
 faq:
   - pregunta: "¿Qué naranjo es mejor para cultivar en maceta?"
@@ -15,7 +16,7 @@ faq:
 
 ---
 
-El naranjo enano es, junto con el limonero, el frutal más popular para maceta en un balcón. Los cuidados son muy parecidos entre ambos, con algunas diferencias importantes: el naranjo es algo más sensible al frío y sus frutos tardan más en madurar.
+El naranjo enano es, junto con el limonero, el frutal más popular para maceta en un balcón. Los cuidados son muy parecidos entre ambos, con algunas diferencias importantes: el naranjo aguanta algo mejor el frío que el limonero, florece sobre todo en primavera y sus frutos tardan más en madurar.
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-naranjo-enano-maceta.jpg" alt="Naranjo enano con naranjas maduras y flores de azahar en una maceta grande de terracota en una terraza" /><figcaption>Naranjo enano en maceta, con fruta y azahar a la vez</figcaption></figure>
 
@@ -39,7 +40,7 @@ Usa un [sustrato específico para cítricos](/articulos/mejor-sustrato-huerto-ur
 
 ## Luz y ubicación
 
-El naranjo necesita **el máximo sol posible**, idealmente orientación sur. Es algo más sensible al frío que el limonero: protégelo del viento y de temperaturas por debajo de los 5-7°C, unos grados más de margen del que le darías a un limonero.
+El naranjo necesita **el máximo sol posible**, idealmente orientación sur. Aguanta algo mejor el frío que el limonero (que es el cítrico más delicado), pero en maceta sigue siendo sensible a las heladas: a partir de unos grados bajo cero se dañan hojas y brotes, y las raíces de una maceta están menos protegidas que en el suelo. En zonas de interior, de diciembre a febrero acércalo a una pared soleada, aísla la maceta y cúbrelo las noches de helada; lo explicamos con datos en la [guía del limonero](/articulos/como-cultivar-limonero-en-maceta/).
 
 ## Riego
 

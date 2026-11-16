@@ -18,6 +18,12 @@ El mildiu es la enfermedad que más respeto da al cultivador de tomate, y con ra
 
 <figure><img width="1200" height="670" src="/images/articulos/mildiu-tomatera.jpg" alt="Hojas de tomatera con manchas marrones y verdosas de mildiu que las van secando" /><figcaption>Las manchas marrones de aspecto aceitoso delatan el mildiu en la tomatera.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+El tratamiento clásico contra el mildiu es el cobre (caldo bordelés):
+
+<a href="https://www.amazon.es/s?k=caldo+bordeles&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver caldo bordelés en Amazon</a>
+
 ## Cómo reconocer el mildiu
 
 Fíjate en estas señales, que suelen aparecer juntas y avanzar rápido:

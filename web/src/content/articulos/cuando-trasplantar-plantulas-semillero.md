@@ -19,6 +19,12 @@ Trasplantar demasiado pronto o demasiado tarde son dos de los errores más comun
 
 <figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero de alveolos negros con plántulas de tomate y lechuga recién germinadas junto a una ventana con luz natural" /><figcaption>Plántulas de tomate y lechuga germinando en semillero junto a la ventana</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si vas a hacer tu propio semillero, una bandeja de alveolos te facilita mucho el trasplante:
+
+<a href="https://www.amazon.es/s?k=bandeja+semillero+alveolos&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver bandejas de semillero en Amazon</a>
+
 ## Señales de que está lista para trasplantar
 
 - **Aparición del segundo par de hojas verdaderas**: las primeras hojas que salen (cotiledones) no cuentan; espera a que aparezca al menos un par de hojas con la forma característica de la especie.

@@ -44,4 +44,4 @@ Cuando aguanten la jornada completa sin marchitarse, están listas para el **tra
 
 Con las plántulas ya aclimatadas, trasplántalas **al atardecer o en un día nublado**, no al sol del mediodía, para redondear una transición suave. Tienes el detalle en [cuándo trasplantar las plántulas del semillero](/articulos/cuando-trasplantar-plantulas-semillero/) y en [cómo hacer un semillero casero](/articulos/como-hacer-semillero-casero-paso-a-paso/).
 
-Es un paso que casi nadie cuenta y que marca la diferencia entre unas plantas que arrancan fuertes y otras que se quedan a medias. Un poco de paciencia esta semana te ahorra muchos disgustos. Repásalo junto a los [errores comunes al empezar](/articulos/errores-comunes-empezar-huerto-urbano/).
+Es un paso que casi nadie cuenta y que marca la diferencia entre unas plantas que arrancan fuertes y otras que se quedan a medias. Un poco de paciencia esta semana te ahorra muchos disgustos. Repásalo junto a los [errores comunes al empezar](/articulos/como-empezar-huerto-urbano-balcon/#los-errores-que-más-se-repiten).

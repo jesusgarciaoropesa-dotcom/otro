@@ -18,6 +18,12 @@ Las flores comestibles son un tres en uno perfecto para el balcón: **decoran**,
 
 <figure><img width="1200" height="670" src="/images/articulos/jardinera-aromaticas-barandilla.jpg" alt="Jardinera de balcón con aromáticas y flores comestibles junto a la barandilla" /><figcaption>Unas flores comestibles entre las macetas atraen polinizadores y alegran el balcón</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si quieres empezar por la más fácil, aquí tienes semillas de capuchina:
+
+<a href="https://www.amazon.es/s?k=semillas+de+capuchina&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de capuchina en Amazon</a>
+
 ## Aviso importante antes de empezar
 
 Come **solo flores que sepas con certeza que son comestibles**, cultivadas por ti **sin pesticidas**. Muchas plantas ornamentales son tóxicas, así que **nunca comas flores de floristería ni de jardines ajenos**, que suelen llevar tratamientos químicos. Ante la duda, no te la comas.

@@ -13,11 +13,22 @@ faq:
     respuesta: "Una maceta algo grande casi nunca es un problema (retiene más humedad y da margen a la raíz); el error habitual es al revés, quedarse corto. El único riesgo de una maceta enorme con una planta pequeña es que el exceso de sustrato húmedo favorezca el encharcamiento, así que cuida el drenaje y no riegues de más."
   - pregunta: "¿Qué es más importante, la profundidad o los litros?"
     respuesta: "Depende del cultivo. En hortalizas de raíz (zanahoria, remolacha) manda la profundidad; en las de mucha planta y fruto (tomate, calabacín) importa el volumen total de sustrato, porque de ahí sacan agua y nutrientes. La anchura también cuenta: reparte el volumen entre alto y ancho según lo que cultives."
+claves:
+  - "15-20 cm de hondo bastan para lechugas, rabanitos, fresas y aromáticas."
+  - "25-30 cm para zanahoria, remolacha, ajos, cebollas, guisantes y judías."
+  - "Tomate: 30-40 cm y 15-20 litros por planta; calabacín, 20 litros o más; frutales, 40-50 litros."
+  - "Una planta grande por maceta y siempre con agujeros de drenaje."
 ---
 
 Una de las causas más silenciosas de que un huerto de balcón vaya regular es la **maceta pequeña**. La planta se queda enana, produce poco, se seca cada dos por tres y parece que "no hay manera", cuando en realidad solo le falta sitio para las raíces. Aquí tienes, cultivo a cultivo, cuánta maceta necesita cada uno.
 
 <figure><img width="1200" height="670" src="/images/articulos/tamano-maceta-hortalizas.jpg" alt="Macetas ordenadas de menor a mayor en un balcón, de aromáticas pequeñas a una tomatera en maceta grande" /><figcaption>Cada cultivo pide su tamaño de maceta: acertar es media cosecha.</figcaption></figure>
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si te faltan macetas grandes o jardineras, aquí puedes comparar tamaños:
+
+<a href="https://www.amazon.es/s?k=jardinera+huerto+grande&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jardineras en Amazon</a>
 
 ## Por qué el tamaño de la maceta lo cambia todo
 
@@ -81,4 +92,4 @@ Tienes el resumen de opciones realistas en [frutales enanos para maceta y terraz
 - **Maceta sin agujeros de drenaje**: por muy grande que sea, si no drena se encharca y pudre la raíz. Repásalo en [cómo evitar el exceso de riego y los hongos](/articulos/como-evitar-exceso-riego-hongo-macetas/).
 - **Meter varias plantas grandes juntas**: compiten por el agua. Una planta grande, una maceta.
 
-Si vas a comprar, te ayudamos a elegir en [las mejores macetas para el balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) y con [qué tierra poner en cada una](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/). Y si estás empezando de cero, no te pierdas [cómo montar tu huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).
+Si vas a comprar, te ayudamos a elegir en [las mejores macetas para el balcón](/articulos/mejores-macetas-autorregantes-balcon-comparativa/) y con [qué tierra poner en cada una](/articulos/mejor-sustrato-huerto-urbano-maceta/). Y si estás empezando de cero, no te pierdas [cómo montar tu huerto urbano en el balcón paso a paso](/articulos/como-empezar-huerto-urbano-balcon/).

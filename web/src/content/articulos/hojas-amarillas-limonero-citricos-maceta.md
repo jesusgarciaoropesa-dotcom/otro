@@ -5,6 +5,11 @@ categoria: "plagas-y-enfermedades"
 intencion: "informativa"
 keywords: ["hojas amarillas limonero", "limonero maceta hojas amarillas", "clorosis cítricos maceta"]
 pubDate: 2026-07-21
+claves:
+  - "Amarillo con nervios verdes: falta de hierro; quelato de hierro y agua con menos cal."
+  - "Hojas amarillas, blandas y que caen con la tierra siempre húmeda: exceso de riego, la causa nº 1."
+  - "Amarilleo uniforme y lento: faltan nutrientes; abono para cítricos en primavera y verano."
+  - "En invierno, perder alguna hoja por el frío es normal; si hay melaza o motas, busca cochinilla."
 faq:
   - pregunta: "¿Por qué se ponen amarillas las hojas de mi limonero en maceta?"
     respuesta: "Las causas más habituales son el riego incorrecto (por exceso más que por defecto), la falta de hierro o nutrientes (clorosis), el frío del invierno y las plagas como la cochinilla. El patrón del amarilleo ayuda a distinguir cuál es: entre nervios suele ser hierro; hojas blandas y caídas, exceso de agua."
@@ -18,11 +23,15 @@ El limonero es uno de los frutales más queridos en balcón, y también uno de l
 
 <figure><img width="1200" height="670" src="/images/articulos/limonero-hojas-amarillas.jpg" alt="Limonero en maceta con hojas amarillas, algunas con los nervios aún verdes (clorosis)" /><figcaption>El limonero avisa con hojas amarillas: el patrón ayuda a identificar la causa.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Amarilleo entre nervios (nervios verdes): falta de hierro
 
 Es el más típico en cítricos de maceta: la hoja **amarillea pero los nervios se quedan verdes**. Se llama **clorosis férrica** y suele deberse a que el agua muy calcárea bloquea la absorción del hierro.
 
 **Solución**: aporta **quelato de hierro**, riega con agua de menos cal (reposada o de lluvia) y revisa el [sustrato](/articulos/mejor-sustrato-huerto-urbano-maceta/), que para cítricos debe drenar bien.
+
+<a href="https://www.amazon.es/s?k=quelato+de+hierro+plantas&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver quelato de hierro en Amazon</a>
 
 ## Hojas amarillas, blandas y caídas: exceso de riego
 
@@ -35,6 +44,8 @@ Si las hojas amarillean enteras, se ablandan y caen, y la tierra está siempre h
 Si el limonero lleva mucho en el mismo sustrato sin abonar, se queda sin alimento y amarillea de forma general y progresiva.
 
 **Solución**: abona con un **fertilizante específico para cítricos** en primavera y verano. Tienes opciones en [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/).
+
+<a href="https://www.amazon.es/s?k=abono+para+citricos&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver abono para cítricos en Amazon</a>
 
 ## Amarilleo en invierno: frío
 

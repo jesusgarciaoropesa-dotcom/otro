@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿El frío estropea las plantas del balcón?"
     respuesta: "Las de clima cálido (tomate, albahaca, cítricos tiernos) sí sufren y hay que protegerlas o retirarlas; las rústicas de invierno lo toleran e incluso mejoran de sabor con el frío. La clave es elegir cultivos adecuados a la estación."
 
+claves:
+  - "Habas, guisantes, espinacas, acelgas, ajos, cebollas y lechugas de invierno toleran bien el frío."
+  - "Cítricos jóvenes, aromáticas delicadas y cultivos de verano necesitan protección si hiela."
+  - "Sin invernadero: manta térmica por la noche, macetas juntas, pegadas a la pared y elevadas del suelo."
+  - "Riega mucho menos: en invierno el exceso de agua es más peligroso que la falta."
 ---
 
 El invierno no tiene por qué ser un parón total del huerto urbano. Con las especies adecuadas y algunas medidas de protección sencillas, es posible mantener cultivo activo incluso en zonas con heladas moderadas.
@@ -41,9 +46,11 @@ Cítricos jóvenes (como un limonero recién plantado), aromáticas mediterráne
 
 ## Riego en invierno
 
-Las plantas consumen mucha menos agua con el frío y la menor cantidad de horas de luz. Reduce claramente la frecuencia de riego respecto al resto del año; el exceso de riego en invierno es un riesgo mayor que la falta de agua, ya que el sustrato tarda mucho más en secarse con las bajas temperaturas.
+Las plantas consumen mucha menos agua con el frío y la menor cantidad de horas de luz. Reduce claramente la frecuencia de riego respecto al resto del año; el exceso de riego en invierno es un riesgo mayor que la falta de agua, ya que el sustrato tarda mucho más en secarse con las bajas temperaturas. Tienes los detalles en [cuánto regar el huerto en invierno](/articulos/riego-invierno-huerto-macetas-cuanto-regar/).
 
 ## Planificación para la siguiente primavera
+
+Si quieres ir mes a mes, mira [qué plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/) y [qué plantar en diciembre](/articulos/que-plantar-huerto-urbano-diciembre/).
 
 El invierno es también un buen momento para planificar la siembra de primavera: revisa qué semillas necesitarás, cuándo empezar los semilleros de interior, y consulta el [calendario de siembra completo](/articulos/calendario-siembra-completo-mes-a-mes/) para no perder el momento óptimo de siembra cuando llegue marzo.
 

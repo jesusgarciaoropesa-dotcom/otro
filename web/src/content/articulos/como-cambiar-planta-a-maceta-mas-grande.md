@@ -19,6 +19,8 @@ Casi todas nuestras guías de frutales y plantas perennes mencionan "ve trasplan
 
 <figure><img width="1200" height="670" src="/images/articulos/trasplantar-plantula-maceta.jpg" alt="Manos trasplantando una plántula de tomate con su cepellón a una maceta de terracota en un balcón, con la bandeja de semillero al fondo" /><figcaption>El cepellón entero se pasa del alveolo a la maceta sin desmenuzar las raíces</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Señales de que necesita una maceta más grande
 
 - **Raíces saliendo por los agujeros de drenaje**: la señal más clara e inequívoca de que la maceta se ha quedado pequeña.
@@ -47,6 +49,10 @@ A finales de invierno o principios de primavera, antes de que la planta entre en
 3. Si el cepellón está muy compacto y enrollado sobre sí mismo, afloja ligeramente las raíces exteriores con los dedos antes de plantarla en la maceta nueva, para animarlas a crecer hacia fuera en lugar de seguir enrolladas.
 4. Coloca una capa de sustrato fresco en el fondo de la maceta nueva, sitúa la planta centrada y rellena alrededor con sustrato nuevo, presionando ligeramente para eliminar bolsas de aire grandes.
 5. Riega abundantemente justo después, para asentar el sustrato nuevo alrededor de las raíces.
+
+<a href="https://www.amazon.es/s?k=maceta+grande+exterior&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver macetas grandes en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=sustrato+universal+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato universal en Amazon</a>
 
 ## Cuidados en las semanas posteriores
 

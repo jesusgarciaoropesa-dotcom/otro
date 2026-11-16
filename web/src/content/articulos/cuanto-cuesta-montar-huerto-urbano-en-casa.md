@@ -24,7 +24,7 @@ Es la partida más variable. Unas macetas de plástico básicas de 15-20 litros 
 
 ## Sustrato
 
-Un saco de sustrato universal de calidad rinde para varias macetas medianas. Es una de las partidas más baratas del conjunto, aunque tendrás que reponerlo o refrescarlo una vez al año. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-tierra-macetas-hortalizas-guia-compra/) para no acertar a la primera con qué mirar en la etiqueta.
+Un saco de sustrato universal de calidad rinde para varias macetas medianas. Es una de las partidas más baratas del conjunto, aunque tendrás que reponerlo o refrescarlo una vez al año. Consulta nuestra [guía de compra de tierra para macetas de hortalizas](/articulos/mejor-sustrato-huerto-urbano-maceta/) para no acertar a la primera con qué mirar en la etiqueta.
 
 ## Semillas o plantel
 

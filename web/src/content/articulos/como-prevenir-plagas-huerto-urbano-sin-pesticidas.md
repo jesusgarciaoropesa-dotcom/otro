@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Sirven de algo las plantas repelentes y los insectos beneficiosos?"
     respuesta: "Sí: aromáticas como la albahaca o la caléndula ahuyentan ciertas plagas, y atraer mariquitas y otros depredadores mantiene a raya al pulgón. Combinar asociación de cultivos y biodiversidad reduce mucho la necesidad de tratar."
 
+claves:
+  - "Revisa el envés de las hojas y los brotes nuevos una o dos veces por semana."
+  - "Evita el exceso de riego y de nitrógeno: el crecimiento blando atrae al pulgón."
+  - "Deja aire entre macetas y usa aromáticas y caléndula para repeler plagas y atraer mariquitas."
+  - "Pon en cuarentena unos días cualquier planta nueva antes de juntarla con el resto."
 ---
 
 La mejor estrategia contra las plagas en un huerto urbano no es tratarlas cuando ya han aparecido, sino crear condiciones que dificulten su aparición desde el principio. Estos son los hábitos que más reducen el riesgo.

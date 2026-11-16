@@ -52,4 +52,4 @@ Mientras siembras lo nuevo, el balcón aún da de comer:
 
 Con menos calor, **reduce el riego**: la tierra tarda más en secarse y es fácil pasarse. Retira los restos de los cultivos de verano ya agotados y aprovéchalos para el compost.
 
-Para lo que viene con el frío, sigue con [qué sembrar en otoño en la terraza](/articulos/que-sembrar-otono-huerto-terraza/) y consulta el [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/).
+Para lo que viene con el frío, sigue con [qué plantar en noviembre](/articulos/que-plantar-huerto-urbano-noviembre/) y consulta el [calendario de siembra completo mes a mes](/articulos/calendario-siembra-completo-mes-a-mes/).

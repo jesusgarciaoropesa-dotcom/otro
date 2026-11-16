@@ -18,6 +18,12 @@ El repollo es una de las hortalizas reinas del huerto de otoño-invierno: resist
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-repollo-col-maceta.jpg" alt="Repollo formando su cabeza compacta en una maceta de barro en un balcón en otoño" /><figcaption>La col es un cultivo de tiempo fresco que aguanta muy bien las heladas suaves.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Si todavía no tienes semillas, aquí tienes semillas de repollo:
+
+<a href="https://www.amazon.es/s?k=semillas+de+repollo&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver precio en Amazon</a>
+
 ## Cuándo sembrar el repollo
 
 El repollo es de **clima templado-frío** y su mejor cosecha es la de **otoño-invierno**. Se siembra a **finales de verano** en semillero y se trasplanta a **principios de otoño**, para que la cabeza se forme con el fresco. Aguanta bien las heladas suaves; de hecho, el frío le sienta bien.

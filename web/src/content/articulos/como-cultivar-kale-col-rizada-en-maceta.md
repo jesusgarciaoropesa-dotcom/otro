@@ -12,6 +12,11 @@ faq:
     respuesta: "Hoja a hoja, cortando siempre las exteriores (las más grandes y bajas) y dejando el cogollo central creciendo. Así la planta sigue produciendo durante meses en lugar de acabarse en una sola cosecha."
   - pregunta: "¿Necesita mucho sol?"
     respuesta: "Le va bien el sol, pero tolera la semisombra mejor que otras hortalizas, sobre todo en climas cálidos, donde algo de sombra en las horas fuertes del verano le sienta bien."
+claves:
+  - "Maceta de al menos 25-30 cm de profundidad y buen diámetro: la planta se hace grande."
+  - "Es un cultivo de otoño-invierno y primavera; con calor extremo sufre y espiga."
+  - "Corta siempre las hojas exteriores y deja crecer el cogollo: así rebrota durante meses."
+  - "Mejora con el frío, pero vigila la oruga de la col en el envés de las hojas."
 ---
 
 El kale o col rizada se ha puesto de moda por lo saludable que es, pero además es uno de los cultivos más agradecidos para maceta: resistente, productivo durante meses y capaz de aguantar el frío mejor que casi cualquier otra hortaliza.

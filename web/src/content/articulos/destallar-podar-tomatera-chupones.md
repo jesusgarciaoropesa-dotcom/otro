@@ -18,6 +18,14 @@ Si cultivas tomate, seguro que has oído que hay que "quitarle los chupones" o "
 
 <figure><img width="1200" height="670" src="/images/articulos/destallar-tomatera-chupon.jpg" alt="Mano quitando con los dedos un chupón en la axila entre el tallo y una rama de una tomatera en maceta" /><figcaption>El chupón sale en la "V" entre el tallo principal y una rama: se pellizca con los dedos.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para destallar y entutorar bien la tomatera:
+
+<a href="https://www.amazon.es/s?k=tijeras+de+podar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tijeras de podar en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=tutores+para+tomateras&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tutores para tomateras en Amazon</a>
+
 ## Qué es un chupón (y dónde sale)
 
 El chupón es un **brote nuevo que aparece en la axila**: ese ángulo de 45° que forma el **tallo principal con una rama de hojas**. No confundas:

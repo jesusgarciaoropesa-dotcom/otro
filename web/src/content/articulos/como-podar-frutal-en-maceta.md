@@ -13,11 +13,22 @@ faq:
   - pregunta: "¿Es malo podar mucho un frutal de maceta?"
     respuesta: "En maceta conviene podar con cierta firmeza para mantener un tamaño acorde a las raíces limitadas, y suele producir mejor así. Eso sí, usa herramienta limpia y afilada y no elimines de golpe más de un tercio de la copa."
 
+claves:
+  - "Los frutales de hoja caduca se podan en invierno, en reposo; los cítricos, a finales de invierno o inicio de primavera."
+  - "Quita primero las ramas secas o enfermas, luego las que van hacia dentro, chupones y ramas cruzadas."
+  - "En maceta la poda también sirve para mantener un tamaño manejable: no tengas miedo a podar con firmeza."
+  - "Tijeras afiladas y desinfectadas con alcohol, y nunca podar en plena floración o con fruto."
 ---
 
 La poda de un frutal en maceta cumple una función distinta a la de un árbol en tierra: además de dar forma y favorecer la producción, ayuda a mantener un tamaño manejable dentro de las limitaciones de espacio de un balcón.
 
 <figure><img width="1200" height="670" src="/images/articulos/podar-frutal-maceta.jpg" alt="Manos podando con tijeras de podar una rama de un frutal joven en maceta en un balcón" /><figcaption>Poda de mantenimiento en un frutal de maceta</figcaption></figure>
+
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
+Para podar bien hace falta una tijera de podar de calidad y bien afilada:
+
+<a href="https://www.amazon.es/s?k=tijeras+de+podar&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver tijeras de podar en Amazon</a>
 
 ## Cuándo podar
 

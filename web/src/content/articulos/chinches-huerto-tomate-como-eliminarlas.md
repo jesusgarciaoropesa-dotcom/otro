@@ -18,6 +18,8 @@ Encuentras tomates con **manchas pálidas y duras**, brotes deformados o unos **
 
 <figure><img width="1200" height="670" src="/images/articulos/chinche-verde-tomate.jpg" alt="Chinche verde (Nezara viridula) sobre un tomate en la mata en un balcón, con su característico cuerpo en forma de escudo de color verde brillante" /><figcaption>La chinche verde tiene el cuerpo en forma de escudo y pica los frutos para alimentarse.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo reconocer las chinches
 
 - **Insectos con el cuerpo aplanado en forma de escudo**, de tamaño medio-grande y fáciles de ver.
@@ -41,6 +43,10 @@ No confundas estas manchas con la [maduración irregular por calor](/articulos/m
 2. **Jabón potásico** sobre las **ninfas** (las jóvenes son más vulnerables que los adultos), pulverizando bien. Opciones en [mejores productos ecológicos contra plagas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/).
 3. **Malla antiinsectos** si la presión es alta, para proteger las plantas.
 4. **Mantén limpio de malas hierbas** el entorno: son su refugio y desde ahí saltan al huerto.
+
+<a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jabón potásico en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=malla+antiinsectos+huerto&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver malla antiinsectos en Amazon</a>
 
 ## Cómo prevenirlas
 

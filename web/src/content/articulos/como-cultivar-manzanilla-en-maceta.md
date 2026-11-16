@@ -55,7 +55,7 @@ La manzanilla en flor **atrae abejas y mariposas**, así que ayuda a polinizar e
 
 - **Poca floración**: falta de sol; ponla en el sitio más soleado.
 - **Planta lacia y raíz oscura**: exceso de riego; deja secar y mejora el drenaje.
-- **Pulgón en los brotes**: revisa [remedios caseros contra plagas](/articulos/remedios-caseros-contra-plagas-huerto-urbano/).
+- **Pulgón en los brotes**: revisa [remedios caseros contra plagas](/articulos/remedios-caseros-plagas-que-no-funcionan/).
 
 ## Otras aromáticas para infusión
 

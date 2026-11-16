@@ -4,6 +4,7 @@ description: "Guía para cultivar coliflor en maceta en un balcón o terraza: qu
 categoria: "que-plantar"
 intencion: "informativa"
 keywords: ["cultivar coliflor en maceta", "coliflor en balcón", "cómo plantar coliflor maceta"]
+updatedDate: 2026-11-04
 pubDate: 2026-07-21
 faq:
   - pregunta: "¿Se puede cultivar coliflor en maceta?"
@@ -51,6 +52,20 @@ Cuando la pella empiece a formarse, muchos cultivadores **atan las hojas exterio
 
 Corta la pella cuando esté **compacta, firme y bien formada**, antes de que empiece a abrirse o a separarse en ramilletes. Si esperas demasiado, se pasa y pierde calidad. Se cosecha de una vez, cortando el tallo por debajo.
 
+## La coliflor y las heladas del interior
+
+La planta de coliflor aguanta heladas moderadas (alrededor de -3 °C), pero la **pella** (la parte que te comes) es más delicada: con una helada fuerte se vuelve parda o se ablanda. En el interior, donde la cosecha cae justo en los meses de más heladas, esto marca el calendario:
+
+| Mes | Qué hacer |
+|---|---|
+| Julio - agosto | Siembra en semillero, a la sombra |
+| Septiembre - octubre | Trasplante a la maceta definitiva (mínimo 30-40 litros) |
+| Noviembre | Abona y riega con regularidad: es cuando la planta crece más |
+| Diciembre - febrero | Formación y cosecha de la pella. Protégela las noches de helada |
+| Marzo | Últimas cosechas; con el calor tiende a espigarse |
+
+En Toledo hay de media casi 10 días de helada en diciembre y casi 13 en enero (AEMET). Cuando empiece a formarse la pella, dobla un par de hojas grandes por encima: además de blanquearla, la protegen del frío. Las noches de helada fuerte, añade una manta térmica sobre la planta.
+
 ## Problemas más comunes
 
 - **No forma pella**: calor, falta de agua/nutrientes o maceta pequeña.
@@ -60,3 +75,9 @@ Corta la pella cuando esté **compacta, firme y bien formada**, antes de que emp
 ## Otros cultivos de la familia
 
 Si te gusta la coliflor, prueba también con [brócoli en maceta](/articulos/como-cultivar-brocoli-en-maceta/) y [kale](/articulos/como-cultivar-kale-col-rizada-en-maceta/), que comparten época y cuidados. Consulta el [calendario de siembra](/articulos/calendario-siembra-completo-mes-a-mes/) para encajarlos en el año.
+
+
+## Fuentes
+
+- AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
+- South Dakota State University Extension, [tolerancia a las heladas de las hortalizas comunes](https://extension.sdstate.edu/fall-frost-tolerance-common-vegetables).

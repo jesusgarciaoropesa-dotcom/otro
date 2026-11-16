@@ -18,6 +18,8 @@ Un día tus hojas de calabacín o pepino amanecen como espolvoreadas de harina. 
 
 <figure><img width="1200" height="670" src="/images/articulos/oidio-manchas-blancas-hoja.jpg" alt="Hoja con manchas blancas de oídio, el polvo blanco característico del hongo" /><figcaption>El oídio se reconoce enseguida: un polvo blanco que cubre la superficie de la hoja</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cómo identificarlo
 
 El oídio se distingue muy bien de otros problemas:
@@ -39,6 +41,10 @@ Le favorecen tres cosas: **humedad ambiental alta**, **poca ventilación** entre
 2. **Bicarbonato de sodio**: disuelve una cucharadita en un litro de agua con unas gotas de jabón neutro y pulveriza las hojas (incluido el envés) cada 3-4 días. Cambia el pH de la superficie y el hongo no prospera.
 3. **Leche diluida**: mezcla 1 parte de leche por 2-3 de agua y pulveriza. Es un remedio clásico y sorprendentemente eficaz al sol.
 4. Si la cosa va a más, recurre a un **producto ecológico** específico; tienes opciones en [mejores productos ecológicos contra plagas](/articulos/mejores-productos-ecologicos-contra-plagas-huerto/).
+
+<a href="https://www.amazon.es/s?k=pulverizador+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver pulverizadores en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=fungicida+ecologico+oidio&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver fungicida ecológico contra el oídio en Amazon</a>
 
 Aplica siempre a primera hora o al atardecer, nunca con sol fuerte sobre las hojas mojadas.
 

@@ -43,7 +43,7 @@ Combina plantas que florezcan en distintas épocas para que **siempre haya algo 
 Un plato con agua y unas piedras o corchos donde posarse da de beber a las abejas sin que se ahoguen. Un detalle que agradecen mucho en verano.
 
 ### 4. Evita los pesticidas
-Los insecticidas matan también a los polinizadores. Apuesta por el control [sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/) y por [remedios caseros](/articulos/remedios-caseros-contra-plagas-huerto-urbano/) selectivos.
+Los insecticidas matan también a los polinizadores. Apuesta por el control [sin pesticidas](/articulos/como-prevenir-plagas-huerto-urbano-sin-pesticidas/) y por [remedios caseros](/articulos/remedios-caseros-plagas-que-no-funcionan/) selectivos.
 
 ## El plan B: polinizar a mano
 
