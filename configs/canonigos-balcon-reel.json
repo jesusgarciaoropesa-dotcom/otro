@@ -1,61 +1,60 @@
 {
- "slug": "canonigos-balcon",
- "marca": "MiHuertoUrbano.xyz",
- "articulo": "/articulos/como-cultivar-canonigos-en-maceta/",
- "slides": [
-  {
-   "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
-   "kicker": "ESTA SEMANA EN EL BALCÓN",
-   "titulo": "Ensalada todo el invierno con una maceta de 15 cm",
-   "destacado": "todo el invierno",
-   "subtitulo": "Con canónigos. Y ojo al error de luego.",
-   "pildora": "Desliza 👉"
-  },
-  {
-   "foto": "/images/articulos/semillas-no-germinan-semillero.jpg",
-   "kicker": "Qué sembrar",
-   "titulo": "¿Por qué justo ahora?",
-   "subtitulo": "Con calor espigan; con el fresco de ahora van de maravilla.",
-   "pildora": "Sigue 👉"
-  },
-  {
-   "foto": "/images/articulos/lechugas-baby-alfeizar-cocina.jpg",
-   "kicker": "Cómo",
-   "titulo": "Siembra directa y juntos",
-   "subtitulo": "Muy poca tierra encima y húmedo hasta que germinen. Ahora, el truco.",
-   "pildora": "Sigue 👉"
-  },
-  {
-   "foto": "/images/articulos/ajos-brotados-jardinera.jpg",
-   "kicker": "El truco",
-   "titulo": "Poco y a menudo",
-   "subtitulo": "Un puñado cada 2-3 semanas. Y lo más importante es el riego…",
-   "pildora": "Sigue 👉",
-   "texto": "arriba",
-   "posicion": "35% center"
-  },
-  {
-   "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
-   "kicker": "El error",
-   "titulo": "Regar de más",
-   "subtitulo": "Con frío la tierra tarda en secarse: no te pases. ¿Y cuándo cosechas?",
-   "pildora": "Sigue 👉"
-  },
-  {
-   "foto": "/images/articulos/canonigos-maceta.jpg",
-   "kicker": "Qué cosechar",
-   "titulo": "Rosetas en 8-12 semanas",
-   "subtitulo": "Córtalas enteras o ve quitando las hojas de fuera.",
-   "pildora": "Sigue 👉"
-  },
-  {
-   "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
-   "kicker": "GUÁRDATELO",
-   "titulo": "¿Qué has sembrado ya?",
-   "destacado": "sembrado",
-   "subtitulo": "Para este invierno: variedades, buenos vecinos y problemas, en la guía.",
-   "pildora": "Guarda esto 🌱"
-  }
- ],
- "duracion_slide": 8.6
+  "slug": "canonigos-balcon",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/como-cultivar-canonigos-en-maceta/",
+  "slides": [
+    {
+      "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
+      "titulo": "Ensalada de canónigos todo el invierno",
+      "destacado": "canónigos",
+      "subtitulo": "Con una maceta de 15 cm. Y ojo al error de luego.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/semillas-no-germinan-semillero.jpg",
+      "kicker": "Qué sembrar",
+      "titulo": "¿Por qué justo ahora?",
+      "subtitulo": "Con calor espigan; con el fresco de ahora van de maravilla.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/lechugas-baby-alfeizar-cocina.jpg",
+      "kicker": "Cómo",
+      "titulo": "Siembra directa y juntos",
+      "subtitulo": "Muy poca tierra encima y húmedo hasta que germinen. Ahora, el truco.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/ajos-brotados-jardinera.jpg",
+      "kicker": "El truco",
+      "titulo": "Poco y a menudo",
+      "subtitulo": "Un puñado cada 2-3 semanas. Y lo más importante es el riego…",
+      "pildora": "Sigue 👉",
+      "texto": "arriba",
+      "posicion": "35% center"
+    },
+    {
+      "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
+      "kicker": "El error",
+      "titulo": "Regar de más",
+      "subtitulo": "Con frío la tierra tarda en secarse: no te pases. ¿Y cuándo cosechas?",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/canonigos-maceta.jpg",
+      "kicker": "Qué cosechar",
+      "titulo": "Rosetas en 8-12 semanas",
+      "subtitulo": "Córtalas enteras o ve quitando las hojas de fuera.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "¿Qué has sembrado ya?",
+      "destacado": "sembrado",
+      "subtitulo": "Para este invierno: variedades, buenos vecinos y problemas, en la guía.",
+      "pildora": "Guarda esto 🌱"
+    }
+  ],
+  "duracion_slide": 8.0
 }
