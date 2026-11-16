@@ -8,50 +8,57 @@
       "titulo": "Ensalada de canónigos todo el invierno",
       "destacado": "canónigos",
       "subtitulo": "Con una sola maceta de 15 cm.",
-      "pildora": "Desliza 👉"
-    },
-    {
-      "foto": "/images/articulos/semillas-no-germinan-semillero.jpg",
-      "kicker": "Qué sembrar",
-      "titulo": "¿Por qué sembrarlos justo ahora?",
-      "subtitulo": "Con calor germinan mal y espigan; con el fresco de ahora van de maravilla. Y sembrarlos es más fácil de lo que crees…",
-      "pildora": "Sigue 👉"
-    },
-    {
-      "foto": "/images/articulos/lechugas-baby-alfeizar-cocina.jpg",
-      "kicker": "Cómo",
-      "titulo": "Sin semillero ni trasplantes",
-      "subtitulo": "Siembra directa, a voleo o en líneas, con muy poca tierra encima. El truco para no quedarte nunca sin hojas viene ahora.",
-      "pildora": "Sigue 👉"
-    },
-    {
-      "foto": "/images/articulos/cultivo-lechuga-maceta.jpg",
-      "kicker": "El truco",
-      "titulo": "Un puñado cada 2-3 semanas",
-      "subtitulo": "Y nunca te quedas sin hojas. Ojo con el error de la siguiente…",
-      "pildora": "Sigue 👉"
-    },
-    {
-      "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
-      "kicker": "El error",
-      "titulo": "Regar de más",
-      "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila para evitar hongos. Si lo evitas, mira lo que te espera…",
-      "pildora": "Sigue 👉"
+      "pildora": "Desliza 👉",
+      "posicion": "50% center"
     },
     {
       "foto": "/images/articulos/canonigos-maceta.jpg",
-      "kicker": "La recompensa",
-      "titulo": "Rosetas en 8-12 semanas",
-      "subtitulo": "Córtalas enteras a ras de tierra o ve quitando las hojas de fuera. ¿Y con qué plantas combinarlos?",
-      "pildora": "Sigue 👉"
+      "kicker": "Qué sembrar",
+      "titulo": "¿Por qué sembrarlos justo ahora?",
+      "subtitulo": "Con calor germinan mal y espigan; con el fresco de ahora van de maravilla. Y sembrarlos es más fácil de lo que crees…",
+      "pildora": "Sigue 👉",
+      "posicion": "22% center"
+    },
+    {
+      "foto": "/images/articulos/canonigos-maceta.jpg",
+      "kicker": "Cómo",
+      "titulo": "Sin semillero ni trasplantes",
+      "subtitulo": "Siembra directa, a voleo o en líneas, con muy poca tierra encima. El truco para no quedarte nunca sin hojas viene ahora.",
+      "pildora": "Sigue 👉",
+      "posicion": "72% center"
     },
     {
       "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
+      "kicker": "El truco",
+      "titulo": "Un puñado cada 2-3 semanas",
+      "subtitulo": "Y nunca te quedas sin hojas. Ojo con el error de la siguiente…",
+      "pildora": "Sigue 👉",
+      "posicion": "28% center"
+    },
+    {
+      "foto": "/images/articulos/canonigos-maceta.jpg",
+      "kicker": "El error",
+      "titulo": "Regar de más",
+      "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila para evitar hongos. Si lo evitas, mira lo que te espera…",
+      "pildora": "Sigue 👉",
+      "posicion": "50% center"
+    },
+    {
+      "foto": "/images/articulos/canonigos-jardinera-terraza.jpg",
+      "kicker": "La recompensa",
+      "titulo": "Rosetas en 8-12 semanas",
+      "subtitulo": "Córtalas enteras a ras de tierra o ve quitando las hojas de fuera. ¿Y con qué plantas combinarlos?",
+      "pildora": "Sigue 👉",
+      "posicion": "40% center"
+    },
+    {
+      "foto": "/images/articulos/canonigos-maceta.jpg",
       "kicker": "GUÁRDATELO",
       "titulo": "¿Te animas con ellos?",
       "destacado": "animas",
       "subtitulo": "En la guía tienes qué variedades elegir, con qué plantas combinarlos y cómo resolver sus problemas.",
-      "pildora": "Guarda esto 🌱"
+      "pildora": "Guarda esto 🌱",
+      "posicion": "38% center"
     }
   ],
   "ritmo": "rapido",
