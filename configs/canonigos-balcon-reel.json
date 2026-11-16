@@ -8,7 +8,7 @@
    "kicker": "ESTA SEMANA EN EL BALCÓN",
    "titulo": "Ensalada todo el invierno con una maceta de 15 cm",
    "destacado": "todo el invierno",
-   "subtitulo": "Con canónigos. Y quédate, que luego viene el error que más los estropea.",
+   "subtitulo": "Con canónigos. Y ojo al error de luego.",
    "pildora": "Desliza 👉"
   },
   {
@@ -38,7 +38,7 @@
    "foto": "/images/articulos/exceso-riego-hongo-maceta.jpg",
    "kicker": "El error",
    "titulo": "Regar de más",
-   "subtitulo": "Con frío la tierra tarda en secarse: no te pases y ventila. ¿Y cuándo cosechas?",
+   "subtitulo": "Con frío la tierra tarda en secarse: no te pases. ¿Y cuándo cosechas?",
    "pildora": "Sigue 👉"
   },
   {
@@ -57,5 +57,5 @@
    "pildora": "Guarda esto 🌱"
   }
  ],
- "duracion_slide": 8.4
+ "duracion_slide": 8.6
 }
