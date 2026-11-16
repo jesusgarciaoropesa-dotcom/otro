@@ -553,7 +553,7 @@ def superponer_marca(ffmpeg: str, video: Path, marca_png: Path, out: Path, fps: 
     subprocess.run(cmd, check=True, capture_output=True)
 
 
-def combinar(ffmpeg: str, clips: list, out: Path, dur: float, fps: int,
+def combinar(ffmpeg: str, clips: list, out: Path, dur, fps: int,
              transicion: str, tdur: float):
     """Une los clips con transiciones xfade (deslizado/fundido) en vez de cortes."""
     if len(clips) == 1:
@@ -564,7 +564,8 @@ def combinar(ffmpeg: str, clips: list, out: Path, dur: float, fps: int,
         inputs += ["-i", str(c)]
     filt = ""
     prev = "[0:v]"
-    off = dur - tdur
+    durs = dur if isinstance(dur, (list, tuple)) else [dur] * len(clips)
+    off = durs[0] - tdur
     for i in range(1, len(clips)):
         etq = "[v]" if i == len(clips) - 1 else f"[x{i}]"
         filt += (
@@ -572,7 +573,7 @@ def combinar(ffmpeg: str, clips: list, out: Path, dur: float, fps: int,
             f"offset={off:.3f}{etq};"
         )
         prev = etq
-        off += dur - tdur
+        off += durs[i] - tdur
     filt = filt.rstrip(";")
     cmd = [
         ffmpeg, "-y", *inputs, "-filter_complex", filt, "-map", "[v]",
@@ -603,6 +604,12 @@ def main():
     tipo = cfg.get("tipo", "reel")
     dur = float(cfg.get("duracion_slide", 3.4))
     slides = cfg.get("slides", [])
+    # Ritmo: "duraciones" (una por lámina, la mide voz_reel.py) y "trans_dur" en la config
+    durs = cfg.get("duraciones")
+    if not (isinstance(durs, list) and len(durs) == len(slides)):
+        durs = [dur] * len(slides)
+    if "trans_dur" in cfg:
+        args.trans_dur = float(cfg["trans_dur"])
 
     chrome = find_chrome()
 
@@ -695,7 +702,7 @@ def main():
             render_png(chrome, html_texto(slide, marca, logo_uri), fg_png, tmp, transparente=True)
             clip = tmp / f"slide_{i:02d}.mp4"
             direccion = "in" if i % 2 == 0 else "out"
-            clip_slide(ffmpeg, bg_png, fg_png, clip, dur, args.fps, args.zoom,
+            clip_slide(ffmpeg, bg_png, fg_png, clip, durs[i], args.fps, args.zoom,
                        direccion, primero=(i == 0))
             clips.append(clip)
             print(f"  ✓ diapositiva {i+1}/{len(slides)}")
@@ -703,12 +710,12 @@ def main():
         # Unir diapositivas y, por último, superponer la capa fija de marca
         # (nombre + logo) una sola vez, para que no se dupliquen ni se muevan.
         sin_marca = tmp / "sin_marca.mp4"
-        combinar(ffmpeg, clips, sin_marca, dur, args.fps, args.transicion, args.trans_dur)
+        combinar(ffmpeg, clips, sin_marca, durs, args.fps, args.transicion, args.trans_dur)
         marca_png = tmp / "marca.png"
         render_png(chrome, html_marca(marca, logo_uri), marca_png, tmp, transparente=True)
         superponer_marca(ffmpeg, sin_marca, marca_png, final, args.fps)
 
-    dur_total = dur * len(slides) - args.trans_dur * (len(slides) - 1)
+    dur_total = sum(durs) - args.trans_dur * (len(slides) - 1)
     print(f"\n✅ Reel generado: {final}")
     print(f"   {W}x{H} · {dur_total:.1f}s · {len(slides)} diapositivas · {args.fps} fps")
 
