@@ -18,6 +18,8 @@ En un huerto sano, buena parte del control de plagas **no lo haces tú: lo hacen
 
 <figure><img width="1200" height="670" src="/images/articulos/insectos-beneficiosos-mariquita.jpg" alt="Mariquita sobre una hoja comiéndose una colonia de pulgones en una planta de huerto de balcón" /><figcaption>Una mariquita puede comer decenas de pulgones al día: es control de plagas gratis.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Tus mejores aliados
 
 - 🐞 **Mariquitas**: la más conocida. Tanto el adulto como su larva (parece un pequeño cocodrilo naranja y negro) **devoran pulgón y cochinilla** a decenas por día.
@@ -31,6 +33,8 @@ En un huerto sano, buena parte del control de plagas **no lo haces tú: lo hacen
 2. **Deja biodiversidad**: un balcón con variedad de plantas atrae más fauna útil que un monocultivo.
 3. **No elimines el pulgón del todo de golpe**: suena raro, pero si dejas un poco, los depredadores tienen comida y se quedan. Si lo eliminas al 100%, se van.
 4. **Pon agua**: un platito con agua y unas piedras les da de beber sin que se ahoguen.
+
+<a href="https://www.amazon.es/s?k=semillas+calendula&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de caléndula en Amazon</a>
 
 ## El error que espanta a tus aliados
 

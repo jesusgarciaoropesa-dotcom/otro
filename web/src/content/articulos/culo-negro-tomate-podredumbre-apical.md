@@ -21,6 +21,8 @@ Ves un tomate o un pimiento que promete y, al girarlo, te encuentras una mancha 
 
 <figure><img width="1200" height="670" src="/images/articulos/culo-negro-tomate.jpg" alt="Tomate en la mata con una mancha marrón oscura, seca y hundida en la base, síntoma del culo negro (podredumbre apical)" /><figcaption>El culo negro se reconoce por la mancha seca y hundida en la base del tomate.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué es exactamente (y qué no es)
 
 El culo negro, o **podredumbre apical**, es un **problema fisiológico**, no una enfermedad contagiosa. Aparece como una mancha marrón oscura, seca y hundida en la parte inferior del fruto (la opuesta al tallo). La causa de fondo es que **el calcio no llega bien al fruto** mientras engorda. Por eso no sirve de nada fumigar con fungicidas: el problema no está en un patógeno, sino en la nutrición y el agua de la planta.
@@ -60,6 +62,10 @@ Es muy habitual oír que se cura **fumigando con leche mezclada con agua** o ent
 2. **Pon un acolchado** sobre la tierra (paja, fibra de coco, hierba seca): conserva la humedad y suaviza los cambios.
 3. **No te pases con el nitrógeno.** Un exceso de abono nitrogenado dispara el crecimiento y agrava el problema. Usa un [fertilizante equilibrado](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) pensado para fructificación.
 4. **Retira los frutos ya afectados** para que la planta concentre su energía en los sanos.
+
+<a href="https://www.amazon.es/s?k=kit+riego+goteo+macetas&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver kits de riego por goteo para macetas en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=fibra+de+coco+acolchado&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver fibra de coco para acolchar en Amazon</a>
 
 ## Otros factores que ayudan
 

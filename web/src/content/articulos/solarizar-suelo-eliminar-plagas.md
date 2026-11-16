@@ -18,6 +18,8 @@ Si en una zona de tu huerto has tenido plagas o enfermedades y quieres **volver 
 
 <figure><img width="1200" height="670" src="/images/articulos/solarizar-suelo-plastico.jpg" alt="Bancal de huerto cubierto con un plástico transparente tensado sobre la tierra para solarizar al sol" /><figcaption>Un plástico transparente sobre la tierra húmeda concentra el calor del sol y desinfecta el suelo.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué es y para qué sirve
 
 La **solarización** aprovecha el calor del sol de verano: al cubrir la tierra húmeda con un **plástico transparente**, se genera un efecto invernadero que sube mucho la temperatura del suelo durante semanas. Ese calor sostenido reduce:
@@ -36,6 +38,8 @@ Es especialmente útil **al final de un cultivo** que ha tenido problemas, antes
 3. **Cubre con plástico transparente** (no negro) bien pegado a la tierra y **sujeta los bordes** con tierra o piedras para que no entre aire.
 4. **Déjalo 4-6 semanas** en pleno verano, cuanto más sol, mejor.
 5. **Retira el plástico** y **refresca la tierra con compost** antes de sembrar, porque el calor también reduce la vida útil del suelo. Lo vemos en [regenerar el sustrato agotado](/articulos/reutilizar-tierra-macetas-regenerar-sustrato/).
+
+<a href="https://www.amazon.es/s?k=plastico+transparente+solarizacion&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver plástico transparente para solarizar en Amazon</a>
 
 ## Y en macetas o balcón, ¿cómo?
 

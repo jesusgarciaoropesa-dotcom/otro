@@ -18,6 +18,8 @@ Guardar tus propias semillas cierra el círculo del huerto: es gratis, te indepe
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-tomate-cherry-maceta.jpg" alt="Tomatera cherry madura en maceta, de la que se pueden recolectar semillas para la próxima temporada" /><figcaption>De un tomate bien maduro salen decenas de semillas para el año siguiente</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Empieza por lo fácil
 
 No todas las plantas son igual de sencillas. Para empezar, elige las que **se autopolinizan y no se cruzan** con facilidad:
@@ -55,6 +57,10 @@ La clave para que duren es **secar bien y guardar en frío y seco**:
 1. Seca las semillas **a la sombra**, extendidas, hasta que estén totalmente secas (varios días).
 2. Guárdalas en **sobres de papel** o botes, etiquetados con nombre y año.
 3. Consérvalos en un lugar **fresco, seco y oscuro** (un cajón, una lata). El bote con un poco de arroz o gel de sílice ayuda a mantenerlas secas.
+
+<a href="https://www.amazon.es/s?k=sobres+papel+semillas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sobres de papel para semillas en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=gel+de+silice+bolsitas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver bolsitas de gel de sílice en Amazon</a>
 
 Bien conservadas, muchas duran de 2 a 5 años. Antes de la siguiente siembra, comprueba que siguen vivas con un [test de germinación](/articulos/test-germinacion-semillas-viejas/).
 
