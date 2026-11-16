@@ -26,6 +26,10 @@ MODELO = AQUI / "voces" / "es_ES-davefx-medium.onnx"
 MARGEN_ANTES = 0.45   # la voz entra cuando el texto ya está en pantalla
 MARGEN_DESPUES = 0.5  # respiro antes de la siguiente lámina
 MIN_DUR = 5.5
+# Ritmo "rapido" (config "ritmo": "rapido"): pausas más cortas, voz un poco más ágil y
+# cada lámina dura lo que su voz (config "duraciones"), sin esperar a la lámina más larga.
+RITMO = {"pausas": 1.0, "tempo": 1.0}
+MIN_LAMINA = 2.8
 
 EMOJI = re.compile("[\U0001F000-\U0001FAFF☀-➿️‍👉🌱]")
 
@@ -44,7 +48,7 @@ def trozos_lamina(s: dict):
     out = []
     tit, sub = limpiar(s.get("titulo", "")), limpiar(s.get("subtitulo", ""))
     if tit:
-        out.append((tit.rstrip(".") + ".", PAUSA_TITULO if sub else 0))
+        out.append((tit.rstrip(".") + ".", (PAUSA_TITULO if sub else 0) * RITMO["pausas"]))
     if sub:
         partes = re.split(r"([,;:.])\s+", sub)
         for i in range(0, len(partes), 2):
@@ -52,7 +56,7 @@ def trozos_lamina(s: dict):
             sep = partes[i + 1] if i + 1 < len(partes) else ""
             if not txt:
                 continue
-            pausa = PAUSA_COMA if sep == "," else (PAUSA_PUNTO if sep else 0)
+            pausa = (PAUSA_COMA if sep == "," else (PAUSA_PUNTO if sep else 0)) * RITMO["pausas"]
             # La coma se mantiene al final del trozo para que la entonación quede "abierta"
             out.append((txt.rstrip(".") + (sep if sep and sep in ",;:" else "."), pausa))
     return out
@@ -149,6 +153,10 @@ def main():
     cfg = json.loads(Path(a.config).read_text(encoding="utf-8"))
     slides = cfg.get("slides") or cfg.get("diapositivas")
     dur = float(cfg.get("duracion_slide", 3.4))
+    rapido = cfg.get("ritmo") == "rapido"
+    if rapido:
+        RITMO.update(pausas=0.55, tempo=1.08)
+    tdur = float(cfg.get("trans_dur", a.trans_dur))
     if a.accion == "pedido":
         sys.path.insert(0, str(Path(__file__).resolve().parent))
         import voz_gemini as G
@@ -176,19 +184,37 @@ def main():
             if not w.exists():
                 with wave.open(str(w), "wb") as f:
                     f.setnchannels(1); f.setsampwidth(2); f.setframerate(24000); f.writeframes(b"\x00\x00" * 2400)
-        necesaria = round(max(MIN_DUR, max(largos) + MARGEN_ANTES + MARGEN_DESPUES + a.trans_dur), 1)
+        largos = [x / RITMO["tempo"] for x in largos]
+        necesaria = round(max(MIN_DUR, max(largos) + MARGEN_ANTES + MARGEN_DESPUES + tdur), 1)
+        if rapido:
+            # cada lámina, lo justo para su voz: entra, se dice y pasa (margen corto)
+            durs = [round(max(MIN_LAMINA, x + 0.25 + 0.2 + tdur), 2) for x in largos]
         if a.accion == "medir":
-            print(json.dumps({"duracion_slide": necesaria, "voz_por_lamina": [round(x, 2) for x in largos], "motor": MOTOR}))
+            sal = {"duracion_slide": necesaria, "voz_por_lamina": [round(x, 2) for x in largos], "motor": MOTOR}
+            if rapido:
+                sal["duraciones"] = durs
+            print(json.dumps(sal))
             return
-        if dur + 1e-6 < necesaria:
+        if rapido:
+            cd = cfg.get("duraciones")
+            if not cd or len(cd) != len(slides) or any(c + 1e-6 < d for c, d in zip(cd, durs)):
+                sys.exit(f"ERROR: pon \"duraciones\": {json.dumps(durs)} en {a.config}, regenera el reel y vuelve a mezclar.")
+        elif dur + 1e-6 < necesaria:
             sys.exit(f"ERROR: el reel usa {dur}s por lámina y la voz necesita {necesaria}s. "
                      f"Pon \"duracion_slide\": {necesaria} en {a.config}, regenera el reel y vuelve a mezclar.")
-        paso = dur - a.trans_dur
+        if rapido:
+            cd = cfg["duraciones"]
+            inicios = [sum(cd[j] - tdur for j in range(i)) for i in range(len(slides))]
+            antes = 0.25
+        else:
+            inicios = [i * (dur - tdur) for i in range(len(slides))]
+            antes = MARGEN_ANTES
         entradas, filtros = [], []
+        tempo = f"atempo={RITMO['tempo']}," if RITMO["tempo"] != 1.0 else ""
         for i, w in enumerate(wavs):
             entradas += ["-i", str(w)]
-            ms = int((i * paso + MARGEN_ANTES) * 1000)
-            filtros.append(f"[{i+1}:a]adelay={ms}|{ms}[a{i}]")
+            ms = int((inicios[i] + antes) * 1000)
+            filtros.append(f"[{i+1}:a]{tempo}adelay={ms}|{ms}[a{i}]")
         mezcla = "".join(f"[a{i}]" for i in range(len(wavs)))
         filtros.append(f"{mezcla}amix=inputs={len(wavs)}:normalize=0,loudnorm=I=-16:TP=-1.5,apad[voz]")
         cmd = [ffmpeg(), "-y", "-loglevel", "error", "-i", a.reel, *entradas,
