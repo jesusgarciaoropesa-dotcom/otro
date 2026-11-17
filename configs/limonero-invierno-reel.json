@@ -33,7 +33,7 @@
    "pildora": "Sigue 👉"
   },
   {
-   "foto": "/images/articulos/gomosis-citrico-tronco.jpg",
+   "foto": "/images/articulos/limonero-hojas-caidas-encharcado.jpg",
    "kicker": "Señal de alarma",
    "titulo": "Si suelta la hoja de golpe",
    "subtitulo": "Casi siempre es la raíz por exceso de agua: corrige riego y drenaje.",
@@ -55,5 +55,15 @@
    "pildora": "Guarda esto 🌱"
   }
  ],
- "duracion_slide": 8.7
+ "duracion_slide": 8.7,
+ "ritmo": "rapido",
+ "duraciones": [
+  7.05,
+  6.4,
+  5.92,
+  7.58,
+  7.51,
+  6.95,
+  6.9
+ ]
 }
