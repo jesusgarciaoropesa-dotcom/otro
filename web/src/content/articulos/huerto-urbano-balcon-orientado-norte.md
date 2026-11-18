@@ -26,6 +26,8 @@ Un balcón orientado al norte, o uno que queda a la sombra de edificios vecinos,
 
 <figure><img width="1200" height="654" src="/images/articulos/balcon-sombra-cultivos-hoja.jpg" alt="Balcón con luz difusa de sombra lleno de macetas y jardineras de lechugas, espinacas y aromáticas de hoja verde, con un jardín vertical en la pared" /><figcaption>Con luz de sombra, los cultivos de hoja (lechugas, espinacas, aromáticas) son los que mejor rinden</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Cuánta luz recibe realmente un balcón norte
 
 En el hemisferio norte, una orientación norte apenas recibe sol directo salvo quizás algunos minutos a primera o última hora en pleno verano. La mayor parte del tiempo, la luz disponible es indirecta y de intensidad moderada-baja. Si no lo tienes claro, mide tu caso con [cómo saber cuántas horas de sol tiene tu balcón](/articulos/cuantas-horas-sol-tiene-tu-balcon/).
@@ -54,6 +56,8 @@ Tomates, pimientos, berenjenas, calabacines y la mayoría de frutales necesitan 
 - Si tienes zonas con distinta exposición en el mismo balcón, reserva la más soleada para lo que más luz pida y deja la de sombra para hojas verdes y aromáticas tolerantes.
 - Fíjate en si la sombra es de un edificio vecino que cambia con la estación: algunos balcones reciben más sol en verano (con el sol más alto) que en invierno.
 - Considera una [luz de cultivo LED](/articulos/mejores-luces-led-cultivo-interior/) complementaria si quieres ampliar las opciones más allá de las tolerantes a sombra.
+
+<a href="https://www.amazon.es/s?k=lampara+led+cultivo+con+temporizador&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver lámparas LED de cultivo en Amazon</a>
 
 ## Ajusta también el riego
 

@@ -12,6 +12,11 @@ faq:
     respuesta: "Con el aporcado: se planta el puerro en un hoyo profundo y, a medida que crece, se va añadiendo sustrato alrededor del tallo. Al quedar esa parte tapada y sin luz, se mantiene blanca, tierna y alargada, que es la parte más apreciada."
   - pregunta: "¿Cuánto tarda en crecer un puerro?"
     respuesta: "Es un cultivo lento: entre 4 y 6 meses desde la siembra hasta la cosecha, según la variedad. A cambio, aguanta muy bien en la maceta y resiste el frío, así que puedes ir cosechándolos a demanda durante el invierno."
+claves:
+  - "Necesita una maceta o jardinera honda, de al menos 25-30 cm de profundidad."
+  - "Se siembra en semillero de febrero a abril y se trasplanta cuando la plántula tiene el grosor de un lápiz."
+  - "Ve aporcando (tapando el tallo con sustrato) para conseguir un fuste largo, blanco y tierno."
+  - "Cosecha a partir de los 4-6 meses, con 2-3 cm de grosor: aguanta el frío en la maceta sin prisa."
 ---
 
 El puerro es un cultivo tranquilo y agradecido: ocupa poco de ancho, resiste el frío y aguanta en la maceta hasta que lo necesitas. Requiere paciencia (es lento), pero el truco del aporcado para conseguir ese fuste blanco y tierno merece mucho la pena.

@@ -12,6 +12,11 @@ faq:
     respuesta: "No. Tras cortar la pella central, la planta suele emitir rebrotes laterales más pequeños durante semanas. Si la dejas y sigues cosechando esos brotes, alargas mucho la producción de una sola planta."
   - pregunta: "¿Cuándo se siembra el brócoli?"
     respuesta: "Es un cultivo de clima fresco: se siembra sobre todo a finales de verano para cosechar en otoño-invierno, o a finales de invierno. Con calor fuerte espiga (florece) antes de formar bien la pella."
+claves:
+  - "Una sola planta por maceta de al menos 25-30 cm de profundidad."
+  - "Es de clima fresco: siémbralo a finales de verano (o de invierno); con calor espiga antes de formar la pella."
+  - "Riego constante y abono orgánico cada pocas semanas: es un cultivo exigente."
+  - "Corta la pella antes de que se abran las flores y no arranques la planta: seguirá dando rebrotes."
 ---
 
 El brócoli es un cultivo de otoño-invierno muy agradecido en maceta si le das espacio: además de la clásica pella central, sigue dando rebrotes durante semanas, así que una sola planta cunde bastante.

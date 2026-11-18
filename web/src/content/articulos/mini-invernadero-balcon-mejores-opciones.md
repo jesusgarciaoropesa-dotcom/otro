@@ -13,6 +13,11 @@ faq:
     respuesta: "Uno de estantería con cubierta de PVC y cremallera: alberga varias macetas completas, no solo semilleros, y permite acceder a las plantas abriendo la cubierta."
   - pregunta: "¿Puede un mini invernadero dañar las plantas?"
     respuesta: "Sí, por exceso de calor y humedad: cerrado en un día soleado alcanza temperaturas muy altas incluso en invierno. Ventila abriendo la cubierta en las horas centrales de los días de sol para evitar hongos."
+claves:
+  - "Para adelantar semilleros basta uno de sobremesa; para varias macetas, uno de estantería con PVC."
+  - "Para proteger una o dos plantas concretas, mejor fundas o campanas individuales."
+  - "No calienta de noche: gana unos pocos grados, suficiente para heladas ligeras; si el frío es fuerte, añade manta térmica."
+  - "Ábrelo en las horas centrales de los días soleados para evitar exceso de calor, humedad y hongos."
 ---
 
 Un mini invernadero de balcón permite adelantar la siembra de primavera y proteger plantas sensibles durante los meses más fríos, sin necesitar el espacio de un invernadero de jardín tradicional.

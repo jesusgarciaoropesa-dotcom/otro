@@ -16,6 +16,11 @@ faq:
     respuesta: "Entre 8 y 12 semanas desde la siembra, según el frío: en pleno invierno crecen despacio, pero aguantan perfectamente en la jardinera hasta que los necesites. Sembrando un puñado de semillas cada 2-3 semanas tienes cosecha escalonada durante todo el invierno."
   - pregunta: "¿Aguantan las heladas los canónigos?"
     respuesta: "Sí, son de las hojas más resistentes al frío que existen: soportan heladas ligeras sin problema e incluso mejoran su sabor tras un golpe de frío. Por eso son el cultivo estrella del balcón cuando ya casi nada crece."
+claves:
+  - "Son de otoño-invierno: con calor germinan mal y espigan enseguida."
+  - "Basta una jardinera de 15 cm de fondo y siembra directa, cubriendo las semillas con muy poca tierra."
+  - "Toleran la media sombra y piden riego moderado: con frío, el exceso de agua trae hongos."
+  - "Siembra un puñado cada 2-3 semanas para tener ensalada todo el invierno."
 ---
 
 Los canónigos son una de las hojas más agradecidas para el balcón en los meses fríos: resisten el frío como pocas, crecen en poco espacio y apenas dan trabajo. Si echas de menos ensalada fresca en invierno, son tu cultivo.

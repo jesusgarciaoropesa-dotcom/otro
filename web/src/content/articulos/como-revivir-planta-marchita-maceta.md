@@ -18,6 +18,8 @@ Encuentras una planta caída, con las hojas mustias o casi seca, y das por hecho
 
 <figure><img width="1200" height="670" src="/images/articulos/planta-seca-vs-sana.jpg" alt="Comparación entre una planta seca y marchita y otra sana en maceta" /><figcaption>Antes de tirarla: comprueba si el tallo sigue verde por dentro, señal de que vive</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Primero: ¿está viva?
 
 Antes de nada, comprueba si merece la pena intentarlo. **Rasca un tallo o una rama con la uña**:
@@ -39,6 +41,8 @@ Señales: tierra permanentemente húmeda o encharcada, hojas amarillas y blandas
 2. **Revisa las raíces**: retira las blandas, marrones y con mal olor (podridas); deja las blancas y firmes.
 3. **Deja secar el cepellón** unas horas y replanta en **sustrato nuevo y bien drenante**.
 4. Asegúrate de que la maceta **tiene agujeros de drenaje**. Más detalle en [cómo evitar el exceso de riego y el hongo en macetas](/articulos/como-evitar-exceso-riego-hongo-macetas/).
+
+<a href="https://www.amazon.es/s?k=sustrato+universal+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato universal en Amazon</a>
 
 ### Falta de agua (sequía)
 

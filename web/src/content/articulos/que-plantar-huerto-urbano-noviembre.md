@@ -24,6 +24,8 @@ Noviembre marca la entrada del invierno en el huerto de balcón. La actividad ba
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-guisantes-maceta.jpg" alt="Planta de guisantes trepando por una caña en una maceta de balcón en otoño" /><figcaption>Guisantes, habas y ajos son las plantaciones típicas de noviembre</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué sembrar y plantar en noviembre
 
 Todavía hay margen para varios cultivos de clima fresco:
@@ -31,6 +33,10 @@ Todavía hay margen para varios cultivos de clima fresco:
 - **Ajos**: si no los plantaste en octubre, aún estás a tiempo. Guía en [cómo cultivar ajos en maceta](/articulos/como-cultivar-ajos-en-maceta/).
 - **Habas y guisantes**: siembra directa, aguantan bien el frío y trepan por una caña. Tienes las [habas explicadas aquí](/articulos/como-cultivar-habas-en-maceta/) y los [guisantes aquí](/articulos/como-cultivar-guisantes-en-maceta/).
 - **Hojas resistentes** (espinacas, acelgas, canónigos): en zonas de clima suave o bajo protección.
+
+<a href="https://www.amazon.es/s?k=ajos+para+plantar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver ajos de siembra en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=semillas+de+habas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de habas en Amazon</a>
 
 ## En el interior, noviembre ya es tarde para casi todo
 
@@ -61,6 +67,8 @@ El otoño todavía deja buena cosecha en el balcón:
 ## Protege del frío
 
 Llegan las primeras heladas. Protege lo sensible con un [mini-invernadero de balcón](/articulos/mini-invernadero-balcon-mejores-opciones/), una tela antiheladas en las noches más frías o arrimando las macetas a la pared, que retiene algo de calor. Para saber qué aguanta a la intemperie, consulta [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).
+
+<a href="https://www.amazon.es/s?k=manta+termica+antiheladas+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver telas antiheladas en Amazon</a>
 
 ## Cuidados del mes
 

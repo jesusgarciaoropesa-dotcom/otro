@@ -12,6 +12,11 @@ faq:
     respuesta: "Tomate, pimiento y berenjena. Son de ciclo largo y necesitan varias semanas de semillero antes de poder trasplantarlos, así que sembrarlos ahora en casa (junto a una ventana luminosa o con un mini-invernadero) te adelanta la cosecha."
   - pregunta: "¿Hay riesgo de heladas en febrero?"
     respuesta: "En gran parte de España, sí. Por eso lo que se siembra en directo son cultivos que aguantan el frío, y lo demás se mantiene protegido en el interior. No saques las plántulas al balcón hasta pasado el riesgo de heladas tardías, que en muchas zonas llega hasta abril."
+claves:
+  - "Febrero es el mes clave para arrancar en semillero tomate, pimiento, berenjena y albahaca."
+  - "Al exterior solo lo resistente al frío: guisantes, rabanitos, espinacas, acelgas y cebollas de bulbito."
+  - "Aprovecha para renovar el sustrato, limpiar herramientas y organizar las semillas."
+  - "No saques las plántulas todavía: el riesgo de heladas tardías dura hasta abril en gran parte de España."
 ---
 
 Febrero es el mes en el que el huerto de balcón despierta. Todavía hace frío y hay riesgo de heladas, pero es el momento clave para **arrancar en semillero los cultivos de verano** y adelantar así toda la temporada. Lo que hagas ahora marca la cosecha de los meses siguientes.

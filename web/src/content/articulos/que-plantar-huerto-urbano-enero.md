@@ -16,6 +16,11 @@ faq:
   - pregunta: "¿Qué se cosecha en enero en el balcón?"
     respuesta: "Las hortalizas de invierno que sembraste en otoño: acelgas, espinacas, canónigos, lechugas de invierno, kale, coles y brócoli. Si tienes cítricos en maceta (limonero, naranjo, mandarino), enero es plena temporada de recolección."
 
+claves:
+  - "Enero es sobre todo mes de semilleros protegidos: tomates, pimientos, berenjenas y lechugas de primavera."
+  - "Fuera solo en clima suave: habas, guisantes, espinacas, ajos y cebollas."
+  - "En el interior es el mes más frío: lo que rinde es lo ya crecido (acelgas, espinacas, kale y coles)."
+  - "Riega mucho menos y protege las macetas de las heladas fuertes; no trasplantes fuera hasta marzo."
 ---
 
 Enero es un mes de transición: todavía hace frío en la mayor parte de España, pero es el momento de preparar en <a href="https://www.amazon.es/s?k=semillero+germinacion+tapa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener">semillero protegido</a> los cultivos que ocuparán el balcón en primavera.

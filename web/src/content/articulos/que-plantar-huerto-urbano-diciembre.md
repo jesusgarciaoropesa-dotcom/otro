@@ -25,6 +25,8 @@ Diciembre es el mes de menos actividad en el huerto de balcón, pero no de paró
 
 <figure><img width="1200" height="670" src="/images/articulos/cultivo-arandanos-maceta.jpg" alt="Arándanos en maceta en reposo invernal en un balcón" /><figcaption>Diciembre es buen mes para plantar frutos rojos a raíz desnuda, que enraízan en reposo</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué plantar en diciembre
 
 Las plantaciones son pocas y dependen mucho de tu clima:
@@ -32,6 +34,10 @@ Las plantaciones son pocas y dependen mucho de tu clima:
 - **Habas y guisantes**: en zonas de clima suave, siembra directa con una caña por la que trepen.
 - **Ajos**: última oportunidad si no los plantaste en otoño, sobre todo en zonas cálidas.
 - **Frutales y frutos rojos a raíz desnuda**: es plena temporada para plantarlos en reposo. Mira [cómo cultivar frambuesas y moras en maceta](/articulos/como-cultivar-frambuesas-moras-en-maceta/) y [cómo cultivar arándanos en maceta](/articulos/como-cultivar-arandanos-en-maceta/).
+
+<a href="https://www.amazon.es/s?k=semillas+de+guisantes&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de guisantes en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=ajos+para+plantar&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver ajos de siembra en Amazon</a>
 
 ## Protege del frío
 

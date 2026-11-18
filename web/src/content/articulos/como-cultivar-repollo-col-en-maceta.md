@@ -12,6 +12,11 @@ faq:
     respuesta: "Una maceta grande: mínimo 15-20 litros y unos 30 cm de profundidad, con una sola planta por maceta. El repollo hace una planta ancha y muy exigente en nutrientes, así que necesita volumen de sustrato y buen abono para formar una cabeza compacta."
   - pregunta: "¿Por qué mi repollo no forma cabeza?"
     respuesta: "Casi siempre por calor, maceta pequeña o falta de nutrientes: son las mismas causas que en el brócoli y la coliflor. El repollo necesita fresco, espacio y alimento constante para apretar la cabeza. Si crece solo en hojas sueltas sin cerrar, revisa esos tres puntos."
+claves:
+  - "Siembra en semillero a finales de verano y trasplanta a principios de otoño para cosechar en invierno."
+  - "Una planta por maceta de 15-20 litros como mínimo, con sustrato rico y abono cada 2-3 semanas."
+  - "Su gran enemiga es la oruga de la col: revisa el envés y usa malla antiinsectos."
+  - "Cosecha cuando la cabeza esté firme y apretada; si te retrasas puede rajarse o subir a flor."
 ---
 
 El repollo es una de las hortalizas reinas del huerto de otoño-invierno: resistente, productivo y capaz de aguantar el frío como pocas. En maceta necesita espacio y comida, pero a cambio te da una cabeza generosa justo cuando el balcón tiene menos vida.

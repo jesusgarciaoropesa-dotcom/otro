@@ -13,6 +13,11 @@ faq:
     respuesta: "Es un cultivo de otoño-invierno. Se siembra en semillero a final del verano (julio-agosto) y se trasplanta en septiembre-octubre para cosechar en invierno. Prefiere el clima fresco; con mucho calor la pella sale mal o se adelanta."
   - pregunta: "¿Por qué mi coliflor no forma pella?"
     respuesta: "Las causas más comunes son el calor excesivo, la falta de agua o de nutrientes, y una maceta demasiado pequeña. La coliflor necesita un crecimiento continuo y sin estrés: cualquier parón (sequía, trasplante tardío) hace que no cuaje bien la pella o que se abra antes de tiempo."
+claves:
+  - "Maceta grande (25-30 litros como mínimo) y una sola planta por maceta."
+  - "Siembra en semillero en julio-agosto y trasplanta en septiembre-octubre; con calor la pella sale mal."
+  - "La clave es que no sufra parones: riego constante y abono cada 2-3 semanas."
+  - "La pella es sensible a las heladas fuertes: tápala con sus hojas y añade manta térmica esas noches."
 ---
 
 La coliflor tiene fama de cultivo de huerto grande, pero con una maceta amplia y clima fresco se da muy bien en un balcón. Eso sí, es algo exigente: quiere espacio, agua constante y nutrientes. A cambio, cosechar tu propia pella en pleno invierno es todo un premio.
