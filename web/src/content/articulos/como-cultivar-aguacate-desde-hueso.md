@@ -21,6 +21,8 @@ Germinar un aguacate desde el hueso es uno de los proyectos de jardinería más 
   <figcaption>El hueso germinado en agua: bonito de ver, aunque rara vez dará fruto en balcón.</figcaption>
 </figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## La verdad sobre el fruto (léela antes de empezar)
 
 Seamos honestos: un aguacate cultivado desde hueso **casi nunca dará fruto en un balcón**. Puede tardar de **5 a 15 años** en fructificar (si llega a hacerlo), necesita mucho espacio y, al no ser injertado, suele dar frutos distintos al aguacate original.
@@ -39,6 +41,8 @@ Es el más vistoso porque ves todo el proceso:
 ## Método 2: directamente en tierra (más sencillo)
 
 Incluso más fácil: entierra el hueso en una maceta con [sustrato de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) dejando **asomar la parte superior**, mantén el sustrato húmedo y cálido, y brotará igual. Pierdes el "espectáculo" de ver la raíz, pero te ahorras el trasplante.
+
+<a href="https://www.amazon.es/s?k=sustrato+universal+drenaje&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato de calidad en Amazon</a>
 
 ## Cuando ya ha brotado
 

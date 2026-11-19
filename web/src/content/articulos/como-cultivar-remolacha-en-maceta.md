@@ -12,6 +12,11 @@ faq:
     respuesta: "Porque cada semilla de remolacha es en realidad un glomérulo que da varias plántulas juntas. Si no las aclaras (dejando la más fuerte cada 8-10 cm), competirán entre ellas y las raíces saldrán pequeñas y deformes."
   - pregunta: "¿Se comen las hojas de la remolacha?"
     respuesta: "Sí, y están riquísimas. Las hojas jóvenes se comen en ensalada y las más grandes salteadas, como las acelgas (son familia). Puedes ir cortando algunas hojas exteriores mientras la raíz engorda, sin dañar la planta."
+claves:
+  - "Maceta o jardinera honda de al menos 20-25 cm, con sustrato suelto y sin piedras."
+  - "Siembra en primavera y de agosto a octubre, siempre directa en su maceta."
+  - "Cada semilla da varias plántulas: aclara dejando la más fuerte cada 8-10 cm."
+  - "Cosecha a los 60-90 días, con la raíz de 5-8 cm; si esperas más, se vuelve leñosa."
 ---
 
 La remolacha es un cultivo doblemente agradecido: te da una **raíz dulce** y unas **hojas comestibles** deliciosas, todo en la misma planta. Crece bien en maceta, no necesita mucho espacio y es bastante resistente, ideal para el balcón.

@@ -17,6 +17,11 @@ faq:
   - pregunta: "¿Cuándo se pueden sembrar rabanitos?"
     respuesta: "Casi todo el año en balcón, salvo en el pico de calor del verano (pican y se suben a flor) y en lo más crudo del invierno. Primavera y otoño son las mejores épocas. Germinan en 3-5 días, así que enseguida ves resultados."
 
+claves:
+  - "De la siembra a la cosecha pasan solo 3-4 semanas: el cultivo más rápido para coger confianza."
+  - "Basta una maceta de 15-20 cm de profundidad con sustrato ligero y siembra directa, separando 3-4 cm."
+  - "Riego constante: si es irregular, salen leñosos, pican o se agrietan."
+  - "Siembra un grupo nuevo cada 2 semanas en primavera y otoño para tener cosecha continua."
 ---
 
 Si buscas resultados rápidos para coger confianza con tu huerto urbano, los rabanitos son probablemente el cultivo más agradecido: de la siembra a la cosecha pasan solo 3-4 semanas.

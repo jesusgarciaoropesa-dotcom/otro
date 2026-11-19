@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Cómo se corta el perejil para que siga produciendo?"
     respuesta: "Corta los tallos exteriores desde la base, dejando siempre el centro con hojas nuevas. Si cortas solo las puntas o vacías la planta entera, se debilita; cosechando por fuera dura muchos meses."
 
+claves:
+  - "Maceta de al menos 20 cm de diámetro y profundidad, con sustrato universal que retenga algo de humedad."
+  - "Germina muy despacio (2-4 semanas): remojar las semillas 24 horas antes ayuda."
+  - "Necesita humedad constante; no perdona la sequía como el romero o el tomillo."
+  - "Corta las ramas exteriores desde la base y deja intacto el centro para que siga produciendo."
 ---
 
 El perejil es una de las hierbas más usadas en la cocina española, y también una de las más agradecidas para maceta si se entiende algo importante: a diferencia del romero o el tomillo, no es una aromática mediterránea de secano, necesita riego bastante más constante.

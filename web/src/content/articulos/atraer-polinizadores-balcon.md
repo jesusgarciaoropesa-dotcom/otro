@@ -18,6 +18,8 @@ En el campo, abejas y otros insectos polinizan las flores sin que nadie se enter
 
 <figure><img width="1200" height="670" src="/images/articulos/abeja-polinizador-flor-calabacin.jpg" alt="Abeja cubierta de polen posada sobre una flor amarilla de calabacín en un balcón" /><figcaption>Una abeja polinizando una flor de calabacín: sin ellas, muchos frutos no cuajan</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Por qué importa (y a qué cultivos afecta)
 
 Muchas plantas necesitan que un insecto **traslade el polen** de una flor a otra (o dentro de la misma) para formar fruto. Sin ellos, las flores caen sin cuajar. Los más dependientes en balcón:
@@ -35,6 +37,8 @@ Es lo más eficaz. Unas macetas con **flores** funcionan como imán:
 
 - **Aromáticas en flor**: romero, tomillo, lavanda, orégano (déjalas florecer).
 - **[Flores comestibles](/articulos/flores-comestibles-balcon/)**: caléndula, borraja y capuchina atraen abejas y mariposas a montones.
+
+<a href="https://www.amazon.es/s?k=semillas+calendula+borraja&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de caléndula y borraja en Amazon</a>
 
 ### 2. Busca floración durante todo el año
 Combina plantas que florezcan en distintas épocas para que **siempre haya algo en flor**. Un balcón con flores de primavera a otoño mantiene a los polinizadores volviendo.

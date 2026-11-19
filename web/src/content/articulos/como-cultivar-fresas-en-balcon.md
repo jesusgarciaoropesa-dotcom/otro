@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Cuándo se plantan las fresas en el balcón?"
     respuesta: "El mejor momento es el otoño o el final del invierno, para que la planta se establezca antes de la temporada de producción en primavera. Plantadas en otoño suelen dar una cosecha más abundante al año siguiente."
 
+claves:
+  - "Mejor partir de plantones enraizados que de semilla, para tener fruto mucho antes."
+  - "Maceta ancha más que honda (jardineras alargadas o torres) y al menos 6 horas de sol directo."
+  - "Riego constante dirigido a la base, sin mojar hojas ni frutos para evitar hongos."
+  - "Abono rico en potasio en floración y fruto; renueva plantas con los estolones cada temporada."
 ---
 
 Las fresas son uno de los cultivos más satisfactorios para un huerto de balcón: ocupan poco espacio, dan fruto varias veces en la temporada y se adaptan muy bien a estructuras colgantes o verticales.

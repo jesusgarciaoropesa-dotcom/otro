@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Cuánta luz necesita el cilantro?"
     respuesta: "Luz abundante pero no calor extremo: a pleno sol de verano se estresa y florece antes. Le va muy bien la media sombra en los meses cálidos y el sol directo suave en primavera y otoño."
 
+claves:
+  - "Siembra directa en la maceta definitiva (20-25 cm de profundidad): no trasplanta bien."
+  - "Con calor se sube a flor enseguida: primavera temprana y otoño son las mejores épocas."
+  - "Riego regular y constante; tanto el exceso como la falta de agua adelantan la flor."
+  - "Cosecha las hojas exteriores a menudo y siembra un grupo nuevo cada 2-3 semanas."
 ---
 
 El cilantro es una de las aromáticas más utilizadas en cocina, pero también una de las que más rápido se "sube a flor" si no se maneja bien el riego y la temperatura, dejando de producir hojas aprovechables.

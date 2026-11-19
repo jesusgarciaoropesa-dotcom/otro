@@ -16,6 +16,11 @@ faq:
     respuesta: "Entre 80 y 100 días desde la siembra hasta la cosecha, según la variedad y el frío. A eso hay que sumarle los 10-15 días finales de blanqueado para que pierda el amargor. Es un cultivo pausado, pero muy agradecido y resistente durante el invierno."
   - pregunta: "¿Qué diferencia hay entre escarola y endibia?"
     respuesta: "Son parientes cercanas pero no lo mismo. La escarola se cultiva y blanquea en la propia maceta y se come su roseta rizada. La endibia (o endivia) se obtiene forzando en oscuridad la raíz de la achicoria para que brote ese cogollo blanco y compacto; es otro proceso distinto."
+claves:
+  - "Se siembra de agosto a octubre y se cosecha en otoño e invierno: aguanta bien el frío."
+  - "Una planta por maceta (o bien separadas en jardinera), con sol o media sombra y riego regular."
+  - "Blanquéala 10-15 días antes de cosechar, atando las hojas o tapando el centro, siempre con la planta seca."
+  - "Cuenta unos 80-100 días desde la siembra; escalona 2-3 plantas con 2 semanas de diferencia."
 ---
 
 La escarola es una de las mejores hojas para el otoño e invierno del balcón: resistente, productiva y con ese punto amargo que va tan bien en ensalada. Y con el truco del blanqueado puedes suavizarla hasta dejarla tierna y dulce.

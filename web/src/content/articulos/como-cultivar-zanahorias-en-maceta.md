@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Cuánto tardan las zanahorias en maceta?"
     respuesta: "Según la variedad, entre 70 y 100 días desde la siembra hasta la cosecha. Puedes empezar a recolectar en cuanto asoma el hombro de la raíz por la superficie y tiene buen grosor."
 
+claves:
+  - "Maceta de al menos 30 cm de profundidad, o variedades cortas o redondas si tienes menos fondo."
+  - "Sustrato suelto, sin piedras ni grumos: es la causa principal de raíces deformadas."
+  - "Siembra directa a 0,5-1 cm y aclara dejando 3-5 cm entre plantas."
+  - "Riego constante y uniforme para que las raíces no se agrieten."
 ---
 
 Las zanahorias tienen fama de ser complicadas en maceta, pero el problema casi siempre se reduce a dos factores: profundidad insuficiente y sustrato demasiado compacto o con piedras.

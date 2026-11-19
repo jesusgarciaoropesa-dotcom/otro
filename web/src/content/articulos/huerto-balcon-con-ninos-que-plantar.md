@@ -18,6 +18,8 @@ Cultivar en el balcón con niños es una de esas actividades que enseñan de tod
 
 <figure><img width="1200" height="670" src="/images/articulos/kit-huerto-principiantes.jpg" alt="Kit de huerto sencillo en un balcón, ideal para empezar a cultivar con niños" /><figcaption>Con cultivos rápidos y su propia maceta, los niños se enganchan al huerto enseguida</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## La regla nº 1: que vean resultados pronto
 
 Un niño no espera cuatro meses a un tomate. Lo que engancha es la **recompensa rápida**: sembrar, ver brotar en días y cosechar en semanas. Por eso los mejores cultivos para empezar con peques son los de ciclo corto.
@@ -44,6 +46,8 @@ Un niño no espera cuatro meses a un tomate. Lo que engancha es la **recompensa 
 - **Déjales cosechar y comer**: morder su propio rabanito o fresa es la mejor recompensa.
 - **Usa herramientas a su medida**: una regadera pequeña y unos guantes suyos.
 - **No busques la perfección**: que se manchen, que prueben, que se equivoquen. Es parte de la gracia.
+
+<a href="https://www.amazon.es/s?k=regadera+infantil+guantes+jardineria+ninos&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver regaderas y guantes para niños en Amazon</a>
 
 ## Un par de cuidados
 

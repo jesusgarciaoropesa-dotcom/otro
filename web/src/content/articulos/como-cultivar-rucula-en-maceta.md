@@ -12,6 +12,11 @@ faq:
     respuesta: "La rúcula se vuelve más picante y amarga con el calor, la sequía y cuando empieza a espigar (subir a flor). Para un sabor más suave, cultívala en tiempo fresco (otoño y primavera), riégala de forma constante y coséchala joven, cortando las hojas antes de que la planta quiera florecer."
   - pregunta: "¿Se puede cortar y que vuelva a crecer?"
     respuesta: "Sí. La rúcula es un cultivo de corte y rebrote: si cosechas hoja a hoja o cortas la mata a 3-4 cm dejando el cogollo, rebrota y te da varias cosechas seguidas de la misma siembra. Cuando empiece a espigar, ya sabe más fuerte y conviene resembrar."
+claves:
+  - "El otoño es su mejor época: con el fresco sale tierna y menos picante."
+  - "Siembra directa en una jardinera de 15 cm; germina en 3-7 días."
+  - "Riego constante: si pasa sed se vuelve picante y correosa."
+  - "Corta las hojas exteriores (o siega a 3-4 cm) y rebrotará; siembra un puñado cada 2-3 semanas."
 ---
 
 Si quieres empezar con algo que salga **sí o sí** y rápido, la rúcula es tu cultivo. Germina en días, está lista en poco más de un mes, cabe en cualquier jardinera y rebrota cada vez que la cortas. Y el **otoño es su momento ideal**, porque con el fresco sale tierna y menos picante.

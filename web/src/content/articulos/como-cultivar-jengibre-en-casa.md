@@ -21,6 +21,8 @@ Cultivar jengibre en casa es de lo más satisfactorio: partes de un simple trozo
   <figcaption>De un trozo de rizoma de la frutería a tu propia planta de jengibre.</figcaption>
 </figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Empieza con un trozo de rizoma
 
 No necesitas semillas: se planta un **trozo de rizoma** (lo que llamamos "la raíz"). Elige uno fresco y firme, con pequeños brotes o "yemas" visibles (unos bultitos redondeados). Mejor si es ecológico, porque algunos rizomas de supermercado llevan antibrotante. Si puedes, déjalo unas horas en agua templada antes de plantar para activarlo.
@@ -30,6 +32,10 @@ No necesitas semillas: se planta un **trozo de rizoma** (lo que llamamos "la ra�
 - Usa una maceta **ancha y no muy profunda** (el jengibre crece en horizontal, hacia los lados): unos 20-25 cm de profundidad y buen diámetro.
 - Rellena con [sustrato de calidad](/articulos/mejor-sustrato-huerto-urbano-maceta/) que drene bien.
 - Coloca el trozo de rizoma **horizontal**, con las yemas hacia arriba, y cúbrelo con 3-4 cm de sustrato.
+
+<a href="https://www.amazon.es/s?k=maceta+ancha+baja+drenaje&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver macetas anchas y bajas en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=sustrato+universal+drenaje&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver sustrato de calidad en Amazon</a>
 
 ## Calor, humedad y luz
 
