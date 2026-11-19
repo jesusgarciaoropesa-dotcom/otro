@@ -4,19 +4,20 @@
   "articulo": "/articulos/que-plantar-huerto-urbano-diciembre/",
   "slides": [
     {
-      "foto": "/images/articulos/balcon-cosecha-atardecer.jpg",
+      "foto": "/images/articulos/ajos-brotados-jardinera.jpg",
       "kicker": "ESTA SEMANA EN EL BALCÓN · DICIEMBRE",
       "titulo": "Siembras poco y cosechas mucho",
       "destacado": "cosechas mucho",
-      "subtitulo": "Pero hay un error de diciembre que pudre las macetas.",
+      "subtitulo": "Pero hay un error de diciembre que pudre las raíces.",
       "pildora": "Desliza 👉",
-      "posicion": "50% center"
+      "posicion": "40% center",
+      "texto": "arriba"
     },
     {
       "foto": "/images/articulos/cosecha-vainas-habas-manos.jpg",
       "kicker": "Qué sembrar",
       "titulo": "Habas y guisantes",
-      "subtitulo": "Siembra directa con una caña para que trepen, mejor en el rincón más resguardado.",
+      "subtitulo": "En clima suave, siémbralos directos con una caña para que trepen.",
       "pildora": "Sigue 👉"
     },
     {
