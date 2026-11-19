@@ -1,0 +1,62 @@
+{
+  "slug": "riego-invierno-sos",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/riego-invierno-huerto-macetas-cuanto-regar/",
+  "slides": [
+    {
+      "foto": "/images/articulos/hojas-caidas-planta-maceta.jpg",
+      "kicker": "S.O.S. BALCÓN",
+      "titulo": "¿Tu planta se muere de frío?",
+      "destacado": "de frío",
+      "subtitulo": "Casi siempre es otra cosa, y se arregla con un dedo.",
+      "pildora": "Desliza 👉"
+    },
+    {
+      "foto": "/images/articulos/planta-sana-vs-mustia.jpg",
+      "kicker": "El síntoma",
+      "titulo": "Amarillea y se viene abajo",
+      "subtitulo": "Muchos creen que es sed, riegan más… y la rematan.",
+      "pildora": "Sigue 👉",
+      "posicion": "75% center"
+    },
+    {
+      "foto": "/images/articulos/mosca-sustrato-macetas.jpg",
+      "kicker": "La causa real",
+      "titulo": "Exceso de agua",
+      "subtitulo": "La tierra fría y encharcada deja a las raíces sin oxígeno y es el paraíso de los hongos.",
+      "pildora": "Sigue 👉",
+      "posicion": "30% center"
+    },
+    {
+      "foto": "/images/articulos/lechugas-baby-alfeizar-cocina.jpg",
+      "kicker": "¿Por qué en invierno?",
+      "titulo": "Bebe muy poco",
+      "subtitulo": "Casi no crece, la evaporación se desploma y una maceta aguanta húmeda una semana o más.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/manos-comprobar-sustrato-limonero.jpg",
+      "kicker": "Arreglo 1",
+      "titulo": "Mete el dedo",
+      "subtitulo": "Dos o tres centímetros en la tierra: si está húmeda, no riegues.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/temporizador-riego-grifo.jpg",
+      "kicker": "Arreglo 2",
+      "titulo": "Riega de día y poco",
+      "subtitulo": "Nunca al anochecer, vacía siempre el plato y baja mucho el riego automático.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/planta-sana-vs-mustia.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "En invierno, menos es más",
+      "destacado": "menos es más",
+      "subtitulo": "Riega poco, de día y solo cuando la tierra lo pida.",
+      "pildora": "Guarda esto 🌱",
+      "posicion": "20% center",
+      "palabra": "DEDO"
+    }
+  ]
+}

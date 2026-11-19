@@ -1,0 +1,31 @@
+{
+ "slug": "bichos-buenos-balcon",
+ "articulo": "/articulos/atraer-insectos-beneficiosos-huerto/",
+ "palabra": "MARIQUITA",
+ "slides": [
+  {"tipo": "portada", "foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg",
+   "titulo": "El bicho que no debes quitar de tu balcón", "destacado": "no debes quitar"},
+  {"tipo": "tarjetas", "titulo": "Tus aliados gratis contra las plagas", "destacado": "gratis",
+   "tarjetas": [
+    {"foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg", "posicion": "45% center", "etiqueta": "Adulto y larva", "titulo": "Mariquita", "texto": "Devora pulgón y cochinilla a decenas por día"},
+    {"foto": "/images/articulos/mosca-blanca-enves-hoja.jpg", "etiqueta": "Sus larvas, voraces", "titulo": "Crisopa", "texto": "Pulgón, mosca blanca y araña roja"},
+    {"foto": "/images/articulos/pulgon-verde-tomatera.jpg", "etiqueta": "Minúsculas e inofensivas", "titulo": "Avispilla", "texto": "Pone sus huevos dentro del pulgón"}]},
+  {"tipo": "pasos", "titulo": "Cómo atraerlos al balcón", "destacado": "atraerlos", "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "posicion": "55% center",
+   "pasos": [
+    {"titulo": "Flores que les gustan", "texto": "Caléndula, hinojo, eneldo, cilantro y aromáticas en flor."},
+    {"titulo": "Variedad de plantas", "texto": "Atrae más fauna útil que un monocultivo."},
+    {"titulo": "Algo de pulgón", "texto": "Es su comida: si no hay, se van."},
+    {"titulo": "Un platito de agua", "texto": "Con unas piedras, para que beban sin ahogarse."}]},
+  {"tipo": "foto", "foto": "/images/articulos/pulgon-verde-tomatera.jpg", "posicion": "40% center",
+   "titulo": "El truco raro: no lo quites todo", "destacado": "no lo quites todo",
+   "texto": "Si dejas un poco de pulgón, los depredadores tienen comida y se quedan.",
+   "recuadro": {"titulo": "Por qué funciona", "items": ["Tienen comida", "Se quedan en tu balcón", "Si lo quitas al 100 %, se van"]}},
+  {"tipo": "versus", "titulo": "El error: fumigar a lo loco", "destacado": "fumigar a lo loco",
+   "texto": "Lo que espanta a todos tus aliados.",
+   "izquierda": {"foto": "/images/articulos/tratamientos-ecologicos-tomatera.jpg", "titulo": "A lo loco", "items": ["Insecticida de amplio espectro", "De forma preventiva", "Mata plaga y aliados"], "bien": false},
+   "derecha": {"foto": "/images/articulos/jabon-potasico-pulverizar.jpg", "titulo": "Selectivo", "items": ["Jabón potásico", "Solo sobre el foco", "Solo si hay plaga"], "bien": true},
+   "conclusion": "Los depredadores **tardan más en volver que las plagas.**"},
+  {"tipo": "cierre", "foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg", "titulo": "Un ecosistema que trabaja por ti", "destacado": "trabaja por ti",
+   "guardar": "Guárdalo para la próxima vez que veas pulgón", "palabra": "MARIQUITA"}
+ ]
+}

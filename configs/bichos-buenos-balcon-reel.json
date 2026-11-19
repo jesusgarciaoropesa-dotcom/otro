@@ -1,0 +1,70 @@
+{
+ "slug": "bichos-buenos-balcon",
+ "marca": "MiHuertoUrbano.xyz",
+ "articulo": "/articulos/atraer-insectos-beneficiosos-huerto/",
+ "slides": [
+  {
+   "foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg",
+   "kicker": "BICHOS BUENOS DEL BALCÓN",
+   "titulo": "El bicho que no debes quitar",
+   "destacado": "no debes quitar",
+   "subtitulo": "Se come decenas de pulgones al día, y lo espantas sin querer.",
+   "pildora": "Desliza 👉"
+  },
+  {
+   "foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg",
+   "kicker": "El aliado número uno",
+   "titulo": "La mariquita",
+   "subtitulo": "Ella y su larva, como un cocodrilo naranja y negro, devoran pulgón y cochinilla.",
+   "pildora": "Sigue 👉",
+   "posicion": "40% center"
+  },
+  {
+   "foto": "/images/articulos/mosca-blanca-enves-hoja.jpg",
+   "kicker": "Y no viene sola",
+   "titulo": "Crisopas y avispillas",
+   "subtitulo": "Las crisopas comen pulgón, mosca blanca y araña roja; las avispillas acaban con el pulgón por dentro.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/plantas-repelentes-plagas.jpg",
+   "kicker": "Cómo atraerlos",
+   "titulo": "Flores y variedad",
+   "subtitulo": "Caléndula, hinojo, eneldo, cilantro y aromáticas en flor son un imán para ellos.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/pulgon-verde-tomatera.jpg",
+   "kicker": "El truco raro",
+   "titulo": "Deja un poco de pulgón",
+   "subtitulo": "Si lo quitas todo de golpe, se van; y ponles un platito con agua y piedras.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/jabon-potasico-pulverizar.jpg",
+   "kicker": "El error",
+   "titulo": "Fumigar a lo loco",
+   "subtitulo": "Mata por igual a plaga y aliados: usa jabón potásico solo sobre el foco.",
+   "pildora": "Falta el cierre 👉"
+  },
+  {
+   "foto": "/images/articulos/eneldo-maceta.jpg",
+   "kicker": "GUÁRDATELO",
+   "titulo": "Un ecosistema que trabaja por ti",
+   "destacado": "trabaja por ti",
+   "subtitulo": "Lo montas una vez y te ayuda cada temporada.",
+   "pildora": "Guarda esto 🌱"
+  }
+ ],
+ "ritmo": "rapido",
+ "duracion_slide": 9.4,
+ "duraciones": [
+  6.47,
+  7.02,
+  8.92,
+  8.67,
+  5.8,
+  6.42,
+  5.49
+ ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "diciembre-balcon",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/que-plantar-huerto-urbano-diciembre/",
+  "slides": [
+    {
+      "foto": "/images/articulos/balcon-cosecha-atardecer.jpg",
+      "kicker": "ESTA SEMANA EN EL BALCÓN · DICIEMBRE",
+      "titulo": "Siembras poco y cosechas mucho",
+      "destacado": "cosechas mucho",
+      "subtitulo": "Pero hay un error de diciembre que pudre las macetas.",
+      "pildora": "Desliza 👉",
+      "posicion": "50% center"
+    },
+    {
+      "foto": "/images/articulos/cosecha-vainas-habas-manos.jpg",
+      "kicker": "Qué sembrar",
+      "titulo": "Habas y guisantes",
+      "subtitulo": "Siembra directa con una caña para que trepen, mejor en el rincón más resguardado.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-arandanos-maceta.jpg",
+      "kicker": "Última oportunidad",
+      "titulo": "Ajos y frutos rojos",
+      "subtitulo": "Los ajos que no plantaste, y arándanos o frambuesas a raíz desnuda, que enraízan en reposo.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-repollo-col-maceta.jpg",
+      "kicker": "Qué vigilar",
+      "titulo": "Las noches de helada",
+      "subtitulo": "Tapa lo sensible con una tela antiheladas; el kale y las coles hasta se vuelven más dulces.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/proteger-huerto-lluvia-granizo.jpg",
+      "kicker": "El error",
+      "titulo": "Regar de más",
+      "subtitulo": "Riega solo con la tierra seca, vacía los platos y, si llueve mucho, arrima las macetas a la pared.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/cultivo-lechuga-maceta.jpg",
+      "kicker": "Qué cosechar",
+      "titulo": "Hojas, coles y brócolis",
+      "subtitulo": "Acelgas, espinacas y lechugas de hoja: córtalas a demanda, que aguantan en la planta.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/sobres-semillas-kraft.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "El mejor mes para planificar",
+      "destacado": "planificar",
+      "subtitulo": "Limpia herramientas, ordena semillas y decide qué cultivarás.",
+      "pildora": "Guarda esto 🌱",
+      "palabra": "DICIEMBRE"
+    }
+  ]
+}
