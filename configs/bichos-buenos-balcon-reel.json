@@ -20,11 +20,13 @@
    "posicion": "40% center"
   },
   {
-   "foto": "/images/articulos/mosca-blanca-enves-hoja.jpg",
+   "foto": "/images/articulos/crisopa-larva-pulgon-macro.jpg",
    "kicker": "Y no viene sola",
    "titulo": "Crisopas y avispillas",
    "subtitulo": "Las crisopas comen pulgón, mosca blanca y araña roja; las avispillas acaban con el pulgón por dentro.",
-   "pildora": "Sigue 👉"
+   "pildora": "Sigue 👉",
+   "foto2": "/images/articulos/avispilla-pulgones-momia-macro.jpg",
+   "foto2_desde": 5.4
   },
   {
    "foto": "/images/articulos/plantas-repelentes-plagas.jpg",
