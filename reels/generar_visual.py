@@ -7,7 +7,7 @@ Carrusel de MiHuertoUrbano en ESTILO VISUAL (se intercala con el estilo de foto 
 
 Las fotos siguen siendo las protagonistas, pero cada lámina ENSEÑA algo distinto con una pieza:
 sello con el dato, comparación con dos fotos, filas con barras, pasos junto a una foto, recuadro
-sobre la foto o tarjetas con foto. Todo el texto sale del artículo (nada inventado).
+sobre la foto o tarjetas con foto (foto grande a todo el ancho: nada de fotos en miniatura). Todo el texto sale del artículo (nada inventado).
 
 Tipos de lámina ("tipo"); "destacado" = palabras del título resaltadas:
   portada  {foto, titulo, destacado?, sello?:{arriba?, cifra, abajo?}, posicion?}
@@ -105,14 +105,14 @@ h1{font-size:96px}h2{font-size:70px}
 .fila .v{text-align:right;font-family:Fraunces;font-size:56px;font-weight:800;color:var(--hoja);line-height:1;white-space:nowrap}
 .fila .v small{display:block;font-family:Inter;font-size:21px;color:#7d8778;font-weight:700;margin-top:4px}
 .fuente{position:absolute;left:60px;right:60px;bottom:100px;font-size:22px;color:#8a9285}
-/* pasos */
-.pf{display:grid;grid-template-columns:400px 1fr;gap:34px;height:100%}
-.pf .im{border-radius:30px;background-size:cover;background-position:center;box-shadow:0 14px 40px rgba(36,64,31,.18)}
-.pp{display:flex;flex-direction:column;justify-content:center;gap:26px}
-.p{display:flex;gap:20px;align-items:flex-start}
-.p .n{width:66px;height:66px;border-radius:50%;background:var(--hoja);color:#fff;font-family:Fraunces;font-weight:800;font-size:36px;display:grid;place-items:center;flex:none}
-.p b{display:block;font-size:34px;line-height:1.15;color:var(--hojao);margin-top:8px}
-.p span{display:block;font-size:26px;line-height:1.32;color:#55604f;margin-top:6px}
+/* pasos: foto grande arriba a todo el ancho y los pasos debajo en dos columnas (20-11-2026) */
+.pf{display:flex;flex-direction:column;gap:30px;height:100%}
+.pf .im{flex:1;min-height:0;border-radius:30px;background-size:cover;background-position:center;box-shadow:0 14px 40px rgba(36,64,31,.18)}
+.pp{display:grid;grid-template-columns:1fr 1fr;gap:24px 30px;flex:none}
+.p{display:flex;gap:18px;align-items:flex-start}
+.p .n{width:58px;height:58px;border-radius:50%;background:var(--hoja);color:#fff;font-family:Fraunces;font-weight:800;font-size:32px;display:grid;place-items:center;flex:none}
+.p b{display:block;font-size:31px;line-height:1.15;color:var(--hojao);margin-top:6px}
+.p span{display:block;font-size:25px;line-height:1.32;color:#55604f;margin-top:6px}
 /* foto con recuadro */
 .rec{position:absolute;left:60px;top:150px;max-width:640px;background:rgba(255,255,255,.95);border-radius:30px;padding:30px 34px;box-shadow:0 18px 40px rgba(0,0,0,.25);display:flex;flex-direction:column;gap:16px}
 .rec p{font-size:22px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--tierra)}
@@ -120,12 +120,14 @@ h1{font-size:96px}h2{font-size:70px}
 .rec i{font-style:normal;width:50px;height:50px;border-radius:50%;background:var(--mostaza);display:grid;place-items:center;flex:none;font-family:Fraunces;font-weight:800}
 .abajo{position:absolute;left:60px;right:60px;bottom:110px;color:#fff}
 .abajo .sub{color:#eef2e8}
-/* tarjetas */
-.el{display:grid;grid-template-columns:210px 1fr;gap:26px;align-items:center;background:#fff;border-radius:28px;padding:16px;box-shadow:0 10px 30px rgba(36,64,31,.10)}
-.el .im{height:190px;border-radius:20px;background-size:cover;background-position:center}
-.el small{font-size:22px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--tierra)}
-.el b{display:block;font-family:Fraunces;font-size:42px;line-height:1.05;color:var(--hojao);margin-top:4px}
-.el span{display:block;font-size:28px;color:#55604f;margin-top:6px;line-height:1.25}
+/* tarjetas: cada una es una foto grande a todo el ancho, con el texto encima a la izquierda (20-11-2026) */
+.el{position:relative;flex:1;min-height:0;border-radius:30px;overflow:hidden;background:var(--hojao);box-shadow:0 14px 40px rgba(36,64,31,.18)}
+.el .im{position:absolute;inset:0;background-size:cover;background-position:center}
+.el::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(18,28,16,.85) 0%,rgba(18,28,16,.5) 40%,rgba(18,28,16,0) 68%)}
+.el .tx{position:absolute;left:36px;bottom:30px;right:46%;z-index:2;color:#fff}
+.el small{font-size:22px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--mostaza)}
+.el b{display:block;font-family:Fraunces;font-size:54px;line-height:1.05;color:#fff;margin-top:4px}
+.el span{display:block;font-size:28px;color:#eef2e8;margin-top:6px;line-height:1.25}
 /* cierre */
 .cta{position:absolute;left:60px;right:60px;bottom:120px;background:var(--mostaza);color:var(--hojao);border-radius:34px;padding:36px 40px}
 .cta b{font-family:Fraunces;font-size:62px;display:block;line-height:1.05}
@@ -191,9 +193,9 @@ def lamina(s, i, n, palabra_cfg):
                      for k, p in enumerate(s.get("pasos", [])[:5], 1))
         return f'<div class="marca">MiHuertoUrbano.xyz</div>{pag}{cab}<div class="zona" style="--top:{top}px;justify-content:stretch"><div class="pf"><div class="im" style="{bgstyle(s)}"></div><div class="pp">{ps}</div></div></div>{sigue}'
     if t == "tarjetas":
-        ts = "".join(f'<div class="el"><div class="im" style="{bgstyle(c)}"></div><div>{f"<small>{e(c.get("etiqueta"))}</small>" if c.get("etiqueta") else ""}<b>{e(c.get("titulo"))}</b>{f"<span>{e(c.get("texto"))}</span>" if c.get("texto") else ""}</div></div>'
+        ts = "".join(f'<div class="el"><div class="im" style="{bgstyle(c)}"></div><div class="tx">{f"<small>{e(c.get("etiqueta"))}</small>" if c.get("etiqueta") else ""}<b>{e(c.get("titulo"))}</b>{f"<span>{e(c.get("texto"))}</span>" if c.get("texto") else ""}</div></div>'
                      for c in s.get("tarjetas", [])[:4])
-        return f'<div class="marca">MiHuertoUrbano.xyz</div>{pag}{cab}<div class="zona" style="--top:{top}px">{ts}</div>{sigue}'
+        return f'<div class="marca">MiHuertoUrbano.xyz</div>{pag}{cab}<div class="zona" style="--top:{top + 34}px;justify-content:stretch">{ts}</div>{sigue}'
     sys.exit(f"ERROR: tipo de lámina desconocido '{t}'")
 
 
