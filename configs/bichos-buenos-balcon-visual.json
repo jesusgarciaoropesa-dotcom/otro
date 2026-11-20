@@ -8,8 +8,8 @@
   {"tipo": "tarjetas", "titulo": "Tus aliados gratis contra las plagas", "destacado": "gratis",
    "tarjetas": [
     {"foto": "/images/articulos/insectos-beneficiosos-mariquita.jpg", "posicion": "45% center", "etiqueta": "Adulto y larva", "titulo": "Mariquita", "texto": "Devora pulgón y cochinilla a decenas por día"},
-    {"foto": "/images/articulos/mosca-blanca-enves-hoja.jpg", "etiqueta": "Sus larvas, voraces", "titulo": "Crisopa", "texto": "Pulgón, mosca blanca y araña roja"},
-    {"foto": "/images/articulos/pulgon-verde-tomatera.jpg", "etiqueta": "Minúsculas e inofensivas", "titulo": "Avispilla", "texto": "Pone sus huevos dentro del pulgón"}]},
+    {"foto": "/images/articulos/crisopa-larva-pulgon-macro.jpg", "posicion": "55% center", "etiqueta": "Sus larvas, voraces", "titulo": "Crisopa", "texto": "Pulgón, mosca blanca y araña roja"},
+    {"foto": "/images/articulos/avispilla-pulgones-momia-macro.jpg", "posicion": "45% center", "etiqueta": "Minúsculas e inofensivas", "titulo": "Avispilla", "texto": "Pone sus huevos dentro del pulgón"}]},
   {"tipo": "pasos", "titulo": "Cómo atraerlos al balcón", "destacado": "atraerlos", "foto": "/images/articulos/plantas-repelentes-plagas.jpg", "posicion": "55% center",
    "pasos": [
     {"titulo": "Flores que les gustan", "texto": "Caléndula, hinojo, eneldo, cilantro y aromáticas en flor."},
