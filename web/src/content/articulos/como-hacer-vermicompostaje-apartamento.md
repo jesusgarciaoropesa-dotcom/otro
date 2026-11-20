@@ -12,7 +12,11 @@ faq:
     respuesta: "No: en una cama equilibrada no huele (o huele a tierra) y las lombrices se quedan donde está la comida y la oscuridad. Los problemas de olor o fuga aparecen solo si hay exceso de restos húmedos o falta de aireación."
   - pregunta: "¿Qué pueden comer las lombrices y qué no?"
     respuesta: "Sí: restos vegetales, posos de café, cáscaras y cartón sin tinta. No: carne, pescado, lácteos, cítricos en exceso, cebolla y ajo. Alimenta poco a poco, según vayan procesando lo anterior."
-
+claves:
+  - "Necesitas un vermicompostador de bandejas, cama de cartón o papel humedecido y lombrices rojas."
+  - "Aliméntalas poco a poco: sobrealimentar al principio es el error más común y causa olores."
+  - "Sí a fruta, verdura, posos de café y cáscaras de huevo; no a carne, pescado, lácteos ni muchos cítricos."
+  - "El humus queda en las bandejas de abajo y el lixiviado se usa diluido en agua."
 ---
 
 El vermicompostaje utiliza lombrices rojas californianas para procesar restos orgánicos de forma mucho más rápida y controlada que un compostaje tradicional, con la ventaja añadida de que, bien gestionado, apenas genera olor y ocupa muy poco espacio.

@@ -13,7 +13,11 @@ faq:
     respuesta: "Muy poco: deja secar bien el sustrato entre riegos. Tolera la sequía mucho mejor que el exceso de agua, que le pudre las raíces."
   - pregunta: "¿El tomillo aguanta el frío del invierno?"
     respuesta: "Sí, es bastante rústico y resiste el frío en el balcón; en climas muy duros basta con arrimarlo a la pared. Lo que no perdona es el encharcamiento invernal, así que reduce el riego al mínimo en esa época."
-
+claves:
+  - "Sustrato pobre y muy drenante (universal con un 40 % de arena o perlita) en maceta de 20-25 cm."
+  - "Sol directo casi todo el día; aguanta bien el calor del verano."
+  - "Deja secar el sustrato casi del todo entre riegos y no abones en exceso, o pierde aroma."
+  - "Poda un tercio tras la floración y renueva la planta por esqueje cada 3-4 años."
 ---
 
 El tomillo es, junto con el romero, de las aromáticas más agradecidas para un balcón muy soleado: apenas necesita cuidados una vez establecido, y sus errores más comunes vienen casi siempre de tratarlo con demasiado mimo, no con poco.

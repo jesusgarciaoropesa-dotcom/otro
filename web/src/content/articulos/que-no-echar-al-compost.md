@@ -21,11 +21,15 @@ Hacer compost casero es sencillo, pero la mayoría de problemas (malos olores, m
   <figcaption>Saber qué no echar al compost evita olores, moscas y roedores.</figcaption>
 </figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Restos de origen animal: carne, pescado y lácteos
 
 Es el error más típico. Carne, pescado, huesos y lácteos **se pudren generando muy malos olores** y atraen moscas y, en zonas bajas, roedores. En un compostador abierto o un vermicompostador son la causa número uno de problemas.
 
 La única excepción es el sistema **bokashi**, que al fermentar en un cubo hermético sí admite este tipo de restos. Si te interesa esa vía, mira [cómo funciona el compostaje bokashi](/articulos/como-funciona-compostaje-bokashi/).
+
+<a href="https://www.amazon.es/s?k=cubo+bokashi+compostaje&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver cubos bokashi en Amazon</a>
 
 ## Aceites y comida cocinada con grasa o sal
 

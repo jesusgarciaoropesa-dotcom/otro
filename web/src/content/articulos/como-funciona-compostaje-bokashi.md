@@ -12,7 +12,11 @@ faq:
     respuesta: "Bien gestionado, no: al ser hermético y una fermentación ácida, desprende un olor avinagrado suave, no a putrefacción. Los malos olores indican que ha entrado aire o hay exceso de humedad."
   - pregunta: "¿Qué hago con el líquido que suelta el bokashi?"
     respuesta: "El llamado té de bokashi se recoge por el grifo del cubo y, muy diluido en agua, sirve como abono líquido; también puro ayuda a mantener las tuberías. No lo tires: es uno de los subproductos más útiles."
-
+claves:
+  - "Es una fermentación en cubo hermético: apenas huele y cabe en una cocina sin terraza."
+  - "Admite restos que el compost normal no lleva bien, como carne, pescado, lácteos y cítricos."
+  - "Capas de restos con activador, presionar para sacar el aire y drenar el líquido cada 2-3 días."
+  - "Lo que sale es un pre-compost ácido: entiérralo y déjalo madurar 2-4 semanas antes de usarlo."
 ---
 
 Mucha gente compra un <a href="https://www.amazon.es/s?k=cubo+bokashi&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener">cubo bokashi</a> esperando un compost casero normal en versión de interior, y se lleva una sorpresa: el bokashi no es compost, es un paso previo. Entender esta diferencia desde el principio evita la confusión más habitual con este sistema.

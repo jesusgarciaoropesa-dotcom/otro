@@ -13,7 +13,11 @@ faq:
     respuesta: "Casi siempre por exceso de riego o falta de hierro con agua muy calcárea. Deja secar el sustrato entre riegos, usa agua de baja cal y abónalo con un fertilizante específico para cítricos."
   - pregunta: "¿El naranjo enano aguanta el frío?"
     respuesta: "Tolera mal las heladas fuertes: en zonas frías protégelo arrimándolo a la pared o con un velo antiheladas. En invierno reduce el riego y evita cambios bruscos de temperatura."
-
+claves:
+  - "Elige una variedad enana o injertada para maceta y empieza con 40-50 cm de diámetro."
+  - "Máximo sol posible y protección frente a heladas: en maceta las raíces sufren más."
+  - "Riega cuando los primeros centímetros estén secos, sin sequía ni encharcamiento."
+  - "Abono específico para cítricos (hierro y magnesio) en primavera y verano; poda a finales de invierno."
 ---
 
 El naranjo enano es, junto con el limonero, el frutal más popular para maceta en un balcón. Los cuidados son muy parecidos entre ambos, con algunas diferencias importantes: el naranjo aguanta algo mejor el frío que el limonero, florece sobre todo en primavera y sus frutos tardan más en madurar.

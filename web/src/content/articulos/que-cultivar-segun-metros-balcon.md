@@ -18,6 +18,8 @@ Una de las creencias más extendidas —y más falsas— es que hace falta una t
 
 <figure><img width="1200" height="654" src="/images/articulos/balcon-frondoso-beneficios.jpg" alt="Balcón aprovechado con muchas macetas y cultivo vertical para exprimir el espacio" /><figcaption>Aprovechando la vertical, hasta un balcón pequeño da una cosecha sorprendente</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Menos de 1 m²: un rincón o una barandilla
 
 Aunque solo tengas un rincón o la barandilla, puedes cultivar. La clave es **la vertical** y los cultivos que rinden mucho en poco sitio:
@@ -26,6 +28,8 @@ Aunque solo tengas un rincón o la barandilla, puedes cultivar. La clave es **la
 - **Lechugas de cortar y rabanitos**: cosecha continua en poco fondo.
 - **Fresas**, que van perfectas colgadas o en vertical.
 - Un **tomate cherry** en una maceta, guiado hacia arriba.
+
+<a href="https://www.amazon.es/s?k=jardinera+barandilla+balcon&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver jardineras de barandilla en Amazon</a>
 
 Consulta las [mejores hortalizas para balcones pequeños](/articulos/mejores-hortalizas-para-balcones-pequenos/) y [cuánto espacio mínimo necesitas](/articulos/cuanto-espacio-minimo-huerto-urbano-balcon/).
 
@@ -39,6 +43,8 @@ Con un balcón estándar ya puedes tener un huerto variado. La estrategia: **com
 - **Aprovecha trepadoras** como [pepinos](/articulos/como-cultivar-pepinos-huerto-vertical/) y judías guiados hacia arriba.
 
 Monta la parte vertical con [cómo montar un huerto vertical en un balcón pequeño](/articulos/como-montar-huerto-vertical-balcon-pequeno/) o un [huerto vertical con palets](/articulos/huerto-vertical-palets-reciclados-tutorial/).
+
+<a href="https://www.amazon.es/s?k=torre+cultivo+vertical&tag=mihuerto-vertical-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver torres de cultivo vertical en Amazon</a>
 
 ## Una terraza amplia (5 m² o más)
 

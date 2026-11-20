@@ -12,7 +12,11 @@ faq:
     respuesta: "Sí, las flores lila son comestibles y decorativas, con un suave sabor a cebolla. Aun así, si quieres priorizar la producción de hojas, retira los tallos florales en cuanto asomen."
   - pregunta: "¿El cebollino necesita mucho sol?"
     respuesta: "Va bien a pleno sol y tolera la media sombra, lo que lo hace muy agradecido en el balcón. Solo pide un sustrato que mantenga algo de humedad, sin encharcar."
-
+claves:
+  - "Basta una maceta de 15-20 cm con sustrato universal."
+  - "Vale tanto sol como semisombra (3-4 horas de luz): ideal para la ventana de la cocina."
+  - "Prefiere humedad más constante que el romero o el tomillo, pero perdona descuidos."
+  - "Corta desde la base dejando un tercio de la planta y divide la mata cada 2-3 años."
 ---
 
 El cebollino es probablemente la aromática más fácil de todas las de este apartado: perenne, con muy pocas exigencias, y tan resistente que perdona casi cualquier error de principiante mejor que la propia menta.

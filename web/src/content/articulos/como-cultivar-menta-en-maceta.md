@@ -12,7 +12,11 @@ faq:
     respuesta: "Mejor no: acabaría invadiendo la maceta y desplazando al resto. Dale su maceta aislada y podrás tenerla junto a otras plantas sin que se apodere de ellas."
   - pregunta: "¿La menta necesita mucho sol?"
     respuesta: "Prefiere media sombra, sobre todo en verano; el sol muy intenso le quema las hojas. Eso sí, necesita el sustrato siempre algo húmedo, porque es de las aromáticas que más agua piden."
-
+claves:
+  - "Cultívala siempre en su propia maceta: sus rizomas invaden todo lo que tenga cerca."
+  - "Con 20-25 cm de maceta y sustrato universal tiene de sobra."
+  - "Prefiere semisombra o sol filtrado y rinde incluso en balcones al norte."
+  - "Humedad constante, poda de puntas para que salga tupida y esquejes en agua para multiplicarla."
 ---
 
 La menta es una de las aromáticas más fáciles de cultivar, hasta el punto de que su verdadero reto no es conseguir que crezca, sino evitar que invada el resto de macetas cercanas.

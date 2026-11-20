@@ -19,6 +19,8 @@ No hace falta tener un compostador para aprovechar algunos restos de cocina en t
 
 <figure><img width="1200" height="670" src="/images/articulos/restos-cocina-compost-abonar.jpg" alt="Cuenco con restos de cocina (pieles de verdura, posos de café y cáscaras de huevo) para compostar, junto a una maceta en un balcón" /><figcaption>Pieles, posos de café y cáscaras de huevo: materia prima para abonar el huerto</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Posos de café
 
 Aportan nitrógeno y mejoran ligeramente la estructura del sustrato. Espárcelos en una capa fina sobre la superficie del sustrato, sin amontonarlos, ya que en exceso pueden compactarse y dificultar la aireación. Van especialmente bien con plantas que prefieren un sustrato algo más ácido.
@@ -44,3 +46,5 @@ La piel de plátano es rica en potasio, un nutriente clave para la floración y 
 ## Cuándo sí conviene un compostador
 
 Si generas muchos restos de cocina de forma regular, aprovechar solo estos ejemplos puntuales se queda corto. En ese caso, consulta nuestra comparativa de [compostador de balcón: mejores opciones sin malos olores](/articulos/compostador-de-balcon-mejores-opciones/) para procesar mayor cantidad de restos de forma más completa y obtener compost real para todo el huerto. Y si simplemente prefieres no complicarte con restos caseros, nuestra comparativa de [mejores fertilizantes orgánicos para huerto en maceta](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) cubre la alternativa comprada.
+
+<a href="https://www.amazon.es/s?k=compostador+balcon&tag=mihuerto-compost-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver compostadores de balcón en Amazon</a>

@@ -12,6 +12,11 @@ faq:
     respuesta: "Casi siempre por falta de agua o de nutrientes: el apio estresado se vuelve fibroso y amargo. Un riego constante y un buen abonado dan tallos tiernos. Algunos también blanquean los tallos atándolos y tapándolos de la luz para que salgan más suaves."
   - pregunta: "¿Puedo rebrotar apio desde la base del supermercado?"
     respuesta: "Sí, es un experimento muy popular: pon la base del apio en un plato con un dedo de agua y en pocos días brotan hojas del centro. Luego puedes plantarlo en maceta. No dará una mata enorme, pero es una forma gratis y divertida de empezar."
+claves:
+  - "Su secreto es el agua: quiere el sustrato siempre húmedo o los tallos salen duros y amargos."
+  - "Se siembra en semillero en primavera y tarda unos 4-5 meses en estar listo."
+  - "Sol o media sombra y abono orgánico cada 2-3 semanas."
+  - "Ve cortando tallos exteriores a demanda o rebrota la base del apio del súper en agua."
 ---
 
 El apio es un cultivo algo exigente pero muy agradecido: aromático, útil en mil recetas y bastante productivo si le das lo que pide. Su gran secreto es el **agua**: es de zona húmeda y odia la sequía, así que en maceta hay que estar pendiente del riego.

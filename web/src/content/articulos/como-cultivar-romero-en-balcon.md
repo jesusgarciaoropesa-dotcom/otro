@@ -13,7 +13,11 @@ faq:
     respuesta: "Sí, cuanto más sol directo, mejor: aguanta perfectamente el pleno sol y es donde desarrolla más aroma. En sombra crece débil y ralo."
   - pregunta: "¿Cómo se poda y recolecta el romero sin dañarlo?"
     respuesta: "Corta siempre por la parte verde y tierna de las ramas, nunca sobre la madera vieja sin hojas, porque de ahí le cuesta rebrotar. Podar las puntas con regularidad lo mantiene compacto y frondoso."
-
+claves:
+  - "Sustrato con muy buen drenaje (universal con 30-40 % de perlita o arena) y maceta de 25-30 cm."
+  - "Sol directo la mayor parte del día: agradece el rincón más soleado y caluroso."
+  - "Riega poco y espaciado; el exceso de agua lo mata mucho antes que la sed."
+  - "Poda tras la floración y corta siempre por encima de una zona con hojas, nunca en madera vieja."
 ---
 
 El romero es una de las aromáticas más agradecidas para un balcón: resiste bien la sequía puntual, apenas tiene plagas y, una vez establecido, requiere muy poco mantenimiento.

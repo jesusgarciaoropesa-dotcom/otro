@@ -18,6 +18,8 @@ Antes de dedicar tiempo y una maceta a unas semillas que llevan años en un caj�
 
 <figure><img width="1200" height="670" src="/images/articulos/test-germinacion-servilleta.jpg" alt="Test de germinación: semillas sobre una servilleta de papel húmeda dentro de una bolsa, con algunas ya germinadas" /><figcaption>Un test en servilleta húmeda te dice cuántas semillas viejas siguen germinando</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Por qué hacerlo
 
 Las semillas **pierden viabilidad con el tiempo**: cada año germinan un poco menos. Unas guardadas hace 4-5 años pueden estar perfectas… o casi muertas. El test te dice **qué porcentaje germina** para decidir si las siembras, si echas más cantidad para compensar o si mejor compras nuevas.
@@ -45,5 +47,7 @@ Cuenta las germinadas al cabo de los días típicos de esa semilla (una o dos se
 - **No tires las germinadas del test**: pásalas con cuidado a un [semillero](/articulos/como-hacer-semillero-casero-paso-a-paso/), ya has ganado tiempo.
 - **Etiqueta siempre** tus semillas con el año al [guardarlas](/articulos/guardar-recolectar-semillas-huerto/); así sabrás cuáles conviene testar.
 - Recuerda que algunas semillas (cebolla, puerro) **envejecen rápido** y conviene renovarlas cada 1-2 años.
+
+<a href="https://www.amazon.es/s?k=semillero+con+tapa&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semilleros con tapa en Amazon</a>
 
 Con este test de un minuto evitas sembrar en balde y aprovechas al máximo tus semillas guardadas. Si vas a comprar nuevas, mira antes [cómo elegir semillas para tu huerto urbano](/articulos/como-elegir-semillas-huerto-urbano/).
