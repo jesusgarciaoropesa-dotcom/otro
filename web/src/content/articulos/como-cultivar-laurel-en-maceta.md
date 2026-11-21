@@ -12,6 +12,11 @@ faq:
     respuesta: "En el suelo puede hacerse un árbol grande, pero en maceta se mantiene controlado y, con podas regulares, lo tienes como un arbusto compacto perfecto para un balcón durante muchos años."
   - pregunta: "¿Se pueden usar las hojas recién cortadas?"
     respuesta: "Sí, aunque muchas recetas prefieren la hoja seca porque concentra más el aroma. Puedes cortar hojas frescas cuando las necesites y secar un puñado colgándolas en un lugar aireado para tener reserva todo el año."
+claves:
+  - "Sol o semisombra, algo resguardado de los vientos fríos en invierno, sobre todo de joven."
+  - "Riega solo cuando los primeros centímetros del sustrato estén secos: tolera mucho mejor la sequía que el encharcamiento."
+  - "Sustrato con buen drenaje, mejor con algo de arena o perlita."
+  - "Poda a finales de invierno o principios de primavera para mantenerlo como arbusto compacto."
 ---
 
 El laurel es una de esas plantas que, una vez tienes, no vuelves a comprar sus hojas en el supermercado. Es un arbusto mediterráneo resistente, longevo y de muy bajo mantenimiento, perfecto para tener en una maceta en el balcón y cortar hoja cuando cocinas.

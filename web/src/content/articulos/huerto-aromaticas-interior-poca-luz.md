@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿Cuándo debo añadir luz artificial a las aromáticas de interior?"
     respuesta: "Cuando notes que se estiran hacia la ventana, crecen pálidas y ralas o en invierno con pocas horas de sol. Un LED de cultivo unas horas al día compensa la falta de luz natural."
 
+claves:
+  - "Con poca luz funcionan menta, perejil y cebollino; romero, tomillo, orégano y lavanda necesitan sol directo."
+  - "Si los tallos se estiran hacia la ventana, la luz no basta: añade una lámpara LED de espectro completo."
+  - "No hace falta sustituir la luz natural: unas horas de luz artificial al atardecer suelen ser suficientes."
+  - "Con menos luz la tierra tarda más en secarse: riega menos que en el balcón y comprueba antes el sustrato."
 ---
 
 Cuando la luz natural disponible en interior es realmente escasa (ventana pequeña, orientación norte, patio interior), no todas las aromáticas son viables, y en muchos casos hace falta una ayuda de luz artificial para obtener resultados decentes.

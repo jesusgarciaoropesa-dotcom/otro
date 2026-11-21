@@ -12,6 +12,11 @@ faq:
     respuesta: "Las LED domésticas tienen un consumo moderado comparado con otros electrodomésticos, especialmente los modelos de barra para estantería de menor potencia, pensados para funcionar varias horas al día."
   - pregunta: "¿Qué luz elijo si solo tengo unas pocas plantas?"
     respuesta: "Una lámpara de sobremesa con temporizador integrado: automatiza el horario de luz sin accesorios adicionales y está pensada justo para macetas individuales o grupos pequeños."
+claves:
+  - "Barras LED para estanterías y semilleros, paneles más potentes para torres hidropónicas y lámparas de sobremesa para pocas macetas."
+  - "Busca espectro completo, con luz azul y roja equilibradas."
+  - "Un temporizador, integrado o externo, mantiene el horario de luz sin tener que acordarte."
+  - "Los modelos potentes calientan: respeta la distancia mínima a las hojas que indique el fabricante."
 ---
 
 Una luz de cultivo adecuada puede ser la diferencia entre unas aromáticas débiles y estiradas y un huerto de interior realmente productivo. Estas son las opciones más recomendables según el uso que le vayas a dar.

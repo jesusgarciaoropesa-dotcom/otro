@@ -18,6 +18,8 @@ Tenías un limonero precioso y, **de un día para otro**, empieza a amarillear y
 
 <figure><img width="1200" height="670" src="/images/articulos/gomosis-citrico-tronco.jpg" alt="Base del tronco de un limonero con la corteza oscura y goma o resina rezumando, síntoma de gomosis" /><figcaption>Manchas oscuras y goma en la base del tronco: el síntoma típico de la gomosis de los cítricos.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 > ¿Tu árbol es un frutal de hueso (durazno, ciruelo, cerezo, albaricoque) y le sale goma en el tronco? Eso se maneja algo distinto: mira [gomosis en frutales de hueso](/articulos/gomosis-frutales-hueso-durazno-ciruelo/).
 
 ## La regla de oro: cambio brusco = problema de raíz
@@ -44,6 +46,8 @@ La **gomosis** la provocan hongos del suelo (*Phytophthora*) favorecidos por la 
 - **Retira la tierra amontonada** contra el tronco: el cuello debe estar aireado, nunca enterrado ni mojado.
 - Un **fungicida específico** (a base de cobre o fosfonatos) puede ayudar, pero **solo si corriges la humedad**.
 
+<a href="https://www.amazon.es/s?k=fungicida+cobre+ecologico&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver fungicidas a base de cobre en Amazon</a>
+
 ## Ojo: las hormigas no son la causa
 
 Si ves hormigas subiendo por el tronco, no son las culpables: suelen ir detrás de **[cochinilla](/articulos/cochinilla-algodonosa-como-eliminarla-balcon/) o pulgón** que sueltan melaza. Trata esos si aparecen, pero el problema de fondo sigue siendo la raíz.
@@ -55,5 +59,7 @@ Si ves hormigas subiendo por el tronco, no son las culpables: suelen ir detrás 
 - **Marrón y seco en todo** → esa parte está muerta; poda hasta encontrar verde.
 
 **No abones una planta estresada**: no absorbe bien y la fuerzas más. Espera a que rebrote y entonces abona suave con algo específico de cítricos.
+
+<a href="https://www.amazon.es/s?k=abono+citricos&tag=mihuerto-frutales-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver abono para cítricos en Amazon</a>
 
 Para el cuidado completo, consulta [cómo cultivar limonero en maceta](/articulos/como-cultivar-limonero-en-maceta/), y si el problema es solo amarilleo sin defoliación brusca, mira [hojas amarillas en el limonero](/articulos/hojas-amarillas-limonero-citricos-maceta/).

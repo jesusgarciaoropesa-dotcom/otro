@@ -12,6 +12,11 @@ faq:
     respuesta: "Un cubo bokashi: fermenta los restos en un recipiente hermético, apenas genera olor y ocupa un espacio mínimo, por lo que es el único de los tres sistemas pensado para estar dentro de casa."
   - pregunta: "¿Puedo echar restos de carne o pescado al compostador?"
     respuesta: "Solo al bokashi, porque fermenta en lugar de descomponer. En el vermicompostador y en el compostador rotatorio, la carne, el pescado y los lácteos son la causa principal de malos olores."
+claves:
+  - "Solo cocina, sin balcón: bokashi, el único de los tres pensado para estar en interior."
+  - "Balcón pequeño y abono de calidad para las macetas: vermicompostador con lombrices."
+  - "Terraza con espacio: compostador rotatorio cerrado, que procesa más volumen."
+  - "Para evitar olores, equilibra restos húmedos y secos, airea y no eches carne, pescado ni lácteos salvo en el bokashi."
 ---
 
 El miedo a los malos olores es la principal razón por la que mucha gente descarta compostar en un piso sin jardín. Con el sistema adecuado, ese problema prácticamente desaparece.

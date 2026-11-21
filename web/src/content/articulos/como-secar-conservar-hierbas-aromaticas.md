@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Cómo se guardan las hierbas ya secas?"
     respuesta: "En tarros de cristal herméticos, enteras (no molidas hasta el momento de usarlas) y en un lugar oscuro y seco. Así conservan el aroma muchos meses; la luz y la humedad son sus enemigas."
 
+claves:
+  - "Romero, tomillo y orégano se secan al aire en manojos boca abajo, en un sitio seco, oscuro y ventilado (1-2 semanas)."
+  - "La albahaca, el perejil y el cilantro se ennegrecen al aire: mejor deshidratador, horno muy bajo o congeladas en aceite o agua."
+  - "Guarda las hojas secas enteras en botes de cristal herméticos y tritúralas justo antes de usarlas."
+  - "Bien guardadas conservan buena parte del aroma 6-12 meses; renuévalas con cada cosecha."
 ---
 
 Cuando tus aromáticas producen más de lo que puedes consumir fresco, secarlas o conservarlas de otra forma permite aprovechar toda la cosecha sin desperdiciar nada, incluso meses después.

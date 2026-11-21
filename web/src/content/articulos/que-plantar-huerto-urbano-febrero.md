@@ -23,6 +23,8 @@ Febrero es el mes en el que el huerto de balcón despierta. Todavía hace frío 
 
 <figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Semillero con plántulas junto a una ventana luminosa, siembra de febrero en interior" /><figcaption>En febrero los cultivos de verano se arrancan en semillero, al calor de casa</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Siembra en semillero (al calor de casa)
 
 Los cultivos de ciclo largo se siembran ahora en semillero, en el interior o con un mini-invernadero, para trasplantarlos cuando pase el frío:
@@ -32,6 +34,8 @@ Los cultivos de ciclo largo se siembran ahora en semillero, en el interior o con
 
 Consulta [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/) para que germinen sin problemas.
 
+<a href="https://www.amazon.es/s?k=mini+invernadero+semillero&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver mini-invernaderos de semillero en Amazon</a>
+
 ## Siembra directa resistente al frío
 
 Al exterior solo van los cultivos que aguantan bajas temperaturas:
@@ -40,6 +44,8 @@ Al exterior solo van los cultivos que aguantan bajas temperaturas:
 - **Rabanitos**: de ciclo cortísimo, aprovechan bien el fresco.
 - **Espinacas y acelgas**: cultivos de hoja que prefieren el frío al calor.
 - **Cebollas**: buen mes para plantarlas desde bulbito, como explicamos en [cómo cultivar cebollas en maceta](/articulos/como-cultivar-cebollas-en-maceta/).
+
+<a href="https://www.amazon.es/s?k=semillas+de+guisantes&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver semillas de guisantes en Amazon</a>
 
 ## Tareas de preparación
 

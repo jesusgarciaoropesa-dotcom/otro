@@ -14,6 +14,11 @@ faq:
   - pregunta: "¿El orégano se extiende y invade la maceta?"
     respuesta: "Tiende a extenderse, aunque menos agresivamente que la menta. Cultivarlo en su propia maceta y podarlo con regularidad lo mantiene controlado y frondoso."
 
+claves:
+  - "Sustrato universal con un 30-40 % de perlita o arena gruesa y maceta de 20-25 cm."
+  - "Sol directo la mayor parte del día y riego solo cuando el sustrato esté casi seco: menos agua, más sabor."
+  - "Se extiende por rizomas: dale su propia maceta o recorta las raíces que invadan a las vecinas."
+  - "En invierno se queda casi a ras de tierra, pero no está muerto: rebrota con fuerza en primavera."
 ---
 
 El orégano comparte casi todas las necesidades del romero y el tomillo (sol pleno, poca agua, sustrato drenante), pero tiene un comportamiento que sorprende a quien lo cultiva por primera vez: se extiende con bastante ganas, de forma parecida a la menta aunque menos agresiva.

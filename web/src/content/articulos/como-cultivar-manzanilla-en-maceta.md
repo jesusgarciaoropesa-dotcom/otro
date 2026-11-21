@@ -12,6 +12,11 @@ faq:
     respuesta: "Se recogen las flores abiertas por la mañana, cuando ya no hay rocío, pellizcando la cabezuela. Luego se secan a la sombra en una capa fina, en un lugar aireado, hasta que estén crujientes. Bien secas y guardadas en un bote, sirven para infusiones durante meses."
   - pregunta: "¿La manzanilla vuelve a salir cada año?"
     respuesta: "Depende del tipo: la manzanilla común (Matricaria) es anual y se resiembra sola si dejas alguna flor madurar; la manzanilla romana es perenne y rebrota cada año. Ambas se cultivan igual en maceta y sirven para infusión."
+claves:
+  - "Maceta de 20-25 cm con sustrato suelto y bien drenante; se siembra en primavera o a final de invierno en semillero."
+  - "Sol directo para que florezca y riego moderado, dejando secar la capa superior entre riegos."
+  - "Recoge las flores bien abiertas por la mañana, sin rocío: cuanto más cosechas, más flores saca."
+  - "Sécalas en capa fina a la sombra hasta que estén crujientes y guárdalas en un bote cerrado."
 ---
 
 Cultivar tu propia manzanilla es de lo más satisfactorio: de unas florecillas blancas en el balcón a una infusión casera para la noche. Es una planta rústica, resistente, que apenas da trabajo y además llena el balcón de abejas y mariposas.

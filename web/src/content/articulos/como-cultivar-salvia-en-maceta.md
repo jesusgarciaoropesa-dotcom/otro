@@ -12,6 +12,11 @@ faq:
     respuesta: "Poco. Como buena mediterránea, prefiere la sequedad al exceso de agua: riega solo cuando el sustrato esté seco en los primeros centímetros. El encharcamiento es su principal enemigo y pudre la raíz con facilidad."
   - pregunta: "¿Por qué se me pone leñosa la salvia?"
     respuesta: "Con los años la salvia tiende a lignificarse (hacerse leñosa) por la base. Se evita podándola cada primavera para estimular brotes tiernos y renovándola cada 3-4 años a partir de un esqueje, porque las plantas viejas pierden vigor y aroma."
+claves:
+  - "Maceta de al menos 20-25 cm, mejor de barro, con sustrato suelto y muy drenante."
+  - "Sol directo, cuanto más mejor: en semisombra se estira, pierde aroma y coge hongos."
+  - "Riega solo cuando los primeros centímetros estén secos, y en invierno muy poco."
+  - "Poda un tercio cada primavera y renuévala cada 3-4 años a partir de un esqueje."
 ---
 
 La salvia es una de esas aromáticas que, una vez la tienes, no falta en la cocina: perfecta para carnes, pasta y salsas. Es mediterránea, resistente y de muy bajo mantenimiento, ideal para un balcón soleado donde apenas te dará trabajo.
