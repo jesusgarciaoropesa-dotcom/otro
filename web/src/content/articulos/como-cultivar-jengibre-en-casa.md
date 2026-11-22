@@ -12,6 +12,11 @@ faq:
     respuesta: "Sí, es una planta tropical: quiere calor (idealmente por encima de 20 °C), humedad y nada de frío. En climas fríos se cultiva en interior o en un lugar muy protegido, y es un cultivo de la época cálida del año."
   - pregunta: "¿Cuánto tarda en poder cosecharse?"
     respuesta: "Entre 8 y 10 meses desde la plantación. Sabrás que está listo cuando las hojas empiecen a amarillear y secarse; entonces vuelcas la maceta y recoges los rizomas nuevos que se han formado."
+claves:
+  - "Se planta un trozo de rizoma fresco con yemas visibles, mejor ecológico, en horizontal y cubierto con 3-4 cm de sustrato."
+  - "Maceta ancha y no muy profunda (unos 20-25 cm), porque crece hacia los lados."
+  - "Es tropical: quiere calor (idealmente más de 20 °C), sustrato húmedo sin encharcar y luz filtrada."
+  - "Se cosecha a los 8-10 meses, cuando las hojas amarillean y se secan."
 ---
 
 Cultivar jengibre en casa es de lo más satisfactorio: partes de un simple trozo comprado en la frutería y acabas con tus propios rizomas frescos. Necesita paciencia y calor, pero el cuidado es sencillo y cabe perfectamente en una maceta.

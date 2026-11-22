@@ -12,6 +12,11 @@ faq:
     respuesta: "Lo más eficaz es revisar el envés y retirarlas a mano, junto con los huevos amarillentos. Para infestaciones mayores, el Bacillus thuringiensis es un tratamiento biológico muy eficaz y específico contra orugas, inofensivo para el resto. Una malla antiinsectos evita que la mariposa ponga huevos."
   - pregunta: "¿Cómo evito que la mariposa ponga huevos en las coles?"
     respuesta: "La mejor prevención es una malla antiinsectos (o velo) cubriendo las plantas, que impide físicamente que la mariposa llegue a poner. Revisar el envés de las hojas cada pocos días y eliminar los huevos en cuanto aparecen también corta el problema de raíz."
+claves:
+  - "Señales: hojas agujereadas, puntitos oscuros de excrementos, huevos amarillentos en el envés y mariposas blancas revoloteando."
+  - "Revisa el envés cada pocos días y retira orugas y puestas a mano: en balcón es lo más eficaz."
+  - "El Bacillus thuringiensis (Bt) es un tratamiento biológico específico contra orugas e inofensivo para personas, mascotas y otros insectos."
+  - "La mejor prevención es cubrir las coles con malla antiinsectos para que la mariposa no llegue a poner huevos."
 ---
 
 Cultivas kale, brócoli o coles y, de repente, las hojas aparecen **agujereadas y llenas de puntitos oscuros**. Casi seguro que tienes orugas de la col: la plaga estrella de las brásicas, muy voraz pero fácil de controlar si la pillas pronto.

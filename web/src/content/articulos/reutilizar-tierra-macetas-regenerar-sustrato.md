@@ -12,6 +12,11 @@ faq:
     respuesta: "Retira raíces y restos, desmenúzalo bien, mézclalo con material nuevo (compost o humus de lombriz) y algo que lo airee (fibra de coco o perlita). Con eso recuperas estructura y nutrientes. Si hubo enfermedades, mejor no reutilizar esa tierra para el mismo tipo de planta."
   - pregunta: "¿Cuándo NO conviene reutilizar la tierra?"
     respuesta: "Cuando la planta anterior tuvo hongos o enfermedades del suelo, o plagas de raíz como el gusano blanco: en ese caso el sustrato puede arrastrar el problema. Tampoco conviene reutilizarlo sin regenerar, porque estará agotado y compactado y la nueva planta crecerá mal."
+claves:
+  - "El sustrato usado no está muerto: ha perdido nutrientes y estructura, y se puede regenerar."
+  - "Quita raíces y restos, desmenuza los terrones y airéalo unos días al sol."
+  - "Mezcla unas 2 partes de tierra vieja con 1 de material nuevo (compost o humus de lombriz más fibra de coco o perlita)."
+  - "No la reutilices si la planta anterior tuvo hongos, enfermedades del suelo o plagas de raíz."
 ---
 
 Cada primavera mucha gente tira la tierra vieja de sus macetas y compra sacos nuevos. Es un gasto innecesario: **el sustrato usado se puede reutilizar** si lo regeneras. Solo está agotado y compactado, no muerto. Recuperarlo ahorra dinero y es mucho más sostenible.

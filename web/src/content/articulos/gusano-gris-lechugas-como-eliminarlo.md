@@ -13,6 +13,11 @@ faq:
   - pregunta: "¿Por qué los insecticidas de hoja no funcionan con él?"
     respuesta: "Porque el gusano gris no come el follaje de forma continua ni vive en las hojas: ataca la base y se refugia bajo tierra. Hay que actuar en el suelo, no pulverizando las hojas."
 
+claves:
+  - "Pista clave: la plántula aparece cortada a ras de suelo y apenas hay mordiscos en las hojas."
+  - "Come de noche y de día se entierra junto a la planta: búscalo cavando con cuidado a 2-3 cm de profundidad."
+  - "Los tratamientos en las hojas, como el Bt, sirven poco porque casi no come hoja."
+  - "Pon collarines alrededor del tallo al trasplantar, enterrados 1-2 cm, para que no pueda cortarlo."
 ---
 
 Si una lechuga aparece cortada por la base, tumbada en el suelo con el tallo prácticamente seccionado, y al buscar no encuentras nada sobre la planta, lo más probable es que sea gusano gris, no una oruga de las que se comen la hoja por arriba.

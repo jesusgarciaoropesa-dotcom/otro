@@ -12,6 +12,11 @@ faq:
     respuesta: "Con una malla cortavientos o de ocultación sujeta a la barandilla, un panel de cañizo o brezo, o colocando las plantas más resistentes y macetas grandes como barrera para proteger a las más delicadas. La idea es filtrar el viento, no bloquearlo del todo, para que no genere turbulencias."
   - pregunta: "¿Qué plantas aguantan mejor el viento?"
     respuesta: "Las de porte bajo y hoja dura como las aromáticas mediterráneas (romero, tomillo, salvia) y muchos cultivos de hoja compactos. Las plantas altas y de hoja grande (tomateras, calabacines) son las que más sufren y necesitan tutor y protección."
+claves:
+  - "El viento reseca, tumba y frena el crecimiento: es la causa nº 1 de plantas que se marchitan pese a regarlas."
+  - "Filtra el viento en vez de bloquearlo, con malla cortavientos, cañizo o una barrera de macetas grandes."
+  - "Pon lo sensible en paredes y esquinas resguardadas, entutora lo alto y usa macetas pesadas o lastradas."
+  - "Riega algo más a menudo y acolcha el sustrato para compensar la sequedad."
 ---
 
 El viento es el enemigo silencioso de los balcones altos. No hace tanto ruido como una plaga, pero **reseca, tumba y frena** las plantas día tras día. Si tu balcón está expuesto o en un piso alto, protegerlo del viento puede ser la diferencia entre un huerto que prospera y uno que siempre va justo.

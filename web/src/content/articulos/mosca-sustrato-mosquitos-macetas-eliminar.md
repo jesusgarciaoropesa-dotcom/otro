@@ -12,6 +12,11 @@ faq:
     respuesta: "Combina trampas cromáticas amarillas para cazar a los adultos con dejar secar bien la capa superior del sustrato entre riegos, que es donde viven las larvas. Cubrir la superficie con una capa de arena o riegar con menos frecuencia corta su ciclo."
   - pregunta: "¿Los mosquitos del sustrato son peligrosos para las plantas?"
     respuesta: "Los adultos son molestos pero inofensivos; el daño real lo hacen las larvas en plántulas y esquejes, cuyas raíces tiernas pueden roer. En plantas adultas rara vez causan un problema serio, pero conviene controlarlos porque se multiplican rápido."
+claves:
+  - "Son mosquitos negros diminutos que salen al regar y señalan que el sustrato está demasiado húmedo."
+  - "Lo más eficaz es dejar secar los primeros 2-3 cm de tierra entre riegos."
+  - "Las trampas cromáticas amarillas atrapan a los adultos y una capa de arena o gravilla impide que pongan huevos."
+  - "Riega por necesidad, nunca por rutina, y sin platos con agua estancada."
 ---
 
 Riegas tus macetas y, al mover la planta, se levanta una **nube de mosquitos negros diminutos**. Son la **mosca del sustrato** (sciáridos): más molestos que peligrosos, pero una señal clara de que la tierra está **demasiado húmeda**.

@@ -12,6 +12,11 @@ faq:
     respuesta: "En infestaciones pequeñas, pasando un bastoncillo o algodón mojado en alcohol directamente sobre cada cochinilla. Para más cantidad, pulveriza con jabón potásico (o unas gotas de jabón neutro en agua) cada pocos días, insistiendo en el envés y las axilas. El aceite de neem también funciona muy bien."
   - pregunta: "¿Por qué me sale cochinilla una y otra vez?"
     respuesta: "Suele reaparecer por ambiente seco y cálido, exceso de abono nitrogenado (que da brotes tiernos que le encantan) y falta de revisión. Las hormigas también la protegen y la trasladan, así que si tienes hormigas conviene controlarlas a la vez."
+claves:
+  - "Se reconoce por motas blancas algodonosas en tallos, axilas y envés, a menudo con melaza pegajosa y hormigas."
+  - "Si son pocas, pasa un bastoncillo con alcohol sobre cada una."
+  - "Si hay más, pulveriza jabón potásico cada 3-4 días insistiendo en envés y axilas, y combínalo con aceite de neem."
+  - "Controla también las hormigas y revisa con regularidad, sobre todo en cítricos, para que no vuelva."
 ---
 
 Ves unos puntos blancos, como motitas de algodón, en los tallos o el envés de las hojas. Es **cochinilla algodonosa**, una de las plagas más pesadas pero también de las más controlables si actúas pronto y con constancia.

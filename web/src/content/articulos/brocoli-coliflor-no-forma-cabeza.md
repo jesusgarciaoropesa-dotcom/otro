@@ -12,6 +12,11 @@ faq:
     respuesta: "Se ha pasado de punto: la pella es en realidad un ramo de flores inmaduras, y si se retrasa la cosecha (o pega calor, o la planta sufre estrés), se abre y sube a flor. Hay que cosechar cuando la cabeza está compacta y apretada, sin esperar a que crezca más de la cuenta."
   - pregunta: "¿Cuándo se siembran para que cuajen bien?"
     respuesta: "Para cosechar en otoño e invierno, se siembran a finales de verano y se trasplantan a principios de otoño, de modo que la cabeza se forme con el fresco. Sembrarlas tarde y que la formación pille calor es una de las causas más comunes de fracaso."
+claves:
+  - "La causa más común es el calor: forman cabeza con fresco, en torno a 15-20 °C, así que conviene que la pella se forme en otoño-invierno."
+  - "Una planta por maceta grande (mínimo 15-20 litros) y abono constante: sin comida no hay pella."
+  - "Riego regular sin altibajos y protección de las heladas fuertes para evitar el estrés que la lleva a florecer."
+  - "Cosecha cuando la cabeza esté compacta y apretada; en brócoli, deja la planta para que saque brotes laterales."
 ---
 
 Es de las decepciones más típicas del huerto: tu brócoli o tu coliflor crece con unas hojas enormes y sanas… pero la cabeza no llega, o sale minúscula, o de repente se abre en florecillas amarillas. No es mala suerte: casi siempre es una de estas causas, y todas se pueden corregir.
