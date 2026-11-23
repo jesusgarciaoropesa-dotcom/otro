@@ -12,6 +12,11 @@ faq:
     respuesta: "Sigue siempre las instrucciones del envase, pero como referencia suele ir sobre 1-2 cucharadas (unos 10-20 ml) por litro de agua. Es mejor quedarse corto que pasarse: una dosis muy alta puede quemar hojas tiernas. Prepara solo lo que vayas a usar en el momento."
   - pregunta: "¿Cada cuánto se aplica el jabón potásico?"
     respuesta: "Como actúa por contacto y no deja residuo, hay que repetir: cada 5-7 días hasta controlar la plaga, normalmente 2-3 aplicaciones. Pulveriza siempre a primera o última hora del día, nunca con sol directo, y sobre todo por el envés de las hojas."
+claves:
+  - "Es un jabón vegetal que mata por contacto a insectos de cuerpo blando: pulgón, mosca blanca, cochinilla y trips."
+  - "No sirve contra orugas, caracoles, babosas ni larvas del sustrato."
+  - "Diluye según el envase (orientativo, 1-2 cucharadas por litro), pulveriza sin sol directo e insiste en el envés."
+  - "Repite cada 5-7 días, 2-3 veces, y nunca lo sustituyas por lavavajillas: quema las hojas."
 ---
 
 Si solo vas a tener un producto en tu huerto de balcón para plagas, que sea **jabón potásico**. Es el tratamiento ecológico más versátil, barato y seguro contra las plagas más comunes, y el que recomendamos una y otra vez. Pero para que funcione de verdad, hay que usarlo bien: aquí tienes cómo.

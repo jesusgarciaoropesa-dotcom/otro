@@ -12,6 +12,11 @@ faq:
     respuesta: "Paja, fibra de coco, hojas secas o restos de poda triturados como acolchado orgánico (que además se descompone y nutre), o grava y arcilla expandida como acolchado mineral (decorativo y duradero). Evita materiales que se apelmacen o que impidan que el agua penetre."
   - pregunta: "¿El acolchado evita que tenga que regar?"
     respuesta: "No lo elimina, pero lo reduce bastante: al frenar la evaporación, el sustrato se seca más despacio y puedes espaciar los riegos. En pleno verano marca una gran diferencia, sobre todo combinado con un riego automático."
+claves:
+  - "Cubrir el sustrato con una capa de material conserva la humedad, suaviza la temperatura de las raíces y frena las malas hierbas."
+  - "Sirven la paja, la fibra de coco, las hojas secas o el compost, y en mineral la grava o la arcilla expandida."
+  - "Riega antes, extiende una capa de 2-4 cm y deja libre el cuello de la planta para que no se pudra."
+  - "En verano ahorra riego y en invierno abriga la raíz del frío."
 ---
 
 El acolchado o *mulching* es uno de esos trucos sencillos que cambian mucho el huerto de balcón: **cubrir la tierra** con una capa de material para conservar la humedad, ahorrar riego y proteger el sustrato. Cuesta poco y en verano se nota muchísimo.

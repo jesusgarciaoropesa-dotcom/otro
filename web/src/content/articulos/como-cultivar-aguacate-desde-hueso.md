@@ -12,6 +12,11 @@ faq:
     respuesta: "Entre 2 y 8 semanas, según el método y la temperatura. Necesita calor y paciencia: el hueso primero se abre por abajo, saca una raíz y después el tallo. No lo descartes si tarda, es normal."
   - pregunta: "¿Se puede germinar directamente en tierra?"
     respuesta: "Sí, es incluso más sencillo que el método de los palillos en agua: se entierra el hueso dejando asomar la parte superior, se mantiene el sustrato húmedo y cálido, y brota igual. El método del agua solo tiene la ventaja de que ves el proceso."
+claves:
+  - "Desde hueso casi nunca dará fruto en un balcón: puede tardar de 5 a 15 años y el fruto suele ser distinto. Es una planta bonita, no una cosecha."
+  - "Germina en agua con palillos (base sumergida, en 2-8 semanas) o enterrado en maceta dejando asomar la punta."
+  - "Luz abundante sin sol directo abrasador, riego sin encharcar y pinzar la punta hacia los 30 cm para que ramifique."
+  - "Es sensible al frío: en invierno, mejor dentro de casa."
 ---
 
 Germinar un aguacate desde el hueso es uno de los proyectos de jardinería más populares, y con razón: es fácil, gratis y la planta que sale es preciosa. Ahora bien, conviene tener claras las expectativas desde el principio.

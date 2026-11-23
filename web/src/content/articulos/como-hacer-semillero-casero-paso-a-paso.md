@@ -12,7 +12,11 @@ faq:
     respuesta: "La regla general es enterrarlas a unas 2-3 veces su propio tamaño: las muy pequeñas casi en superficie y las grandes algo más hondas. Sembrar demasiado profundo es una causa típica de que no germinen."
   - pregunta: "¿Por qué no me germinan las semillas del semillero?"
     respuesta: "Las causas más comunes son sembrar demasiado hondo, dejar secar el sustrato, falta de calor o semillas viejas. Mantén el sustrato húmedo (no encharcado) y templado hasta que broten, y ten paciencia con las de germinación lenta."
-
+claves:
+  - "Usa un sustrato fino y ligero específico de semillero, no el de la maceta definitiva."
+  - "Siembra a 2-3 veces el tamaño de la semilla: enterrar demasiado es el error más común."
+  - "Riega con pulverizador para no mover las semillas y mantén 18-24 °C; una tapa transparente ayuda a germinar."
+  - "Deja la plántula más fuerte de cada celdilla y endurécela 5-7 días antes de trasplantar."
 ---
 
 Sembrar directamente en la maceta definitiva funciona, pero empezar en semillero da más control: puedes adelantar la siembra antes de que haga buen tiempo fuera, concentrar el cuidado en un espacio pequeño, y solo trasplantar las plántulas que de verdad han arrancado bien.

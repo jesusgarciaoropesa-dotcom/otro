@@ -12,7 +12,11 @@ faq:
     respuesta: "Muchas veces por las hormigas: protegen al pulgón para aprovechar su melaza y lo trasladan de planta en planta. Si controlas las hormigas y favoreces depredadores como las mariquitas, el pulgón deja de reaparecer."
   - pregunta: "¿El pulgón mata la planta?"
     respuesta: "Una colonia pequeña se controla fácil, pero si se dispara debilita la planta, deforma los brotes y puede transmitir virus. Lo importante es actuar en cuanto ves los primeros grupos en los brotes tiernos."
-
+claves:
+  - "Se reconoce por grupos de pequeños insectos en brotes tiernos y envés, hojas rizadas, melaza pegajosa y hormigas subiendo por el tallo."
+  - "Primer paso: un chorro de agua al envés y los brotes cada 2-3 días durante una semana."
+  - "Si sigue, jabón potásico diluido según el envase, pulverizado a última hora de la tarde."
+  - "Atrae mariquitas con aromáticas en flor y revisa los brotes una vez por semana en primavera."
 ---
 
 El pulgón es, con diferencia, la plaga más común en huertos urbanos, especialmente en primavera. Por suerte, en la mayoría de los casos se puede controlar sin recurrir a insecticidas químicos.

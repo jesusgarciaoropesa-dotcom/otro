@@ -19,6 +19,8 @@ Marzo marca el inicio real de la temporada de siembra de primavera en la mayor p
 
 <figure><img width="1200" height="670" src="/images/articulos/semillero-plantulas-ventana.jpg" alt="Bandeja de semillero con plántulas jóvenes junto a una ventana en marzo" /><figcaption>Marzo es plena temporada de semillero para trasplantar después</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Siembra directa en maceta (marzo)
 
 Estos cultivos puedes sembrarlos ya directamente en su maceta definitiva:
@@ -37,6 +39,8 @@ Estos cultivos conviene empezarlos en semillero protegido (interior o [mini inve
 - Pimientos
 - Berenjenas
 - Calabacines
+
+<a href="https://www.amazon.es/s?k=mini+invernadero+semillero&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver mini-invernaderos de semillero en Amazon</a>
 
 ## Aromáticas que puedes sembrar o trasplantar en marzo
 
@@ -59,6 +63,8 @@ Marzo también es mes de recoger lo sembrado en otoño e invierno, antes de que 
 - Vigila el pronóstico de heladas tardías, especialmente en zonas de interior o de montaña: una helada nocturna puede matar plántulas recién trasplantadas.
 - Si el balcón todavía recibe vientos fríos, protege las plántulas jóvenes con un pequeño túnel o tela de protección durante la noche.
 - Empieza ya a revisar o instalar tu [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/): a partir de abril el consumo de agua empieza a subir con fuerza.
+
+<a href="https://www.amazon.es/s?k=tela+antiheladas+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver telas antiheladas en Amazon</a>
 
 ## Qué NO sembrar todavía en marzo
 

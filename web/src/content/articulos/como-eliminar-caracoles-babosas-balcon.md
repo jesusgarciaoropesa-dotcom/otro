@@ -12,6 +12,11 @@ faq:
     respuesta: "Suelen llegar con las plantas o el sustrato nuevos (huevos o ejemplares escondidos en la tierra), y también trepan más de lo que parece. Revisa siempre el sustrato y el fondo de las macetas nuevas antes de subirlas."
   - pregunta: "¿La sal sirve para eliminarlos?"
     respuesta: "Mata al caracol pero es mala idea en el huerto: la sal daña el sustrato y las raíces de tus plantas. Es mucho mejor usar barreras, trampas de cerveza o tierra de diatomeas, que no perjudican al cultivo."
+claves:
+  - "Delatan su presencia los agujeros irregulares en hojas tiernas y el rastro brillante de baba, sobre todo tras la lluvia o el riego."
+  - "Lo más eficaz en un balcón es recogerlos a mano un par de noches con una linterna."
+  - "Funcionan las trampas de cerveza, la tierra de diatomeas, la cinta de cobre y un anillo de ceniza seca; evita la sal."
+  - "Para prevenir: quita escondrijos húmedos, riega por la mañana y revisa el sustrato de las plantas nuevas."
 ---
 
 Caracoles y babosas son de las pocas plagas que atacan de noche y desaparecen de día, así que muchas veces ves los destrozos antes que al culpable. La buena noticia es que en un balcón, con espacio limitado, son fáciles de controlar sin químicos.

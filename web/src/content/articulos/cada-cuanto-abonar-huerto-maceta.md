@@ -12,6 +12,11 @@ faq:
     respuesta: "Porque el volumen de sustrato es pequeño y los nutrientes se agotan rápido: la planta los consume y el riego frecuente los va lavando. En el suelo hay una reserva enorme; en una maceta, en pocas semanas el sustrato se queda sin alimento y hay que reponerlo."
   - pregunta: "¿Qué pasa si abono de más?"
     respuesta: "El exceso de abono, sobre todo de nitrógeno, provoca mucha hoja y poco fruto, quema las raíces y hace las plantas más vulnerables a plagas. Es mejor quedarse corto que pasarse: sigue las dosis del producto y observa la planta."
+claves:
+  - "En maceta el sustrato se agota en pocas semanas, así que abonar no es opcional."
+  - "Abono líquido cada 2-3 semanas en temporada; abono sólido de liberación lenta o humus cada 1-2 meses."
+  - "Los cultivos de fruto son los que más piden; las aromáticas mediterráneas, muy poco; y tras trasplantar, espera 2-3 semanas."
+  - "Abona sobre sustrato húmedo, sigue la dosis y, ante la duda, quédate corto. En invierno, mucho menos."
 ---
 
 En el suelo de un huerto hay una despensa enorme de nutrientes; en una maceta, no. Ese pequeño volumen de sustrato **se agota rápido**, así que el abonado deja de ser opcional y pasa a ser una de las claves para que tus plantas produzcan. La cuestión es cuándo, con qué y cuánto.

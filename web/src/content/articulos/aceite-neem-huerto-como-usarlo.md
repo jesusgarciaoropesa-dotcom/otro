@@ -12,6 +12,11 @@ faq:
     respuesta: "Al ser un aceite, no se mezcla solo con agua: necesita un emulsionante. Se disuelve una pequeña cantidad (según el envase, normalmente unos 5 ml por litro) junto con unas gotas de jabón potásico en agua templada, se agita bien y se pulveriza al momento."
   - pregunta: "¿Cuándo hay que aplicar el aceite de neem?"
     respuesta: "Siempre a primera hora de la mañana o al atardecer, nunca con sol directo, porque el aceite sobre la hoja puede provocar quemaduras con el calor. Repite cada 7 días, 2-3 veces, para cortar el ciclo de la plaga."
+claves:
+  - "Actúa por contacto y además corta la reproducción de la plaga, por eso va tan bien con plagas que vuelven."
+  - "No se mezcla solo con agua: añade unas gotas de jabón potásico como emulsionante (orientativo, unos 5 ml de neem por litro) y úsalo al momento."
+  - "Aplícalo a primera hora o al atardecer, mojando bien el envés, y repite cada 7 días 2-3 veces."
+  - "El jabón potásico tumba la plaga al momento; el neem trabaja de fondo. Combinarlos suele ser la mejor estrategia."
 ---
 
 El **aceite de neem** es, junto con el jabón potásico, el producto estrella del huerto ecológico. Su gran ventaja es que no solo mata al insecto que toca, sino que **interfiere en su reproducción**, lo que lo hace ideal para cortar plagas que vuelven una y otra vez. Pero es un aceite, y eso exige prepararlo y aplicarlo bien.
