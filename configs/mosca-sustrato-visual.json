@@ -1,0 +1,120 @@
+{
+ "slug": "mosca-sustrato",
+ "articulo": "/articulos/mosca-sustrato-mosquitos-macetas-eliminar/",
+ "palabra": "MOSCA",
+ "slides": [
+  {
+   "tipo": "portada",
+   "foto": "/images/articulos/trampa-cromatica-amarilla-plagas.jpg",
+   "posicion": "30% center",
+   "titulo": "¿Mosquitos al mover la maceta?",
+   "destacado": "Mosquitos",
+   "sello": {
+    "arriba": "Larvas en los",
+    "cifra": "2-3 cm",
+    "abajo": "de arriba"
+   }
+  },
+  {
+   "tipo": "versus",
+   "titulo": "Lo que ves no es lo que hace daño",
+   "destacado": "hace daño",
+   "izquierda": {
+    "foto": "/images/articulos/trampa-amarilla-tomatera.jpg",
+    "titulo": "El adulto",
+    "items": [
+     "Revolotea sobre la tierra",
+     "Molesto pero inofensivo"
+    ],
+    "bien": true
+   },
+   "derecha": {
+    "foto": "/images/articulos/trasplantar-plantula-maceta.jpg",
+    "titulo": "La larva",
+    "items": [
+     "Vive en la tierra húmeda",
+     "Roe raíces de plántulas y esquejes"
+    ],
+    "bien": false
+   },
+   "conclusion": "No es la mosca blanca: esa vive **en el envés de las hojas, no en la tierra.**"
+  },
+  {
+   "tipo": "foto",
+   "foto": "/images/articulos/semillero-plantulas-ventana.jpg",
+   "posicion": "60% center",
+   "titulo": "Por qué sale: tierra siempre húmeda",
+   "destacado": "siempre húmeda",
+   "texto": "Sustrato demasiado húmedo y rico en materia orgánica: comida y agua para las larvas.",
+   "recuadro": {
+    "titulo": "Muy típico",
+    "items": [
+     "En interior",
+     "En semilleros",
+     "Con plantas nuevas"
+    ]
+   }
+  },
+  {
+   "tipo": "pasos",
+   "titulo": "Quítatela en 4 pasos",
+   "destacado": "4 pasos",
+   "foto": "/images/articulos/maceta-capa-arena-mosquitos-ventana.jpg",
+   "posicion": "45% 60%",
+   "pasos": [
+    {
+     "titulo": "Seca arriba",
+     "texto": "Deja secar los 2-3 cm de arriba entre riegos."
+    },
+    {
+     "titulo": "Trampas amarillas",
+     "texto": "Cazan a los adultos y te dicen cuántos quedan."
+    },
+    {
+     "titulo": "Arena o gravilla",
+     "texto": "Una capa de 1-2 cm: no pueden poner huevos."
+    },
+    {
+     "titulo": "Riega por abajo",
+     "texto": "Por el plato, una temporada."
+    }
+   ]
+  },
+  {
+   "tipo": "tarjetas",
+   "titulo": "Para que no vuelva",
+   "destacado": "no vuelva",
+   "tarjetas": [
+    {
+     "foto": "/images/articulos/maceta-autorregante-indicador.jpg",
+     "posicion": "50% 60%",
+     "etiqueta": "Riego",
+     "titulo": "Por necesidad",
+     "texto": "Nunca por rutina"
+    },
+    {
+     "foto": "/images/articulos/maceta-capa-arena-mosquitos-ventana.jpg",
+     "posicion": "50% 80%",
+     "etiqueta": "Drenaje",
+     "titulo": "Plato sin agua",
+     "texto": "Nada de agua estancada"
+    },
+    {
+     "foto": "/images/articulos/trasplantar-plantula-maceta.jpg",
+     "posicion": "50% center",
+     "etiqueta": "Plantas nuevas",
+     "titulo": "Aíslalas unos días",
+     "texto": "La plaga suele llegar con ellas"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "foto": "/images/articulos/barra-led-cultivo-aromaticas.jpg",
+   "titulo": "Se va en un par de semanas",
+   "destacado": "par de semanas",
+   "guardar": "Guárdatelo para cuando veas la nube de mosquitos",
+   "palabra": "MOSCA"
+  }
+ ]
+}

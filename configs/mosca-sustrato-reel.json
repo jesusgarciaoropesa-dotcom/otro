@@ -1,0 +1,72 @@
+{
+ "slug": "mosca-sustrato",
+ "marca": "MiHuertoUrbano.xyz",
+ "articulo": "/articulos/mosca-sustrato-mosquitos-macetas-eliminar/",
+ "slides": [
+  {
+   "foto": "/images/articulos/trampa-cromatica-amarilla-plagas.jpg",
+   "kicker": "S.O.S. BALCÓN",
+   "titulo": "¿Mosquitos al mover la maceta?",
+   "destacado": "Mosquitos",
+   "subtitulo": "Es la mosca del sustrato, y hay un truco de arena que la corta de raíz.",
+   "pildora": "Desliza 👉",
+   "posicion": "30% center"
+  },
+  {
+   "foto": "/images/articulos/trampa-amarilla-tomatera.jpg",
+   "kicker": "Cómo reconocerla",
+   "titulo": "Negros y diminutos",
+   "subtitulo": "De 2 a 4 milímetros, revolotean lento sobre la tierra y salen al regar. Pero lo que molesta no es lo que hace daño.",
+   "pildora": "Sigue 👉",
+   "posicion": "40% center"
+  },
+  {
+   "foto": "/images/articulos/trasplantar-plantula-maceta.jpg",
+   "kicker": "El bicho de verdad",
+   "titulo": "Sus larvas, en la tierra",
+   "subtitulo": "Viven en los primeros centímetros del sustrato húmedo y roen las raíces tiernas de plántulas y esquejes.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/semillero-plantulas-ventana.jpg",
+   "kicker": "Por qué sale",
+   "titulo": "Tierra siempre húmeda",
+   "subtitulo": "Muy típico en interior, en semilleros y con plantas nuevas. Ahora, cómo quitártela.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/prevencion-plagas-trampa-calendula.jpg",
+   "kicker": "Pasos 1 y 2",
+   "titulo": "Seca arriba y trampas amarillas",
+   "subtitulo": "Deja secar los 2 o 3 centímetros de arriba entre riegos y caza a los adultos. El truco de la arena viene ahora.",
+   "pildora": "Sigue 👉"
+  },
+  {
+   "foto": "/images/articulos/maceta-capa-arena-mosquitos-ventana.jpg",
+   "kicker": "Pasos 3 y 4",
+   "titulo": "Arena encima, riego por abajo",
+   "subtitulo": "Una capa de 1 o 2 centímetros impide que pongan huevos. Y riega por el plato una temporada.",
+   "pildora": "Falta el cierre 👉",
+   "posicion": "45% center"
+  },
+  {
+   "foto": "/images/articulos/barra-led-cultivo-aromaticas.jpg",
+   "kicker": "GUÁRDATELO",
+   "titulo": "Se va en un par de semanas",
+   "destacado": "par de semanas",
+   "subtitulo": "Con la superficie seca y unas trampas amarillas.",
+   "pildora": "Guarda esto 🌱"
+  }
+ ],
+ "ritmo": "rapido",
+ "duracion_slide": 10.8,
+ "duraciones": [
+  7.0,
+  10.31,
+  8.08,
+  8.16,
+  8.75,
+  9.05,
+  4.89
+ ]
+}

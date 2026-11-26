@@ -1,0 +1,62 @@
+{
+  "slug": "heladas-raiz",
+  "marca": "MiHuertoUrbano.xyz",
+  "articulo": "/articulos/proteger-huerto-frio-heladas-balcon/",
+  "slides": [
+    {
+      "foto": "/images/articulos/hoja-invierno-tela-antiheladas-pared-terraza.jpg",
+      "kicker": "ESTA SEMANA EN EL BALCÓN · HELADAS",
+      "titulo": "Llegan las heladas",
+      "destacado": "heladas",
+      "subtitulo": "Tapas las hojas… y olvidas lo que más sufre: la raíz.",
+      "pildora": "Desliza 👉",
+      "texto": "arriba"
+    },
+    {
+      "foto": "/images/articulos/balcon-sombra-cultivos-hoja.jpg",
+      "kicker": "Cuánto hiela en Toledo",
+      "titulo": "9,8 días de helada en diciembre",
+      "subtitulo": "Y en enero, 12,7. En un balcón de ciudad hiela algo menos, pero no todo hay que taparlo.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/escarola-maceta.jpg",
+      "kicker": "Qué aguanta y qué no",
+      "titulo": "Las de hoja aguantan",
+      "subtitulo": "Espinaca, acelga, kale, ajos y habas resisten. Tomate, pimiento y albahaca, no. Y el primer truco no cuesta nada.",
+      "pildora": "Sigue 👉"
+    },
+    {
+      "foto": "/images/articulos/jardineras-escalonadas-pared.jpg",
+      "kicker": "Truco 1 · Coloca",
+      "titulo": "Pégalas a la pared",
+      "subtitulo": "El muro suelta de noche el calor del día. Agrúpalas y, si puedes, bajo el alero.",
+      "pildora": "Sigue 👉",
+      "posicion": "75% center"
+    },
+    {
+      "foto": "/images/articulos/hoja-invierno-tela-antiheladas-pared-terraza.jpg",
+      "kicker": "Truco 2 · Abriga arriba",
+      "titulo": "Tela antiheladas por encima",
+      "subtitulo": "Deja pasar luz y aire y sube unos grados. Y ahora, lo que casi todos olvidan…",
+      "pildora": "Sigue 👉",
+      "posicion": "70% center"
+    },
+    {
+      "foto": "/images/articulos/huerto-urbano-vs-tradicional-comparativa.jpg",
+      "kicker": "El error · La raíz",
+      "titulo": "La maceta también pasa frío",
+      "subtitulo": "En maceta, la raíz está mucho más expuesta que en el suelo. Envuélvela con plástico de burbujas o arpillera.",
+      "pildora": "Falta el cierre 👉"
+    },
+    {
+      "foto": "/images/articulos/cuantas-horas-sol-balcon.jpg",
+      "kicker": "GUÁRDATELO",
+      "titulo": "Salva la raíz, no solo las hojas",
+      "destacado": "la raíz",
+      "subtitulo": "Y riega poco, siempre de día, nunca al anochecer.",
+      "pildora": "Guarda esto 🌱",
+      "palabra": "ABRIGO"
+    }
+  ]
+}
