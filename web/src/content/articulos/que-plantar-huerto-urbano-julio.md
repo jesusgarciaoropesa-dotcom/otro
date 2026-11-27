@@ -21,6 +21,8 @@ Julio es el mes más exigente del huerto de balcón. No es tanto de sembrar como
 
 <figure><img width="1200" height="670" src="/images/articulos/riego-goteo-macetas-balcon.jpg" alt="Sistema de riego por goteo en las macetas de un balcón durante el verano" /><figcaption>En julio el riego es lo primero: un goteo automático evita sustos en el mes más caluroso</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué sembrar en julio
 
 Las siembras son pocas y hay que hacerlas con cabeza, mejor en semillero a la sombra o al fresco de la tarde:
@@ -36,6 +38,8 @@ Las hojas de ensalada de ciclo corto (lechugas, espinacas, rúcula) tienden a "s
 ## El riego, lo primero
 
 Es el punto crítico del mes. Muchas macetas piden agua a diario, y las más expuestas dos veces al día. Riega **temprano o al atardecer**, nunca al mediodía, y siempre al sustrato. Repasa las necesidades en [cuánta agua necesitan las plantas](/articulos/cuanta-agua-necesitan-plantas-huerto-balcon/), y si te vas unos días, mira las [opciones de riego automático para vacaciones](/articulos/riego-automatico-vacaciones-opciones/).
+
+<a href="https://www.amazon.es/s?k=kit+riego+goteo+macetas&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver kits de riego por goteo para macetas en Amazon</a>
 
 ## Protege del calor extremo
 

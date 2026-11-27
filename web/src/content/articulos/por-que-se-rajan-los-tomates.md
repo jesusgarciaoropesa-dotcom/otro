@@ -18,6 +18,8 @@ Tienes unos tomates estupendos y, de un día para otro, aparecen **rajados o agr
 
 <figure><img width="1200" height="670" src="/images/articulos/por-que-se-rajan-los-tomates.jpg" alt="Racimo de tomates maduros en una maceta de balcón con grietas radiales y concéntricas en la piel por rajado" /><figcaption>El rajado abre la piel del tomate cuando la pulpa crece más rápido de lo que la piel estira.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Qué es el rajado del tomate
 
 El rajado (o agrietado) es un problema **fisiológico**, no una plaga ni una enfermedad: la **piel del tomate se abre** porque la pulpa de dentro ha crecido más rápido de lo que la piel puede estirarse. Hay dos tipos:
@@ -42,6 +44,10 @@ Lo empeoran:
 3. **Cosecha un poco antes.** Recoge los tomates cuando empiezan a virar de color y termínalos de madurar en casa: se rajan mucho menos.
 4. **Da algo de sombra en las olas de calor**, que disparan el estrés hídrico. Lo explicamos en [proteger el huerto del calor extremo](/articulos/proteger-huerto-calor-extremo-verano/).
 5. **Elige variedades resistentes**: muchos tomates cherry y algunas variedades comerciales rajan menos.
+
+<a href="https://www.amazon.es/s?k=kit+riego+goteo+macetas&tag=mihuerto-riego-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver kits de riego por goteo para macetas en Amazon</a>
+
+<a href="https://www.amazon.es/s?k=fibra+de+coco+acolchado&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver fibra de coco para acolchar en Amazon</a>
 
 ## ¿Se pueden comer?
 

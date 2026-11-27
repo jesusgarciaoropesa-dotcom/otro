@@ -19,6 +19,8 @@ El amarilleo de las hojas es uno de los síntomas más comunes en tomateras de m
 
 <figure><img width="1200" height="670" src="/images/articulos/tomatera-hojas-amarillas.jpg" alt="Tomatera en maceta con varias hojas amarillentas entre el follaje verde" /><figcaption>El patrón del amarilleo (qué hojas y en qué orden) revela la causa.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Amarilleo empezando por las hojas bajas
 
 Es el patrón más habitual y normalmente indica una de estas dos causas:
@@ -29,6 +31,8 @@ Es el patrón más habitual y normalmente indica una de estas dos causas:
 ## Amarilleo entre nervios (las venas se quedan verdes)
 
 Este patrón específico suele apuntar a una carencia de magnesio o hierro, especialmente si la tomatera lleva mucho tiempo en el mismo sustrato sin abonar. Un [abono equilibrado con microelementos](/articulos/mejores-fertilizantes-organicos-huerto-maceta/) suele corregirlo en pocas semanas.
+
+<a href="https://www.amazon.es/s?k=abono+organico+tomates+microelementos&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver abono orgánico para tomates en Amazon</a>
 
 ## Amarilleo con manchas oscuras o necróticas
 

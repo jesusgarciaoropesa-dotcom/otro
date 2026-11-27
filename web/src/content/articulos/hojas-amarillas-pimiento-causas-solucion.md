@@ -18,6 +18,8 @@ Las plantas de pimiento avisan pronto cuando algo va mal, y una de sus señales 
 
 <figure><img width="1200" height="670" src="/images/articulos/hojas-amarillas-pimiento.jpg" alt="Planta de pimiento en maceta con las hojas de abajo amarillas mientras las de arriba siguen verdes, señal de falta de nutrientes" /><figcaption>El amarilleo que empieza por las hojas de abajo suele indicar falta de nutrientes.</figcaption></figure>
 
+*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti.*
+
 ## Causa nº 1: falta de nutrientes (lo más común)
 
 Es la razón más frecuente, sobre todo **a mitad de temporada**, cuando la planta va cargada de frutos y consume mucho. Cuando le falta alimento —especialmente **nitrógeno**—, la planta "roba" nutrientes de las **hojas viejas de abajo** para dárselos a los frutos y brotes nuevos, y esas hojas **amarillean de forma uniforme** y acaban cayendo.
@@ -35,6 +37,8 @@ Tanto el exceso como la falta de agua amarillean el pimiento, pero **el exceso e
 Si la hoja **amarillea pero los nervios se quedan verdes**, es clorosis por falta de hierro, típica cuando se riega con agua muy calcárea. 
 
 **Solución:** aporta un abono con micronutrientes o quelato de hierro y riega con agua de menos cal.
+
+<a href="https://www.amazon.es/s?k=quelato+de+hierro+plantas&tag=mihuerto-herramientas-21" target="_blank" rel="sponsored noopener" class="btn-primary not-prose inline-block no-underline">Ver quelato de hierro en Amazon</a>
 
 ## Causa nº 4: frío o estrés
 
