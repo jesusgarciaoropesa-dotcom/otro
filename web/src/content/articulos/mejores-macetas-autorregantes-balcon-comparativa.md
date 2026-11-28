@@ -68,3 +68,5 @@ Las gamas más avanzadas incluyen una entrada para conectar directamente una lí
 - **Tienes un huerto grande o viajas a menudo**: opción 4, combinada con un [sistema de riego automático](/articulos/mejor-sistema-riego-automatico-macetas-balcon/).
 
 En cualquier caso, una maceta autorregante no sustituye por completo la necesidad de revisar el depósito periódicamente, pero sí multiplica el margen de error antes de que una planta sufra por falta de agua.
+
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).

@@ -60,3 +60,5 @@ Una alternativa más sostenible a la turba, con buena capacidad de retención de
 - **Priorizas sostenibilidad**: opción 4 (fibra de coco).
 
 Con el semillero ya elegido, consulta nuestra guía de [cómo hacer un semillero casero paso a paso](/articulos/como-hacer-semillero-casero-paso-a-paso/) para sembrar correctamente. Y una vez las plántulas estén listas, revisa [cuándo trasplantar plántulas de semillero a maceta definitiva](/articulos/cuando-trasplantar-plantulas-semillero/) para hacer el paso final correctamente.
+
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).

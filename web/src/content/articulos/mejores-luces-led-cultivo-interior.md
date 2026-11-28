@@ -60,3 +60,5 @@ Diseñadas para macetas individuales o pequeños grupos, con un temporizador inc
 El consumo eléctrico de las luces LED de cultivo domésticas es relativamente moderado comparado con otros electrodomésticos habituales, especialmente en los modelos de barra o estantería de menor potencia, pensados para uso continuado varias horas al día.
 
 Si buscas montar un huerto vertical completo de interior con este tipo de iluminación, consulta también nuestra guía de [huerto vertical en interior con luz artificial](/articulos/huerto-vertical-interior-luz-artificial/) para el montaje completo.
+
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).

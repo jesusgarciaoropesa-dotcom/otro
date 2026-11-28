@@ -95,6 +95,8 @@ Para el resto de medidas (riego, qué plantas aguantan y qué hacer después de 
 
 Recuerda: el velo antiheladas es de **invierno** y no debe confundirse con la [malla de sombreo](/articulos/mejores-mallas-sombreo-proteccion-solar-huerto/), que es de verano. Para saber qué cultivos aguantan el frío a la intemperie, consulta [qué plantar en el balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/).
 
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).
+
 ## Fuentes
 
 - Johnny's Selected Seeds, [tabla comparativa de mantas de cultivo Agribon](https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dw02981d54/assets/information/row-covers-comparison-chart.pdf) (gramaje, luz y protección frente a heladas).

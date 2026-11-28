@@ -64,3 +64,5 @@ Un tambor giratorio cerrado que se coloca en terraza, permitiendo airear el comp
 - Airea o remueve con la frecuencia que indique cada sistema: la falta de oxígeno favorece procesos de descomposición anaeróbica, que son los que realmente huelen mal.
 
 Una vez tengas tu propio compost, consulta nuestra guía de [cómo hacer compost casero en un piso sin jardín](/articulos/como-hacer-compost-casero-piso-sin-jardin/) para el proceso completo paso a paso.
+
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).

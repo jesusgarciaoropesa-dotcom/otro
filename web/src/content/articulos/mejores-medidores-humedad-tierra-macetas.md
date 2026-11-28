@@ -60,3 +60,5 @@ Un sensor que dejas clavado en la maceta y te **avisa al móvil** cuando la tier
 - **Para controlar desde el móvil**: opción 4 (sensor wifi).
 
 Un medidor ayuda, pero no sustituye al criterio: aprende a leer el peso de la maceta y el aspecto de la planta. Para dominar el riego de una vez, no te pierdas [cuánta agua necesitan las plantas del huerto](/articulos/cuanta-agua-necesitan-plantas-huerto-balcon/) y [cómo evitar el exceso de riego y el hongo en macetas](/articulos/como-evitar-exceso-riego-hongo-macetas/).
+
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).

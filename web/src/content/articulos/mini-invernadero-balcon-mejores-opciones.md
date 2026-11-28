@@ -78,6 +78,8 @@ Un mini invernadero cerrado en un día soleado puede alcanzar temperaturas inter
 
 Consulta también nuestra guía de [qué plantar en balcón en invierno sin que se hiele](/articulos/que-plantar-balcon-invierno-sin-helar/) para combinar el uso del mini invernadero con la elección adecuada de cultivos resistentes al frío.
 
+**¿Buscas un regalo?** Tienes más ideas, de detalles pequeños a regalos grandes, en nuestra guía de [regalos para quien tiene (o quiere) un huerto en el balcón](/articulos/regalos-huerto-balcon-navidad/).
+
 ## Fuentes
 
 - AEMET, [valores climatológicos normales de Toledo](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=3260B&k=clm) (1981-2010).
